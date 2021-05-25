@@ -1,0 +1,17 @@
+hap_ptg000475l_1_1	Rickettsiales
+hap_ptg000594l_1_1	Rickettsiales
+hap_ptg000661l_1_1	Rickettsiales
+hap_ptg000802l_1_1	Rickettsiales
+hap_ptg000845l_1_1	Rickettsiales
+hap_ptg000889l_1_1	Rickettsiales
+hap_ptg000924l_1_1	Rickettsiales
+hap_ptg000995l_1_1	Rickettsiales
+hap_ptg000563c_1_1	Lactobacillales
+hap_ptg000686l_1_1	Lactobacillales
+hap_ptg000797l_1_1	Lactobacillales
+hap_ptg000817l_1_1	Lactobacillales
+hap_ptg000863l_1_1	Lactobacillales
+hap_ptg000915l_1_1	Lactobacillales
+hap_ptg000917l_1_1	Lactobacillales
+hap_ptg000919l_1_1	Lactobacillales
+hap_ptg000980l_1_1	Lactobacillales
