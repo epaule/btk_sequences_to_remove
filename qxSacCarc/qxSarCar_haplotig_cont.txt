@@ -1,0 +1,12 @@
+Mitochondria
+hap_ptg003644l_1_31033
+
+Mollusc
+atg000344l_1_150985
+
+Echinodermata
+atg000431l_1_129023
+
+Proteobacteria
+hap_ptg000452l_1_23170
+
