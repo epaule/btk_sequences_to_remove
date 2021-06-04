@@ -1,0 +1,7 @@
+scaffold_35	Bacteroidetes
+scaffold_54	Proteobacteria
+scaffold_59	Bacteria-undef
+scaffold_119	Eukaryota-undef (sea-weed/kelp r-RNA)
+scaffold_26	Chlorophyta
+scaffold_116	Eukaryota-undef (chloroplase)
+

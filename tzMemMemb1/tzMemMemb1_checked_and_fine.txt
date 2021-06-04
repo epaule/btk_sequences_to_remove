@@ -1,0 +1,14 @@
+scaffold_146	no-hit
+scaffold_21	Viruses-undef
+scaffold_22	Viruses-undef
+scaffold_93	Cnidaria (eft1 gene, highly conserved)
+scaffold_100	Mollusca (could be arthropod contamination, but not sure)
+scaffold_9	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_5	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_3	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_24	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_131	Chordata (conserved ATP-ase)
+scaffold_98	Chordata (conserved ATP-ase)
+scaffold_19	Arthropoda (has only a very small hit to Arthropoda)
+scaffold_70	Arthropoda (looks like a big mix of things, so I would say fine)
+scaffold_46	Arthropoda (looks like a big mix of things, so I would say fine)
