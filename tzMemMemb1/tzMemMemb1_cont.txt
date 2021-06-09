@@ -3,5 +3,39 @@ scaffold_54	Proteobacteria
 scaffold_59	Bacteria-undef
 scaffold_119	Eukaryota-undef (sea-weed/kelp r-RNA)
 scaffold_26	Chlorophyta
-scaffold_116	Eukaryota-undef (chloroplase)
-
+scaffold_116	Eukaryota-undef (chloroplast)
+scaffold_113	Ciliophora
+scaffold_153	Ciliophora
+scaffold_49	Proteobacteria
+scaffold_51	Proteobacteria
+scaffold_54	Proteobacteria
+scaffold_55	Proteobacteria
+scaffold_66	Proteobacteria
+scaffold_71	Proteobacteria
+scaffold_73	Proteobacteria
+scaffold_84	Proteobacteria
+scaffold_85	Proteobacteria
+scaffold_97	Proteobacteria
+scaffold_112	Proteobacteria
+scaffold_117	Proteobacteria
+scaffold_120	Proteobacteria
+scaffold_125	Proteobacteria
+scaffold_127	Proteobacteria
+scaffold_129	Proteobacteria
+scaffold_137	Proteobacteria
+scaffold_143	Proteobacteria
+scaffold_37	Streptophyta
+scaffold_48	Streptophyta
+scaffold_52	Streptophyta
+scaffold_62	Streptophyta
+scaffold_64	Streptophyta
+scaffold_82	Streptophyta
+scaffold_83	Streptophyta
+scaffold_101	Streptophyta
+scaffold_106	Streptophyta
+scaffold_122	Streptophyta
+scaffold_132	Streptophyta
+scaffold_133	Streptophyta
+scaffold_139	Streptophyta
+scaffold_145	Streptophyta
+scaffold_152	Streptophyta

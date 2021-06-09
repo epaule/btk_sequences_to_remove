@@ -1,0 +1,10 @@
+atg000546l_1	no-hit	hits Vespula vulgaris
+atg000967l_1	no-hit	hits Vespula vulgaris
+atg000643l_1	no-hit	hits Vespula vulgaris
+atg001131l_1	no-hit	only repetetive sequence
+atg001250l_1	no-hit	hits Vespula vulgaris
+scaffold_152	no-hit	only repetetive sequence
+scaffold_209	no-hit	only repetetive sequence
+scaffold_228	no-hit	comes up with 40bp of lactococcus, the rest is repeat (but not a L one)
+scaffold_225	no-hit	only repetetive sequence
+scaffold_139	no-hit	only repetetive sequence
