@@ -1,14 +1,24 @@
+scaffold_100	Mollusca (could be arthropod contamination, but not sure)
+scaffold_131	Chordata (conserved ATP-ase)
+scaffold_140	no-hit (would leavei)
 scaffold_146	no-hit
+scaffold_146	no-hit (would leave)
+scaffold_146	no-hit (would leave)
+scaffold_19	Arthropoda (has only a very small hit to Arthropoda)
 scaffold_21	Viruses-undef
 scaffold_22	Viruses-undef
-scaffold_93	Cnidaria (eft1 gene, highly conserved)
-scaffold_100	Mollusca (could be arthropod contamination, but not sure)
-scaffold_9	Chordata (looks like a big mix of things, so I would say fine)
-scaffold_5	Chordata (looks like a big mix of things, so I would say fine)
-scaffold_3	Chordata (looks like a big mix of things, so I would say fine)
 scaffold_24	Chordata (looks like a big mix of things, so I would say fine)
-scaffold_131	Chordata (conserved ATP-ase)
-scaffold_98	Chordata (conserved ATP-ase)
-scaffold_19	Arthropoda (has only a very small hit to Arthropoda)
-scaffold_70	Arthropoda (looks like a big mix of things, so I would say fine)
+scaffold_3	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_39	no-hit (would leave)
 scaffold_46	Arthropoda (looks like a big mix of things, so I would say fine)
+scaffold_5	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_53	no-hit (would leave)
+scaffold_70	Arthropoda (looks like a big mix of things, so I would say fine)
+scaffold_78	hits a very short (40bp) stretch of arthropoda sequence
+scaffold_78	is a nuMt
+scaffold_9	Chordata (looks like a big mix of things, so I would say fine)
+scaffold_93	Cnidaria (eft1 gene, highly conserved)
+scaffold_98	Chordata (conserved ATP-ase)
+scaffold_44	no-hit (would leave)
+scaffold_57	very short hit with a slime mold
+scaffold_63	hits a synthetic sequence
