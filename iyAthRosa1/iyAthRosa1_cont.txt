@@ -44,4 +44,3 @@ scaffold_48
 Euglenozoa
 scaffold_60
 scaffold_87
-scaffold_81
