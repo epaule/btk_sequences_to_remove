@@ -1,4 +1,5 @@
 scaffold_101	Streptophyta
+scaffold_105	eudicots
 scaffold_106	Streptophyta
 scaffold_111	Euteleostomi / fungi hits
 scaffold_112	Proteobacteria
