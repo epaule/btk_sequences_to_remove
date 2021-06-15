@@ -1,3 +1,15 @@
 atg000273l_1_35249	brown algae
 atg000272l_1_58089	brown algae
 atg000492l_1_9817	brown algae
+atg000222l_1_27357	algae (Feldmannia)
+atg000228l_1_15001	algae (Feldmannia)
+atg000235l_1_46967	algae (Feldmannia)
+atg000238l_1_18272	algae (Feldmannia)
+atg000240l_1_51751	algae (Feldmannia)
+atg000265l_1_28603	algae (Feldmannia)
+atg000266l_1_30375	algae (Feldmannia)
+atg000336l_1_16497	algae (Feldmannia)
+atg000347l_1_41902	algae (Feldmannia) also some proteobacteria hits
+atg000367l_1_19406	algae (Feldmannia)
+atg000421l_1_16031	algae (Feldmannia) also some fish hits
+

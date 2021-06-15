@@ -32,4 +32,14 @@ atg000138l_1_500060	has a small hit to Echinordmata, but the rest looks fine
 atg000139l_313818_399464	mixed Eukaryotes
 atg000150l_1_37346	no-hit (would leave)
 atg000165l_1_291048_1	no-hit (would leave)
+atg000285l_1_20535	no-hit (would leave)
+atg000362l_1_33198	no-hit (would leave)
+atg000423l_1_25632	bryozoa
+atg000463l_1_18812	no-hit (would leave)
+atg000170l_1_24433	no-hit (would leave)
+atg000176l_1_48231	no-hit (would leave)
+atg000204l_1_23960	no-hit (would leave)
+atg000206l_1_11187	no-hit (would leave)
+atg000209l_1_29115	no-hit (would leave)
+atg000215l_1_23984	no-hit (would leave)
 
