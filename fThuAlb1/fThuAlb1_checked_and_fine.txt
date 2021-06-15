@@ -1,0 +1,5 @@
+scaffold_120	Chondrichthyes
+scaffold_54	Myxozoa (but has fish hits)
+scaffold_55	Amphibia (but has fish hits)
+scaffold_102	Amphibia (but has fish hits)
+scaffold_121	Cladistia (but has reedfish hits)
