@@ -44,3 +44,5 @@ scaffold_314	Saccharomycetes
 scaffold_316	Cephalopoda
 scaffold_328	Bivalvia
 scaffold_397	Hexanauplia
+scaffold_492	chloroplast
+scaffold_478	cilliate
