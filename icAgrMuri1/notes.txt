@@ -1,0 +1,15 @@
+scaffold_157	has definitely arthropoda and insecta hits
+scaffold_278	has also arachnida hits
+scaffold_72	has also lots of insect hits
+scaffold_84	has also lots of insect hits
+scaffold_88	has also lots of insect hits
+scaffold_143	has also lots of insect hits
+scaffold_202	has also lots of insect hits
+scaffold_223	has also lots of insect hits
+scaffold_150	has also lots of insect hits
+scaffold_72	has also lots of insect hits
+caffold_68	has also lots of insect hits
+scaffold_66	has also lots of insect hits
+scaffold_55	has also lots of insect hits
+scaffold_158	has also lots of arthropoda hits
+scaffold_316	has also lots of insect hits
