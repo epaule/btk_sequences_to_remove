@@ -14,31 +14,46 @@ CONTAMINANT	atg000629l_1_1045923	474467	474483
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001173l_1_23126	0	23121	16757,72.475
-hap_ptg001070l_1_23400	0	23399	7231,30.903
-hap_ptg000926l_1_29098	0	29092	607,2.086
+
+# Firmicutes
+REMOVE	hap_ptg001173l_1_23126
+REMOVE	hap_ptg001070l_1_23400
+REMOVE	hap_ptg000926l_1_29098
+
+# bacteria undef
+REMOVE	atg005019l_1_47992
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003598l_1_42360	0	42362	602,1.421
-atg004019l_1_36658	0	36658	370,1.009
-hap_ptg000846l_1_152625	0	152619	1458,0.955
-hap_ptg000836l_1_201708	0	201706	1099,0.545
-hap_ptg000819l_1_212152	0	212151	1077,0.508
-hap_ptg000619l_1_155940	0	155940	240,0.154
-atg000391l_1_78563	0	78584	116,0.148
-atg000346l_1_179447	0	179448	243,0.135
-atg001573l_1_341181	0	341179	116,0.034
-atg000429l_1_429572	0	429571	116,0.027
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+
+# eukaryota
+REMOVE	atg005915l_1_24505
+
+# nematoda
+REMOVE	atg000742l_1_263994
+
+# Apicomplexa
+REMOVE	hap_ptg000628l_1_89780
+
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001979l_1_58616	0	58617	107,0.183
-atg000547l_1_333764	0	333763	109,0.033
-atg001324l_1_710567	0	710567	109,0.015
-atg001445l_1_1070178	0	1070178	109,0.010
+REMOVE	atg001979l_1_58616	0	58617	107,0.183
+REMOVE	atg000547l_1_333764
+REMOVE	atg001324l_1_710567
+REMOVE	atg001445l_1_1070178
+
+# ascomycota
+REMOVE	atg003247l_1_402016
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000619l_1_155940	0	155940	234,0.150
+REMOVE hap_ptg000619l_1_155940
+
+# streptophyta
+REMOVE atg004632l_1_62105
 ========== TRIM Ns ==========
 

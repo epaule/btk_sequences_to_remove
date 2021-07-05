@@ -13,3 +13,9 @@ scaffold_66	has also lots of insect hits
 scaffold_55	has also lots of insect hits
 scaffold_158	has also lots of arthropoda hits
 scaffold_316	has also lots of insect hits
+scaffold_309	has also lots of insect hits
+scaffold_336	has also lots of insect hits
+scaffold_421	has also lots of insect hits
+scaffold_430	no-hit
+scaffold_470	has also lots of insect hits
+atg001159l_1_950879	virus inserted into the host genome
