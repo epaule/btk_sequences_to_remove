@@ -29,13 +29,26 @@ atg000659l_1	0	353540	2563,0.725
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000855l_1	0	243758	232591,95.419
-atg000138l_1	0	700690	648050,92.487
-atg000659l_1	0	353540	325576,92.090
-atg001768l_1	0	13599	4417,32.480
-atg000769l_1	0	150798	9068,6.013
-hap_ptg000176l_1_1	0	18727	126,0.673
-hap_ptg000105l_1_1	0	25233	111,0.440
+
+# Proteobacteria
+REMOVE atg000138l_1 
+REMOVE atg000659l_1 
+REMOVE atg000769l_1 
+REMOVE atg000855l_1 
+REMOVE atg001768l_1 
+REMOVE hap_ptg000078l_1_1 
+REMOVE hap_ptg000088l_1_1 
+REMOVE hap_ptg000105l_1_1 
+REMOVE hap_ptg000136l_1_1 
+REMOVE hap_ptg000138l_1_1 
+REMOVE hap_ptg000141l_1_1 
+REMOVE hap_ptg000143l_1_1 
+REMOVE hap_ptg000148l_1_1 
+REMOVE hap_ptg000172l_1_1 
+REMOVE hap_ptg000173l_1_1 
+REMOVE hap_ptg000176l_1_1 
+REMOVE hap_ptg000194l_1_1 
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
