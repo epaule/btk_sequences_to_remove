@@ -1,26 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001768l_1	0	13599	5807,42.702
-hap_ptg000138l_1_1	0	23648	1789,7.565
-atg000769l_1	0	150798	10918,7.240
-atg000855l_1	0	243758	5160,2.117
-atg000138l_1	0	700690	11417,1.629
-atg000659l_1	0	353540	4997,1.413
-hap_ptg000088l_1_1	0	32144	179,0.557
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000137l_1	0	225935	15221,6.737
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001768l_1	0	13599	2566,18.869
-atg000769l_1	0	150798	5134,3.405
-atg000855l_1	0	243758	2564,1.052
-atg000138l_1	0	700690	5128,0.732
-atg000659l_1	0	353540	2563,0.725
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
