@@ -1,0 +1,26 @@
+Bacteroidetes
+scaffold_255
+scaffold_300
+scaffold_312
+scaffold_329
+scaffold_333
+scaffold_341
+scaffold_348
+scaffold_358
+scaffold_361
+scaffold_367
+scaffold_368
+scaffold_390
+scaffold_410
+scaffold_422
+
+Proteobacteria (Wolbachia)
+scaffold_50
+scaffold_80
+scaffold_116
+scaffold_149
+scaffold_179
+scaffold_185
+scaffold_196
+scaffold_249
+scaffold_339
