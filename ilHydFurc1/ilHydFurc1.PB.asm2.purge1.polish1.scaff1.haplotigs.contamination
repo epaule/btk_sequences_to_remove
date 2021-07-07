@@ -11,45 +11,21 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+========== REFSEQ: bacteria ==========
+# Erwiniaceae
+REMOVE	hap_ptg000073l_1_1
+
+# Yersiniaceae
+REMOVE	hap_ptg000112l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000067l_1_1	0	68470	119,0.174
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000156l_1	0	123838	266,0.215
-atg000128l_1	0	744541	141,0.019
-atg000100l_1	0	817752	134,0.016
-atg000074l_1	0	2283300	265,0.012
-atg000007l_1	0	3444382	393,0.011
-atg000085l_1	0	1196320	133,0.011
-atg000032l_1	0	1530481	134,0.009
-atg000084l_1	0	3154600	265,0.008
-atg000104l_1	0	1648500	133,0.008
-atg000065l_1	0	1824019	133,0.007
-atg000076l_1	0	7927706	532,0.007
-atg000044l_1	0	4053195	266,0.007
-atg000083l_1	0	2248529	134,0.006
-atg000028l_1	0	6669800	387,0.006
-atg000001l_1	0	4689516	269,0.006
-atg000027l_1	0	2341238	130,0.006
-atg000025l_1	0	2601859	130,0.005
-atg000068l_1	0	5663803	266,0.005
-hap_ptg000030l_1_1	0	2915291	133,0.005
-atg000024l_1	0	3060687	130,0.004
-atg000030l_1	0	3276173	133,0.004
-atg000073l_1	0	3643765	133,0.004
-atg000041l_1	0	3924750	134,0.003
-atg000015l_1	0	4323349	136,0.003
-atg000055l_1	0	5189431	135,0.003
-atg000036l_1	0	5375225	130,0.002
-atg000040l_1	0	11140286	264,0.002
-atg000031l_1	0	5621050	133,0.002
-atg000008l_1	0	5994560	135,0.002
-atg000052l_1	0	7395107	143,0.002
-atg000017l_1	0	11573291	134,0.001
 ========== TRIM Ns ==========
 

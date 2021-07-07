@@ -1,23 +1,15 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_78	0	25820	5051,19.562
-scaffold_70	0	28176	5047,17.912
-scaffold_73	0	27792	240,0.864
-scaffold_47	0	45349	215,0.474
-scaffold_56	0	34078	85,0.249
-scaffold_83	0	21962	50,0.228
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_89	0	20073	1495,7.448
-scaffold_64	0	29476	1496,5.075
+REMOVE	scaffold_89
+REMOVE	scaffold_64
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_78	0	25820	2645,10.244
-scaffold_70	0	28176	2566,9.107
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -26,52 +18,80 @@ scaffold_70	0	28176	2566,9.107
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_78	0	25820	5603,21.700
-scaffold_70	0	28176	5584,19.818
-scaffold_76	0	27054	1735,6.413
-scaffold_48	0	44986	514,1.143
-scaffold_42	0	67011	691,1.031
-scaffold_52	0	35694	262,0.734
-scaffold_77	0	25842	160,0.619
-scaffold_74	0	27660	136,0.492
-scaffold_73	0	27792	108,0.389
-scaffold_45	0	55292	209,0.378
-scaffold_59	0	31563	115,0.364
-scaffold_47	0	45349	158,0.348
-scaffold_53	0	35371	111,0.314
-scaffold_44	0	60886	119,0.195
+
+# Yersiniaceae
+REMOVE scaffold_100 
+REMOVE scaffold_101 
+REMOVE scaffold_102 
+REMOVE scaffold_103 
+REMOVE scaffold_42 
+REMOVE scaffold_43 
+REMOVE scaffold_44 
+REMOVE scaffold_45 
+REMOVE scaffold_46 
+REMOVE scaffold_47 
+REMOVE scaffold_48 
+REMOVE scaffold_49 
+REMOVE scaffold_50 
+REMOVE scaffold_52 
+REMOVE scaffold_53 
+REMOVE scaffold_54 
+REMOVE scaffold_55 
+REMOVE scaffold_56 
+REMOVE scaffold_57 
+REMOVE scaffold_58 
+REMOVE scaffold_59 
+REMOVE scaffold_62 
+REMOVE scaffold_63 
+REMOVE scaffold_65 
+REMOVE scaffold_66 
+REMOVE scaffold_68 
+REMOVE scaffold_69 
+REMOVE scaffold_70 
+REMOVE scaffold_71 
+REMOVE scaffold_72 
+REMOVE scaffold_73 
+REMOVE scaffold_74 
+REMOVE scaffold_76 
+REMOVE scaffold_77 
+REMOVE scaffold_78 
+REMOVE scaffold_79 
+REMOVE scaffold_80 
+REMOVE scaffold_81 
+REMOVE scaffold_82 
+REMOVE scaffold_83 
+REMOVE scaffold_85 
+REMOVE scaffold_86 
+REMOVE scaffold_87 
+REMOVE scaffold_91 
+REMOVE scaffold_93 
+REMOVE scaffold_95 
+REMOVE scaffold_96 
+REMOVE scaffold_97 
+REMOVE scaffold_99 
+
+# Erwiniceae
+REMOVE scaffold_75 
+REMOVE scaffold_88 
+REMOVE scaffold_90 
+REMOVE scaffold_94 
+REMOVE scaffold_98 
+
+# Enterobacteriaceae
+REMOVE scaffold_84
+
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_39	0	77368	128,0.165
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_33	0	2794407	260,0.009
-scaffold_34	0	1552055	134,0.009
-scaffold_23	0	10438587	652,0.006
-scaffold_32	0	2813008	135,0.005
-scaffold_28	0	3989439	134,0.003
-scaffold_26	0	8058184	265,0.003
-scaffold_17	0	14203239	406,0.003
-scaffold_25	0	10104512	263,0.003
-scaffold_22	0	11125079	268,0.002
-scaffold_9	0	16692839	399,0.002
-scaffold_2	0	22677322	520,0.002
-scaffold_15	0	14887204	268,0.002
-scaffold_6	0	17019962	270,0.002
-scaffold_11	0	16645183	263,0.002
-scaffold_8	0	16850229	266,0.002
-scaffold_24	0	10200997	132,0.001
-scaffold_20	0	11376701	134,0.001
-scaffold_21	0	11177110	130,0.001
-scaffold_16	0	14301027	135,0.001
-scaffold_13	0	15680275	130,0.001
-scaffold_5	0	17178694	136,0.001
-scaffold_7	0	16900279	133,0.001
-scaffold_10	0	16682709	129,0.001
-scaffold_1	0	25664163	133,0.001
+
+# Podovirus (bacteriophage)
+REMOVE scaffold_41
+
 ========== TRIM Ns ==========
 
