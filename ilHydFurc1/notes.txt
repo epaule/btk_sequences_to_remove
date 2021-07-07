@@ -1,0 +1,3 @@
+scaffold_40	has arthropoda hits
+scaffold_61	has arthropoda hits
+scaffold_67	has arthropoda hits
