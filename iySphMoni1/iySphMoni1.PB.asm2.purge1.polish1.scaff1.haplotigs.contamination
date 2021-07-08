@@ -13,30 +13,31 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001158l_1_1	0	26114	24363,93.295
-hap_ptg000576l_1_1	0	31558	29334,92.953
-hap_ptg001061l_1_1	0	31519	28097,89.143
-hap_ptg000203l_1_1	0	156527	123779,79.078
-hap_ptg000262l_1_1	0	194492	151885,78.093
-hap_ptg000409l_1_1	0	49591	38580,77.796
-hap_ptg000132l_1_1	0	260318	196289,75.404
-hap_ptg000909l_1_1	0	54785	38969,71.131
-hap_ptg000948l_1_1	0	38306	26230,68.475
-hap_ptg000995l_1_1	0	37992	24792,65.256
-hap_ptg000444l_1_1	0	36705	23233,63.297
-hap_ptg001026l_1_1	0	35525	21451,60.383
-hap_ptg000794l_1_1	0	74099	43833,59.155
-hap_ptg000448l_1_1	0	17496	4990,28.521
+
+# Acinetobacter
+REMOVE	hap_ptg000916l_1_1
+REMOVE	hap_ptg000448l_1_1
+
+# Wolbachia
+REMOVE	hap_ptg001026l_1_1
+REMOVE	hap_ptg000132l_1_1
+REMOVE	hap_ptg000203l_1_1 
+REMOVE	hap_ptg000262l_1_1 
+REMOVE	hap_ptg000444l_1_1 
+REMOVE	hap_ptg000576l_1_1 
+REMOVE	hap_ptg000909l_1_1 
+REMOVE	hap_ptg000948l_1_1 
+REMOVE	hap_ptg001061l_1_1 
+REMOVE	hap_ptg001158l_1_1 
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001215l_1_1	0	18955	116,0.612
-atg000003l_1	0	41416	232,0.560
-atg000198l_1	0	23876	116,0.486
-atg000105l_1	0	25560	116,0.454
-atg000066l_1	0	31917	116,0.363
-atg000116l_1	0	32450	116,0.357
-hap_ptg000061l_1_1	0	301771	696,0.231
-hap_ptg000294l_1_1	0	86994	116,0.133
 ========== REFSEQ: viridiplantae ==========
+
+========== REFSEQ: virus ==========
+
+# Wolbachia phage
+REMOVE	hap_ptg000409l_1_1
+
 ========== TRIM Ns ==========
 
