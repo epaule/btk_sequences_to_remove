@@ -4,13 +4,16 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000616c_1_15364	0	15363	15019,97.761
+REMOVE hap_ptg000616c_1_15364
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+
+========== REFSEQ: bacteria ==========
+
 
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========

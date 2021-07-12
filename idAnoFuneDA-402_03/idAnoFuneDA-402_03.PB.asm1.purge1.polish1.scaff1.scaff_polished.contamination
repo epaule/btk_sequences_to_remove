@@ -7,11 +7,10 @@ scaffold_356	0	27714	121,0.437
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_489	0	15399	15169,98.506
+REMOVE	scaffold_489
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_481	0	16157	3930,24.324
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -19,26 +18,34 @@ scaffold_481	0	16157	3930,24.324
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_411	0	23257	23257,100.000
-scaffold_431	0	21779	21779,100.000
-scaffold_481	0	16157	16156,99.994
-scaffold_407	0	23706	23641,99.726
-scaffold_500	0	12866	12737,98.997
-scaffold_345	0	28268	27851,98.525
-scaffold_370	0	26602	25939,97.508
-scaffold_473	0	18079	16842,93.158
-scaffold_502	0	11540	10697,92.695
-scaffold_289	0	34604	31997,92.466
-scaffold_503	0	11437	10121,88.493
-scaffold_504	0	11360	9700,85.387
-scaffold_319	0	30370	23037,75.854
-scaffold_361	0	27233	16049,58.932
-scaffold_410	0	23327	9517,40.798
-scaffold_356	0	27714	10698,38.601
+
+# Acetobacteraceae
+REMOVE	scaffold_467
+REMOVE	scaffold_511
+
+# Enterobacteriaceae
+REMOVE	scaffold_356
+
+# Yersiniaceae
+REMOVE	scaffold_289 
+REMOVE	scaffold_319 
+REMOVE	scaffold_345 
+REMOVE	scaffold_361 
+REMOVE	scaffold_370 
+REMOVE	scaffold_407 
+REMOVE	scaffold_410 
+REMOVE	scaffold_411 
+REMOVE	scaffold_431 
+REMOVE	scaffold_473 
+REMOVE	scaffold_481 
+REMOVE	scaffold_500 
+REMOVE	scaffold_502 
+REMOVE	scaffold_503 
+REMOVE	scaffold_504 
+
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_235	0	44512	111,0.249
-scaffold_99	0	111554	111,0.100
 ========== TRIM Ns ==========
 
