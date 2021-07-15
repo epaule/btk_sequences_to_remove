@@ -40,7 +40,8 @@ REMOVE	scaffold_256
 REMOVE	scaffold_257 
 REMOVE	scaffold_260 
 REMOVE	scaffold_262 
-REMOVE	scaffold_263 
+REMOVE	scaffold_263
+REMOVE	scaffold_264 
 
 ========== REFSEQ: fungi ==========
 
@@ -52,17 +53,7 @@ REMOVE	scaffold_261
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-# nematoda
-REMOVE	scaffold_211
-
-# Spirotrichea
-REMOVE	scaffold_133 
-REMOVE	scaffold_164 
-REMOVE	scaffold_181 
-REMOVE	scaffold_193 
-
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_128	0	71189	111,0.156
 ========== TRIM Ns ==========
 

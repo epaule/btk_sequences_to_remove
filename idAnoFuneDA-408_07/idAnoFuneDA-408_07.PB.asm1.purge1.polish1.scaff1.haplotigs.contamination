@@ -20,24 +20,7 @@ REMOVE	hap_ptg000277l_1_1
 
 ========== REFSEQ: fungi ==========
 
-# Oomycota-undef
-REMOVE	atg000527l_1 
-REMOVE	hap_ptg000109l_1_1 
-
 ========== REFSEQ: other_eukaryota ==========
-
-# Nematoda
-REMOVE	hap_ptg000252l_1_1
-
-# Microsporidia
-REMOVE	atg000340l_1
-
-# Spirotrichea
-REMOVE	atg000070l_1 
-REMOVE	atg000187l_1 
-REMOVE	atg000290l_1 
-REMOVE	atg000365l_1 
-REMOVE	atg000436l_1 
 
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
