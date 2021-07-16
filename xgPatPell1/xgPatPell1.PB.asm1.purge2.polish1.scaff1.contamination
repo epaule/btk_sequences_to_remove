@@ -11,13 +11,14 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: bacteria ==========
-# Mycoplasma
+# Spiroplasma 
 REMOVE	scaffold_86
 REMOVE	scaffold_159
 REMOVE	scaffold_180
 REMOVE	scaffold_213
 REMOVE	scaffold_178
 REMOVE	scaffold_190
+REMOVE	scaffold_223
 
 # Campylobacteria
 REMOVE	scaffold_75
@@ -27,9 +28,6 @@ REMOVE	scaffold_176
 
 # Helicobacter
 REMOVE	scaffold_195
-
-# Mollicutes
-REMOVE	scaffold_223
 
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
