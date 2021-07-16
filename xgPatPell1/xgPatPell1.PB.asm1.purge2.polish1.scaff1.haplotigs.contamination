@@ -1,0 +1,30 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_tig00002773_1_3210549	0	3210526	113,0.004
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_tig00002773_1_3210549	0	3210526	113,0.004
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_tig00002773_1_3210549	0	3210526	113,0.004
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_tig00002773_1_3210549	0	3210526	113,0.004
+========== TRIM Ns ==========
+REMOVE: hap_tig00000520_1952322_1952322	1 bp leftover after trimming
+REMOVE: hap_tig00002470_54036_54036	1 bp leftover after trimming
+REMOVE: hap_tig00002498_257997_257997	1 bp leftover after trimming
+
