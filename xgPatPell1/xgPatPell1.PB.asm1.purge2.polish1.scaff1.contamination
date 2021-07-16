@@ -10,18 +10,43 @@
 
 ========== BARCODES ==========
 
+========== REFSEQ: bacteria ==========
+# Mycoplasma
+REMOVE	scaffold_86
+REMOVE	scaffold_159
+REMOVE	scaffold_180
+REMOVE	scaffold_213
+REMOVE	scaffold_178
+REMOVE	scaffold_190
+
+# Campylobacteria
+REMOVE	scaffold_75
+
+# Francisella
+REMOVE	scaffold_176
+
+# Helicobacter
+REMOVE	scaffold_195
+
+# Mollicutes
+REMOVE	scaffold_223
+
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_5	0	61162318	113,0.000
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_5	0	61162318	113,0.000
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_5	0	61162318	113,0.000
+
+
 ========== REFSEQ: other_metazoa ==========
+# Actinopterygii
+REMOVE	scaffold_65
+
+# Anthozoa
+REMOVE	scaffold_143
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_5	0	61162318	113,0.000
 ========== TRIM Ns ==========
 
