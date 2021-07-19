@@ -1,10 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_64	0	39536	16607,42.005
-scaffold_32	0	2420952	50671,2.093
-scaffold_39	0	332412	436,0.131
-scaffold_35	0	735036	419,0.057
-scaffold_36	0	507121	207,0.041
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
@@ -12,9 +7,6 @@ scaffold_36	0	507121	207,0.041
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_71	0	33228	661,1.989
-scaffold_64	0	39536	724,1.831
-scaffold_32	0	2420952	18515,0.765
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -22,41 +14,107 @@ scaffold_32	0	2420952	18515,0.765
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
+
+# Sphingobacteriales
+REMOVE	scaffold_73
+
+# Enterobacterales
+REMOVE	scaffold_113	
+REMOVE	scaffold_115	
+REMOVE	scaffold_118	
+REMOVE	scaffold_32	
+REMOVE	scaffold_35	
+REMOVE	scaffold_36	
+REMOVE	scaffold_37	
+REMOVE	scaffold_38	
+REMOVE	scaffold_39	
+REMOVE	scaffold_40	
+REMOVE	scaffold_41	
+REMOVE	scaffold_43	
+REMOVE	scaffold_54	
+REMOVE	scaffold_56	
+REMOVE	scaffold_64	
+REMOVE	scaffold_74	
+REMOVE	scaffold_79	
+REMOVE	scaffold_93	
+REMOVE	scaffold_94	
+
+#Flavobacteriales
+REMOVE	scaffold_100
+REMOVE	scaffold_102
+REMOVE	scaffold_103
+REMOVE	scaffold_105
+REMOVE	scaffold_107
+REMOVE	scaffold_108
+REMOVE	scaffold_111
+REMOVE	scaffold_45
+REMOVE	scaffold_46
+REMOVE	scaffold_47
+REMOVE	scaffold_48
+REMOVE	scaffold_49
+REMOVE	scaffold_50
+REMOVE	scaffold_51
+REMOVE	scaffold_52
+REMOVE	scaffold_53
+REMOVE	scaffold_55
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_60
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_72
+REMOVE	scaffold_77
+REMOVE	scaffold_80
+REMOVE	scaffold_82
+REMOVE	scaffold_84
+REMOVE	scaffold_85
+REMOVE	scaffold_86
+REMOVE	scaffold_88
+REMOVE	scaffold_91
+REMOVE	scaffold_92
+REMOVE	scaffold_98
+
+# Pseudomonales
+REMOVE	scaffold_101
+REMOVE	scaffold_104
+REMOVE	scaffold_106
+REMOVE	scaffold_109
+REMOVE	scaffold_110
+REMOVE	scaffold_116
+REMOVE	scaffold_117
+REMOVE	scaffold_119
+REMOVE	scaffold_66
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+REMOVE	scaffold_81
+REMOVE	scaffold_83
+REMOVE	scaffold_87
+REMOVE	scaffold_90
+REMOVE	scaffold_95
+REMOVE	scaffold_99
+
+# Rickettsiales
+REMOVE	scaffold_34
+REMOVE	scaffold_65
+REMOVE	scaffold_96
+
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_106	0	20243	20243,100.000
-scaffold_110	0	18766	18766,100.000
-scaffold_90	0	25862	25862,100.000
-scaffold_95	0	23453	23453,100.000
-scaffold_75	0	31133	31113,99.936
-scaffold_116	0	12899	12885,99.891
-scaffold_71	0	33228	33182,99.862
-scaffold_81	0	28154	28075,99.719
-scaffold_76	0	30134	30012,99.595
-scaffold_83	0	27608	27103,98.171
-scaffold_70	0	33349	26822,80.428
-scaffold_109	0	19727	11795,59.791
-scaffold_34	0	1495747	238675,15.957
-scaffold_117	0	10084	983,9.748
-scaffold_32	0	2420952	65739,2.715
-scaffold_104	0	20797	530,2.548
-scaffold_64	0	39536	871,2.203
-scaffold_56	0	57240	691,1.207
-scaffold_101	0	21923	205,0.935
-scaffold_40	0	236518	1838,0.777
-scaffold_50	0	71939	379,0.527
-scaffold_49	0	73333	379,0.517
-scaffold_47	0	77856	379,0.487
-scaffold_39	0	332412	799,0.240
-scaffold_35	0	735036	1236,0.168
-scaffold_36	0	507121	816,0.161
-scaffold_43	0	153549	245,0.160
-scaffold_37	0	380343	538,0.141
-scaffold_41	0	208997	256,0.122
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
+# Saccharomycetales
+REMOVE	scaffold_97	
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_71	0	33228	285,0.858
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========

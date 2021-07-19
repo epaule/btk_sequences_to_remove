@@ -11,12 +11,23 @@ REMOVE	hap_tig00003119_1_14961
 
 ========== BARCODES ==========
 
+========== REFSEQ: bacteria ==========
+# Spiroplasma
+REMOVE	hap_tig00001890_1_91483
+REMOVE	hap_tig00001935_1_42333
+REMOVE	hap_tig00002035_1_26274
+REMOVE	hap_tig00001990_1_41988
+
+
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 hap_tig00002773_1_3210549	0	3210526	113,0.004
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 hap_tig00002773_1_3210549	0	3210526	113,0.004
+
+# Fungi
+REMOVE	hap_tig00001736_1_33794
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 hap_tig00002773_1_3210549	0	3210526	113,0.004
