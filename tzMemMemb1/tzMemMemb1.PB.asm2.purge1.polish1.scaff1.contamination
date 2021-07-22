@@ -50,6 +50,7 @@ REMOVE	scaffold_134
 # undefined bacteria and bacteriodetes
 REMOVE	scaffold_59
 REMOVE	scaffold_35
+REMOVE	scaffold_36
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -62,8 +63,19 @@ REMOVE	scaffold_135
 # Ascomycetes mitochondria
 REMOVE  scaffold_118
 
+# Oomycota
+REMOVE	scaffold_82
+REMOVE	scaffold_88
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# Eukaryota undef - brown algae?
+REMOVE	scaffold_21
+REMOVE	scaffold_22
+
+# Amoebozoa
+REMOVE	scaffold_44
 
 # Ciliophora
 REMOVE	scaffold_100
@@ -179,8 +191,5 @@ REMOVE	scaffold_26
 # kelp rRNA
 REMOVE	scaffold_119
 
-# scaffold_8	0	24422504	1200,0.005
-# scaffold_1	0	111719536	2516,0.002
-# scaffold_4	0	29390738	200,0.001
 ========== TRIM Ns ==========
 
