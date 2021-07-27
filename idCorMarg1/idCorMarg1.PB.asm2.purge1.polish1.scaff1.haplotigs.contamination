@@ -81,6 +81,14 @@ REMOVE	hap_ptg000266l_1_1
 REMOVE	hap_ptg000404l_1_1
 REMOVE	hap_ptg000962l_1_1
 
+# Spiroplasma
+REMOVE	atg002285l_1 
+
+# Empedocabcter
+REMOVE	atg002919l_1
+REMOVE	atg007431l_1
+REMOVE	hap_ptg000250l_1_1
+
 ========== REFSEQ: chordata ==========
 # Streptophyta
 REMOVE	atg000056l_1
