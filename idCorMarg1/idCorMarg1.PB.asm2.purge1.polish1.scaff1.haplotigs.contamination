@@ -1,0 +1,103 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	mito
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# Proteobacteria
+REMOVE	atg000043l_1
+REMOVE	atg000084l_1
+REMOVE	atg000229l_1
+REMOVE	atg000349l_1
+REMOVE	atg000383l_1
+REMOVE	atg000497l_1
+REMOVE	atg000562l_1
+REMOVE	atg000587l_1
+REMOVE	atg000589l_1
+REMOVE	atg000621l_1
+REMOVE	atg000630l_1
+REMOVE	atg000662l_1
+REMOVE	atg000691l_1
+REMOVE	atg000695l_1
+REMOVE	atg000751l_1
+REMOVE	atg000793l_1
+REMOVE	atg000800l_1
+REMOVE	atg000837l_1
+REMOVE	atg000843l_1
+REMOVE	atg000965l_1
+REMOVE	atg001088l_1
+REMOVE	atg001152l_1
+REMOVE	atg001154l_1
+REMOVE	atg001163l_1
+REMOVE	atg001181l_1
+REMOVE	atg001242l_1
+REMOVE	atg001294l_1
+REMOVE	atg001319l_1
+REMOVE	atg001429l_1
+REMOVE	atg001541l_1
+REMOVE	atg001542l_1
+REMOVE	atg001561l_1
+REMOVE	atg001641l_1
+REMOVE	atg001799l_1
+REMOVE	atg001905l_1
+REMOVE	atg001928l_1
+REMOVE	atg001972l_1
+REMOVE	atg002116l_1
+REMOVE	atg002242l_1
+REMOVE	atg002360l_1
+REMOVE	atg002493l_1
+REMOVE	atg002590l_1
+REMOVE	atg002630l_1
+REMOVE	atg002664l_1
+REMOVE	atg002823l_1
+REMOVE	atg002897l_1
+REMOVE	atg003095l_1
+REMOVE	atg003104l_1
+REMOVE	atg003200l_1
+REMOVE	atg003216l_1
+REMOVE	atg003235l_1
+REMOVE	atg003272l_1
+REMOVE	atg003496l_1
+REMOVE	atg003560l_1
+REMOVE	atg003815l_1
+REMOVE	atg004487l_1
+REMOVE	atg004611l_1
+REMOVE	atg005327l_1
+REMOVE	atg005486l_1
+REMOVE	atg006488l_1
+REMOVE	atg006667l_1
+REMOVE	atg007538l_1
+REMOVE	hap_ptg000191l_1_1
+REMOVE	hap_ptg000266l_1_1
+REMOVE	hap_ptg000404l_1_1
+REMOVE	hap_ptg000962l_1_1
+
+# Spiroplasma
+REMOVE	atg002285l_1 
+
+# Empedocbacter
+REMOVE	atg002919l_1
+REMOVE	atg007431l_1
+REMOVE	hap_ptg000250l_1_1
+
+========== REFSEQ: chordata ==========
+# Streptophyta
+REMOVE	atg000056l_1
+REMOVE	atg002428l_1
+
+# Mucoromycota
+REMOVE	atg002715l_1
+
+========== REFSEQ: chordata ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
