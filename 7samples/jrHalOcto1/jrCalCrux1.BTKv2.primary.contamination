@@ -1,0 +1,55 @@
+# Alphaproteobacteria
+REMOVE	scaffold_106
+REMOVE	scaffold_127
+REMOVE	scaffold_154
+REMOVE	scaffold_160
+REMOVE	scaffold_174
+REMOVE	scaffold_175
+REMOVE	scaffold_177
+REMOVE	scaffold_179
+REMOVE	scaffold_180
+REMOVE	scaffold_181
+REMOVE	scaffold_185
+REMOVE	scaffold_187
+REMOVE	scaffold_189
+REMOVE	scaffold_193
+REMOVE	scaffold_198
+REMOVE	scaffold_200
+REMOVE	scaffold_204
+REMOVE	scaffold_205
+REMOVE	scaffold_208
+REMOVE	scaffold_30
+REMOVE	scaffold_32
+REMOVE	scaffold_36
+REMOVE	scaffold_42
+REMOVE	scaffold_54
+REMOVE	scaffold_66
+REMOVE	scaffold_192
+REMOVE	scaffold_202
+
+# Flavobacteriia
+REMOVE	scaffold_14
+REMOVE	scaffold_22
+
+# Gammaproteobacteria
+REMOVE	scaffold_199
+REMOVE	scaffold_201
+
+# Pectobacterium
+REMOVE	scaffold_150
+
+# Pannonibacter
+REMOVE	scaffold_167
+
+# Luteolibacter
+REMOVE	scaffold_178
+
+# Cyanobacteria
+REMOVE	scaffold_182
+REMOVE	scaffold_195
+
+# Aeromonas
+REMOVE	scaffold_188
+
+# Neisseria
+REMOVE	scaffold_203
