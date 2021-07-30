@@ -1,0 +1,69 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_206
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  scaffold_14
+REMOVE	scaffold_22
+REMOVE  scaffold_199
+REMOVE  scaffold_181
+REMOVE  scaffold_201
+REMOVE  scaffold_154
+REMOVE  scaffold_204
+REMOVE  scaffold_106
+REMOVE  scaffold_195
+REMOVE  scaffold_205
+REMOVE  scaffold_198
+REMOVE  scaffold_193
+REMOVE  scaffold_175
+REMOVE  scaffold_188
+REMOVE  scaffold_160
+REMOVE  scaffold_150
+REMOVE  scaffold_182
+REMOVE  scaffold_203
+REMOVE  scaffold_202
+REMOVE  scaffold_167
+REMOVE  scaffold_192
+REMOVE  scaffold_187
+REMOVE  scaffold_174
+REMOVE  scaffold_179
+REMOVE  scaffold_208
+REMOVE  scaffold_189
+REMOVE  scaffold_180
+REMOVE  scaffold_177
+REMOVE  scaffold_196
+REMOVE  scaffold_200
+REMOVE  scaffold_127
+REMOVE  scaffold_185
+REMOVE  scaffold_178
+REMOVE  scaffold_207
+REMOVE  scaffold_30
+REMOVE  scaffold_42
+REMOVE  scaffold_36
+REMOVE  scaffold_32
+REMOVE  scaffold_66
+REMOVE  scaffold_54
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
