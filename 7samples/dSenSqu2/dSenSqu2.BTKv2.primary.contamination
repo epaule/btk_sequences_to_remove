@@ -1,0 +1,36 @@
+# Burkholderiales
+REMOVE	Scaffold_102_HRSCAF_863_arrow
+REMOVE	Scaffold_107_HRSCAF_893_arrow
+REMOVE	Scaffold_10_HRSCAF_57_arrow
+REMOVE	Scaffold_13_HRSCAF_105_arrow
+REMOVE	Scaffold_152_HRSCAF_1145_arrow
+REMOVE	Scaffold_15_HRSCAF_119_arrow
+REMOVE	Scaffold_18_HRSCAF_197_arrow
+REMOVE	Scaffold_206_HRSCAF_1325_arrow
+REMOVE	Scaffold_23_HRSCAF_228_arrow
+REMOVE	Scaffold_24_HRSCAF_229_arrow
+REMOVE	Scaffold_29_HRSCAF_270_arrow
+REMOVE	Scaffold_2_HRSCAF_2_arrow
+REMOVE	Scaffold_302_HRSCAF_1558_arrow
+REMOVE	Scaffold_335_HRSCAF_1649_arrow
+REMOVE	Scaffold_3_HRSCAF_7_arrow
+REMOVE	Scaffold_415_HRSCAF_1821_arrow
+REMOVE	Scaffold_430_HRSCAF_1844_arrow
+REMOVE	Scaffold_46_HRSCAF_449_arrow
+REMOVE	Scaffold_4_HRSCAF_11_arrow
+REMOVE	Scaffold_52_HRSCAF_497_arrow
+REMOVE	Scaffold_5_HRSCAF_12_arrow
+REMOVE	Scaffold_61_HRSCAF_546_arrow
+REMOVE	Scaffold_70_HRSCAF_615_arrow
+REMOVE	Scaffold_71_HRSCAF_621_arrow
+REMOVE	Scaffold_8_HRSCAF_45_arrow
+
+# Rhodocyclales
+REMOVE	Scaffold_93_HRSCAF_789_arrow
+
+# Sphingomonadales
+REMOVE	Scaffold_1_HRSCAF_1_arrow
+
+# Trombidiformes
+REMOVE	Scaffold_376_HRSCAF_1745_arrow
+REMOVE	Scaffold_397_HRSCAF_1793_arrow
