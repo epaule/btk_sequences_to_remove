@@ -21,11 +21,14 @@ REMOVE	scaffold_231
 REMOVE	scaffold_250
 REMOVE	scaffold_269
 
+========== REFSEQ: eukaryota ==========
+
 ========== REFSEQ: fungi ==========
 # Glomeromycetes
 REMOVE	scaffold_208
 
 ========== REFSEQ: chordata ==========
+
 ========== REFSEQ: viridiplantae ==========
 
 # Vitis spp.
