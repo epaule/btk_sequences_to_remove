@@ -1,0 +1,12 @@
+# Pinopsida
+REMOVE	scaffold_426
+
+# Magnoliopsida
+REMOVE	scaffold_424
+
+# Rickettsiales
+REMOVE	scaffold_41
+REMOVE	scaffold_25
+
+# Apis mellifera filamentous virus
+REMOVE	scaffold_425
