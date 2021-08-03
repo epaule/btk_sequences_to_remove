@@ -1,0 +1,74 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  scaffold_23
+REMOVE  scaffold_73
+REMOVE  scaffold_75
+REMOVE  scaffold_78
+REMOVE  scaffold_81
+REMOVE  scaffold_83
+REMOVE  scaffold_84
+REMOVE  scaffold_87
+REMOVE  scaffold_90
+REMOVE  scaffold_91
+REMOVE  scaffold_92
+REMOVE  scaffold_93
+REMOVE  scaffold_94
+REMOVE  scaffold_95
+REMOVE  scaffold_96
+REMOVE  scaffold_98
+REMOVE  scaffold_99
+REMOVE  scaffold_100
+REMOVE  scaffold_102
+REMOVE  scaffold_103
+REMOVE  scaffold_104
+REMOVE  scaffold_105
+REMOVE  scaffold_106
+REMOVE  scaffold_107
+REMOVE  scaffold_108
+REMOVE  scaffold_109
+REMOVE  scaffold_110
+REMOVE  scaffold_111
+REMOVE  scaffold_112
+REMOVE  scaffold_113
+REMOVE  scaffold_114
+REMOVE  scaffold_115
+REMOVE  scaffold_116
+REMOVE  scaffold_117
+REMOVE  scaffold_118
+REMOVE  scaffold_119
+REMOVE  scaffold_120
+REMOVE  scaffold_121
+REMOVE  scaffold_122
+REMOVE  scaffold_123
+REMOVE  scaffold_124
+REMOVE  scaffold_126
+REMOVE  scaffold_127
+REMOVE  scaffold_129
+REMOVE  scaffold_130
+REMOVE	scaffold_132
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+REMOVE  scaffold_97
+REMOVE  scaffold_125
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
