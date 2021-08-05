@@ -15,18 +15,6 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_33	0	1306360	1071797,82.045
-scaffold_227	0	187836	4794,2.552
-scaffold_536	0	70997	925,1.303
-scaffold_1078	0	27527	314,1.141
-scaffold_494	0	77275	640,0.828
-scaffold_19	0	3517037	22398,0.637
-scaffold_313	0	130137	417,0.320
-scaffold_219	0	196567	406,0.207
-scaffold_331	0	123400	247,0.200
-scaffold_422	0	92130	123,0.134
-scaffold_94	0	443856	236,0.053
-scaffold_12	0	9682221	265,0.003
 
 # Proteobacteria
 REMOVE	scaffold_1005
