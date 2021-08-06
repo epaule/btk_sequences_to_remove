@@ -1,0 +1,3 @@
+Wolbachia/proteobac
+hap_ptg000022l_1_1 
+hap_ptg000057l_1_1

@@ -1,0 +1,6 @@
+Wolbachia/proteobacteria
+scaffold_14
+scaffold_15
+scaffold_29
+scaffold_30
+scaffold_32
