@@ -90,14 +90,14 @@ REMOVE	atg007431l_1
 REMOVE	hap_ptg000250l_1_1
 
 ========== REFSEQ: chordata ==========
-# Streptophyta
-REMOVE	atg000056l_1
-REMOVE	atg002428l_1
-
 # Mucoromycota
 REMOVE	atg002715l_1
 
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: viridiplantae ==========
+# Streptophyta
+REMOVE	atg000056l_1
+REMOVE	atg002428l_1
+
 ========== TRIM Ns ==========
 
