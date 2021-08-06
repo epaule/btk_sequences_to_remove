@@ -4,35 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001477l_1	0	225131	736,0.327
-atg000544l_1	0	1140043	2974,0.261
-atg002075l_1	0	232608	587,0.252
-atg001718l_1	0	248299	582,0.234
-atg000254l_1	0	361402	564,0.156
-hap_ptg000444l_1_1	0	445543	622,0.140
-atg001207l_1	0	383389	512,0.134
-hap_ptg000420l_1_1	0	991920	1250,0.126
-atg000296l_1	0	676985	722,0.107
-atg000616l_1	0	666986	591,0.089
-atg000991l_1	0	745359	633,0.085
-atg000968l_1	0	694796	520,0.075
-atg000778l_1	0	1835274	1249,0.068
-atg000123l_1	0	944621	630,0.067
-hap_ptg000433l_1_1	0	867483	565,0.065
-atg000359l_1	0	783588	504,0.064
-atg000587l_1	0	1097330	704,0.064
-atg000608l_1	0	833886	531,0.064
-atg001139l_1	0	1148114	724,0.063
-atg000364l_1	0	1125092	683,0.061
-hap_ptg000078l_1_1	0	1460220	736,0.050
-hap_ptg000171l_1_1	0	1588078	736,0.046
-atg001227l_1	0	1177411	508,0.043
-atg000280l_1	0	1803421	669,0.037
-atg000854l_1	0	2059608	714,0.035
-atg000483l_1	0	1970678	607,0.031
-hap_ptg000246l_1_1	0	2184846	641,0.029
-atg000366l_1	0	1929966	545,0.028
-atg000651l_1	0	2371072	565,0.024
 
 ========== PLASTID SEQUENCE ==========
 
@@ -43,23 +14,79 @@ atg000651l_1	0	2371072	565,0.024
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002207l_1	0	89177	255,0.286
-atg002179l_1	0	251895	200,0.079
-atg001926l_1	0	404931	165,0.041
-atg000125l_1	0	1687732	320,0.019
-atg000167l_1	0	2185453	186,0.009
+
+# Proteobacteria
+REMOVE	atg000020l_1
+REMOVE	atg000033l_1
+REMOVE	atg000040l_1
+REMOVE	atg000042l_1
+REMOVE	atg000057l_1
+REMOVE	atg000062l_1
+REMOVE	atg000098l_1
+REMOVE	atg000125l_1
+REMOVE	atg000167l_1
+REMOVE	atg000170l_1
+REMOVE	atg000201l_1
+REMOVE	atg000219l_1
+REMOVE	atg000226l_1
+REMOVE	atg000234l_1
+REMOVE	atg000243l_1
+REMOVE	atg000275l_1
+REMOVE	atg000305l_1
+REMOVE	atg000314l_1
+REMOVE	atg000330l_1
+REMOVE	atg000334l_1
+REMOVE	atg000358l_1
+REMOVE	atg000373l_1
+REMOVE	atg000399l_1
+REMOVE	atg000436l_1
+REMOVE	atg000467l_1
+REMOVE	atg000513l_1
+REMOVE	atg000515l_1
+REMOVE	atg000620l_1
+REMOVE	atg000630l_1
+REMOVE	atg000667l_1
+REMOVE	atg000713l_1
+REMOVE	atg000745l_1
+REMOVE	atg000915l_1
+REMOVE	atg001018l_1
+REMOVE	atg001143l_1
+REMOVE	atg001180l_1
+REMOVE	atg001188l_1
+REMOVE	atg001209l_1
+REMOVE	atg001211l_1
+REMOVE	atg001269l_1
+REMOVE	atg001270l_1
+REMOVE	atg001311l_1
+REMOVE	atg001321l_1
+REMOVE	atg001336l_1
+REMOVE	atg001341l_1
+REMOVE	atg001420l_1
+REMOVE	atg001423l_1
+REMOVE	atg001597l_1
+REMOVE	atg001926l_1
+REMOVE	atg002119l_1
+REMOVE	atg002169l_1
+REMOVE	atg002179l_1
+REMOVE	atg002207l_1
+REMOVE	atg002421l_1
+REMOVE	atg002436l_1
+REMOVE	atg002712l_1
+REMOVE	atg002759l_1
+REMOVE	hap_ptg000214l_1_1
+REMOVE	hap_ptg000235l_1_1
+REMOVE	hap_ptg000266l_1_1
+REMOVE	hap_ptg000311l_1_1
+REMOVE	hap_ptg000393l_1_1
+REMOVE	hap_ptg000440l_1_1
+REMOVE	hap_ptg000514l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000312l_1_1	0	200039	140,0.070
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002964l_1	0	91088	220,0.242
-atg000825l_1	0	641372	654,0.102
-atg001015l_1	0	369334	109,0.030
-atg000642l_1	0	1905214	218,0.011
-atg001083l_1	0	1576108	109,0.007
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
