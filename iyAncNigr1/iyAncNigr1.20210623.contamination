@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	scaffold_131
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -15,26 +15,31 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 # Rickettsiales
-REMOVE	atg000092l_1
-REMOVE	hap_ptg000034l_1_1
-REMOVE	hap_ptg000078l_1_1
-REMOVE	hap_ptg000089l_1_1
-REMOVE	hap_ptg000092l_1_1
-REMOVE	hap_ptg000100l_1_1
-REMOVE	hap_ptg000108l_1_1
-REMOVE	hap_ptg000116l_1_1
-REMOVE	hap_ptg000124l_1_1
-REMOVE	hap_ptg000128l_1_1
-REMOVE	hap_ptg000139l_1_1
-REMOVE	hap_ptg000140l_1_1
-REMOVE	hap_ptg000159l_1_1
-REMOVE	hap_ptg000170l_1_1
-REMOVE	hap_ptg000189l_1_1
-REMOVE	hap_ptg000209l_1_1
-REMOVE	hap_ptg000226l_1_1
-REMOVE	hap_ptg000237l_1_1
-REMOVE	hap_ptg000245l_1_1
-REMOVE	hap_ptg000249l_1_1
+REMOVE	scaffold_102
+REMOVE	scaffold_108
+REMOVE	scaffold_119
+REMOVE	scaffold_23
+REMOVE	scaffold_32
+REMOVE	scaffold_35
+REMOVE	scaffold_46
+REMOVE	scaffold_49
+REMOVE	scaffold_54
+REMOVE	scaffold_61
+REMOVE	scaffold_63
+REMOVE	scaffold_66
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_72
+REMOVE	scaffold_77
+REMOVE	scaffold_78
+REMOVE	scaffold_87
+REMOVE	scaffold_91
+REMOVE	scaffold_97
+REMOVE	scaffold_98
+REMOVE	scaffold_55
+REMOVE	scaffold_57
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
