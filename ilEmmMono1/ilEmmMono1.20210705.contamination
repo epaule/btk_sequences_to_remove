@@ -18,6 +18,9 @@
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+========== REFSEQ: virus ==========
+# Caudovirales
+REMOVE	atg000248l_1
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
 
