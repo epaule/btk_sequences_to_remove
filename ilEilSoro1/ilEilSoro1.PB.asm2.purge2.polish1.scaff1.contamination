@@ -1,31 +1,12 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_65	0	465387	10660,2.291
-scaffold_80	0	278362	5391,1.937
-scaffold_60	0	569416	10174,1.787
-scaffold_72	0	347745	5406,1.555
-scaffold_66	0	447887	5774,1.289
-scaffold_92	0	164183	1341,0.817
-scaffold_86	0	239654	436,0.182
-scaffold_87	0	196537	265,0.135
-scaffold_93	0	163265	126,0.077
-scaffold_91	0	165492	89,0.054
-
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_75	0	315288	8442,2.678
-scaffold_9	0	26053043	8122,0.031
-scaffold_4	0	27370357	586,0.002
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_65	0	465387	5290,1.137
-scaffold_80	0	278362	2645,0.950
-scaffold_60	0	569416	5290,0.929
-scaffold_72	0	347745	2645,0.761
-scaffold_66	0	447887	2566,0.573
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -34,25 +15,41 @@ scaffold_66	0	447887	2566,0.573
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_92	0	164183	10871,6.621
-scaffold_66	0	447887	26554,5.929
-scaffold_107	0	71209	2325,3.265
-scaffold_65	0	465387	14201,3.051
-scaffold_80	0	278362	6045,2.172
-scaffold_60	0	569416	12317,2.163
-scaffold_102	0	92092	1925,2.090
-scaffold_72	0	347745	6100,1.754
-scaffold_125	0	27922	247,0.885
-scaffold_98	0	121926	691,0.567
-scaffold_86	0	239654	1218,0.508
-scaffold_100	0	108309	462,0.427
-scaffold_111	0	55008	117,0.213
-scaffold_110	0	56974	111,0.195
-scaffold_93	0	163265	279,0.171
-scaffold_83	0	264316	418,0.158
-scaffold_87	0	196537	292,0.149
-scaffold_91	0	165492	184,0.111
-scaffold_76	0	310847	112,0.036
+
+# Enterobacteriaceae
+REMOVE	scaffold_119
+
+# Erwiniaceae
+REMOVE	scaffold_107
+REMOVE	scaffold_108
+REMOVE	scaffold_122
+REMOVE	scaffold_92
+
+# Yersiniaceae
+REMOVE	scaffold_100
+REMOVE	scaffold_101
+REMOVE	scaffold_102
+REMOVE	scaffold_105
+REMOVE	scaffold_110
+REMOVE	scaffold_111
+REMOVE	scaffold_117
+REMOVE	scaffold_118
+REMOVE	scaffold_125
+REMOVE	scaffold_60
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_72
+REMOVE	scaffold_76
+REMOVE	scaffold_80
+REMOVE	scaffold_83
+REMOVE	scaffold_84
+REMOVE	scaffold_86
+REMOVE	scaffold_87
+REMOVE	scaffold_91
+REMOVE	scaffold_93
+REMOVE	scaffold_96
+REMOVE	scaffold_98
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
