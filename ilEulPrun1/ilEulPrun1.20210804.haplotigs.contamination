@@ -1,0 +1,55 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000359l_1	0	23696	4905,20.700
+atg001080l_1	0	41544	7483,18.012
+atg000517l_1	0	195300	5370,2.750
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000359l_1	0	23696	2564,10.820
+atg001080l_1	0	41544	2563,6.169
+atg000517l_1	0	195300	2645,1.354
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000359l_1	0	23696	23696,100.000
+hap_ptg000132l_1_1	0	20233	20233,100.000
+hap_ptg000160l_1_1	0	25263	25263,100.000
+hap_ptg000161l_1_1	0	14292	14292,100.000
+hap_ptg000052l_1_1	0	20833	20832,99.995
+hap_ptg000119l_1_1	0	23967	23965,99.992
+atg001080l_1	0	41544	41539,99.988
+hap_ptg000091l_1_1	0	36336	36329,99.981
+hap_ptg000142l_1_1	0	17384	17066,98.171
+hap_ptg000174l_1_1	0	24021	22515,93.730
+hap_ptg000118l_1_1	0	29942	27951,93.350
+hap_ptg000068l_1_1	0	35720	32951,92.248
+hap_ptg000153l_1_1	0	29671	27048,91.160
+hap_ptg000177l_1_1	0	13792	12260,88.892
+hap_ptg000167l_1_1	0	23506	19776,84.132
+hap_ptg000055l_1_1	0	36831	30809,83.650
+hap_ptg000067l_1_1	0	29194	22524,77.153
+hap_ptg000086l_1_1	0	23666	16068,67.895
+hap_ptg000085l_1_1	0	29195	19140,65.559
+hap_ptg000146l_1_1	0	18598	11892,63.942
+hap_ptg000172l_1_1	0	24348	13748,56.465
+hap_ptg000092l_1_1	0	26662	9019,33.827
+atg000517l_1	0	195300	5702,2.920
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001044l_1	0	54405	100,0.184
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
