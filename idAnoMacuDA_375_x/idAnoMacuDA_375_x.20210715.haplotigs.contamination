@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001184l_1_rotated	0	15364	15364,100.000
+REMOEV	atg001184l_1_rotated
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,6 +15,5 @@ atg001184l_1_rotated	0	15364	15364,100.000
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000296l_1_1	0	24870	111,0.446
 ========== TRIM Ns ==========
 
