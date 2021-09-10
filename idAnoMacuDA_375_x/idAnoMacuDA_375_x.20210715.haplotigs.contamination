@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOEV	atg001184l_1_rotated
+REMOVE	atg001184l_1_rotated
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,6 +13,9 @@ REMOEV	atg001184l_1_rotated
 ========== BARCODES ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+
+REMOVE	hap_ptg000036l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
