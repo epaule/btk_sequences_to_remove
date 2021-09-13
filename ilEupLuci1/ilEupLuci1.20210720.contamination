@@ -5,7 +5,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_112	0	27853	27853,100.000
+REMOVE	scaffold_112
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -25,14 +25,68 @@ scaffold_96	0	51931	3915,7.539
 scaffold_61	0	169380	3849,2.272
 scaffold_44	0	473142	4858,1.027
 scaffold_65	0	147785	100,0.068
+
+#Bacilli
+REMOVE	scaffold_101
+REMOVE	scaffold_104
+REMOVE	scaffold_107
+REMOVE	scaffold_115
+REMOVE	scaffold_123
+REMOVE	scaffold_133
+REMOVE	scaffold_44
+REMOVE	scaffold_47
+REMOVE	scaffold_53
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_73
+REMOVE	scaffold_77
+REMOVE	scaffold_80
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_86
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_90
+REMOVE	scaffold_91
+REMOVE	scaffold_94
+REMOVE	scaffold_96
+
+#Betaproteobacteria
+REMOVE	scaffold_139
+
+#Gammaproteobacteria
+REMOVE	scaffold_102
+REMOVE	scaffold_108
+REMOVE	scaffold_110
+REMOVE	scaffold_113
+REMOVE	scaffold_116
+REMOVE	scaffold_120
+REMOVE	scaffold_125
+REMOVE	scaffold_126
+REMOVE	scaffold_128
+REMOVE	scaffold_129
+REMOVE	scaffold_132
+REMOVE	scaffold_134
+REMOVE	scaffold_135
+REMOVE	scaffold_138
+REMOVE	scaffold_33
+REMOVE	scaffold_37
+REMOVE	scaffold_38
+
+#Magnoliopsida
+REMOVE	scaffold_127
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_96	0	51931	365,0.703
-scaffold_61	0	169380	365,0.215
-scaffold_44	0	473142	365,0.077
 ========== TRIM Ns ==========
 
