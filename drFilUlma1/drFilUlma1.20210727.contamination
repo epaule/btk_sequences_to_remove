@@ -4,112 +4,34 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_96	0	35108	17775,50.629
-scaffold_79	0	85033	36126,42.485
-scaffold_95	0	39415	14342,36.387
-scaffold_80	0	79298	24423,30.799
-scaffold_77	0	91878	26871,29.246
-scaffold_94	0	42444	7367,17.357
-scaffold_56	0	196968	23529,11.946
-scaffold_97	0	33525	2764,8.245
-scaffold_85	0	67023	4049,6.041
-scaffold_83	0	68215	3398,4.981
-scaffold_92	0	59414	2830,4.763
-scaffold_91	0	60871	2830,4.649
-scaffold_55	0	195124	9056,4.641
-scaffold_46	0	261578	11888,4.545
-scaffold_88	0	62407	2830,4.535
-scaffold_87	0	62478	2830,4.530
-scaffold_82	0	75996	3396,4.469
-scaffold_54	0	206866	9055,4.377
-scaffold_86	0	65912	2830,4.294
-scaffold_73	0	105576	4528,4.289
-scaffold_81	0	79197	3396,4.288
-scaffold_84	0	66666	2830,4.245
-scaffold_76	0	93428	3962,4.241
-scaffold_72	0	106780	4528,4.240
-scaffold_35	0	484125	20378,4.209
-scaffold_49	0	242665	10188,4.198
-scaffold_47	0	247664	10188,4.114
-scaffold_103	0	27989	1132,4.044
-scaffold_27	0	786260	31690,4.030
-scaffold_26	0	823895	32828,3.984
-scaffold_29	0	733420	28866,3.936
-scaffold_101	0	29073	1132,3.894
-scaffold_57	0	189291	7355,3.886
-scaffold_109	0	14578	566,3.883
-scaffold_51	0	233714	9056,3.875
-scaffold_36	0	452936	17546,3.874
-scaffold_62	0	146753	5661,3.858
-scaffold_50	0	235294	9056,3.849
-scaffold_45	0	281279	10754,3.823
-scaffold_108	0	15260	566,3.709
-scaffold_71	0	107147	3962,3.698
-scaffold_90	0	61419	2264,3.686
-scaffold_52	0	230530	8490,3.683
-scaffold_89	0	61495	2264,3.682
-scaffold_66	0	123472	4528,3.667
-scaffold_40	0	324632	11886,3.661
-scaffold_41	0	304825	10754,3.528
-scaffold_53	0	227356	7924,3.485
-scaffold_98	0	32705	1132,3.461
-scaffold_61	0	147242	5094,3.460
-scaffold_59	0	174960	5660,3.235
-scaffold_31	0	670273	10736,1.602
-scaffold_67	0	118343	1698,1.435
-scaffold_20	0	1046809	1497,0.143
-scaffold_7	0	20322634	18109,0.089
-scaffold_4	0	28916899	2703,0.009
-scaffold_6	0	20512861	948,0.005
-scaffold_5	0	22280964	678,0.003
-scaffold_3	0	42700161	890,0.002
-scaffold_2	0	42821313	610,0.001
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_96	0	35108	26427,75.273
-scaffold_95	0	39415	28627,72.630
-scaffold_80	0	79298	56273,70.964
-scaffold_79	0	85033	58706,69.039
-scaffold_77	0	91878	58484,63.654
-scaffold_94	0	42444	26605,62.683
-scaffold_97	0	33525	4144,12.361
-scaffold_85	0	67023	6690,9.982
-scaffold_56	0	196968	16706,8.482
-scaffold_20	0	1046809	2239,0.214
-scaffold_9	0	3114469	1072,0.034
-scaffold_4	0	28916899	3517,0.012
-scaffold_5	0	22280964	678,0.003
-scaffold_3	0	42700161	907,0.002
-scaffold_1	0	57599203	1213,0.002
+REMOVE	scaffold_96
+REMOVE	scaffold_95
+REMOVE	scaffold_80
+REMOVE	scaffold_79
+REMOVE	scaffold_77
+REMOVE	scaffold_94
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
+
+#Trombiformes
+REMOVE	scaffold_104
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_79	0	85033	226,0.266
-scaffold_77	0	91878	113,0.123
-scaffold_56	0	196968	113,0.057
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_105	0	25217	408,1.618
-scaffold_51	0	233714	204,0.087
-scaffold_36	0	452936	310,0.068
-scaffold_31	0	670273	204,0.030
-scaffold_29	0	733420	204,0.028
-scaffold_27	0	786260	125,0.016
-scaffold_7	0	20322634	204,0.001
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_110	0	5961	122,2.047
+#Aureobasidium melanogenum
+REMOVE	scaffold_110
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_110	0	5961	118,1.980
-scaffold_79	0	85033	376,0.442
-scaffold_77	0	91878	188,0.205
-scaffold_56	0	196968	188,0.095
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
