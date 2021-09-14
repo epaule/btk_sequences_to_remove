@@ -7,11 +7,11 @@
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000031l_1_65638	0	65639	46387,70.670
-hap_ptg000053l_1_60646	0	60643	45794,75.514
-hap_ptg000129l_1_61536	0	61538	47848,77.754
-hap_ptg000170l_1_50341	0	50342	38402,76.282
-hap_ptg000202l_1_47194	0	47198	30369,64.344
+REMOVE	hap_ptg000031l_1_65638
+REMOVE	hap_ptg000053l_1_60646
+REMOVE	hap_ptg000129l_1_61536
+REMOVE	hap_ptg000170l_1_50341
+REMOVE	hap_ptg000202l_1_47194
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
