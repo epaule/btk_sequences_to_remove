@@ -1,16 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_138	0	24932	5344,21.434
-scaffold_141	0	22894	285,1.245
-scaffold_140	0	23113	245,1.060
-scaffold_109	0	43201	412,0.954
-scaffold_125	0	31944	100,0.313
-scaffold_154	0	18956	59,0.311
-scaffold_118	0	34816	104,0.299
-scaffold_126	0	31782	94,0.296
-scaffold_71	0	115380	161,0.140
-scaffold_94	0	62669	81,0.129
-scaffold_56	0	195258	80,0.041
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
@@ -18,11 +7,6 @@ scaffold_56	0	195258	80,0.041
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_138	0	24932	2647,10.617
-scaffold_161	0	12762	1272,9.967
-scaffold_110	0	42094	661,1.570
-scaffold_66	0	138703	661,0.477
-scaffold_40	0	515559	661,0.128
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -31,72 +15,119 @@ scaffold_40	0	515559	661,0.128
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_66	0	138703	37767,27.229
-scaffold_138	0	24932	3691,14.804
-scaffold_161	0	12762	1789,14.018
-scaffold_110	0	42094	3379,8.027
-scaffold_78	0	92615	4253,4.592
-scaffold_108	0	46769	1284,2.745
-scaffold_154	0	18956	472,2.490
-scaffold_40	0	515559	9757,1.893
-scaffold_77	0	95168	1731,1.819
-scaffold_163	0	9906	154,1.555
-scaffold_74	0	111398	1399,1.256
-scaffold_71	0	115380	1435,1.244
-scaffold_158	0	16112	182,1.130
-scaffold_150	0	20106	222,1.104
-scaffold_97	0	58670	607,1.035
-scaffold_76	0	95741	882,0.921
-scaffold_160	0	14319	130,0.908
-scaffold_61	0	164101	1406,0.857
-scaffold_100	0	55002	458,0.833
-scaffold_85	0	78705	653,0.830
-scaffold_126	0	31782	259,0.815
-scaffold_140	0	23113	181,0.783
-scaffold_55	0	195315	1494,0.765
-scaffold_67	0	136370	1003,0.735
-scaffold_95	0	59377	421,0.709
-scaffold_91	0	65660	459,0.699
-scaffold_90	0	66370	451,0.680
-scaffold_65	0	141153	879,0.623
-scaffold_148	0	20306	124,0.611
-scaffold_145	0	20929	113,0.540
-scaffold_86	0	78495	418,0.533
-scaffold_141	0	22894	118,0.515
-scaffold_99	0	55087	282,0.512
-scaffold_59	0	179207	848,0.473
-scaffold_75	0	109381	488,0.446
-scaffold_58	0	181300	780,0.430
-scaffold_51	0	243765	1035,0.425
-scaffold_130	0	29052	122,0.420
-scaffold_94	0	62669	254,0.405
-scaffold_64	0	150831	593,0.393
-scaffold_117	0	36686	126,0.343
-scaffold_113	0	39879	131,0.328
-scaffold_101	0	54996	179,0.325
-scaffold_62	0	163171	451,0.276
-scaffold_57	0	184274	486,0.264
-scaffold_93	0	63475	164,0.258
-scaffold_49	0	307475	627,0.204
-scaffold_102	0	54207	107,0.197
-scaffold_87	0	73088	126,0.172
-scaffold_43	0	448726	649,0.145
-scaffold_69	0	123382	174,0.141
-scaffold_80	0	90192	109,0.121
-scaffold_70	0	119608	135,0.113
+
+#Enterobacterales
+REMOVE	scaffold_104
+REMOVE	scaffold_108
+REMOVE	scaffold_109
+REMOVE	scaffold_111
+REMOVE	scaffold_112
+REMOVE	scaffold_115
+REMOVE	scaffold_117
+REMOVE	scaffold_118
+REMOVE	scaffold_121
+REMOVE	scaffold_124
+REMOVE	scaffold_125
+REMOVE	scaffold_126
+REMOVE	scaffold_131
+REMOVE	scaffold_133
+REMOVE	scaffold_134
+REMOVE	scaffold_135
+REMOVE	scaffold_138
+REMOVE	scaffold_140
+REMOVE	scaffold_141
+REMOVE	scaffold_144
+REMOVE	scaffold_146
+REMOVE	scaffold_147
+REMOVE	scaffold_155
+REMOVE	scaffold_167
+REMOVE	scaffold_94
+
+#Pseudomonadales
+REMOVE	scaffold_100
+REMOVE	scaffold_101
+REMOVE	scaffold_102
+REMOVE	scaffold_103
+REMOVE	scaffold_105
+REMOVE	scaffold_106
+REMOVE	scaffold_110
+REMOVE	scaffold_113
+REMOVE	scaffold_114
+REMOVE	scaffold_116
+REMOVE	scaffold_120
+REMOVE	scaffold_122
+REMOVE	scaffold_123
+REMOVE	scaffold_127
+REMOVE	scaffold_130
+REMOVE	scaffold_136
+REMOVE	scaffold_137
+REMOVE	scaffold_143
+REMOVE	scaffold_145
+REMOVE	scaffold_148
+REMOVE	scaffold_149
+REMOVE	scaffold_150
+REMOVE	scaffold_152
+REMOVE	scaffold_154
+REMOVE	scaffold_157
+REMOVE	scaffold_158
+REMOVE	scaffold_160
+REMOVE	scaffold_161
+REMOVE	scaffold_163
+REMOVE	scaffold_164
+REMOVE	scaffold_165
+REMOVE	scaffold_166
+REMOVE	scaffold_40
+REMOVE	scaffold_43
+REMOVE	scaffold_49
+REMOVE	scaffold_51
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_64
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_67
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_74
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_77
+REMOVE	scaffold_78
+REMOVE	scaffold_80
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_85
+REMOVE	scaffold_86
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+REMOVE	scaffold_90
+REMOVE	scaffold_91
+REMOVE	scaffold_93
+REMOVE	scaffold_95
+REMOVE	scaffold_96
+REMOVE	scaffold_97
+REMOVE	scaffold_99
+
+#Trichinellida
+REMOVE	scaffold_63
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_161	0	12762	285,2.233
-scaffold_110	0	42094	285,0.677
-scaffold_66	0	138703	285,0.205
-scaffold_40	0	515559	285,0.055
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_40	0	515559	128,0.025
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_107	0	50596	483,0.955
+
+#Caudovirales
+REMOVE	scaffold_107
+
 ========== TRIM Ns ==========
 

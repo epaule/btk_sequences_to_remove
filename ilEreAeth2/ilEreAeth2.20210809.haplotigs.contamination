@@ -1,13 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001518l_1	0	35841	664,1.853
-hap_ptg000015l_1_1	0	4061891	58175,1.432
-atg001537l_1	0	33109	427,1.290
-atg001018l_1	0	29376	322,1.096
-atg001464l_1	0	42082	300,0.713
-atg001099l_1	0	31094	199,0.640
-atg001568l_1	0	47894	199,0.416
-hap_ptg000210l_1_1	0	28926	100,0.346
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
@@ -15,8 +7,6 @@ hap_ptg000210l_1_1	0	28926	100,0.346
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000015l_1_1	0	4061891	20120,0.495
-atg000578l_1	0	186961	661,0.354
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -25,23 +15,35 @@ atg000578l_1	0	186961	661,0.354
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000578l_1	0	186961	7183,3.842
-atg001018l_1	0	29376	493,1.678
-hap_ptg000015l_1_1	0	4061891	52414,1.290
-atg001518l_1	0	35841	385,1.074
-atg001099l_1	0	31094	318,1.023
-atg001568l_1	0	47894	439,0.917
-atg001537l_1	0	33109	226,0.683
-atg001260l_1	0	41485	232,0.559
-atg001464l_1	0	42082	119,0.283
+
+#Enterobacterales
+REMOVE	atg000510l_1
+REMOVE	atg000664l_1
+REMOVE	atg000897l_1
+REMOVE	atg001018l_1
+REMOVE	atg001099l_1
+REMOVE	atg001114l_1
+REMOVE	atg001260l_1
+REMOVE	atg001286l_1
+REMOVE	atg001384l_1
+REMOVE	atg001423l_1
+REMOVE	atg001464l_1
+REMOVE	atg001512l_1
+REMOVE	atg001518l_1
+REMOVE	atg001537l_1
+REMOVE	atg001568l_1
+REMOVE	atg001592l_1
+REMOVE	atg001693l_1
+REMOVE	atg001852l_1
+REMOVE	hap_ptg000015l_1_1
+REMOVE	hap_ptg000210l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000578l_1	0	186961	285,0.152
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000015l_1_1	0	4061891	309,0.008
 ========== TRIM Ns ==========
 
