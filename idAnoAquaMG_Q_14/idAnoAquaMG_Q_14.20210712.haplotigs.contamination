@@ -4,25 +4,34 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-tig00001048_1_rotated	0	15384	15384,100.000
+REMOVE	tig00001048_1_rotated
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000275l_1	0	76464	658,0.861
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000275l_1	0	76464	5193,6.791
+
+#Alphaproteobacteria
+REMOVE	hap_ptg000194l_1_1
+
+#Betaproteobacteria
+REMOVE	hap_ptg000274l_1_1
+
+#Gammaproteobacteria
+REMOVE	atg000275l_1
+REMOVE	hap_ptg000204l_1_1
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000051l_1_1	0	1036089	392,0.038
+
+#Oomycota-undef
+REMOVE	hap_ptg000165l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000321l_1	0	27669	222,0.802
-hap_ptg000051l_1_1	0	1036089	2824,0.273
-atg000062l_1	0	1665258	222,0.013
 ========== TRIM Ns ==========
 
