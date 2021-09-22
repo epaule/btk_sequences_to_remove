@@ -1,0 +1,107 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_543	0	19438	19438,100.000
+========== REFSEQ: fungi ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_700	0	5873	111,1.890
+scaffold_582	0	17182	222,1.292
+scaffold_572	0	17546	222,1.265
+scaffold_550	0	19011	222,1.168
+scaffold_512	0	21213	222,1.047
+scaffold_376	0	32311	333,1.031
+scaffold_503	0	21595	222,1.028
+scaffold_359	0	34021	333,0.979
+scaffold_356	0	34361	333,0.969
+scaffold_664	0	11491	111,0.966
+scaffold_484	0	23335	222,0.951
+scaffold_481	0	23555	222,0.942
+scaffold_479	0	23633	222,0.939
+scaffold_322	0	37823	333,0.880
+scaffold_453	0	25420	222,0.873
+scaffold_654	0	12714	111,0.873
+scaffold_439	0	26064	222,0.852
+scaffold_647	0	13183	111,0.842
+scaffold_433	0	26538	222,0.837
+scaffold_428	0	26854	222,0.827
+scaffold_306	0	40689	333,0.818
+scaffold_639	0	13884	111,0.799
+scaffold_236	0	55703	444,0.797
+scaffold_415	0	28011	222,0.793
+scaffold_409	0	28488	222,0.779
+scaffold_401	0	29542	222,0.751
+scaffold_221	0	60967	444,0.728
+scaffold_623	0	15324	111,0.724
+scaffold_621	0	15404	111,0.721
+scaffold_609	0	15921	111,0.697
+scaffold_265	0	48138	333,0.692
+scaffold_380	0	32101	222,0.692
+scaffold_378	0	32115	222,0.691
+scaffold_607	0	16089	111,0.690
+scaffold_604	0	16161	111,0.687
+scaffold_187	0	82382	555,0.674
+scaffold_369	0	33036	222,0.672
+scaffold_597	0	16599	111,0.669
+scaffold_367	0	33378	222,0.665
+scaffold_363	0	33672	222,0.659
+scaffold_589	0	16890	111,0.657
+scaffold_209	0	68822	444,0.645
+scaffold_579	0	17250	111,0.643
+scaffold_571	0	17631	111,0.630
+scaffold_339	0	36008	222,0.617
+scaffold_558	0	18480	111,0.601
+scaffold_552	0	18955	111,0.586
+scaffold_320	0	37945	222,0.585
+scaffold_541	0	19490	111,0.570
+scaffold_540	0	19541	111,0.568
+scaffold_538	0	19656	111,0.565
+scaffold_535	0	19854	111,0.559
+scaffold_529	0	20242	111,0.548
+scaffold_521	0	20762	111,0.535
+scaffold_500	0	21845	115,0.526
+scaffold_507	0	21502	111,0.516
+scaffold_289	0	43375	222,0.512
+scaffold_501	0	21834	111,0.508
+scaffold_498	0	21945	111,0.506
+scaffold_285	0	44008	222,0.504
+scaffold_486	0	23234	111,0.478
+scaffold_485	0	23238	111,0.478
+scaffold_480	0	23610	111,0.470
+scaffold_455	0	25280	111,0.439
+scaffold_451	0	25436	111,0.436
+scaffold_449	0	25663	111,0.433
+scaffold_446	0	25871	111,0.429
+scaffold_430	0	26820	111,0.414
+scaffold_426	0	26947	111,0.412
+scaffold_425	0	27150	111,0.409
+scaffold_422	0	27358	111,0.406
+scaffold_411	0	28405	111,0.391
+scaffold_405	0	28934	111,0.384
+scaffold_402	0	29390	111,0.378
+scaffold_223	0	60245	222,0.368
+scaffold_398	0	30234	111,0.367
+scaffold_388	0	30954	111,0.359
+scaffold_387	0	31021	111,0.358
+scaffold_381	0	31915	111,0.348
+scaffold_377	0	32298	111,0.344
+scaffold_353	0	34470	111,0.322
+scaffold_206	0	71095	222,0.312
+scaffold_337	0	36638	111,0.303
+scaffold_321	0	37833	111,0.293
+scaffold_315	0	38504	111,0.288
+scaffold_283	0	44133	111,0.252
+scaffold_150	0	126649	222,0.175
+========== TRIM Ns ==========
+
