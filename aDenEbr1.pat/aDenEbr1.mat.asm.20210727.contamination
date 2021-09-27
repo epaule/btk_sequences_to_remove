@@ -1,0 +1,76 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+mat_scaffold_2528	0	3122	3122,100.000
+mat_scaffold_2535	0	3044	3043,99.967
+mat_scaffold_2546	0	2746	2745,99.964
+mat_scaffold_2550	0	2647	2098,79.260
+mat_scaffold_2547	0	2707	1968,72.700
+mat_scaffold_2548	0	2703	1838,67.999
+mat_scaffold_2531	0	3082	2003,64.990
+mat_scaffold_2495	0	5349	1497,27.987
+mat_scaffold_2463	0	7054	1795,25.447
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+mat_scaffold_2546	0	2746	327,11.908
+mat_scaffold_2463	0	7054	423,5.997
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+VecScreen_Moderate	mat_scaffold_2556	19	37
+VecScreen_Moderate	mat_scaffold_2556	397	423
+
+========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+mat_scaffold_2535	0	3044	3043,99.967
+mat_scaffold_2546	0	2746	2721,99.090
+mat_scaffold_2528	0	3122	3064,98.142
+mat_scaffold_2547	0	2707	1939,71.629
+mat_scaffold_2548	0	2703	1809,66.926
+mat_scaffold_2531	0	3082	1969,63.887
+mat_scaffold_2550	0	2647	1537,58.066
+mat_scaffold_2495	0	5349	1465,27.388
+mat_scaffold_2463	0	7054	1336,18.940
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+mat_scaffold_2546	0	2746	768,27.968
+========== REFSEQ: viruses_and_viroids ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+mat_scaffold_2546	0	2746	768,27.968
+========== TRIM Ns ==========
+# WARNING: mat_scaffold_22	96.9 % Ns of total 35106024
+TRIM:	mat_scaffold_31	1	198502	
+FWDCLIP:	mat_scaffold_31	1	198502
+# WARNING: mat_scaffold_36	95.62 % Ns of total 15407481
+TRIM:	mat_scaffold_48	5303645	5397981	
+REVCLIP:	mat_scaffold_48	5303645	5397981
+# WARNING: mat_scaffold_51	84.36 % Ns of total 4237530
+TRIM:	mat_scaffold_51	1	1514919	
+FWDCLIP:	mat_scaffold_51	1	1514919
+# WARNING: mat_scaffold_59	94.64 % Ns of total 3446196
+TRIM:	mat_scaffold_59	1188894	3446196	
+REVCLIP:	mat_scaffold_59	1188894	3446196
+# WARNING: mat_scaffold_61	82.78 % Ns of total 3202287
+TRIM:	mat_scaffold_69	2518208	2653630	
+REVCLIP:	mat_scaffold_69	2518208	2653630
+TRIM:	mat_scaffold_86	1	695037	
+FWDCLIP:	mat_scaffold_86	1	695037
+TRIM:	mat_scaffold_95	758434	1180958	
+REVCLIP:	mat_scaffold_95	758434	1180958
+TRIM:	mat_scaffold_101	351490	1045895	
+REVCLIP:	mat_scaffold_101	351490	1045895
+TRIM:	mat_scaffold_103	926648	1036995	
+REVCLIP:	mat_scaffold_103	926648	1036995
+TRIM:	mat_scaffold_117	1	434146	
+FWDCLIP:	mat_scaffold_117	1	434146
+TRIM:	mat_scaffold_182	152487	272420	
+REVCLIP:	mat_scaffold_182	152487	272420
+

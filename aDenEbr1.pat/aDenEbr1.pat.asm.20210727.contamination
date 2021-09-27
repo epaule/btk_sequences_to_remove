@@ -1,0 +1,67 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2434	0	3122	3122,100.000
+pat_scaffold_2443	0	2753	2752,99.964
+pat_scaffold_2326	0	8810	6620,75.142
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2326	0	8810	1759,19.966
+pat_scaffold_2443	0	2753	332,12.060
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2443	0	2753	2723,98.910
+pat_scaffold_2434	0	3122	3064,98.142
+pat_scaffold_2326	0	8810	6553,74.381
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2326	0	8810	422,4.790
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2443	0	2753	768,27.897
+pat_scaffold_2326	0	8810	2390,27.128
+========== REFSEQ: viruses_and_viroids ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+pat_scaffold_2443	0	2753	768,27.897
+pat_scaffold_2326	0	8810	505,5.732
+========== TRIM Ns ==========
+# WARNING: pat_scaffold_17	91.09 % Ns of total 47012502
+# WARNING: pat_scaffold_30	96.07 % Ns of total 18241534
+# WARNING: pat_scaffold_36	95.63 % Ns of total 8854663
+# WARNING: pat_scaffold_37	96.88 % Ns of total 7638917
+TRIM:	pat_scaffold_39	1	15400	
+FWDCLIP:	pat_scaffold_39	1	15400
+# WARNING: pat_scaffold_45	88.24 % Ns of total 5856539
+# WARNING: pat_scaffold_46	92.61 % Ns of total 5544908
+TRIM:	pat_scaffold_49	1	1404599	
+FWDCLIP:	pat_scaffold_49	1	1404599
+# WARNING: pat_scaffold_65	86.87 % Ns of total 2730008
+TRIM:	pat_scaffold_65	1	1699829	
+FWDCLIP:	pat_scaffold_65	1	1699829
+# WARNING: pat_scaffold_88	90.89 % Ns of total 1765250
+TRIM:	pat_scaffold_88	1	827485	
+FWDCLIP:	pat_scaffold_88	1	827485
+TRIM:	pat_scaffold_108	916870	991814	
+REVCLIP:	pat_scaffold_108	916870	991814
+TRIM:	pat_scaffold_119	1	66396	
+FWDCLIP:	pat_scaffold_119	1	66396
+TRIM:	pat_scaffold_136	1	132208	
+FWDCLIP:	pat_scaffold_136	1	132208
+TRIM:	pat_scaffold_151	252373	433669	
+REVCLIP:	pat_scaffold_151	252373	433669
+TRIM:	pat_scaffold_155	160473	418599	
+REVCLIP:	pat_scaffold_155	160473	418599
+TRIM:	pat_scaffold_193	254031	290206	
+REVCLIP:	pat_scaffold_193	254031	290206
+TRIM:	pat_scaffold_462	121592	123443	
+
