@@ -1,15 +1,11 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2434	0	3122	3122,100.000
-pat_scaffold_2443	0	2753	2752,99.964
-pat_scaffold_2326	0	8810	6620,75.142
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2326	0	8810	1759,19.966
-pat_scaffold_2443	0	2753	332,12.060
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	pat_scaffold_1365
 
 ========== PLASTID SEQUENCE ==========
 
@@ -18,22 +14,29 @@ pat_scaffold_2443	0	2753	332,12.060
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2443	0	2753	2723,98.910
-pat_scaffold_2434	0	3122	3064,98.142
-pat_scaffold_2326	0	8810	6553,74.381
+
+#Gammaproteobacteria
+REMOVE	pat_scaffold_2326
+REMOVE	pat_scaffold_2443
+
+#Erysipelotrichia
+REMOVE	pat_scaffold_2224
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
+#Glomeromycetes
+REMOVE	pat_scaffold_2434
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2326	0	8810	422,4.790
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2443	0	2753	768,27.897
-pat_scaffold_2326	0	8810	2390,27.128
+
+# Prunus dulcis
+REMOVE	pat_scaffold_2326
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-pat_scaffold_2443	0	2753	768,27.897
-pat_scaffold_2326	0	8810	505,5.732
 ========== TRIM Ns ==========
 # WARNING: pat_scaffold_17	91.09 % Ns of total 47012502
 # WARNING: pat_scaffold_30	96.07 % Ns of total 18241534
