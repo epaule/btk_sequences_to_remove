@@ -1,15 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold05528	0	1338	1111,83.034
-
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold02301	0	3770	3770,100.000
-scaffold02331	0	3710	3710,100.000
-scaffold02389	0	3590	3590,100.000
-scaffold02682	0	3148	3147,99.968
+REMOVE	scaffold02301
+REMOVE	scaffold02331
+REMOVE	scaffold02389
+REMOVE	scaffold02682
 
 ========== PLASTID SEQUENCE ==========
 
@@ -21,20 +19,34 @@ VecScreen_Strong	scaffold00697	3388	3431
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold05528	0	1338	1138,85.052
+# Proteobacteria
+REMOVE	scaffold05528
+
+# Microsporidia
+REMOVE	scaffold05378
+REMOVE	scaffold05655
+REMOVE	scaffold02901
+
+========== REFSEQ: fungi ==========
+
+# Oomycota
+REMOVE	scaffold06547
+REMOVE	scaffold05073
+REMOVE	scaffold01883
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold04316	0	1860	111,5.968
-scaffold02823	0	2965	111,3.744
-scaffold02616	0	3241	111,3.425
-scaffold02351	0	3669	111,3.025
-scaffold02030	0	4297	111,2.583
-scaffold00713	0	11930	222,1.861
-scaffold01369	0	6163	111,1.801
-scaffold01297	0	6589	111,1.685
-scaffold01049	0	8088	111,1.372
-scaffold01010	0	8446	111,1.314
-scaffold01009	0	8455	111,1.313
+# scaffold04316	0	1860	111,5.968
+# scaffold02823	0	2965	111,3.744
+# scaffold02616	0	3241	111,3.425
+# scaffold02351	0	3669	111,3.025
+# scaffold02030	0	4297	111,2.583
+# scaffold00713	0	11930	222,1.861
+# scaffold01369	0	6163	111,1.801
+# scaffold01297	0	6589	111,1.685
+# scaffold01049	0	8088	111,1.372
+# scaffold01010	0	8446	111,1.314
+# scaffold01009	0	8455	111,1.313
 ========== TRIM Ns ==========
 FWDCLIP:	scaffold00251	1	11538
 
