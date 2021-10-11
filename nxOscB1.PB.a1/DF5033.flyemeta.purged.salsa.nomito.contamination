@@ -1,7 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_8	0	4444046	4423573,99.539
-scaffold_10	0	3996885	118,0.003
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
@@ -9,9 +7,6 @@ scaffold_10	0	3996885	118,0.003
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_149	0	28123	559,1.988
-scaffold_8	0	4444046	19540,0.440
-scaffold_21	0	474190	559,0.118
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 VecScreen_Strong	scaffold_41	190154	190197
@@ -21,64 +16,158 @@ VecScreen_Strong	scaffold_101	10	54
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_121	0	38155	38155,100.000
-scaffold_126	0	36667	36667,100.000
-scaffold_165	0	23421	23421,100.000
-scaffold_171	0	21420	21420,100.000
-scaffold_175	0	20250	20250,100.000
-scaffold_206	0	7982	7982,100.000
-scaffold_8	0	4444046	4444046,100.000
-scaffold_64	0	94849	28024,29.546
-scaffold_182	0	17841	2416,13.542
-scaffold_145	0	29045	3814,13.131
-scaffold_19	0	492191	51918,10.548
-scaffold_88	0	60740	5122,8.433
-scaffold_161	0	24816	1483,5.976
-scaffold_35	0	232221	12065,5.195
-scaffold_57	0	118932	5650,4.751
-scaffold_16	0	582753	27657,4.746
-scaffold_109	0	43810	1899,4.335
-scaffold_20	0	478290	20361,4.257
-scaffold_43	0	175630	6995,3.983
-scaffold_91	0	57057	2242,3.929
-scaffold_42	0	188060	7049,3.748
-scaffold_27	0	301114	11179,3.713
-scaffold_30	0	271042	9549,3.523
-scaffold_75	0	73236	2130,2.908
-scaffold_102	0	46506	1097,2.359
-scaffold_90	0	58787	1084,1.844
-scaffold_113	0	41587	756,1.818
-scaffold_10	0	3996885	66765,1.670
-scaffold_194	0	14667	236,1.609
-scaffold_116	0	40929	548,1.339
-scaffold_119	0	39185	513,1.309
-scaffold_144	0	29445	196,0.666
-scaffold_58	0	110267	666,0.604
-scaffold_56	0	120299	707,0.588
-scaffold_60	0	109136	596,0.546
-scaffold_111	0	42329	230,0.543
-scaffold_112	0	42071	219,0.521
-scaffold_36	0	227039	1011,0.445
-scaffold_61	0	102863	422,0.410
-scaffold_65	0	92541	293,0.317
-scaffold_110	0	42443	128,0.302
-scaffold_71	0	79741	224,0.281
-scaffold_22	0	405942	1041,0.256
-scaffold_82	0	66648	115,0.173
-scaffold_21	0	474190	596,0.126
+
+# Burkholderiales
+REMOVE	scaffold_140
+REMOVE	scaffold_165
+REMOVE	scaffold_171
+REMOVE	scaffold_206
+REMOVE	scaffold_22
+
+# Caulobacterales
+REMOVE	scaffold_110
+REMOVE	scaffold_111
+REMOVE	scaffold_115
+REMOVE	scaffold_118
+REMOVE	scaffold_133
+REMOVE	scaffold_134
+REMOVE	scaffold_146
+REMOVE	scaffold_147
+REMOVE	scaffold_162
+REMOVE	scaffold_185
+REMOVE	scaffold_193
+REMOVE	scaffold_195
+REMOVE	scaffold_201
+REMOVE	scaffold_65
+REMOVE	scaffold_71
+REMOVE	scaffold_89
+REMOVE	scaffold_95
+REMOVE	scaffold_98
+
+# Enterobacterales
+REMOVE	scaffold_121
+REMOVE	scaffold_175
+REMOVE	scaffold_8
+
+# Hyphomicrobiales
+REMOVE	scaffold_102
+REMOVE	scaffold_109
+REMOVE	scaffold_112
+REMOVE	scaffold_120
+REMOVE	scaffold_122
+REMOVE	scaffold_123
+REMOVE	scaffold_125
+REMOVE	scaffold_127
+REMOVE	scaffold_128
+REMOVE	scaffold_131
+REMOVE	scaffold_132
+REMOVE	scaffold_136
+REMOVE	scaffold_137
+REMOVE	scaffold_139
+REMOVE	scaffold_141
+REMOVE	scaffold_150
+REMOVE	scaffold_151
+REMOVE	scaffold_154
+REMOVE	scaffold_157
+REMOVE	scaffold_163
+REMOVE	scaffold_168
+REMOVE	scaffold_169
+REMOVE	scaffold_170
+REMOVE	scaffold_172
+REMOVE	scaffold_173
+REMOVE	scaffold_179
+REMOVE	scaffold_182
+REMOVE	scaffold_183
+REMOVE	scaffold_186
+REMOVE	scaffold_187
+REMOVE	scaffold_190
+REMOVE	scaffold_191
+REMOVE	scaffold_197
+REMOVE	scaffold_205
+REMOVE	scaffold_70
+REMOVE	scaffold_93
+
+# Sphingomonadales
+REMOVE	scaffold_106
+
+# Xanthomonadales
+REMOVE	scaffold_113
+REMOVE	scaffold_116
+REMOVE	scaffold_119
+REMOVE	scaffold_144
+REMOVE	scaffold_145
+REMOVE	scaffold_158
+REMOVE	scaffold_16
+REMOVE	scaffold_19
+REMOVE	scaffold_194
+REMOVE	scaffold_20
+REMOVE	scaffold_209
+REMOVE	scaffold_211
+REMOVE	scaffold_27
+REMOVE	scaffold_30
+REMOVE	scaffold_35
+REMOVE	scaffold_36
+REMOVE	scaffold_42
+REMOVE	scaffold_43
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_61
+REMOVE	scaffold_64
+REMOVE	scaffold_75
+REMOVE	scaffold_82
+REMOVE	scaffold_88
+REMOVE	scaffold_90
+REMOVE	scaffold_91
+
+========== REFSEQ: fungi ==========
+# Micrococcales
+REMOVE	scaffold_104
+REMOVE	scaffold_107
+REMOVE	scaffold_124
+REMOVE	scaffold_135
+REMOVE	scaffold_142
+REMOVE	scaffold_149
+REMOVE	scaffold_153
+REMOVE	scaffold_161
+REMOVE	scaffold_166
+REMOVE	scaffold_177
+REMOVE	scaffold_178
+REMOVE	scaffold_188
+REMOVE	scaffold_199
+REMOVE	scaffold_202
+REMOVE	scaffold_21
+REMOVE	scaffold_24
+REMOVE	scaffold_26
+REMOVE	scaffold_37
+REMOVE	scaffold_41
+REMOVE	scaffold_46
+REMOVE	scaffold_51
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_60
+REMOVE	scaffold_62
+REMOVE	scaffold_66
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_72
+REMOVE	scaffold_74
+REMOVE	scaffold_83
+REMOVE	scaffold_94
+REMOVE	scaffold_96
+
+
+
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_8	0	4444046	54098,1.217
-scaffold_10	0	3996885	744,0.019
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_171	0	21420	109,0.509
-scaffold_8	0	4444046	703,0.016
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_8	0	4444046	25578,0.576
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_8	0	4444046	41583,0.936
 ========== TRIM Ns ==========
 
