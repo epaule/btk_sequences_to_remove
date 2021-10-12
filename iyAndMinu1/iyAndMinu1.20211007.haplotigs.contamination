@@ -46,8 +46,6 @@ REMOVE	hap_ptg001296l_1_1
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001245l_1	0	14590	13510,92.598
-atg002410l_1	0	21345	11198,52.462
 
 #Magnoliopsida
 REMOVE	atg001245l_1
