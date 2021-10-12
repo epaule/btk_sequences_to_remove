@@ -1,0 +1,51 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001245l_1	0	14590	14586,99.973
+atg002410l_1	0	21345	11133,52.157
+atg004022l_1	0	15316	569,3.715
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001245l_1	0	14590	14590,100.000
+atg002410l_1	0	21345	21345,100.000
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000573l_1	0	18330	18287,99.765
+atg001671l_1	0	28422	28286,99.521
+atg000168l_1	0	29310	28445,97.049
+atg003462l_1	0	29140	28246,96.932
+atg003392l_1	0	32195	30458,94.605
+atg002900l_1	0	27787	24870,89.502
+hap_ptg000324l_1_1	0	82314	69629,84.589
+atg000485l_1	0	89903	65691,73.069
+hap_ptg000910l_1_1	0	56492	23169,41.013
+atg001779l_1	0	34537	9835,28.477
+atg000867l_1	0	15726	955,6.073
+hap_ptg001237l_1_1	0	22159	959,4.328
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001133l_1_1	0	10565	116,1.098
+atg003458l_1	0	10876	116,1.067
+atg003319l_1	0	29003	232,0.800
+atg001479l_1	0	87563	580,0.662
+atg002484l_1	0	19331	116,0.600
+hap_ptg000420l_1_1	0	78384	228,0.291
+hap_ptg000186l_1_1	0	226934	112,0.049
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001245l_1	0	14590	13510,92.598
+atg002410l_1	0	21345	11198,52.462
+========== TRIM Ns ==========
+
