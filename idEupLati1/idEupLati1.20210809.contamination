@@ -4,14 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_525	0	36331	29907,82.318
-scaffold_716	0	15076	8688,57.628
-scaffold_260	0	125440	4768,3.801
-scaffold_1	0	151157944	4485,0.003
+REMOVE	scaffold_525
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_716	0	15076	8741,57.980
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -20,41 +16,29 @@ scaffold_716	0	15076	8741,57.980
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_614	0	28631	11912,41.605
-scaffold_671	0	22846	9074,39.718
-scaffold_666	0	23121	6660,28.805
-scaffold_560	0	32795	9072,27.663
-scaffold_512	0	38203	9143,23.933
-scaffold_601	0	29440	7010,23.811
-scaffold_334	0	83484	19685,23.579
-scaffold_302	0	101080	20714,20.493
-scaffold_408	0	57760	11241,19.462
-scaffold_654	0	24774	3908,15.775
-scaffold_487	0	41906	5316,12.686
-scaffold_384	0	64966	5115,7.873
-scaffold_354	0	73336	5378,7.333
-scaffold_503	0	39070	2529,6.473
-scaffold_618	0	28473	1602,5.626
-scaffold_631	0	27012	1070,3.961
-scaffold_716	0	15076	392,2.600
-scaffold_259	0	128178	137,0.107
-scaffold_54	0	1879870	274,0.015
-scaffold_27	0	4541130	108,0.002
-scaffold_18	0	6300948	137,0.002
-scaffold_17	0	6605803	124,0.002
-scaffold_2	0	117632605	1566,0.001
-scaffold_1	0	151157944	1910,0.001
-scaffold_9	0	18810552	168,0.001
-scaffold_5	0	35253144	110,0.000
-scaffold_4	0	72246087	154,0.000
-scaffold_3	0	78706016	154,0.000
+
+#Alphaproteobacteria
+REMOVE	scaffold_302
+REMOVE	scaffold_334
+REMOVE	scaffold_354
+REMOVE	scaffold_384
+REMOVE	scaffold_408
+REMOVE	scaffold_487
+REMOVE	scaffold_503
+REMOVE	scaffold_512
+REMOVE	scaffold_601
+REMOVE	scaffold_618
+REMOVE	scaffold_631
+REMOVE	scaffold_654
+REMOVE	scaffold_666
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_677	0	22183	280,1.262
-scaffold_90	0	613361	3500,0.571
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_716	0	15076	2940,19.501
+
+#Magnoliopsida
+REMOVE	scaffold_716
 ========== TRIM Ns ==========
 
