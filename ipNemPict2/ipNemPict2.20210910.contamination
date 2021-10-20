@@ -11,6 +11,43 @@ REMOVE	scaffold_70
 
 ========== BARCODES ==========
 
+========== REFSEQ: bacteria ==========
+#Betaproteobacteria
+REMOVE	scaffold_18
+REMOVE	scaffold_38
+REMOVE	scaffold_43
+REMOVE	scaffold_53
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_66
+REMOVE	scaffold_85
+REMOVE	scaffold_86
+
+#Cytophagia
+REMOVE	scaffold_73
+REMOVE	scaffold_75
+
+#Flavobacteriia
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_65
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_72
+REMOVE	scaffold_74
+REMOVE	scaffold_77
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_81
+REMOVE	scaffold_82
+REMOVE	scaffold_84
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+
+#Gammaproteobacteria
+REMOVE	scaffold_83
+
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -19,5 +56,9 @@ REMOVE	scaffold_70
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
+#Magnoliopsida
+REMOVE	scaffold_71
+
+
 ========== TRIM Ns ==========
 
