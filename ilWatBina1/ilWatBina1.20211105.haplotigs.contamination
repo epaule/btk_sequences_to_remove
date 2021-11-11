@@ -4,8 +4,8 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-REMOVE	hap_ptg000123l_1_1
-
+REMOVE	ptg000027l_rc_rotated
+REMOVE	hap_ptg000107l_1_1
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
@@ -24,7 +24,7 @@ REMOVE	atg000512l_1
 REMOVE	atg000531l_1
 REMOVE	hap_ptg000049l_1_1
 
-#hap_ptg000049l_1_1
+#Rickettsiales
 REMOVE	hap_ptg000123l_1_1
 
 
