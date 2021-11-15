@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-REMOVE	scaffold_533
+
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,34 +13,31 @@ REMOVE	scaffold_533
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#Wolbachia
-REMOVE	scaffold_91
-REMOVE	scaffold_75
-REMOVE	scaffold_689
-REMOVE	scaffold_687
-REMOVE	scaffold_674
-REMOVE	scaffold_670
-REMOVE	scaffold_659
-REMOVE	scaffold_612
-REMOVE	scaffold_517
-REMOVE	scaffold_472
-REMOVE	scaffold_238
-REMOVE	scaffold_231
-REMOVE	scaffold_209
-REMOVE	scaffold_156
-REMOVE	scaffold_126
-REMOVE	scaffold_121
-REMOVE	scaffold_117
-
-========== REFSEQ: virus ==========
-#Myoviridae
-REMOVE	scaffold_97
-
+atg006909l_1	0	37979	3738,9.842
+hap_ptg001522l_1_1	0	54595	1032,1.890
+atg006662l_1	0	35801	128,0.358
+atg000302l_1	0	348352	117,0.034
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001765l_1_1	0	27480	989,3.599
+atg004640l_1	0	28216	444,1.574
+atg003087l_1	0	103915	736,0.708
+atg000463l_1	0	78327	506,0.646
+atg001131l_1	0	68559	442,0.645
+atg004431l_1	0	68979	436,0.632
+atg005084l_1	0	66487	416,0.626
+hap_ptg000725l_1_1	0	88930	461,0.518
+hap_ptg000840l_1_1	0	44586	230,0.516
+atg000685l_1	0	182810	828,0.453
+atg004846l_1	0	32819	115,0.350
+atg000380l_1	0	158616	519,0.327
+atg000631l_1	0	694630	1042,0.150
+atg001532l_1	0	247331	296,0.120
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000725l_1_1	0	88930	463,0.521
+hap_ptg000840l_1_1	0	44586	232,0.520
+atg004846l_1	0	32819	116,0.353
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
