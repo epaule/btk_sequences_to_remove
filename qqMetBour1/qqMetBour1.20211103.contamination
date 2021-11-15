@@ -1,0 +1,63 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_126	0	108314	15954,14.729
+scaffold_75	0	201941	21949,10.869
+scaffold_117	0	121077	11326,9.354
+scaffold_209	0	58303	4123,7.072
+scaffold_238	0	52632	2584,4.910
+scaffold_121	0	114819	4450,3.876
+scaffold_674	0	17949	637,3.549
+scaffold_517	0	28812	1017,3.530
+scaffold_156	0	85178	2131,2.502
+scaffold_91	0	172682	2350,1.361
+scaffold_612	0	23874	157,0.658
+scaffold_1	0	117555959	225,0.000
+scaffold_10	0	89222469	128,0.000
+scaffold_9	0	94352213	117,0.000
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_666	0	18948	115,0.607
+scaffold_642	0	21682	115,0.530
+scaffold_149	0	90976	462,0.508
+scaffold_623	0	23461	115,0.490
+scaffold_570	0	26611	115,0.432
+scaffold_435	0	33085	115,0.348
+scaffold_59	0	320409	826,0.258
+scaffold_57	0	332860	826,0.248
+scaffold_37	0	703860	989,0.141
+scaffold_21	0	3600797	736,0.020
+scaffold_15	0	9499325	1316,0.014
+scaffold_7	0	99768879	2218,0.002
+scaffold_4	0	105957270	2301,0.002
+scaffold_9	0	94352213	1610,0.002
+scaffold_6	0	102525509	1409,0.001
+scaffold_13	0	60258054	828,0.001
+scaffold_3	0	113519576	1545,0.001
+scaffold_1	0	117555959	1234,0.001
+scaffold_5	0	103380954	1026,0.001
+scaffold_11	0	84402561	338,0.000
+scaffold_2	0	115681219	250,0.000
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_666	0	18948	116,0.612
+scaffold_642	0	21682	116,0.535
+scaffold_149	0	90976	464,0.510
+scaffold_623	0	23461	116,0.494
+scaffold_570	0	26611	116,0.436
+scaffold_435	0	33085	116,0.351
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
