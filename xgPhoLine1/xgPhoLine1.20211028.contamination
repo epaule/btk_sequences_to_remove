@@ -11,11 +11,76 @@ REMOVE	scaffold_192
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#Bacteroidetes
+REMOVE	scaffold_223
+
+#Firmicutes
+REMOVE	scaffold_16
+
+#Proteobacteria
+REMOVE	scaffold_151
+REMOVE	scaffold_213
+REMOVE	scaffold_34
+REMOVE	scaffold_97
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 # scaffold_19	0	6670472	124,0.002
 ========== REFSEQ: other_eukaryota ==========
+#Ciliophora
+REMOVE	scaffold_161
+REMOVE	scaffold_177
+REMOVE	scaffold_184
+REMOVE	scaffold_186
+REMOVE	scaffold_187
+REMOVE	scaffold_191
+REMOVE	scaffold_194
+REMOVE	scaffold_197
+REMOVE	scaffold_198
+REMOVE	scaffold_201
+REMOVE	scaffold_203
+REMOVE	scaffold_204
+REMOVE	scaffold_205
+REMOVE	scaffold_208
+REMOVE	scaffold_212
+REMOVE	scaffold_214
+REMOVE	scaffold_215
+REMOVE	scaffold_216
+REMOVE	scaffold_218
+REMOVE	scaffold_219
+REMOVE	scaffold_221
+REMOVE	scaffold_222
+REMOVE	scaffold_224
+REMOVE	scaffold_227
+REMOVE	scaffold_229
+REMOVE	scaffold_232
+REMOVE	scaffold_233
+REMOVE	scaffold_237
+REMOVE	scaffold_239
+REMOVE	scaffold_241
+REMOVE	scaffold_242
+REMOVE	scaffold_244
+
+========== REFSEQ: virus ==========
+#Uroviricota
+REMOVE	scaffold_145
+
+========== REFSEQ: fungi ==========
+#Mucoromycota
+REMOVE	scaffold_189
+
+#Oomycota
+REMOVE	scaffold_228
+REMOVE	scaffold_230
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+#Streptophyta
+REMOVE	scaffold_185
+REMOVE	scaffold_234
+REMOVE	scaffold_235
+
 ========== TRIM Ns ==========
 
