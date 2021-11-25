@@ -1,0 +1,69 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# scaffold_128	0	85149	211,0.248
+# scaffold_119	0	93485	83,0.089
+# scaffold_22	0	4057748	422,0.010
+# scaffold_23	0	3929115	83,0.002
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_154
+REMOVE	scaffold_158
+REMOVE	scaffold_183
+REMOVE	scaffold_189
+REMOVE	scaffold_198
+REMOVE	scaffold_218
+REMOVE	scaffold_228
+REMOVE	scaffold_274
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_134
+REMOVE	scaffold_166
+REMOVE	scaffold_205
+REMOVE	scaffold_267
+REMOVE	scaffold_279
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_89	0	117619	10758,9.146
+scaffold_209	0	49006	4098,8.362
+scaffold_176	0	58361	3349,5.738
+scaffold_164	0	62147	2124,3.418
+scaffold_87	0	124080	3547,2.859
+scaffold_41	0	383332	9855,2.571
+scaffold_174	0	59376	1430,2.408
+scaffold_97	0	113358	1430,1.261
+scaffold_312	0	30084	333,1.107
+scaffold_128	0	85149	885,1.039
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# scaffold_18	0	48166643	1336,0.003
+# scaffold_13	0	55440046	167,0.000
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# scaffold_172	0	59718	139,0.233
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# scaffold_279	0	34342	188,0.547
+# scaffold_183	0	57177	188,0.329
+# scaffold_158	0	67742	188,0.278
+# scaffold_134	0	81874	188,0.230
+# scaffold_54	0	247503	109,0.044
+# scaffold_35	0	422034	128,0.030
+# scaffold_28	0	628604	128,0.020
+# scaffold_11	0	58469098	188,0.000
+# scaffold_5	0	76261804	188,0.000
+# scaffold_18	0	48166643	113,0.000
+# scaffold_4	0	81923647	188,0.000
+# scaffold_2	0	90780092	188,0.000
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
