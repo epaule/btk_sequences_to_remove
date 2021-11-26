@@ -3,7 +3,9 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject descriptionREMOVE
+REMOVE	atg000633l_1
+REMOVE	atg000688l_1
 
 ========== PLASTID SEQUENCE ==========
 
