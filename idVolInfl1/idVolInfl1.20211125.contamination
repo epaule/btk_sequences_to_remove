@@ -1,18 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_134	0	19614	5808,29.612
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_140	0	15751	12876,81.747
-scaffold_6	0	68924869	2996,0.004
-scaffold_1	0	148933359	853,0.001
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_140	0	15751	15751,100.000
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -26,19 +21,48 @@ scaffold_15	0	896636	767058,85.548
 scaffold_12	0	1502845	618410,41.149
 scaffold_114	0	29279	3648,12.459
 scaffold_11	0	1980792	3075,0.155
+
+#Alphaproteobacteria
+REMOVE	scaffold_11
+REMOVE	scaffold_12
+REMOVE	scaffold_128
+REMOVE	scaffold_15
+REMOVE	scaffold_27
+
+#Gammaproteobacteria
+REMOVE	scaffold_114
+REMOVE	scaffold_131
+REMOVE	scaffold_134
+REMOVE	scaffold_136
+REMOVE	scaffold_142
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_133	0	20268	280,1.381
-scaffold_132	0	21990	261,1.187
-scaffold_87	0	62447	420,0.673
-scaffold_93	0	51227	283,0.552
-scaffold_123	0	26850	140,0.521
-scaffold_69	0	86835	280,0.322
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_11	0	1980792	640,0.032
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_140	0	15751	10327,65.564
+
+#Magnoliopsida
+REMOVE	scaffold_105
+REMOVE	scaffold_109
+REMOVE	scaffold_111
+REMOVE	scaffold_118
+REMOVE	scaffold_123
+REMOVE	scaffold_127
+REMOVE	scaffold_132
+REMOVE	scaffold_133
+REMOVE	scaffold_135
+REMOVE	scaffold_138
+REMOVE	scaffold_140
+REMOVE	scaffold_141
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_76
+REMOVE	scaffold_85
+REMOVE	scaffold_87
+REMOVE	scaffold_93
+
+
 ========== TRIM Ns ==========
 
