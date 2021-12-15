@@ -14,6 +14,16 @@ VecScreen_Strong	scaffold_19	4924656	4924688
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#Betaproteobacteria
+REMOVE	scaffold_256
+
+#Gammaproteobacteria
+REMOVE	scaffold_257
+REMOVE	scaffold_262
+REMOVE	scaffold_269
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
@@ -21,5 +31,9 @@ VecScreen_Strong	scaffold_19	4924656	4924688
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
+#Magnoliopsida
+REMOVE	scaffold_221
+REMOVE	scaffold_267
+
 ========== TRIM Ns ==========
 

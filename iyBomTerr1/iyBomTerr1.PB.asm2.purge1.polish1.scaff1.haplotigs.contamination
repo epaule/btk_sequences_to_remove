@@ -17,5 +17,8 @@
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+#Magnoliopsida
+REMOVE	hap_ptg000568l_1_1 
+
 ========== TRIM Ns ==========
 
