@@ -12,11 +12,28 @@ REMOVE	scaffold_164
 
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#Enterobacterales
+REMOVE	scaffold_181
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Ascomycota
+REMOVE	scaffold_143
+REMOVE	scaffold_159
+REMOVE	scaffold_169
+
 ========== REFSEQ: other_metazoa ==========
+========== REFSEQ: virus ==========
+#Caudovirales
+REMOVE	scaffold_94
+
 ========== REFSEQ: viridiplantae ==========
+#Fabales
+REMOVE	scaffold_177
+
 ========== TRIM Ns ==========
 
