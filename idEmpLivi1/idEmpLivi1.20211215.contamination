@@ -1,12 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_281	0	47861	81,0.169
-scaffold_228	0	60818	81,0.133
-scaffold_227	0	60912	81,0.133
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+
+REMOVE	scaffold_345
+REMOVE	scaffold_414
+REMOVE	scaffold_417
 
 ========== PLASTID SEQUENCE ==========
 
@@ -17,19 +18,67 @@ scaffold_227	0	60912	81,0.133
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_205	0	68339	781,1.143
-scaffold_177	0	75218	781,1.038
-scaffold_164	0	79305	781,0.985
-scaffold_209	0	67362	260,0.386
+
+#Legionellales
+REMOVE	scaffold_110
+REMOVE	scaffold_139
+REMOVE	scaffold_152
+REMOVE	scaffold_164
+REMOVE	scaffold_168
+REMOVE	scaffold_171
+REMOVE	scaffold_174
+REMOVE	scaffold_177
+REMOVE	scaffold_179
+REMOVE	scaffold_181
+REMOVE	scaffold_185
+REMOVE	scaffold_189
+REMOVE	scaffold_194
+REMOVE	scaffold_195
+REMOVE	scaffold_196
+REMOVE	scaffold_199
+REMOVE	scaffold_201
+REMOVE	scaffold_204
+REMOVE	scaffold_205
+REMOVE	scaffold_206
+REMOVE	scaffold_209
+REMOVE	scaffold_211
+REMOVE	scaffold_212
+REMOVE	scaffold_216
+REMOVE	scaffold_219
+REMOVE	scaffold_220
+REMOVE	scaffold_224
+REMOVE	scaffold_227
+REMOVE	scaffold_228
+REMOVE	scaffold_230
+REMOVE	scaffold_235
+REMOVE	scaffold_236
+REMOVE	scaffold_237
+REMOVE	scaffold_238
+REMOVE	scaffold_239
+REMOVE	scaffold_240
+REMOVE	scaffold_242
+REMOVE	scaffold_245
+REMOVE	scaffold_246
+REMOVE	scaffold_249
+REMOVE	scaffold_251
+REMOVE	scaffold_252
+REMOVE	scaffold_255
+REMOVE	scaffold_256
+REMOVE	scaffold_259
+REMOVE	scaffold_267
+REMOVE	scaffold_270
+REMOVE	scaffold_281
+REMOVE	scaffold_415
+REMOVE	scaffold_55
+REMOVE	scaffold_90
+
+#Nitrosomonadales
+REMOVE	scaffold_203
+REMOVE	scaffold_263
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_17	0	404763	4263,1.053
-scaffold_277	0	49342	406,0.823
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_209	0	67362	124,0.184
-scaffold_205	0	68339	124,0.181
-scaffold_177	0	75218	124,0.165
-scaffold_164	0	79305	124,0.156
 ========== TRIM Ns ==========
 

@@ -1,12 +1,11 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001997l_1_1	0	51954	81,0.156
-hap_ptg003493l_1_1	0	52489	81,0.154
-hap_ptg000989l_1_1	0	53863	81,0.150
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_ptg001227l_1_1
+REMOVE	hap_ptg002304l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -17,18 +16,84 @@ hap_ptg000989l_1_1	0	53863	81,0.150
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg002703l_1_1	0	30608	781,2.552
-hap_ptg001497l_1_1	0	57116	781,1.367
-hap_ptg003585l_1_1	0	59567	781,1.311
-hap_ptg001501l_1_1	0	56446	396,0.702
+
+#Legionellales
+REMOVE	atg000257l_1
+REMOVE	hap_ptg000018l_1_1
+REMOVE	hap_ptg000058l_1_1
+REMOVE	hap_ptg000190l_1_1
+REMOVE	hap_ptg000196l_1_1
+REMOVE	hap_ptg000291l_1_1
+REMOVE	hap_ptg000292l_1_1
+REMOVE	hap_ptg000497l_1_1
+REMOVE	hap_ptg000544l_1_1
+REMOVE	hap_ptg000552l_1_1
+REMOVE	hap_ptg000612l_1_1
+REMOVE	hap_ptg000727l_1_1
+REMOVE	hap_ptg000892l_1_1
+REMOVE	hap_ptg000989l_1_1
+REMOVE	hap_ptg001008l_1_1
+REMOVE	hap_ptg001034l_1_1
+REMOVE	hap_ptg001137l_1_1
+REMOVE	hap_ptg001230l_1_1
+REMOVE	hap_ptg001231l_1_1
+REMOVE	hap_ptg001239l_1_1
+REMOVE	hap_ptg001285l_1_1
+REMOVE	hap_ptg001429l_1_1
+REMOVE	hap_ptg001497l_1_1
+REMOVE	hap_ptg001501l_1_1
+REMOVE	hap_ptg001609l_1_1
+REMOVE	hap_ptg001614l_1_1
+REMOVE	hap_ptg001648l_1_1
+REMOVE	hap_ptg001689l_1_1
+REMOVE	hap_ptg001693l_1_1
+REMOVE	hap_ptg001711l_1_1
+REMOVE	hap_ptg001744l_1_1
+REMOVE	hap_ptg001878l_1_1
+REMOVE	hap_ptg001896l_1_1
+REMOVE	hap_ptg001997l_1_1
+REMOVE	hap_ptg002041l_1_1
+REMOVE	hap_ptg002047l_1_1
+REMOVE	hap_ptg002180l_1_1
+REMOVE	hap_ptg002198l_1_1
+REMOVE	hap_ptg002210l_1_1
+REMOVE	hap_ptg002252l_1_1
+REMOVE	hap_ptg002295l_1_1
+REMOVE	hap_ptg002308l_1_1
+REMOVE	hap_ptg002345l_1_1
+REMOVE	hap_ptg002368l_1_1
+REMOVE	hap_ptg002385l_1_1
+REMOVE	hap_ptg002415l_1_1
+REMOVE	hap_ptg002463l_1_1
+REMOVE	hap_ptg002499l_1_1
+REMOVE	hap_ptg002535l_1_1
+REMOVE	hap_ptg002596l_1_1
+REMOVE	hap_ptg002653l_1_1
+REMOVE	hap_ptg002703l_1_1
+REMOVE	hap_ptg002720l_1_1
+REMOVE	hap_ptg002839l_1_1
+REMOVE	hap_ptg002914l_1_1
+REMOVE	hap_ptg002966l_1_1
+REMOVE	hap_ptg003055l_1_1
+REMOVE	hap_ptg003083l_1_1
+REMOVE	hap_ptg003108l_1_1
+REMOVE	hap_ptg003121l_1_1
+REMOVE	hap_ptg003138l_1_1
+REMOVE	hap_ptg003201l_1_1
+REMOVE	hap_ptg003285l_1_1
+REMOVE	hap_ptg003330l_1_1
+REMOVE	hap_ptg003392l_1_1
+REMOVE	hap_ptg003429l_1_1
+REMOVE	hap_ptg003493l_1_1
+REMOVE	hap_ptg003568l_1_1
+REMOVE	hap_ptg003585l_1_1
+
+#Thiotrichales
+REMOVE	hap_ptg000134l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000299l_1_1	0	361538	3591,0.993
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg002703l_1_1	0	30608	124,0.405
-hap_ptg001501l_1_1	0	56446	124,0.220
-hap_ptg001497l_1_1	0	57116	124,0.217
-hap_ptg003585l_1_1	0	59567	124,0.208
 ========== TRIM Ns ==========
 
