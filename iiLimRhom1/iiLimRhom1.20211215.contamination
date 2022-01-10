@@ -4,9 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_46	0	523293	3140,0.600
-scaffold_37	0	2025518	1879,0.093
-scaffold_5	0	62076686	1816,0.003
 
 ========== PLASTID SEQUENCE ==========
 
@@ -17,19 +14,53 @@ scaffold_5	0	62076686	1816,0.003
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_64	0	71929	767,1.066
-scaffold_60	0	88155	767,0.870
-scaffold_107	0	22913	118,0.515
+
+# Alphaproteobacteria
+REMOVE	scaffold_100
+REMOVE	scaffold_101
+REMOVE	scaffold_102
+REMOVE	scaffold_103
+REMOVE	scaffold_106
+REMOVE	scaffold_109
+REMOVE	scaffold_114
+REMOVE	scaffold_59
+REMOVE	scaffold_60
+REMOVE	scaffold_64
+REMOVE	scaffold_69
+REMOVE	scaffold_72
+REMOVE	scaffold_73
+REMOVE	scaffold_74
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_83
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+REMOVE	scaffold_90
+REMOVE	scaffold_92
+REMOVE	scaffold_93
+REMOVE	scaffold_94
+REMOVE	scaffold_95
+REMOVE	scaffold_96
+
+# Betaproteobacteria
+REMOVE	scaffold_66
+REMOVE	scaffold_84
+
+#Gammaproteobacteria
+REMOVE	scaffold_107
+REMOVE	scaffold_108
+REMOVE	scaffold_110
+REMOVE	scaffold_116
+REMOVE	scaffold_117
+REMOVE	scaffold_68
+REMOVE	scaffold_71
+REMOVE	scaffold_77
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_16	0	53423847	115,0.000
-scaffold_17	0	52506385	113,0.000
-scaffold_2	0	69062322	121,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_64	0	71929	128,0.178
-scaffold_60	0	88155	128,0.145
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
