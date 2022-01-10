@@ -1,0 +1,249 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_429
+REMOVE	scaffold_456
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+VecScreen_Strong	scaffold_216	2054	2085
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Gammaproteobacteria
+REMOVE	scaffold_143
+REMOVE	scaffold_144
+REMOVE	scaffold_154
+REMOVE	scaffold_156
+REMOVE	scaffold_165
+REMOVE	scaffold_166
+REMOVE	scaffold_170
+REMOVE	scaffold_172
+REMOVE	scaffold_173
+REMOVE	scaffold_179
+REMOVE	scaffold_180
+REMOVE	scaffold_181
+REMOVE	scaffold_183
+REMOVE	scaffold_192
+REMOVE	scaffold_195
+REMOVE	scaffold_197
+REMOVE	scaffold_198
+REMOVE	scaffold_199
+REMOVE	scaffold_201
+REMOVE	scaffold_202
+REMOVE	scaffold_203
+REMOVE	scaffold_204
+REMOVE	scaffold_205
+REMOVE	scaffold_209
+REMOVE	scaffold_210
+REMOVE	scaffold_211
+REMOVE	scaffold_212
+REMOVE	scaffold_216
+REMOVE	scaffold_217
+REMOVE	scaffold_220
+REMOVE	scaffold_221
+REMOVE	scaffold_222
+REMOVE	scaffold_224
+REMOVE	scaffold_232
+REMOVE	scaffold_233
+REMOVE	scaffold_237
+REMOVE	scaffold_238
+REMOVE	scaffold_240
+REMOVE	scaffold_241
+REMOVE	scaffold_242
+REMOVE	scaffold_243
+REMOVE	scaffold_246
+REMOVE	scaffold_247
+REMOVE	scaffold_248
+REMOVE	scaffold_249
+REMOVE	scaffold_251
+REMOVE	scaffold_253
+REMOVE	scaffold_254
+REMOVE	scaffold_255
+REMOVE	scaffold_256
+REMOVE	scaffold_257
+REMOVE	scaffold_259
+REMOVE	scaffold_260
+REMOVE	scaffold_261
+REMOVE	scaffold_262
+REMOVE	scaffold_263
+REMOVE	scaffold_264
+REMOVE	scaffold_265
+REMOVE	scaffold_267
+REMOVE	scaffold_268
+REMOVE	scaffold_269
+REMOVE	scaffold_270
+REMOVE	scaffold_271
+REMOVE	scaffold_272
+REMOVE	scaffold_273
+REMOVE	scaffold_274
+REMOVE	scaffold_275
+REMOVE	scaffold_276
+REMOVE	scaffold_277
+REMOVE	scaffold_278
+REMOVE	scaffold_279
+REMOVE	scaffold_280
+REMOVE	scaffold_281
+REMOVE	scaffold_282
+REMOVE	scaffold_283
+REMOVE	scaffold_284
+REMOVE	scaffold_285
+REMOVE	scaffold_286
+REMOVE	scaffold_287
+REMOVE	scaffold_288
+REMOVE	scaffold_289
+REMOVE	scaffold_291
+REMOVE	scaffold_293
+REMOVE	scaffold_294
+REMOVE	scaffold_295
+REMOVE	scaffold_296
+REMOVE	scaffold_297
+REMOVE	scaffold_298
+REMOVE	scaffold_299
+REMOVE	scaffold_300
+REMOVE	scaffold_301
+REMOVE	scaffold_302
+REMOVE	scaffold_303
+REMOVE	scaffold_304
+REMOVE	scaffold_305
+REMOVE	scaffold_306
+REMOVE	scaffold_307
+REMOVE	scaffold_308
+REMOVE	scaffold_309
+REMOVE	scaffold_310
+REMOVE	scaffold_311
+REMOVE	scaffold_312
+REMOVE	scaffold_313
+REMOVE	scaffold_314
+REMOVE	scaffold_315
+REMOVE	scaffold_316
+REMOVE	scaffold_317
+REMOVE	scaffold_318
+REMOVE	scaffold_319
+REMOVE	scaffold_320
+REMOVE	scaffold_321
+REMOVE	scaffold_322
+REMOVE	scaffold_323
+REMOVE	scaffold_324
+REMOVE	scaffold_325
+REMOVE	scaffold_326
+REMOVE	scaffold_327
+REMOVE	scaffold_328
+REMOVE	scaffold_329
+REMOVE	scaffold_330
+REMOVE	scaffold_331
+REMOVE	scaffold_332
+REMOVE	scaffold_333
+REMOVE	scaffold_334
+REMOVE	scaffold_336
+REMOVE	scaffold_337
+REMOVE	scaffold_339
+REMOVE	scaffold_340
+REMOVE	scaffold_341
+REMOVE	scaffold_342
+REMOVE	scaffold_343
+REMOVE	scaffold_344
+REMOVE	scaffold_345
+REMOVE	scaffold_346
+REMOVE	scaffold_347
+REMOVE	scaffold_348
+REMOVE	scaffold_349
+REMOVE	scaffold_350
+REMOVE	scaffold_351
+REMOVE	scaffold_352
+REMOVE	scaffold_353
+REMOVE	scaffold_354
+REMOVE	scaffold_355
+REMOVE	scaffold_356
+REMOVE	scaffold_357
+REMOVE	scaffold_358
+REMOVE	scaffold_359
+REMOVE	scaffold_360
+REMOVE	scaffold_361
+REMOVE	scaffold_362
+REMOVE	scaffold_363
+REMOVE	scaffold_364
+REMOVE	scaffold_365
+REMOVE	scaffold_366
+REMOVE	scaffold_367
+REMOVE	scaffold_368
+REMOVE	scaffold_369
+REMOVE	scaffold_370
+REMOVE	scaffold_371
+REMOVE	scaffold_372
+REMOVE	scaffold_373
+REMOVE	scaffold_374
+REMOVE	scaffold_375
+REMOVE	scaffold_376
+REMOVE	scaffold_377
+REMOVE	scaffold_378
+REMOVE	scaffold_380
+REMOVE	scaffold_382
+REMOVE	scaffold_383
+REMOVE	scaffold_384
+REMOVE	scaffold_385
+REMOVE	scaffold_387
+REMOVE	scaffold_388
+REMOVE	scaffold_389
+REMOVE	scaffold_390
+REMOVE	scaffold_392
+REMOVE	scaffold_393
+REMOVE	scaffold_394
+REMOVE	scaffold_395
+REMOVE	scaffold_397
+REMOVE	scaffold_398
+REMOVE	scaffold_399
+REMOVE	scaffold_400
+REMOVE	scaffold_401
+REMOVE	scaffold_402
+REMOVE	scaffold_403
+REMOVE	scaffold_404
+REMOVE	scaffold_405
+REMOVE	scaffold_406
+REMOVE	scaffold_407
+REMOVE	scaffold_408
+REMOVE	scaffold_409
+REMOVE	scaffold_410
+REMOVE	scaffold_411
+REMOVE	scaffold_412
+REMOVE	scaffold_413
+REMOVE	scaffold_415
+REMOVE	scaffold_417
+REMOVE	scaffold_419
+REMOVE	scaffold_420
+REMOVE	scaffold_421
+REMOVE	scaffold_422
+REMOVE	scaffold_423
+REMOVE	scaffold_425
+REMOVE	scaffold_426
+REMOVE	scaffold_427
+REMOVE	scaffold_428
+REMOVE	scaffold_430
+REMOVE	scaffold_431
+REMOVE	scaffold_432
+REMOVE	scaffold_435
+REMOVE	scaffold_441
+REMOVE	scaffold_448
+REMOVE	scaffold_450
+REMOVE	scaffold_451
+REMOVE	scaffold_458
+REMOVE	scaffold_459
+REMOVE	scaffold_463
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+========== REFSEQ: viruses_and_viroids ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
