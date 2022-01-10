@@ -1,0 +1,53 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+VecScreen_Strong	atg000001l_1_1725236	1066918	1066950
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  atg000480l_1_23943
+REMOVE  atg000424l_1_53101
+REMOVE  atg000481l_1_36576
+REMOVE  atg000551l_1_21278
+REMOVE  atg000340l_1_68363
+REMOVE  atg000332l_1_30150
+REMOVE  atg000259l_1_28570
+REMOVE  atg000349l_1_100987
+REMOVE  atg000375l_1_51402
+REMOVE  atg000389l_1_42174
+REMOVE  atg000404l_1_17382
+REMOVE  atg000408l_1_39584
+REMOVE  atg000444l_1_52636
+REMOVE  atg000455l_1_17725
+REMOVE  atg000468l_1_42288
+REMOVE  atg000476l_1_74102
+REMOVE  atg000494l_1_32997
+REMOVE  atg000497l_1_37943
+REMOVE  atg000548l_1_22325
+REMOVE  atg000555l_1_38597
+REMOVE  atg000556l_1_32854
+REMOVE  atg000621l_1_23920
+REMOVE  atg000238l_1_28881
+REMOVE  atg000206l_1_21378
+REMOVE  atg000214l_1_45895
+REMOVE  atg000478l_1_14742
+REMOVE  atg000567l_1_15990
+REMOVE  hap_ptg000073l_1_17528
+REMOVE  hap_ptg000129l_1_31259
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
