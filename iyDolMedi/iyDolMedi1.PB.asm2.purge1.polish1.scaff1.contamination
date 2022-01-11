@@ -1,0 +1,66 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_148
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# Lactobacillales
+REMOVE  scaffold_66
+REMOVE  scaffold_128
+REMOVE  scaffold_146
+REMOVE  scaffold_149
+REMOVE  scaffold_163
+REMOVE  scaffold_176
+REMOVE  scaffold_183
+REMOVE  scaffold_191
+REMOVE  scaffold_202
+REMOVE  scaffold_208
+REMOVE  scaffold_217
+REMOVE  scaffold_218
+REMOVE  scaffold_219
+REMOVE  scaffold_220
+REMOVE  scaffold_228
+REMOVE  scaffold_230
+REMOVE  scaffold_235
+REMOVE  scaffold_240
+REMOVE  scaffold_242
+REMOVE  scaffold_244
+REMOVE  scaffold_245
+
+# Rickettsiales
+REMOVE  scaffold_151
+REMOVE  scaffold_153
+REMOVE  scaffold_157
+REMOVE  scaffold_172
+REMOVE  scaffold_174
+REMOVE  scaffold_180
+REMOVE  scaffold_182
+REMOVE  scaffold_184
+REMOVE  scaffold_186
+REMOVE  scaffold_189
+REMOVE  scaffold_194
+REMOVE  scaffold_200
+REMOVE  scaffold_204
+REMOVE  scaffold_210
+REMOVE  scaffold_211
+REMOVE  scaffold_226
+REMOVE  scaffold_229
+REMOVE  scaffold_239
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
