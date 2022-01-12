@@ -285,6 +285,18 @@ REMOVE  scaffold_68
 # Ascomycota
 REMOVE  scaffold_331
 REMOVE  scaffold_275
+REMOVE	scaffold_315
+REMOVE	scaffold_306
+REMOVE	scaffold_292
+REMOVE	scaffold_260
+REMOVE	scaffold_150
+REMOVE	scaffold_182
+REMOVE	scaffold_230
+REMOVE	scaffold_254
+REMOVE	scaffold_282
+REMOVE	scaffold_291
+REMOVE	scaffold_296
+REMOVE	scaffold_336
 
 # Euglenozoa
 REMOVE  scaffold_324
