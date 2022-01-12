@@ -1,0 +1,93 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	hap_ptg000362l_1_1 
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# Proteobacteria
+REMOVE  hap_ptg000297l_1_1
+REMOVE  hap_ptg000365l_1_1
+
+
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# Ascomycota
+REMOVE  hap_ptg000131l_1_1
+REMOVE  atg000139l_1
+REMOVE  atg000215l_1
+REMOVE  atg000298l_1
+REMOVE  atg000316l_1
+REMOVE  atg000362l_1
+REMOVE  atg000370l_1
+REMOVE  atg000371l_1
+REMOVE  atg000373l_1
+REMOVE  atg000381l_1
+REMOVE  atg000383l_1
+REMOVE  atg000410l_1
+REMOVE  atg000414l_1
+REMOVE  atg000437l_1
+REMOVE  atg000441l_1
+REMOVE  atg000450l_1
+REMOVE  atg000452l_1
+REMOVE  atg000453l_1
+REMOVE  atg000457l_1
+REMOVE  atg000458l_1
+REMOVE  atg000460l_1
+REMOVE  atg000464l_1
+REMOVE  atg000468l_1
+REMOVE  atg000472l_1
+REMOVE  atg000476l_1
+REMOVE  atg000485l_1
+REMOVE  atg000488l_1
+REMOVE  atg000489l_1
+REMOVE  atg000499l_1
+REMOVE  atg000516l_1
+REMOVE  atg000519l_1
+REMOVE  atg000522l_1
+REMOVE  atg000527l_1
+REMOVE  atg000538l_1
+REMOVE  atg000539l_1
+REMOVE  atg000544l_1
+REMOVE  atg000550l_1
+REMOVE  atg000554l_1
+REMOVE  atg000569l_1
+REMOVE  atg000570l_1
+REMOVE  atg000574l_1
+REMOVE  atg000578l_1
+REMOVE  atg000583l_1
+REMOVE  atg000597l_1
+REMOVE  atg000605l_1
+REMOVE  atg000609l_1
+REMOVE  atg000618l_1
+REMOVE  atg000623l_1
+REMOVE  atg000628l_1
+REMOVE  hap_ptg000158l_1_1
+REMOVE  hap_ptg000205l_1_1
+REMOVE  hap_ptg000246l_1_1
+REMOVE  hap_ptg000341l_1_1
+REMOVE  hap_ptg000373l_1_1
+REMOVE  hap_ptg000431l_1_1
+REMOVE  hap_ptg000432l_1_1
+REMOVE  hap_ptg000452l_1_1
+
+========== REFSEQ: other_eukaryota ==========
+# Protozoan
+REMOVE  atg000559l_1
+
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== REFSEQ: viruses_and_viroids ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
