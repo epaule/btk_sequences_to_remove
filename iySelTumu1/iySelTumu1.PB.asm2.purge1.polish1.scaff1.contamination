@@ -24,8 +24,9 @@ REMOVE	scaffold_35
 # Spiroplasma
 REMOVE	scaffold_38
 REMOVE	scaffold_46
+REMOVE	scaffold_58
+REMOVE	scaffold_59
 
-scaffold_26	0	4462858	149,0.003
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
