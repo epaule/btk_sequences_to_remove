@@ -29,6 +29,7 @@ REMOVE	scaffold_171
 REMOVE	scaffold_177
 REMOVE	scaffold_187
 REMOVE	scaffold_231
+REMOVE	scaffold_181
 
 REMOVE  scaffold_94
 REMOVE  scaffold_97
@@ -81,20 +82,6 @@ REMOVE  scaffold_227 #
 REMOVE  scaffold_228
 REMOVE  scaffold_229 #
 REMOVE  scaffold_230
-
-# gammaproteobacteria
-REMOVE	scaffold_81
-REMOVE	scaffold_95
-REMOVE	scaffold_127
-REMOVE	scaffold_132
-REMOVE	scaffold_152
-REMOVE	scaffold_158
-REMOVE	scaffold_177
-REMOVE	scaffold_181
-REMOVE	scaffold_187
-REMOVE	scaffold_231
-REMOVE	scaffold_113
-REMOVE	scaffold_171
 
 ========== REFSEQ: other eukaryota ==========
 # mollusca
