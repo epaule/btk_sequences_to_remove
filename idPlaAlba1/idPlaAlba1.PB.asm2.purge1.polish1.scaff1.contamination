@@ -19,66 +19,38 @@ REMOVE	scaffold_235	0	90561	14989,16.551
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	scaffold_50	0	1318255	1271719,96.470
-#scaffold_190	0	156074	18507,11.858
-#scaffold_159	0	240261	27886,11.607
-#scaffold_193	0	153856	17207,11.184
-REMOVE	scaffold_361	0	31521	620,1.967
+REMOVE	scaffold_50
+REMOVE	scaffold_361
 # looks like nuwt	scaffold_185	0	165758	460,0.278
-REMOVE	scaffold_179	0	180259	255,0.141
-REMOVE	scaffold_249	0	78166	100,0.128
-REMOVE	scaffold_116	0	422339	484,0.115
-#scaffold_143	0	298500	246,0.082
-REMOVE	scaffold_196	0	146828	120,0.082
-#scaffold_90	0	672471	127,0.019
+REMOVE	scaffold_116
+REMOVE	scaffold_179
+REMOVE	scaffold_196
+REMOVE	scaffold_249
 # looks like nuwt scaffold_80	0	787131	138,0.018
-#scaffold_92	0	627154	102,0.016
-#scaffold_47	0	1455272	152,0.010
-#scaffold_25	0	3701695	314,0.008
-#scaffold_9	0	7179600	486,0.007
-#scaffold_40	0	1911259	113,0.006
-#scaffold_39	0	1953775	113,0.006
-#scaffold_18	0	5059822	251,0.005
-#scaffold_6	0	29165530	599,0.002
-#scaffold_2	0	91909721	1331,0.001
-#scaffold_4	0	81060967	1069,0.001
-#scaffold_1	0	108285936	1179,0.001
-#scaffold_3	0	87442380	937,0.001
-#scaffold_5	0	38120190	168,0.000
 #btk also finds
 REMOVE	scaffold_255
 REMOVE	scaffold_300
 REMOVE	scaffold_312
 REMOVE	scaffold_329
-REMOVE	scaffold_196
-REMOVE	scaffold_339
-REMOVE	scaffold_344
 REMOVE	scaffold_333
+REMOVE	scaffold_339
 REMOVE	scaffold_341
+REMOVE	scaffold_344
 REMOVE	scaffold_348
+REMOVE	scaffold_357
 REMOVE	scaffold_358
 REMOVE	scaffold_367
 REMOVE	scaffold_368
 REMOVE	scaffold_390
 REMOVE	scaffold_410
 REMOVE	scaffold_422
-REMOVE	scaffold_357
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-#scaffold_344	0	34298	139,0.405
-#scaffold_334	0	36393	140,0.385
-#scaffold_325	0	38185	137,0.359
-#scaffold_316	0	42040	140,0.333
-#scaffold_306	0	45763	139,0.304
-#scaffold_307	0	45624	129,0.283
-#scaffold_219	0	110781	122,0.110
-#scaffold_115	0	430225	140,0.033
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-#scaffold_361	0	31521	228,0.723
 ========== TRIM Ns ==========
 
