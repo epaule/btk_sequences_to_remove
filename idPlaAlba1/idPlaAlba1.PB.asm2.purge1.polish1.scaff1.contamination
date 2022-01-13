@@ -62,6 +62,7 @@ REMOVE	scaffold_368
 REMOVE	scaffold_390
 REMOVE	scaffold_410
 REMOVE	scaffold_422
+REMOVE	scaffold_357
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
