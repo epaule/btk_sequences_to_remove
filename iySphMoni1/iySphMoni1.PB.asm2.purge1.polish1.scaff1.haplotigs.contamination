@@ -30,6 +30,10 @@ REMOVE	hap_ptg000948l_1_1
 REMOVE	hap_ptg001061l_1_1 
 REMOVE	hap_ptg001158l_1_1 
 
+# Pseudomonas
+REMOVE	hap_ptg000382l_1
+REMOVE	hap_ptg001300l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
