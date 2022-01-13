@@ -48,6 +48,7 @@ REMOVE	scaffold_146
 REMOVE	scaffold_147
 REMOVE	scaffold_148
 REMOVE	scaffold_149
+REMOVE	scaffold_150
 REMOVE	scaffold_151
 
 ========== REFSEQ: virus ==========
@@ -103,6 +104,9 @@ REMOVE	scaffold_92
 REMOVE	scaffold_93
 REMOVE	scaffold_95
 REMOVE	scaffold_97
+REMOVE	scaffold_99
+REMOVE	scaffold_87
+REMOVE	scaffold_80
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 # scaffold_27	0	539224	280,0.052
