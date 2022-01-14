@@ -5,10 +5,6 @@
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_235	0	90561	14989,16.551
-#scaffold_69	0	889168	7889,0.887
-#scaffold_26	0	3429564	30117,0.878
-#scaffold_10	0	7113265	14869,0.209
-#scaffold_31	0	2840428	1605,0.057
 
 ========== PLASTID SEQUENCE ==========
 
@@ -19,15 +15,12 @@ REMOVE	scaffold_235	0	90561	14989,16.551
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	scaffold_50
-REMOVE	scaffold_361
 # looks like nuwt	scaffold_185	0	165758	460,0.278
+# looks like nuwt scaffold_80	0	787131	138,0.018
 REMOVE	scaffold_116
 REMOVE	scaffold_179
 REMOVE	scaffold_196
 REMOVE	scaffold_249
-# looks like nuwt scaffold_80	0	787131	138,0.018
-#btk also finds
 REMOVE	scaffold_255
 REMOVE	scaffold_300
 REMOVE	scaffold_312
@@ -39,11 +32,13 @@ REMOVE	scaffold_344
 REMOVE	scaffold_348
 REMOVE	scaffold_357
 REMOVE	scaffold_358
+REMOVE	scaffold_361
 REMOVE	scaffold_367
 REMOVE	scaffold_368
 REMOVE	scaffold_390
 REMOVE	scaffold_410
 REMOVE	scaffold_422
+REMOVE	scaffold_50
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description

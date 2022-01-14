@@ -4,13 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-#hap_ptg000988l_1_1	0	89566	14991,16.737
-#hap_ptg001520l_1_1	0	85277	12999,15.243
-#atg000074l_1	0	351805	30116,8.560
-#hap_ptg000004l_1_1	0	441418	7837,1.775
-#hap_ptg001511l_1_1	0	114526	1889,1.649
-#hap_ptg001408l_1_1	0	708309	1605,0.227
-#hap_ptg000241l_1_1	0	9258963	572,0.006
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -20,63 +13,15 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-#atg000449l_1	0	32700	32538,99.505
-#hap_ptg001255l_1_1	0	25990	25559,98.342
 REMOVE	hap_ptg001123l_1_1	0	40426	29555,73.109
-#hap_ptg000716l_1_1	0	140523	24088,17.142
-#atg000266l_1	0	71383	11346,15.895
 REMOVE	hap_ptg000770l_1_1	0	112710	484,0.429
 REMOVE	atg000252l_1	0	63353	255,0.403
 REMOVE	atg000214l_1	0	55621	100,0.180
-#hap_ptg000630l_1_1	0	154828	230,0.149
 REMOVE	hap_ptg001502l_1_1	0	175216	251,0.143
-#hap_ptg000366l_1_1	0	346520	484,0.140
-#hap_ptg001447l_1_1	0	154444	113,0.073
-#hap_ptg000637l_1_1	0	770230	138,0.018
-#hap_ptg000093l_1_1	0	5327052	949,0.018
-#hap_ptg000023l_1_1	0	2504106	366,0.015
-#hap_ptg000262l_1_1	0	4339108	591,0.014
-#hap_ptg001433l_1_1	0	1185298	151,0.013
-#hap_ptg000156l_1_1	0	1804689	188,0.010
-#hap_ptg000234l_1_1	0	2475421	248,0.010
-#hap_ptg001364l_1_1	0	2308104	216,0.009
-#hap_ptg001416l_1_1	0	1260445	113,0.009
-#hap_ptg000092l_1_1	0	3730540	318,0.009
-#hap_ptg000066l_1_1	0	4822148	377,0.008
-#hap_ptg000001l_1_1	0	12468710	693,0.006
-#hap_ptg000071l_1_1	0	2843469	152,0.005
-#hap_ptg000031l_1_1	0	5395005	225,0.004
-#hap_ptg000035l_1_1	0	3200110	116,0.004
-#hap_ptg000120l_1_1	0	8750441	315,0.004
-#hap_ptg000131l_1_1	0	3411216	113,0.003
-#hap_ptg000089l_1_1	0	8165940	232,0.003
-#hap_ptg000105l_1_1	0	3660668	100,0.003
-#hap_ptg000091l_1_1	0	7818662	198,0.003
-#hap_ptg000241l_1_1	0	9258963	222,0.002
-#hap_ptg000063l_1_1	0	8944540	211,0.002
-#hap_ptg000069l_1_1	0	7218960	108,0.001
-#hap_ptg000029l_1_1	0	17001809	116,0.001
 #btk also found
 REMOVE	atg000449l_1
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-#atg000326l_1	0	30275	140,0.462
-#atg000238l_1	0	31819	140,0.440
-#atg000118l_1	0	33327	140,0.420
-#hap_ptg001202l_1_1	0	42566	139,0.327
-#atg000496l_1	0	38081	119,0.312
-#hap_ptg001201l_1_1	0	44529	139,0.312
-#hap_ptg000081l_1_1	0	60142	139,0.231
-#hap_ptg001210l_1_1	0	63009	139,0.221
-#atg000526l_1	0	64701	141,0.218
-#hap_ptg001260l_1_1	0	71411	143,0.200
-#hap_ptg000756l_1_1	0	73600	139,0.189
-#hap_ptg001245l_1_1	0	72014	111,0.154
-#hap_ptg000381l_1_1	0	105300	139,0.132
-#hap_ptg000603l_1_1	0	161652	143,0.088
-#hap_ptg000915l_1_1	0	182165	140,0.077
-#hap_ptg000732l_1_1	0	240820	143,0.059
-#hap_ptg000771l_1_1	0	377008	139,0.037
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
