@@ -201,6 +201,12 @@ REMOVE	scaffold_95
 REMOVE	scaffold_96
 REMOVE	scaffold_98 
 
+# bacteria called by NCBI
+REMOVE	scaffold_139
+REMOVE	scaffold_197
+REMOVE	scaffold_208
+REMOVE	scaffold_213
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
@@ -223,5 +229,9 @@ REMOVE	scaffold_16	0	228143	34703,15.211
 #scaffold_19	0	171695	244,0.142
 #scaffold_27	0	128853	122,0.095
 #scaffold_25	0	137078	122,0.089
+
+# from NCBI
+REMOVE	scaffold_193
+
 ========== TRIM Ns ==========
 
