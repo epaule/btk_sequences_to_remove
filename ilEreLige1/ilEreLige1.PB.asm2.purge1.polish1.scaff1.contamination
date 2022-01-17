@@ -21,6 +21,11 @@ CONTAMINANT	scaffold_89	64797	64813
 ========== REFSEQ: bacteria ==========
 REMOVE	scaffold_40
 
+# Microsporidia
+REMOVE	scaffold_64
+REMOVE	scaffold_122
+REMOVE	scaffold_272
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
