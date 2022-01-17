@@ -1,0 +1,54 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	hap_ptg000178l_1_1	0	22551	96,0.426
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+#REMOVE	hap_ptg000262l_1_1	0	17231	12662,73.484
+REMOVE	atg003761l_1
+REMOVE	atg004323l_1
+#atg004249c_1	0	9859	565,5.731
+#atg004740l_1	0	14293	569,3.981
+#atg000852l_1	0	26562	878,3.305
+#atg002057l_1	0	45305	596,1.316
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+#hap_ptg000262l_1_1	0	17231	17231,100.000
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	hap_ptg000297l_1_1	0	15443	15153,98.122
+REMOVE	atg003854l_1	0	34044	5318,15.621
+REMOVE	atg003082l_1	0	23168	2168,9.358
+REMOVE	hap_ptg000218l_1_1	0	14796	1132,7.651
+#REMOVE	hap_ptg000262l_1_1	0	17231	113,0.656
+REMOVE	hap_ptg000178l_1_1	0	22551	140,0.621
+REMOVE	hap_ptg000274l_1_1	0	43015	217,0.504
+REMOVE	hap_ptg000122l_1_1	0	30893	115,0.372
+# other Proteobacteria called by btk
+REMOVE	hap_ptg000080l_1_1
+REMOVE	hap_ptg000142l_1_1
+REMOVE	hap_ptg000268l_1_1
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+#atg002720l_1	0	29229	140,0.479
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+#hap_ptg000262l_1_1	0	17231	188,1.091
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	hap_ptg000262l_1_1	0	17231	12490,72.486
+REMOVE	atg004249c_1
+REMOVE	atg004740l_1
+#hap_ptg000218l_1_1	0	14796	110,0.743
+========== TRIM Ns ==========
