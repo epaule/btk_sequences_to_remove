@@ -915,6 +915,28 @@ REMOVE	scaffold_361
 # Clostridium phage
 REMOVE	scaffold_312 
 
+# very skewed coverage and/or GC
+REMOVE	scaffold_838
+REMOVE	scaffold_830
+REMOVE	scaffold_775
+REMOVE	scaffold_757
+REMOVE	scaffold_748
+REMOVE	scaffold_789
+REMOVE	scaffold_854
+REMOVE	scaffold_832
+REMOVE	scaffold_858
+REMOVE	scaffold_708
+REMOVE	scaffold_695
+REMOVE	scaffold_691
+REMOVE	scaffold_656
+REMOVE	scaffold_655
+REMOVE	scaffold_697
+REMOVE	scaffold_550
+REMOVE	scaffold_506
+REMOVE	scaffold_498
+REMOVE	scaffold_491
+REMOVE	scaffold_386
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
