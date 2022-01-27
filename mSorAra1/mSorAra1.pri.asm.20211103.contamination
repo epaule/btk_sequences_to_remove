@@ -1,0 +1,36 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_228
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# scaffold_7	0	166085329	116,0.000
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_28
+REMOVE	scaffold_53
+========== REFSEQ: chordata ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+TRIM:	scaffold_3	334406726	338227856	
+REVCLIP:	scaffold_3	334406726	338227856
+TRIM:	scaffold_13	15330319	19177227	
+REVCLIP:	scaffold_13	15330319	19177227
+TRIM:	scaffold_29	1	50811	
+FWDCLIP:	scaffold_29	1	50811
+TRIM:	scaffold_32	2305184	2341728	
+REVCLIP:	scaffold_32	2305184	2341728
+TRIM:	scaffold_42	845501	1047007	
+REVCLIP:	scaffold_42	845501	1047007
+
