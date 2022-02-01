@@ -8,7 +8,6 @@
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_158
-REMOVE	scaffold_162
 REMOVE	scaffold_37 
 REMOVE	scaffold_39 
 REMOVE	scaffold_41 
