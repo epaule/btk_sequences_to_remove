@@ -14,7 +14,6 @@ REMOVE	scaffold_39
 REMOVE	scaffold_41 
 REMOVE	scaffold_46 
 REMOVE	scaffold_48 
-REMOVE	scaffold_52 
 REMOVE	scaffold_53 
 REMOVE	scaffold_60 
 REMOVE	scaffold_63 
@@ -47,48 +46,265 @@ REMOVE	scaffold_92
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 # scaffold_175	0	19431	177,0.911
+
+#Araneae
+REMOVE	scaffold_11
+
+#Aphididae
+REMOVE	scaffold_231
+REMOVE	scaffold_180
+
+#Blattodea
+REMOVE	scaffold_275
+REMOVE	scaffold_81
+
+#Coleoptera
+REMOVE	scaffold_223
+REMOVE	scaffold_224
+REMOVE	scaffold_292
+REMOVE	scaffold_297
+
+#Diptera
+REMOVE	scaffold_162
+REMOVE	scaffold_266
+
+#Lepidoptera
+REMOVE	scaffold_156
+REMOVE	scaffold_263
+REMOVE	scaffold_261
+REMOVE	scaffold_226
+REMOVE	scaffold_198
+REMOVE	scaffold_131
+
+#Sarcoptiformes
+REMOVE	scaffold_167
+REMOVE	scaffold_281
+
+#Trombidiformes
+REMOVE	scaffold_172
+REMOVE	scaffold_203
+REMOVE	scaffold_204
+REMOVE	scaffold_236
+REMOVE	scaffold_247
+REMOVE	scaffold_262
+REMOVE	scaffold_277
+REMOVE	scaffold_74
+
+#Hemiptera
+REMOVE	scaffold_100
+REMOVE	scaffold_102
+REMOVE	scaffold_103
+REMOVE	scaffold_104
+REMOVE	scaffold_106
+REMOVE	scaffold_107
+REMOVE	scaffold_109
+REMOVE	scaffold_111
+REMOVE	scaffold_112
+REMOVE	scaffold_114
+REMOVE	scaffold_116
+REMOVE	scaffold_118
+REMOVE	scaffold_119
+REMOVE	scaffold_121
+REMOVE	scaffold_122
+REMOVE	scaffold_123
+REMOVE	scaffold_124
+REMOVE	scaffold_126
+REMOVE	scaffold_128
+REMOVE	scaffold_129
+REMOVE	scaffold_132
+REMOVE	scaffold_133
+REMOVE	scaffold_134
+REMOVE	scaffold_135
+REMOVE	scaffold_136
+REMOVE	scaffold_137
+REMOVE	scaffold_138
+REMOVE	scaffold_139
+REMOVE	scaffold_140
+REMOVE	scaffold_141
+REMOVE	scaffold_142
+REMOVE	scaffold_143
+REMOVE	scaffold_144
+REMOVE	scaffold_145
+REMOVE	scaffold_146
+REMOVE	scaffold_147
+REMOVE	scaffold_148
+REMOVE	scaffold_149
+REMOVE	scaffold_150
+REMOVE	scaffold_151
+REMOVE	scaffold_153
+REMOVE	scaffold_154
+REMOVE	scaffold_155
+REMOVE	scaffold_157
+REMOVE	scaffold_159
+REMOVE	scaffold_160
+REMOVE	scaffold_161
+REMOVE	scaffold_163
+REMOVE	scaffold_164
+REMOVE	scaffold_165
+REMOVE	scaffold_166
+REMOVE	scaffold_168
+REMOVE	scaffold_169
+REMOVE	scaffold_170
+REMOVE	scaffold_171
+REMOVE	scaffold_173
+REMOVE	scaffold_176
+REMOVE	scaffold_177
+REMOVE	scaffold_179
+REMOVE	scaffold_181
+REMOVE	scaffold_182
+REMOVE	scaffold_183
+REMOVE	scaffold_184
+REMOVE	scaffold_185
+REMOVE	scaffold_186
+REMOVE	scaffold_187
+REMOVE	scaffold_188
+REMOVE	scaffold_189
+REMOVE	scaffold_190
+REMOVE	scaffold_191
+REMOVE	scaffold_192
+REMOVE	scaffold_193
+REMOVE	scaffold_194
+REMOVE	scaffold_195
+REMOVE	scaffold_196
+REMOVE	scaffold_197
+REMOVE	scaffold_200
+REMOVE	scaffold_202
+REMOVE	scaffold_206
+REMOVE	scaffold_207
+REMOVE	scaffold_210
+REMOVE	scaffold_211
+REMOVE	scaffold_212
+REMOVE	scaffold_214
+REMOVE	scaffold_215
+REMOVE	scaffold_216
+REMOVE	scaffold_217
+REMOVE	scaffold_218
+REMOVE	scaffold_219
+REMOVE	scaffold_221
+REMOVE	scaffold_225
+REMOVE	scaffold_227
+REMOVE	scaffold_229
+REMOVE	scaffold_230
+REMOVE	scaffold_232
+REMOVE	scaffold_233
+REMOVE	scaffold_234
+REMOVE	scaffold_235
+REMOVE	scaffold_237
+REMOVE	scaffold_238
+REMOVE	scaffold_239
+REMOVE	scaffold_240
+REMOVE	scaffold_241
+REMOVE	scaffold_242
+REMOVE	scaffold_243
+REMOVE	scaffold_244
+REMOVE	scaffold_245
+REMOVE	scaffold_246
+REMOVE	scaffold_248
+REMOVE	scaffold_250
+REMOVE	scaffold_251
+REMOVE	scaffold_252
+REMOVE	scaffold_253
+REMOVE	scaffold_254
+REMOVE	scaffold_255
+REMOVE	scaffold_259
+REMOVE	scaffold_26
+REMOVE	scaffold_260
+REMOVE	scaffold_264
+REMOVE	scaffold_265
+REMOVE	scaffold_267
+REMOVE	scaffold_268
+REMOVE	scaffold_270
+REMOVE	scaffold_271
+REMOVE	scaffold_272
+REMOVE	scaffold_273
+REMOVE	scaffold_274
+REMOVE	scaffold_276
+REMOVE	scaffold_279
+REMOVE	scaffold_282
+REMOVE	scaffold_283
+REMOVE	scaffold_285
+REMOVE	scaffold_287
+REMOVE	scaffold_293
+REMOVE	scaffold_295
+REMOVE	scaffold_296
+REMOVE	scaffold_299
+REMOVE	scaffold_300
+REMOVE	scaffold_301
+REMOVE	scaffold_302
+REMOVE	scaffold_307
+REMOVE	scaffold_308
+REMOVE	scaffold_59
+REMOVE	scaffold_64
+REMOVE	scaffold_66
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_72
+REMOVE	scaffold_73
+REMOVE	scaffold_75
+REMOVE	scaffold_77
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_84
+REMOVE	scaffold_85
+REMOVE	scaffold_86
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_90
+REMOVE	scaffold_91
+REMOVE	scaffold_93
+REMOVE	scaffold_94
+REMOVE	scaffold_96
+REMOVE	scaffold_97
+REMOVE	scaffold_98
+REMOVE	scaffold_99
+REMOVE	scaffold_289
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_120	0	24621	230,0.934
-# scaffold_105	0	26706	230,0.861
-# scaffold_92	0	30629	230,0.751
-# scaffold_76	0	33445	230,0.688
-# scaffold_71	0	34003	230,0.676
-# scaffold_69	0	34604	230,0.665
-# scaffold_62	0	36174	230,0.636
-# scaffold_55	0	38869	230,0.592
-# scaffold_33	0	75178	343,0.456
-# scaffold_42	0	51197	230,0.449
-# scaffold_38	0	59058	230,0.389
-# scaffold_78	0	33085	117,0.354
-# scaffold_11	0	1122964	1242,0.111
+
+#Enterobacterales
+REMOVE	scaffold_11
+REMOVE	scaffold_228
+
+#Rickettsiales
+REMOVE	scaffold_52
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_175	0	19431	248,1.276
-# scaffold_127	0	23904	225,0.941
-# scaffold_26	0	117415	937,0.798
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_52	0	39626	5156,13.012
-scaffold_130	0	23747	393,1.655
-scaffold_34	0	71322	814,1.141
-scaffold_35	0	68226	440,0.645
-scaffold_49	0	41636	159,0.382
+
+#Botryosphaeriales
+REMOVE	scaffold_201
+
+#Dothideales
+REMOVE	scaffold_125
+REMOVE	scaffold_174
+REMOVE	scaffold_178
+REMOVE	scaffold_199
+REMOVE	scaffold_209
+REMOVE	scaffold_213
+
+#Eurotiales
+REMOVE	scaffold_34
+REMOVE	scaffold_35
+REMOVE	scaffold_49
+
+========== REFSEQ: virus ==========
+
+#Pimascovirales
+REMOVE	scaffold_61
+REMOVE	scaffold_70
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_130	0	23747	354,1.491
-# scaffold_120	0	24621	188,0.764
-# scaffold_105	0	26706	188,0.704
-# scaffold_92	0	30629	188,0.614
-# scaffold_76	0	33445	188,0.562
-# scaffold_71	0	34003	188,0.553
-# scaffold_69	0	34604	188,0.543
-# scaffold_62	0	36174	188,0.520
-# scaffold_33	0	75178	376,0.500
-# scaffold_55	0	38869	188,0.484
-# scaffold_42	0	51197	188,0.367
-# scaffold_38	0	59058	188,0.318
-# scaffold_1	0	246885979	109,0.000
+
+#Sporadotrichida
+REMOVE	scaffold_278 
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
