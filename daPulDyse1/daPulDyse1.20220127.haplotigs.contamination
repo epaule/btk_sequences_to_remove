@@ -44,9 +44,6 @@ REMOVE	hap_ptg000663l_1_1
 REMOVE	hap_ptg000734l_1_1
 REMOVE	hap_ptg000793l_1_1
 
-#Drosophilidae
-REMOVE	atg002036l_1
-
 ========== REFSEQ: virus ==========
 #Caulimoviridae
 REMOVE	atg000669l_1
