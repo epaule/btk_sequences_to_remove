@@ -696,7 +696,11 @@ REMOVE	hap_ptg000563l_1_1
 REMOVE	hap_ptg000592l_1_1
 REMOVE	hap_ptg000780l_1_1
 REMOVE	hap_ptg001575l_1_1
+REMOVE	atg010223l_1
+REMOVE	atg015150l_1
 
+#Schistosoma
+REMOVE	atg011387l_1
 
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
