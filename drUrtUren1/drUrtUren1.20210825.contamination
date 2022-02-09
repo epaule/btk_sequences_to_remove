@@ -1,0 +1,75 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_157
+REMOVE	scaffold_264
+REMOVE	scaffold_334
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	scaffold_108
+REMOVE	scaffold_126
+REMOVE	scaffold_158
+REMOVE	scaffold_169
+REMOVE	scaffold_199
+REMOVE	scaffold_208
+REMOVE	scaffold_210
+REMOVE	scaffold_219
+REMOVE	scaffold_234
+REMOVE	scaffold_239
+REMOVE	scaffold_245
+REMOVE	scaffold_258
+REMOVE	scaffold_270
+REMOVE	scaffold_273
+REMOVE	scaffold_274
+REMOVE	scaffold_280
+REMOVE	scaffold_286
+REMOVE	scaffold_288
+REMOVE	scaffold_315
+REMOVE	scaffold_329
+REMOVE	scaffold_346
+REMOVE	scaffold_351
+REMOVE	scaffold_358
+REMOVE	scaffold_365
+REMOVE	scaffold_381
+REMOVE	scaffold_95 
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Thripidae
+REMOVE	scaffold_159
+REMOVE	scaffold_377
+REMOVE	scaffold_382
+REMOVE	scaffold_380
+
+#Arthropoda
+REMOVE	scaffold_114
+REMOVE	scaffold_123
+REMOVE	scaffold_111
+REMOVE	scaffold_305
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Ricketsiaceae
+REMOVE	scaffold_139
+REMOVE	scaffold_49
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
