@@ -33,11 +33,111 @@ REMOVE	hap_ptg002254l_1_1
 
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Thysanoptera
+REMOVE	hap_ptg000720l_1_1
+
+#Diptera
+REMOVE	atg009390l_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Rickettsiales
+REMOVE	atg009331l_1
+REMOVE	atg000465l_1
+REMOVE	atg000563l_1
+REMOVE	atg000899l_1
+REMOVE	atg001194l_1
+REMOVE	atg001268l_1
+REMOVE	atg001425l_1
+REMOVE	atg001573l_1
+REMOVE	atg001648l_1
+REMOVE	atg001652l_1
+REMOVE	atg001684l_1
+REMOVE	atg001716l_1
+REMOVE	atg002055l_1
+REMOVE	atg002405l_1
+REMOVE	atg002538l_1
+REMOVE	atg003175l_1
+REMOVE	atg003198l_1
+REMOVE	atg003324l_1
+REMOVE	atg003542l_1
+REMOVE	atg004058l_1
+REMOVE	atg004202l_1
+REMOVE	atg004575l_1
+REMOVE	atg004637l_1
+REMOVE	atg004692l_1
+REMOVE	atg004777l_1
+REMOVE	atg004789l_1
+REMOVE	atg004811l_1
+REMOVE	atg004899l_1
+REMOVE	atg004927l_1
+REMOVE	atg005163l_1
+REMOVE	atg005214l_1
+REMOVE	atg005568l_1
+REMOVE	atg005616l_1
+REMOVE	atg005892l_1
+REMOVE	atg006113l_1
+REMOVE	atg006138l_1
+REMOVE	atg006182l_1
+REMOVE	atg006743l_1
+REMOVE	atg006829l_1
+REMOVE	atg006848l_1
+REMOVE	atg006886l_1
+REMOVE	atg007144l_1
+REMOVE	atg007205l_1
+REMOVE	atg007222l_1
+REMOVE	atg007252l_1
+REMOVE	atg007453l_1
+REMOVE	atg007604l_1
+REMOVE	atg007693l_1
+REMOVE	atg007734l_1
+REMOVE	atg007828l_1
+REMOVE	atg007901l_1
+REMOVE	atg007941l_1
+REMOVE	atg008016l_1
+REMOVE	atg008025l_1
+REMOVE	atg008365l_1
+REMOVE	atg008412l_1
+REMOVE	atg008549l_1
+REMOVE	atg008554l_1
+REMOVE	atg008596l_1
+REMOVE	atg008864l_1
+REMOVE	atg009160l_1
+REMOVE	atg009195l_1
+REMOVE	atg009289l_1
+REMOVE	atg009601l_1
+REMOVE	atg009604l_1
+REMOVE	atg009668l_1
+REMOVE	atg009826l_1
+REMOVE	atg009918l_1
+REMOVE	atg010146l_1
+REMOVE	atg010257l_1
+REMOVE	atg010320l_1
+REMOVE	atg010412l_1
+REMOVE	atg010506l_1
+REMOVE	atg010609l_1
+REMOVE	atg010635l_1
+REMOVE	atg010737l_1
+REMOVE	atg010782l_1
+REMOVE	atg011160l_1
+REMOVE	atg011410l_1
+REMOVE	atg011678l_1
+REMOVE	hap_ptg000001l_1_1
+REMOVE	hap_ptg000085l_1_1
+REMOVE	hap_ptg000260l_1_1
+REMOVE	hap_ptg001076l_1_1
+REMOVE	hap_ptg001186l_1_1
+
+#Burkholderia
+REMOVE	atg007172l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+#Sporadotrichida
+REMOVE	atg008543l_1
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
