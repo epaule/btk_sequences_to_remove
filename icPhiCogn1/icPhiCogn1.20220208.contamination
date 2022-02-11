@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_38
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,34 +14,40 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_16	0	1592641	997836,62.653
-scaffold_18	0	1284075	170164,13.252
-scaffold_60	0	10583	890,8.410
-scaffold_8	0	64789619	373,0.001
-scaffold_11	0	29486216	122,0.000
-scaffold_5	0	88738404	224,0.000
-scaffold_4	0	108139326	210,0.000
-scaffold_6	0	67672657	126,0.000
-scaffold_7	0	67184380	125,0.000
-scaffold_2	0	148366135	247,0.000
+
+#Burkholderiales
+REMOVE	scaffold_46
+REMOVE	scaffold_57
+REMOVE	scaffold_60
+
+#Rickettsiales
+REMOVE	scaffold_16
+REMOVE	scaffold_18
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_43	0	28053	232,0.827
-scaffold_10	0	45099272	3655,0.008
-scaffold_2	0	148366135	239,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_60	0	10583	109,1.030
+
+#Trypanosomatida
+REMOVE	scaffold_47
+REMOVE	scaffold_48
+REMOVE	scaffold_50
+REMOVE	scaffold_51
+REMOVE	scaffold_52
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_63
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_7	0	67184380	654,0.001
-scaffold_10	0	45099272	216,0.000
-scaffold_3	0	132805336	322,0.000
-scaffold_9	0	55005881	108,0.000
-scaffold_8	0	64789619	108,0.000
-scaffold_6	0	67672657	109,0.000
-scaffold_1	0	181726913	107,0.000
+
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
