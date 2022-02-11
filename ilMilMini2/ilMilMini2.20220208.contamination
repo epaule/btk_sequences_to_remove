@@ -34,14 +34,26 @@ CONTAMINANT	scaffold_26	17146633	17146649
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_38	0	414795	851,0.205
+
+#Gammaproteobacteria
+REMOVE	scaffold_38
+REMOVE	scaffold_41
+REMOVE	scaffold_44
+REMOVE	scaffold_46
+REMOVE	scaffold_47
+REMOVE	scaffold_50
+REMOVE	scaffold_91
+REMOVE	scaffold_94
+REMOVE	scaffold_96
+REMOVE	scaffold_97
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_95	0	47807	1398,2.924
-# scaffold_33	0	7389299	128,0.002
-# scaffold_30	0	18935200	226,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+#Spirotrichea
+REMOVE	scaffold_95
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
