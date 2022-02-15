@@ -13,18 +13,25 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000045l_1	0	1148074	852,0.074
+
+#Spiroplasmataceae
+REMOVE	atg000510l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000438l_1	0	18917	133,0.703
-# hap_ptg000154l_1_1	0	23505	133,0.566
-# atg000585l_1	0	23962	133,0.555
-# atg001267l_1	0	49470	152,0.307
-# atg000057l_1	0	1743761	152,0.009
-# atg000109l_1	0	1854353	127,0.007
+
+#Polydnaviridae
+REMOVE	atg000438l_1
+REMOVE	atg000539l_1
+REMOVE	atg000564l_1
+REMOVE	atg000700l_1
+REMOVE	atg000841l_1
+REMOVE	atg000990l_1
+REMOVE	hap_ptg000154l_1_1
+
 ========== TRIM Ns ==========
 
