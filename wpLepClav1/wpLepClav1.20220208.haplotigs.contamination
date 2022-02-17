@@ -1,0 +1,43 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: archaea ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001067l_1_27992	0	27998	168,0.600
+atg001355l_1_20593	0	20593	121,0.588
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000030l_1_870038	0	870022	114,0.013
+hap_ptg000020l_1_2261852	0	2261839	115,0.005
+atg000181l_1_3028346	0	3028292	112,0.004
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001329l_1_19906	0	19906	576,2.894
+hap_ptg001079l_1_19300	0	19301	467,2.420
+hap_ptg001437l_1_25043	0	25046	576,2.300
+hap_ptg000795l_1_37109	0	37102	755,2.035
+hap_ptg000960l_1_33642	0	33640	467,1.388
+hap_ptg000094l_1_701597	0	701613	288,0.041
+hap_ptg000030l_1_870038	0	870022	109,0.013
+atg000132l_1_1338344	0	1338311	104,0.008
+hap_ptg000084l_320783_2074278	0	1753493	114,0.007
+hap_ptg000020l_1_2261852	0	2261839	133,0.006
+atg000302l_1_2148643	0	2148626	106,0.005
+atg000181l_1_3028346	0	3028292	104,0.003
+hap_ptg000111l_1_3447136	0	3447085	114,0.003
+atg000238l_1_3983263	0	3983216	115,0.003
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
