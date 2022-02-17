@@ -9,15 +9,20 @@
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+========== REFSEQ: fungi ==========
+
+#Saccharomycetes
+REMOVE	scaffold_26
+REMOVE	scaffold_33
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_31	0	15576	282,1.810
-scaffold_28	0	46175	705,1.527
-scaffold_32	0	14031	141,1.005
-scaffold_4	0	31629767	7135,0.023
+# scaffold_31	0	15576	282,1.810
+# scaffold_28	0	46175	705,1.527
+# scaffold_32	0	14031	141,1.005
+# scaffold_4	0	31629767	7135,0.023
 ========== TRIM Ns ==========
 
