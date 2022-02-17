@@ -516,9 +516,9 @@ REMOVE	hap_ptg002035l_1_1
 REMOVE	hap_ptg001617l_1_1
 
 #Sphingobacteriia
-REMOVE	hap_ptg000746l_1_1 #Sphingobacteriia
-REMOVE	hap_ptg001584l_1_1 #Sphingobacteriia
-REMOVE	hap_ptg001613l_1_1 #Sphingobacteriia
+REMOVE	hap_ptg000746l_1_1
+REMOVE	hap_ptg001584l_1_1
+REMOVE	hap_ptg001613l_1_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
