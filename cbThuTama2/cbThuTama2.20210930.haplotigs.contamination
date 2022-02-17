@@ -1,14 +1,10 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000163l_1	0	33537	59,0.176
-# hap_ptg000077l_1_1	0	260958	59,0.023
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000132l_1	0	27570	5226,18.955
-# atg000028l_1	0	29514	5226,17.707
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -23,34 +19,520 @@ REMOVE	atg000132l_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000227l_1	0	18483	757,4.096
-# atg000066l_1	0	12249	381,3.110
-# atg000168l_1	0	38391	1019,2.654
-# atg000132l_1	0	27570	249,0.903
-# hap_ptg000157l_1_1	0	13521	116,0.858
-# atg000028l_1	0	29514	249,0.844
-# hap_ptg002133l_1_1	0	14944	108,0.723
-# atg000300l_1	0	18989	119,0.627
-# hap_ptg000383l_1_1	0	103675	579,0.558
-# atg000206l_1	0	22203	120,0.540
-# hap_ptg001287l_1_1	0	42340	139,0.328
-# hap_ptg001084l_1_1	0	41276	111,0.269
-# atg000030l_1	0	51163	102,0.199
-# atg000124l_1	0	64135	115,0.179
-# hap_ptg000492l_1_1	0	63473	108,0.170
-# atg000015l_1	0	98553	136,0.138
-# atg000080l_1	0	110123	135,0.123
-# atg000029l_1	0	161785	117,0.072
-# hap_ptg000129l_1_1	0	189616	128,0.068
+
+#Acidobacteriia
+REMOVE	atg000002l_1
+REMOVE	atg000004l_1
+REMOVE	atg000006l_1
+REMOVE	atg000007l_1
+REMOVE	atg000009l_1
+REMOVE	atg000012l_1
+REMOVE	atg000025l_1
+REMOVE	atg000030l_1
+REMOVE	atg000038l_1
+REMOVE	atg000041l_1
+REMOVE	atg000044l_1
+REMOVE	atg000046l_1
+REMOVE	atg000049l_1
+REMOVE	atg000057l_1
+REMOVE	atg000064l_1
+REMOVE	atg000070l_1
+REMOVE	atg000071l_1
+REMOVE	atg000078l_1
+REMOVE	atg000080l_1
+REMOVE	atg000082l_1
+REMOVE	atg000087l_1
+REMOVE	atg000089l_1
+REMOVE	atg000090l_1
+REMOVE	atg000096l_1
+REMOVE	atg000097l_1
+REMOVE	atg000099l_1
+REMOVE	atg000103l_1
+REMOVE	atg000105l_1
+REMOVE	atg000108l_1
+REMOVE	atg000112l_1
+REMOVE	atg000116l_1
+REMOVE	atg000117l_1
+REMOVE	atg000122l_1
+REMOVE	atg000123l_1
+REMOVE	atg000124l_1
+REMOVE	atg000126l_1
+REMOVE	atg000128l_1
+REMOVE	atg000134l_1
+REMOVE	atg000138l_1
+REMOVE	atg000141l_1
+REMOVE	atg000143l_1
+REMOVE	atg000154l_1
+REMOVE	atg000156l_1
+REMOVE	atg000157l_1
+REMOVE	atg000164l_1
+REMOVE	atg000165l_1
+REMOVE	atg000169l_1
+REMOVE	atg000180l_1
+REMOVE	atg000182l_1
+REMOVE	atg000187l_1
+REMOVE	atg000192l_1
+REMOVE	atg000194l_1
+REMOVE	atg000197l_1
+REMOVE	atg000201l_1
+REMOVE	atg000202l_1
+REMOVE	atg000208l_1
+REMOVE	atg000212l_1
+REMOVE	atg000234l_1
+REMOVE	atg000235l_1
+REMOVE	atg000249l_1
+REMOVE	atg000250l_1
+REMOVE	atg000264l_1
+REMOVE	hap_ptg000152l_1_1
+REMOVE	hap_ptg000255l_1_1
+REMOVE	hap_ptg000266l_1_1
+REMOVE	hap_ptg000565l_1_1
+REMOVE	hap_ptg001050l_1_1
+REMOVE	hap_ptg001051l_1_1
+REMOVE	hap_ptg001057l_1_1
+REMOVE	hap_ptg001094l_1_1
+REMOVE	hap_ptg001293l_1_1
+REMOVE	hap_ptg001358l_1_1
+REMOVE	hap_ptg001372l_1_1
+REMOVE	hap_ptg001464l_1_1
+REMOVE	hap_ptg001508l_1_1
+REMOVE	hap_ptg001535l_1_1
+REMOVE	hap_ptg001585l_1_1
+REMOVE	hap_ptg001639l_1_1
+REMOVE	hap_ptg001641l_1_1
+REMOVE	hap_ptg001658l_1_1
+REMOVE	hap_ptg001847l_1_1
+REMOVE	hap_ptg001909l_1_1
+REMOVE	hap_ptg001914l_1_1
+REMOVE	hap_ptg001923l_1_1
+REMOVE	hap_ptg001935l_1_1
+REMOVE	hap_ptg001987l_1_1
+REMOVE	hap_ptg002095l_1_1
+REMOVE	hap_ptg002116l_1_1
+
+#Actinomycetia
+REMOVE	atg000005l_1
+REMOVE	atg000085l_1
+REMOVE	atg000173l_1
+REMOVE	atg000203l_1
+REMOVE	atg000224l_1
+REMOVE	atg000241l_1
+REMOVE	atg000257l_1
+REMOVE	atg000259l_1
+REMOVE	atg000278l_1
+REMOVE	atg000295l_1
+REMOVE	hap_ptg000080l_1_1
+REMOVE	hap_ptg000227l_1_1
+REMOVE	hap_ptg000342l_1_1
+REMOVE	hap_ptg000737l_1_1
+REMOVE	hap_ptg000817l_1_1
+REMOVE	hap_ptg000857l_1_1
+REMOVE	hap_ptg001095l_1_1
+REMOVE	hap_ptg001113l_1_1
+REMOVE	hap_ptg001247l_1_1
+REMOVE	hap_ptg001301l_1_1
+REMOVE	hap_ptg001502l_1_1
+REMOVE	hap_ptg001509l_1_1
+REMOVE	hap_ptg001518l_1_1
+REMOVE	hap_ptg001682l_1_1
+REMOVE	hap_ptg001691l_1_1
+REMOVE	hap_ptg001906l_1_1
+REMOVE	hap_ptg002141l_1_1
+
+#Alphaproteobacteria
+REMOVE	atg000016l_1
+REMOVE	atg000020l_1
+REMOVE	atg000021l_1
+REMOVE	atg000031l_1
+REMOVE	atg000034l_1
+REMOVE	atg000066l_1
+REMOVE	atg000067l_1
+REMOVE	atg000069l_1
+REMOVE	atg000075l_1
+REMOVE	atg000083l_1
+REMOVE	atg000094l_1
+REMOVE	atg000102l_1
+REMOVE	atg000107l_1
+REMOVE	atg000119l_1
+REMOVE	atg000133l_1
+REMOVE	atg000147l_1
+REMOVE	atg000153l_1
+REMOVE	atg000158l_1
+REMOVE	atg000161l_1
+REMOVE	atg000162l_1
+REMOVE	atg000170l_1
+REMOVE	atg000175l_1
+REMOVE	atg000195l_1
+REMOVE	atg000200l_1
+REMOVE	atg000204l_1
+REMOVE	atg000206l_1
+REMOVE	atg000207l_1
+REMOVE	atg000216l_1
+REMOVE	atg000221l_1
+REMOVE	atg000225l_1
+REMOVE	atg000227l_1
+REMOVE	atg000228l_1
+REMOVE	atg000232l_1
+REMOVE	atg000238l_1
+REMOVE	atg000247l_1
+REMOVE	atg000248l_1
+REMOVE	atg000256l_1
+REMOVE	atg000258l_1
+REMOVE	atg000261l_1
+REMOVE	atg000262l_1
+REMOVE	atg000265l_1
+REMOVE	atg000279l_1
+REMOVE	atg000286l_1
+REMOVE	atg000287l_1
+REMOVE	atg000296l_1
+REMOVE	atg000300l_1
+REMOVE	atg000304l_1
+REMOVE	hap_ptg000036l_1_1
+REMOVE	hap_ptg000039l_1_1
+REMOVE	hap_ptg000114l_1_1
+REMOVE	hap_ptg000186l_1_1
+REMOVE	hap_ptg000197l_1_1
+REMOVE	hap_ptg000212l_1_1
+REMOVE	hap_ptg000219l_1_1
+REMOVE	hap_ptg000239l_1_1
+REMOVE	hap_ptg000310l_1_1
+REMOVE	hap_ptg000319l_1_1
+REMOVE	hap_ptg000325l_1_1
+REMOVE	hap_ptg000363l_1_1
+REMOVE	hap_ptg000387l_1_1
+REMOVE	hap_ptg000389l_1_1
+REMOVE	hap_ptg000390l_1_1
+REMOVE	hap_ptg000391l_1_1
+REMOVE	hap_ptg000405l_1_1
+REMOVE	hap_ptg000413l_1_1
+REMOVE	hap_ptg000416l_1_1
+REMOVE	hap_ptg000434l_1_1
+REMOVE	hap_ptg000456l_1_1
+REMOVE	hap_ptg000473l_1_1
+REMOVE	hap_ptg000494l_1_1
+REMOVE	hap_ptg000500l_1_1
+REMOVE	hap_ptg000514l_1_1
+REMOVE	hap_ptg000517l_1_1
+REMOVE	hap_ptg000520l_1_1
+REMOVE	hap_ptg000534l_1_1
+REMOVE	hap_ptg000541l_1_1
+REMOVE	hap_ptg000543l_1_1
+REMOVE	hap_ptg000553l_1_1
+REMOVE	hap_ptg000563l_1_1
+REMOVE	hap_ptg000569l_1_1
+REMOVE	hap_ptg000580l_1_1
+REMOVE	hap_ptg000607l_1_1
+REMOVE	hap_ptg000618l_1_1
+REMOVE	hap_ptg000624l_1_1
+REMOVE	hap_ptg000701l_1_1
+REMOVE	hap_ptg000724l_1_1
+REMOVE	hap_ptg000729l_1_1
+REMOVE	hap_ptg000759l_1_1
+REMOVE	hap_ptg000772l_1_1
+REMOVE	hap_ptg000773l_1_1
+REMOVE	hap_ptg000783l_1_1
+REMOVE	hap_ptg000791l_1_1
+REMOVE	hap_ptg000819l_1_1
+REMOVE	hap_ptg000822l_1_1
+REMOVE	hap_ptg000827l_1_1
+REMOVE	hap_ptg000864l_1_1
+REMOVE	hap_ptg000874l_1_1
+REMOVE	hap_ptg000880l_1_1
+REMOVE	hap_ptg000996l_1_1
+REMOVE	hap_ptg001080l_1_1
+REMOVE	hap_ptg001084l_1_1
+REMOVE	hap_ptg001102l_1_1
+REMOVE	hap_ptg001123l_1_1
+REMOVE	hap_ptg001133l_1_1
+REMOVE	hap_ptg001154l_1_1
+REMOVE	hap_ptg001169l_1_1
+REMOVE	hap_ptg001182l_1_1
+REMOVE	hap_ptg001224l_1_1
+REMOVE	hap_ptg001246l_1_1
+REMOVE	hap_ptg001259l_1_1
+REMOVE	hap_ptg001265l_1_1
+REMOVE	hap_ptg001274l_1_1
+REMOVE	hap_ptg001287l_1_1
+REMOVE	hap_ptg001292l_1_1
+REMOVE	hap_ptg001299l_1_1
+REMOVE	hap_ptg001305l_1_1
+REMOVE	hap_ptg001324l_1_1
+REMOVE	hap_ptg001327l_1_1
+REMOVE	hap_ptg001343l_1_1
+REMOVE	hap_ptg001374l_1_1
+REMOVE	hap_ptg001380l_1_1
+REMOVE	hap_ptg001417l_1_1
+REMOVE	hap_ptg001425l_1_1
+REMOVE	hap_ptg001431l_1_1
+REMOVE	hap_ptg001436l_1_1
+REMOVE	hap_ptg001479l_1_1
+REMOVE	hap_ptg001494l_1_1
+REMOVE	hap_ptg001507l_1_1
+REMOVE	hap_ptg001536l_1_1
+REMOVE	hap_ptg001564l_1_1
+REMOVE	hap_ptg001619l_1_1
+REMOVE	hap_ptg001622l_1_1
+REMOVE	hap_ptg001657l_1_1
+REMOVE	hap_ptg001678l_1_1
+REMOVE	hap_ptg001706l_1_1
+REMOVE	hap_ptg001733l_1_1
+REMOVE	hap_ptg001769l_1_1
+REMOVE	hap_ptg001787l_1_1
+REMOVE	hap_ptg001792l_1_1
+REMOVE	hap_ptg001826l_1_1
+REMOVE	hap_ptg001846l_1_1
+REMOVE	hap_ptg001857l_1_1
+REMOVE	hap_ptg001875l_1_1
+REMOVE	hap_ptg001913l_1_1
+REMOVE	hap_ptg001924l_1_1
+REMOVE	hap_ptg001928l_1_1
+REMOVE	hap_ptg001939l_1_1
+REMOVE	hap_ptg001962l_1_1
+REMOVE	hap_ptg001973l_1_1
+REMOVE	hap_ptg002004l_1_1
+REMOVE	hap_ptg002039l_1_1
+REMOVE	hap_ptg002049l_1_1
+REMOVE	hap_ptg002069l_1_1
+REMOVE	hap_ptg002082l_1_1
+REMOVE	hap_ptg002099l_1_1
+REMOVE	hap_ptg002102l_1_1
+REMOVE	hap_ptg002117l_1_1
+REMOVE	hap_ptg002133l_1_1
+
+#Bacilli
+REMOVE	atg000149l_1
+REMOVE	hap_ptg001367l_1_1
+
+#Bacteroidia
+REMOVE	atg000214l_1
+
+#Betaproteobacteria
+REMOVE	atg000008l_1
+REMOVE	atg000011l_1
+REMOVE	atg000018l_1
+REMOVE	atg000019l_1
+REMOVE	atg000027l_1
+REMOVE	atg000029l_1
+REMOVE	atg000032l_1
+REMOVE	atg000033l_1
+REMOVE	atg000035l_1
+REMOVE	atg000039l_1
+REMOVE	atg000040l_1
+REMOVE	atg000042l_1
+REMOVE	atg000052l_1
+REMOVE	atg000053l_1
+REMOVE	atg000055l_1
+REMOVE	atg000059l_1
+REMOVE	atg000065l_1
+REMOVE	atg000077l_1
+REMOVE	atg000081l_1
+REMOVE	atg000084l_1
+REMOVE	atg000093l_1
+REMOVE	atg000095l_1
+REMOVE	atg000101l_1
+REMOVE	atg000110l_1
+REMOVE	atg000113l_1
+REMOVE	atg000115l_1
+REMOVE	atg000121l_1
+REMOVE	atg000127l_1
+REMOVE	atg000130l_1
+REMOVE	atg000131l_1
+REMOVE	atg000136l_1
+REMOVE	atg000142l_1
+REMOVE	atg000146l_1
+REMOVE	atg000148l_1
+REMOVE	atg000151l_1
+REMOVE	atg000160l_1
+REMOVE	atg000163l_1
+REMOVE	atg000168l_1
+REMOVE	atg000171l_1
+REMOVE	atg000181l_1
+REMOVE	atg000183l_1
+REMOVE	atg000184l_1
+REMOVE	atg000188l_1
+REMOVE	atg000189l_1
+REMOVE	atg000190l_1
+REMOVE	atg000193l_1
+REMOVE	atg000205l_1
+REMOVE	atg000217l_1
+REMOVE	atg000229l_1
+REMOVE	atg000237l_1
+REMOVE	atg000254l_1
+REMOVE	atg000255l_1
+REMOVE	atg000263l_1
+REMOVE	atg000267l_1
+REMOVE	atg000275l_1
+REMOVE	atg000288l_1
+REMOVE	hap_ptg000034l_1_1
+REMOVE	hap_ptg000043l_1_1
+REMOVE	hap_ptg000060l_1_1
+REMOVE	hap_ptg000077l_1_1
+REMOVE	hap_ptg000129l_1_1
+REMOVE	hap_ptg000157l_1_1
+REMOVE	hap_ptg000201l_1_1
+REMOVE	hap_ptg000232l_1_1
+REMOVE	hap_ptg000273l_1_1
+REMOVE	hap_ptg000291l_1_1
+REMOVE	hap_ptg000309l_1_1
+REMOVE	hap_ptg000338l_1_1
+REMOVE	hap_ptg000383l_1_1
+REMOVE	hap_ptg000430l_1_1
+REMOVE	hap_ptg000441l_1_1
+REMOVE	hap_ptg000492l_1_1
+REMOVE	hap_ptg000498l_1_1
+REMOVE	hap_ptg000522l_1_1
+REMOVE	hap_ptg000542l_1_1
+REMOVE	hap_ptg000600l_1_1
+REMOVE	hap_ptg000653l_1_1
+REMOVE	hap_ptg000658l_1_1
+REMOVE	hap_ptg000718l_1_1
+REMOVE	hap_ptg000721l_1_1
+REMOVE	hap_ptg000755l_1_1
+REMOVE	hap_ptg000808l_1_1
+REMOVE	hap_ptg000830l_1_1
+REMOVE	hap_ptg000832l_1_1
+REMOVE	hap_ptg000847l_1_1
+REMOVE	hap_ptg000868l_1_1
+REMOVE	hap_ptg000909l_1_1
+REMOVE	hap_ptg000911l_1_1
+REMOVE	hap_ptg000915l_1_1
+REMOVE	hap_ptg000934l_1_1
+REMOVE	hap_ptg000971l_1_1
+REMOVE	hap_ptg001008l_1_1
+REMOVE	hap_ptg001011l_1_1
+REMOVE	hap_ptg001063l_1_1
+REMOVE	hap_ptg001170l_1_1
+REMOVE	hap_ptg001180l_1_1
+REMOVE	hap_ptg001285l_1_1
+REMOVE	hap_ptg001290l_1_1
+REMOVE	hap_ptg001322l_1_1
+REMOVE	hap_ptg001345l_1_1
+REMOVE	hap_ptg001383l_1_1
+REMOVE	hap_ptg001390l_1_1
+REMOVE	hap_ptg001459l_1_1
+REMOVE	hap_ptg001462l_1_1
+REMOVE	hap_ptg001475l_1_1
+REMOVE	hap_ptg001544l_1_1
+REMOVE	hap_ptg001592l_1_1
+REMOVE	hap_ptg001602l_1_1
+REMOVE	hap_ptg001646l_1_1
+REMOVE	hap_ptg001650l_1_1
+REMOVE	hap_ptg001672l_1_1
+REMOVE	hap_ptg001746l_1_1
+REMOVE	hap_ptg001749l_1_1
+REMOVE	hap_ptg001808l_1_1
+REMOVE	hap_ptg001852l_1_1
+REMOVE	hap_ptg001858l_1_1
+REMOVE	hap_ptg001911l_1_1
+REMOVE	hap_ptg001933l_1_1
+REMOVE	hap_ptg001967l_1_1
+REMOVE	hap_ptg001989l_1_1
+REMOVE	hap_ptg002002l_1_1
+REMOVE	hap_ptg002006l_1_1
+REMOVE	hap_ptg002034l_1_1
+REMOVE	hap_ptg002045l_1_1
+REMOVE	hap_ptg002051l_1_1
+REMOVE	hap_ptg002075l_1_1
+REMOVE	hap_ptg002092l_1_1
+
+#Candidatus Brocadiae
+REMOVE	atg000106l_1
+REMOVE	hap_ptg001053l_1_1
+
+#Clostridia
+REMOVE	hap_ptg000035l_1_1
+
+#Cyanobacteria
+REMOVE	atg000015l_1
+REMOVE	atg000144l_1
+REMOVE	atg000240l_1
+REMOVE	atg000277l_1
+REMOVE	hap_ptg000340l_1_1
+REMOVE	hap_ptg000366l_1_1
+REMOVE	hap_ptg000448l_1_1
+REMOVE	hap_ptg000516l_1_1
+REMOVE	hap_ptg000596l_1_1
+REMOVE	hap_ptg000644l_1_1
+REMOVE	hap_ptg000698l_1_1
+REMOVE	hap_ptg000778l_1_1
+REMOVE	hap_ptg000944l_1_1
+REMOVE	hap_ptg001244l_1_1
+REMOVE	hap_ptg001863l_1_1
+REMOVE	hap_ptg002027l_1_1
+REMOVE	hap_ptg002101l_1_1
+REMOVE	hap_ptg002128l_1_1
+
+#Cytophagia
+REMOVE	hap_ptg000562l_1_1
+
+#Deinococci
+REMOVE	atg000301l_1
+
+#Deltaproteobacteria
+REMOVE	atg000114l_1
+REMOVE	atg000302l_1
+
+#Gammaproteobacteria
+REMOVE	atg000091l_1 #Gammaproteobacteria
+REMOVE	hap_ptg000379l_1_1 #Gammaproteobacteria
+REMOVE	hap_ptg000446l_1_1 #Gammaproteobacteria
+
+#Ktedonobacteria
+REMOVE	atg000076l_1
+
+#Opitutae
+REMOVE	atg000024l_1
+REMOVE	atg000073l_1
+REMOVE	atg000177l_1
+
+#Phycisphaerae
+REMOVE	atg000013l_1
+REMOVE	atg000051l_1
+REMOVE	atg000074l_1
+REMOVE	atg000118l_1
+REMOVE	atg000125l_1
+REMOVE	atg000285l_1
+REMOVE	hap_ptg000761l_1_1
+REMOVE	hap_ptg002043l_1_1
+
+#Planctomycetia
+REMOVE	atg000023l_1
+REMOVE	atg000176l_1
+REMOVE	atg000260l_1
+REMOVE	atg000280l_1
+REMOVE	atg000283l_1
+REMOVE	atg000297l_1
+REMOVE	atg000303l_1
+REMOVE	hap_ptg001865l_1_1
+REMOVE	hap_ptg002018l_1_1
+REMOVE	hap_ptg002055l_1_1
+
+
+========== REFSEQ: metazoa ==========
+#Eurotatoria
+REMOVE	hap_ptg002035l_1_1
+
+#Placozoa
+REMOVE	hap_ptg001617l_1_1
+
+#Sphingobacteriia
+REMOVE	hap_ptg000746l_1_1 #Sphingobacteriia
+REMOVE	hap_ptg001584l_1_1 #Sphingobacteriia
+REMOVE	hap_ptg001613l_1_1 #Sphingobacteriia
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# hap_ptg000192l_1_1	0	70682	1015,1.436
 ========== REFSEQ: fungi ==========
+
+#Sordariomycetes
+REMOVE	atg000185l_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000066l_1	0	12249	127,1.037
-# atg000132l_1	0	27570	200,0.725
-# atg000028l_1	0	29514	200,0.678
 ========== REFSEQ: viridiplantae ==========
+
+#Mamiellophyceae
+REMOVE	hap_ptg000180l_1_1
+
 ========== TRIM Ns ==========
 
