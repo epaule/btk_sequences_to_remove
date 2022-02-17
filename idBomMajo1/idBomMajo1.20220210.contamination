@@ -13,89 +13,13 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_8	0	1631354	650306,39.863
-# scaffold_2	0	57370740	132,0.000
+REMOVE	scaffold_8
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_166	0	24809	123,0.496
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_10	0	798485	150,0.019
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_138	0	29195	546,1.870
-# scaffold_148	0	28289	510,1.803
-# scaffold_198	0	21350	369,1.728
-# scaffold_173	0	23570	405,1.718
-# scaffold_220	0	15695	264,1.682
-# scaffold_135	0	29438	492,1.671
-# scaffold_123	0	32075	528,1.646
-# scaffold_166	0	24809	405,1.632
-# scaffold_127	0	31257	492,1.574
-# scaffold_121	0	32261	505,1.565
-# scaffold_165	0	24844	369,1.485
-# scaffold_109	0	36270	528,1.456
-# scaffold_90	0	43726	631,1.443
-# scaffold_93	0	42743	615,1.439
-# scaffold_218	0	17203	246,1.430
-# scaffold_117	0	34454	492,1.428
-# scaffold_214	0	18567	264,1.422
-# scaffold_113	0	35985	510,1.417
-# scaffold_152	0	27511	387,1.407
-# scaffold_150	0	27786	387,1.393
-# scaffold_61	0	74778	1038,1.388
-# scaffold_45	0	121012	1671,1.381
-# scaffold_159	0	26110	357,1.367
-# scaffold_129	0	31032	423,1.363
-# scaffold_155	0	27128	369,1.360
-# scaffold_108	0	36577	492,1.345
-# scaffold_151	0	27564	369,1.339
-# scaffold_133	0	29748	387,1.301
-# scaffold_194	0	21706	282,1.299
-# scaffold_105	0	37993	492,1.295
-# scaffold_145	0	28589	369,1.291
-# scaffold_212	0	19134	246,1.286
-# scaffold_209	0	19468	246,1.264
-# scaffold_80	0	51000	633,1.241
-# scaffold_204	0	19906	246,1.236
-# scaffold_197	0	21375	264,1.235
-# scaffold_126	0	31352	387,1.234
-# scaffold_84	0	50277	615,1.223
-# scaffold_67	0	64863	792,1.221
-# scaffold_97	0	42020	510,1.214
-# scaffold_53	0	93166	1126,1.209
-# scaffold_68	0	64734	774,1.196
-# scaffold_79	0	51490	615,1.194
-# scaffold_62	0	72329	860,1.189
-# scaffold_177	0	22773	264,1.159
-# scaffold_193	0	21728	246,1.132
-# scaffold_78	0	54554	615,1.127
-# scaffold_118	0	34346	387,1.127
-# scaffold_190	0	21861	246,1.125
-# scaffold_56	0	88193	984,1.116
-# scaffold_89	0	44312	492,1.110
-# scaffold_48	0	99780	1107,1.109
-# scaffold_182	0	22577	246,1.090
-# scaffold_74	0	58051	615,1.059
-# scaffold_57	0	83615	879,1.051
-# scaffold_170	0	23837	246,1.032
-# scaffold_169	0	24255	246,1.014
-# scaffold_167	0	24779	246,0.993
-# scaffold_156	0	26933	264,0.980
-# scaffold_39	0	157387	1512,0.961
-# scaffold_54	0	92979	861,0.926
-# scaffold_30	0	209698	1863,0.888
-# scaffold_63	0	71598	615,0.859
-# scaffold_132	0	29757	252,0.847
-# scaffold_216	0	17238	141,0.818
-# scaffold_125	0	31591	246,0.779
-# scaffold_29	0	228805	1722,0.753
-# scaffold_10	0	798485	5482,0.687
-# scaffold_187	0	22216	123,0.554
-# scaffold_18	0	445000	2460,0.553
-# scaffold_41	0	142249	736,0.517
-# scaffold_124	0	31594	123,0.389
-# scaffold_21	0	401140	879,0.219
 ========== TRIM Ns ==========
 
