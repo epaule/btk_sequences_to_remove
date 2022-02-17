@@ -20,13 +20,6 @@ REMOVE	scaffold_166
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
-#Wolbachia
-REMOVE	scaffold_147
-REMOVE	scaffold_114
-REMOVE	scaffold_161
-REMOVE	scaffold_142
-REMOVE	scaffold_166
-REMOVE	scaffold_146
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description

@@ -14,9 +14,6 @@ REMOVE	hap_ptg001242l_1_1
 ========== BARCODES ==========
 
 ========== REFSEQ: bacteria ==========
-#Wolbachia
-REMOVE	hap_ptg001242l_1_1
-REMOVE	hap_ptg001198l_1_1
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
