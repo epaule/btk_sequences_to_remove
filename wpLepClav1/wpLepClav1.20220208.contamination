@@ -9,7 +9,7 @@ REMOVE	scaffold_237
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
-
+m
 ========== BARCODES ==========
 CONTAMINANT	scaffold_401	29973	29989
 
@@ -368,8 +368,25 @@ REMOVE	scaffold_166
 REMOVE	scaffold_404
 REMOVE	scaffold_700
 
+#Verrucomicrobia
+REMOVE	scaffold_415
+
+========== REFSEQ: virus ==========
+REMOVE	scaffold_538
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Homo sapiens
+REMOVE	scaffold_125
+REMOVE	scaffold_273
+REMOVE	scaffold_379
+REMOVE	scaffold_395
+REMOVE	scaffold_414
+REMOVE	scaffold_672
+REMOVE	scaffold_72 
+REMOVE	scaffold_89
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
