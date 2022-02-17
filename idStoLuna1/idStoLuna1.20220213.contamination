@@ -4,46 +4,43 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_142	0	26647	26384,99.013
-scaffold_147	0	25373	25110,98.963
-scaffold_161	0	22897	22634,98.851
-scaffold_114	0	38668	37505,96.992
-scaffold_166	0	20633	19733,95.638
-scaffold_146	0	25524	23962,93.880
-# scaffold_172	0	16936	9698,57.263
-# scaffold_92	0	50655	16814,33.193
-# scaffold_159	0	23067	7574,32.835
-# scaffold_140	0	27274	6361,23.323
-# scaffold_170	0	18920	563,2.976
+REMOVE	scaffold_114
+REMOVE	scaffold_142
+REMOVE	scaffold_146
+REMOVE	scaffold_147
+REMOVE	scaffold_161
+REMOVE	scaffold_166
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_172	0	16936	16936,100.000
-# scaffold_159	0	23067	566,2.454
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#Wolbachia
+REMOVE	scaffold_147
+REMOVE	scaffold_114
+REMOVE	scaffold_161
+REMOVE	scaffold_142
+REMOVE	scaffold_166
+REMOVE	scaffold_146
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_170	0	18920	410,2.167
-scaffold_156	0	23658	417,1.763
-scaffold_155	0	23957	420,1.753
-scaffold_151	0	24239	420,1.733
-scaffold_158	0	23167	280,1.209
-scaffold_157	0	23507	280,1.191
-scaffold_150	0	24240	280,1.155
-scaffold_11	0	2272193	700,0.031
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_172	0	16936	16936,100.000
-scaffold_170	0	18920	3418,18.066
-scaffold_159	0	23067	3511,15.221
-scaffold_92	0	50655	5828,11.505
-scaffold_140	0	27274	1562,5.727
+
+#Magnoliopsida
+REMOVE	scaffold_92
+REMOVE	scaffold_140
+REMOVE	scaffold_159
+REMOVE	scaffold_170
+REMOVE	scaffold_172
+
 ========== TRIM Ns ==========
 
