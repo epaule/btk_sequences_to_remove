@@ -11,20 +11,26 @@ REMOVE	atg003336l_1
 
 ========== BARCODES ==========
 
+========== REFSEQ: virus ==========
+#Cossaviricota
+REMOVE	atg000926l_1
+REMOVE	atg003725l_1
+REMOVE	atg004393l_1
+REMOVE	hap_ptg000118l_1_1
+REMOVE	hap_ptg000181l_1_1
+REMOVE	hap_ptg000212l_1_1
+REMOVE	hap_ptg000231l_1_1
+REMOVE	hap_ptg000243l_1_1
+REMOVE	hap_ptg000253l_1_1
+REMOVE	hap_ptg000262l_1_1
+REMOVE	hap_ptg000267l_1_1
+REMOVE	hap_ptg000269l_1_1
+
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg003252l_1	0	17887	116,0.649
-# atg000987l_1	0	33914	116,0.342
-# atg001230l_1	0	40545	116,0.286
-# hap_ptg000078l_1_1	0	254381	580,0.228
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg001203l_1	0	86613	109,0.126
-# atg001238l_1	0	106507	109,0.102
-# atg000112l_1	0	963321	110,0.011
-# atg000087l_1	0	2645786	219,0.008
-# atg000083l_1	0	3195388	109,0.003
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
