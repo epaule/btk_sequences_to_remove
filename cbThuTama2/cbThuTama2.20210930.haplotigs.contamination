@@ -473,9 +473,9 @@ REMOVE	atg000114l_1
 REMOVE	atg000302l_1
 
 #Gammaproteobacteria
-REMOVE	atg000091l_1 #Gammaproteobacteria
-REMOVE	hap_ptg000379l_1_1 #Gammaproteobacteria
-REMOVE	hap_ptg000446l_1_1 #Gammaproteobacteria
+REMOVE	atg000091l_1
+REMOVE	hap_ptg000379l_1_1
+REMOVE	hap_ptg000446l_1_1
 
 #Ktedonobacteria
 REMOVE	atg000076l_1
