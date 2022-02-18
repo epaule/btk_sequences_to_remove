@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_13	0	6531935	2701,0.041
 REMOVE	scaffold_57
 ========== PLASTID SEQUENCE ==========
 
@@ -15,38 +14,11 @@ REMOVE	scaffold_57
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_11	0	10393520	123,0.001
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_52	0	46996	411,0.875
-# scaffold_38	0	81589	700,0.858
-# scaffold_27	0	187254	1540,0.822
-# scaffold_64	0	34379	280,0.814
-# scaffold_61	0	36304	279,0.769
-# scaffold_76	0	21233	140,0.659
-# scaffold_39	0	74474	420,0.564
-# scaffold_72	0	25217	140,0.555
-# scaffold_28	0	186791	980,0.525
-# scaffold_69	0	29990	141,0.470
-# scaffold_62	0	34936	140,0.401
-# scaffold_56	0	41312	140,0.339
-# scaffold_36	0	85221	280,0.329
-# scaffold_23	0	342781	1120,0.327
-# scaffold_32	0	130058	420,0.323
-# scaffold_35	0	89282	272,0.305
-# scaffold_53	0	46179	140,0.303
-# scaffold_50	0	50360	140,0.278
-# scaffold_49	0	51864	140,0.270
-# scaffold_26	0	219857	560,0.255
-# scaffold_41	0	65787	140,0.213
-# scaffold_30	0	162662	280,0.172
-# scaffold_37	0	82524	140,0.170
-# scaffold_22	0	583037	840,0.144
-# scaffold_3	0	42406377	1106,0.003
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_3	0	42406377	123,0.000
 ========== TRIM Ns ==========
 
