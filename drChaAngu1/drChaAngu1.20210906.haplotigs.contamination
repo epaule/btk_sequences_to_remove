@@ -1,0 +1,61 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	atg000418l_1
+REMOVE	hap_ptg000328l_1_1
+REMOVE	hap_ptg000348l_1_1
+REMOVE	hap_ptg000354l_1_1
+REMOVE	hap_ptg000418l_1_1
+REMOVE	hap_ptg000423l_1_1
+REMOVE	hap_ptg000531l_1_1
+REMOVE	hap_ptg000614l_1_1
+REMOVE	hap_ptg000660l_1_1
+REMOVE	hap_ptg000669l_1_1
+REMOVE	hap_ptg000786l_1_1
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	atg001081l_1
+REMOVE	atg001204l_1
+REMOVE	atg001261l_1
+REMOVE	hap_ptg000094l_1_1
+REMOVE	hap_ptg000138l_1_1
+REMOVE	hap_ptg000275l_1_1
+REMOVE	hap_ptg000341l_1_1
+REMOVE	hap_ptg000352l_1_1
+REMOVE	hap_ptg000357l_1_1
+REMOVE	hap_ptg000370l_1_1
+REMOVE	hap_ptg000474l_1_1
+REMOVE	hap_ptg000574l_1_1
+REMOVE	hap_ptg000801l_1_1
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+========== REFSEQ: bacteria ==========
+# Ortervirales
+REMOVE	atg001009l_1
+REMOVE	atg001175l_1
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# Sporadotrichida
+REMOVE	hap_ptg000173l_1_1
+
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
