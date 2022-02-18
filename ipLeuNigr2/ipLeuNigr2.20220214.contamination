@@ -14,16 +14,34 @@ REMOVE	scaffold_287
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 scaffold_198	0	28585	1247,4.362
+
+#Betaproteobacteria
+REMOVE	scaffold_105
+REMOVE	scaffold_192
+REMOVE	scaffold_198
+REMOVE	scaffold_226
+REMOVE	scaffold_231
+REMOVE	scaffold_234
+REMOVE	scaffold_260
+REMOVE	scaffold_271
+REMOVE	scaffold_299
+REMOVE	scaffold_316
+
+#Deltaproteobacteria
+REMOVE	scaffold_326
+
+#Flavobacteriia
+REMOVE	scaffold_277
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_47	0	209959	1574,0.750
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_310	0	10858	244,2.247
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_6	0	37489412	436,0.001
-# scaffold_8	0	33447831	218,0.001
 ========== REFSEQ: viridiplantae ==========
+#Magnoliopsida
+REMOVE	scaffold_310
+
 ========== TRIM Ns ==========
 
