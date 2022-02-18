@@ -6,7 +6,6 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	atg000097l_1
 REMOVE	atg000146l_1
-REMOVE	atg000155l_1
 REMOVE	atg000173l_1
 REMOVE	atg000301l_1
 REMOVE	atg000318l_1
@@ -19,7 +18,6 @@ REMOVE	atg000558l_1
 REMOVE	atg000600l_1
 REMOVE	atg000611l_1
 REMOVE	atg000645l_1
-REMOVE	atg000646l_1
 REMOVE	atg000686l_1
 REMOVE	atg000696l_1
 REMOVE	atg000702l_1
