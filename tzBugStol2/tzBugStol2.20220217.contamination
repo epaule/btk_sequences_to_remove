@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_42
 
 ========== PLASTID SEQUENCE ==========
 
@@ -10,23 +11,76 @@
 
 ========== BARCODES ==========
 
+========== REFSEQ: virus ==========
+#Uroviricota
+REMOVE	scaffold_33
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_21	0	219408	578,0.263
-scaffold_17	0	726151	818,0.113
-scaffold_15	0	1109000	937,0.084
-scaffold_16	0	1055998	230,0.022
-scaffold_14	0	2955215	276,0.009
+
+#Proteobacteria
+REMOVE	scaffold_100
+REMOVE	scaffold_14
+REMOVE	scaffold_19
+REMOVE	scaffold_26
+REMOVE	scaffold_29
+REMOVE	scaffold_30
+REMOVE	scaffold_32
+REMOVE	scaffold_34
+REMOVE	scaffold_36
+REMOVE	scaffold_39
+REMOVE	scaffold_41
+REMOVE	scaffold_46
+REMOVE	scaffold_51
+REMOVE	scaffold_52
+REMOVE	scaffold_55
+REMOVE	scaffold_58
+REMOVE	scaffold_65
+REMOVE	scaffold_67
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_72
+REMOVE	scaffold_80
+REMOVE	scaffold_85
+REMOVE	scaffold_97
+REMOVE	scaffold_98
+
+#Firmicutes
+REMOVE	scaffold_24
+REMOVE	scaffold_35
+REMOVE	scaffold_63
+REMOVE	scaffold_96
+
+#Bacteroidetes
+REMOVE	scaffold_15
+REMOVE	scaffold_16
+REMOVE	scaffold_17
+REMOVE	scaffold_20
+REMOVE	scaffold_21
+REMOVE	scaffold_23
+REMOVE	scaffold_38
+REMOVE	scaffold_40
+REMOVE	scaffold_43
+REMOVE	scaffold_45
+REMOVE	scaffold_50
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_57
+REMOVE	scaffold_68
+REMOVE	scaffold_75
+REMOVE	scaffold_77
+REMOVE	scaffold_78
+REMOVE	scaffold_88
+REMOVE	scaffold_90
+REMOVE	scaffold_94
+REMOVE	scaffold_99
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_18	0	527532	6168,1.169
-scaffold_2	0	27927179	121,0.000
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_18	0	527532	2600,0.493
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_18	0	527532	2516,0.477
 ========== TRIM Ns ==========
 
