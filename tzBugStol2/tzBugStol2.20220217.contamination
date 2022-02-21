@@ -79,6 +79,21 @@ REMOVE	scaffold_99
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Ciliophora
+REMOVE	scaffold_25
+REMOVE	scaffold_44
+REMOVE	scaffold_47
+REMOVE	scaffold_56
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_64
+REMOVE	scaffold_66
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_92
+REMOVE	scaffold_93
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
