@@ -4,16 +4,12 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_43	0	61437	31710,51.614
-scaffold_54	0	35735	14125,39.527
-scaffold_53	0	35788	10696,29.887
-scaffold_61	0	21103	1128,5.345
+REMOVE	scaffold_63
+REMOVE	scaffold_57
+REMOVE	scaffold_59
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_43	0	61437	61437,100.000
-scaffold_54	0	35735	35735,100.000
-scaffold_53	0	35788	35786,99.994
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -22,32 +18,28 @@ scaffold_53	0	35788	35786,99.994
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_43	0	61437	132,0.215
+# scaffold_29 has a bit of Chryseobacterium HGT
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_50	0	45535	348,0.764
-# scaffold_36	0	83565	580,0.694
-# scaffold_10	0	61387366	2176,0.004
-# scaffold_9	0	78537600	463,0.001
-# scaffold_7	0	132335372	108,0.000
-# scaffold_6	0	145243115	116,0.000
-# scaffold_2	0	244934180	116,0.000
-# scaffold_1	0	253604678	112,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_43	0	61437	188,0.306
+========== REFSEQ: virus ==========
+
+#Cirlivirales
+REMOVE	scaffold_32
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_5	0	177517418	549,0.000
-# scaffold_8	0	119236436	220,0.000
-# scaffold_10	0	61387366	108,0.000
-# scaffold_2	0	244934180	219,0.000
-# scaffold_6	0	145243115	108,0.000
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_54	0	35735	35735,100.000
-scaffold_53	0	35788	35786,99.994
-scaffold_43	0	61437	59925,97.539
+
+#Magnoliopsida
+REMOVE	scaffold_43
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_61
+
 ========== TRIM Ns ==========
 
