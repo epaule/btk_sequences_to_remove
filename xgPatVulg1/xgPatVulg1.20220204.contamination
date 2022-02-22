@@ -89,6 +89,9 @@ REMOVE	scaffold_77
 REMOVE	scaffold_82
 REMOVE	scaffold_84
 
+#Entomoplasmatales
+REMOVE	scaffold_13
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
