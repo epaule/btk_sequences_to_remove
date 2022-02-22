@@ -24,6 +24,12 @@ REMOVE	scaffold_812
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
+REMOVE	scaffold_1609
+REMOVE	scaffold_1391
+REMOVE	scaffold_388 
+REMOVE	scaffold_1547
+REMOVE	scaffold_110 
+
 #Epsilonproteobacteria
 REMOVE	scaffold_1021
 REMOVE	scaffold_67
@@ -1716,6 +1722,9 @@ REMOVE	scaffold_294
 REMOVE	scaffold_663
 REMOVE	scaffold_932
 
+REMOVE	scaffold_1030
+REMOVE	scaffold_1211
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
@@ -1730,10 +1739,21 @@ REMOVE	scaffold_1173
 #Mucoromycetes
 REMOVE	scaffold_1668
 
+REMOVE	scaffold_250
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+REMOVE	scaffold_1371
+REMOVE	scaffold_1148
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+REMOVE	scaffold_1069
+REMOVE	scaffold_1220
+REMOVE	scaffold_656 
+REMOVE	scaffold_730 
 
 #Insecta
 REMOVE	scaffold_1057
@@ -1751,6 +1771,12 @@ REMOVE	scaffold_787
 REMOVE	scaffold_806
 REMOVE	scaffold_811
 REMOVE	scaffold_875
+
+REMOVE	scaffold_1633
+REMOVE	scaffold_1553
+REMOVE	scaffold_1655
+REMOVE	scaffold_1161
+REMOVE	scaffold_711 
 
 #Gastropoda
 REMOVE	scaffold_1235
