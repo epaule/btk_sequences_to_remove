@@ -21,6 +21,9 @@ REMOVE	scaffold_178
 REMOVE	scaffold_190
 REMOVE	scaffold_223
 
+# Entomoplasmatales
+REMOVE	scaffold_13
+
 # Campylobacteria
 REMOVE	scaffold_75
 
