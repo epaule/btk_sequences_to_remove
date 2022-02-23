@@ -4,71 +4,39 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000390l_1_1	0	44067	11907,27.020
-hap_ptg000356l_1_1	0	32604	8588,26.340
-hap_ptg000500l_1_1	0	28375	7285,25.674
-hap_ptg000463l_1_1	0	28886	5755,19.923
-hap_ptg000407l_1_1	0	79770	15606,19.564
-hap_ptg000293l_1_1	0	123886	15884,12.821
-hap_ptg000302l_1_1	0	34206	4351,12.720
-atg000564l_1	0	41156	5069,12.317
-hap_ptg000486l_1_1	0	24531	2825,11.516
-hap_ptg000510l_1_1	0	27670	2825,10.210
-atg000200l_1	0	29919	2852,9.532
-atg000490l_1	0	29040	2680,9.229
-hap_ptg000528l_1_1	0	29186	1680,5.756
-hap_ptg000508l_1_1	0	31227	1671,5.351
-atg000248l_1	0	37217	1552,4.170
-atg000587l_1	0	25951	990,3.815
-atg000130l_1	0	35012	1120,3.199
-atg000158l_1	0	48029	1100,2.290
-atg000140l_1	0	31785	631,1.985
-atg000166l_1	0	31352	560,1.786
-atg000004l_1	0	31816	524,1.647
-hap_ptg000464l_1_1	0	33588	549,1.635
-atg000175l_1	0	39289	560,1.425
-hap_ptg000223l_1_1	0	716701	8398,1.172
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000564l_1	0	41156	38321,93.112
-hap_ptg000293l_1_1	0	123886	103560,83.593
-hap_ptg000302l_1_1	0	34206	27882,81.512
-hap_ptg000500l_1_1	0	28375	15739,55.468
-hap_ptg000407l_1_1	0	79770	40410,50.658
-hap_ptg000356l_1_1	0	32604	16125,49.457
-hap_ptg000390l_1_1	0	44067	19139,43.432
-atg000200l_1	0	29919	8935,29.864
-hap_ptg000464l_1_1	0	33588	9777,29.109
-hap_ptg000463l_1_1	0	28886	7055,24.424
-atg000559l_1	0	35490	1179,3.322
-hap_ptg000508l_1_1	0	31227	968,3.100
-atg000248l_1	0	37217	926,2.488
-atg000158l_1	0	48029	1109,2.309
-hap_ptg000486l_1_1	0	24531	552,2.250
-atg000490l_1	0	29040	649,2.235
-atg000111l_1	0	32669	726,2.222
-atg000456l_1	0	39003	815,2.090
-hap_ptg000510l_1_1	0	27670	552,1.995
-atg000036l_1	0	39357	556,1.413
+REMOVE	atg000200l_1
+REMOVE	atg000564l_1
+REMOVE	hap_ptg000293l_1_1
+REMOVE	hap_ptg000302l_1_1
+REMOVE	hap_ptg000356l_1_1
+REMOVE	hap_ptg000390l_1_1
+REMOVE	hap_ptg000407l_1_1
+REMOVE	hap_ptg000464l_1_1
+REMOVE	hap_ptg000500l_1_1
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+
+#Actinobacteria
+REMOVE	hap_ptg000444l_1_1
+REMOVE	hap_ptg000491l_1_1
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000528l_1_1	0	29186	408,1.398
-atg000166l_1	0	31352	204,0.651
-atg000130l_1	0	35012	204,0.583
-hap_ptg000223l_1_1	0	716701	3384,0.472
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000457l_1_1	0	19346	602,3.112
+
+#Ascomycota
+REMOVE	atg000587l_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000457l_1_1	0	19346	236,1.220
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
