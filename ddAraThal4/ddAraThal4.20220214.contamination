@@ -31,33 +31,55 @@ REMOVE	scaffold_47
 
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_42	0	30119	224,0.744
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_28	0	40903	230,0.562
-# scaffold_25	0	45665	230,0.504
-# scaffold_4	0	16266387	573,0.004
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_30	0	37647	684,1.817
-# scaffold_37	0	34201	242,0.708
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_58	0	17671	263,1.488
-# scaffold_30	0	37647	342,0.908
-# scaffold_52	0	21607	107,0.495
+
+# from Alan's curation
+REMOVE	scaffold_44
+REMOVE	scaffold_46
+REMOVE	scaffold_48
+REMOVE	scaffold_42
+REMOVE	scaffold_37
+REMOVE	scaffold_65
+REMOVE	scaffold_51
+REMOVE	scaffold_30
+REMOVE	scaffold_58
+REMOVE	scaffold_22
+REMOVE	scaffold_49
+REMOVE	scaffold_52
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_57
+REMOVE	scaffold_59
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_72
+REMOVE	scaffold_73
+REMOVE	scaffold_74
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_77
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_78
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_30	0	37647	1077,2.861
-# scaffold_58	0	17671	236,1.336
-# scaffold_28	0	40903	188,0.460
-# scaffold_23	0	50942	229,0.450
-# scaffold_25	0	45665	188,0.412
-# scaffold_4	0	16266387	564,0.003
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_30	0	37647	372,0.988
-# scaffold_42	0	30119	218,0.724
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
