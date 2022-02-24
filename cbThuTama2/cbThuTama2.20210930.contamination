@@ -11,6 +11,50 @@ REMOVE	scaffold_182
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_174
 
+
+# from curation QC
+REMOVE	scaffold_565	
+REMOVE	scaffold_582	
+REMOVE	scaffold_625	
+REMOVE	scaffold_826	
+REMOVE	scaffold_899	
+REMOVE	scaffold_900	
+REMOVE	scaffold_939	
+REMOVE	scaffold_1130	
+REMOVE	scaffold_1138	
+REMOVE	scaffold_1139	
+REMOVE	scaffold_1217	
+REMOVE	scaffold_1219	
+REMOVE	scaffold_1304	
+REMOVE	scaffold_1339	
+REMOVE	scaffold_1347	
+REMOVE	scaffold_1352	
+REMOVE	scaffold_1357	
+REMOVE	scaffold_1377	
+REMOVE	scaffold_1407	
+REMOVE	scaffold_1413	
+REMOVE	scaffold_1428	
+REMOVE	scaffold_1448	
+REMOVE	scaffold_1465	
+REMOVE	scaffold_1480	
+REMOVE	scaffold_1487	
+REMOVE	scaffold_1545	
+REMOVE	scaffold_1552	
+REMOVE	scaffold_1556	
+REMOVE	scaffold_1577	
+REMOVE	scaffold_1581	
+REMOVE	scaffold_1601	
+REMOVE	scaffold_1602	
+REMOVE	scaffold_1618	
+REMOVE	scaffold_1660	
+REMOVE	scaffold_1686	
+REMOVE	scaffold_1725	
+REMOVE	scaffold_1758	
+REMOVE	scaffold_1755	
+REMOVE	scaffold_557	
+REMOVE	scaffold_559	
+REMOVE	scaffold_1443
+
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
