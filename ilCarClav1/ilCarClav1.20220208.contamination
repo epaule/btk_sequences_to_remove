@@ -9,6 +9,8 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 # scaffold_20	0	14658017	21972,0.150
 
+
+
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -16,15 +18,78 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+#Metaseiulus occidentalis
+REMOVE	scaffold_35
+REMOVE	scaffold_36
+REMOVE	scaffold_38
+REMOVE	scaffold_39
+REMOVE	scaffold_40
+REMOVE	scaffold_41
+REMOVE	scaffold_42
+REMOVE	scaffold_43
+REMOVE	scaffold_45
+REMOVE	scaffold_46
+REMOVE	scaffold_52
+REMOVE	scaffold_53
+REMOVE	scaffold_55
+REMOVE	scaffold_57
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_75
+
+
+# insect
+REMOVE	scaffold_37
+REMOVE	scaffold_47
+REMOVE	scaffold_48
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_34	0	1202957	4615,0.384
 # scaffold_33	0	1656973	1562,0.094
+
+REMOVE	scaffold_34
+REMOVE	scaffold_49
+REMOVE	scaffold_54
+REMOVE	scaffold_68
+REMOVE	scaffold_71
+REMOVE	scaffold_73
+
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 # scaffold_27	0	10040954	116,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+
+# from curation
+REMOVE	scaffold_44
+REMOVE	scaffold_49
+REMOVE	scaffold_50
+REMOVE	scaffold_51
+REMOVE	scaffold_56
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_60
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_67
+REMOVE	scaffold_72
+REMOVE	scaffold_74
+REMOVE	scaffold_77
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_81
+REMOVE	scaffold_82
+
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
