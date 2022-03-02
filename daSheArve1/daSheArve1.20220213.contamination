@@ -7,6 +7,9 @@
 REMOVE	scaffold_48
 REMOVE	scaffold_75
 
+# from curation
+REMOVE	scaffold_33
+
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_21
