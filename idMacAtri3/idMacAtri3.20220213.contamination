@@ -53,6 +53,7 @@ REMOVE	scaffold_8
 
 #found in curation - probably Wolbachia
 REMOVE	scaffold_30
+REMOVE	scaffold_60
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
