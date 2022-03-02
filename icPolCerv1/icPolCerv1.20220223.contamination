@@ -13,17 +13,23 @@ REMOVE	scaffold_24
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_16	0	1120781	5740,0.512
-# scaffold_2	0	98348408	7123,0.007
-# scaffold_3	0	81162590	451,0.001
+
+#Mollicutes
+REMOVE	scaffold_16
+REMOVE	scaffold_27
+REMOVE	scaffold_29
+REMOVE	scaffold_31
+
+========== REFSEQ: virus ==========
+
+#Pokkesviricetes
+REMOVE	scaffold_25
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_10	0	37314767	589,0.002
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_7	0	54565817	327,0.001
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_10	0	37314767	123,0.000
 ========== TRIM Ns ==========
 
