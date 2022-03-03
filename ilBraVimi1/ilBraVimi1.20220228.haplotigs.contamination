@@ -4,14 +4,19 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000154l_1_1	0	17831	6831,38.310
-hap_ptg000102l_1_1	0	20057	6009,29.960
+REMOVE	hap_ptg000154l_1_1
+REMOVE	hap_ptg000102l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+
+========== REFSEQ: bacteria ==========
+#Gammaproteobacteria
+REMOVE	hap_ptg000165l_1_1
+REMOVE	hap_ptg000186l_1_1
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
