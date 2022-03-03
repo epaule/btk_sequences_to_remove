@@ -1,0 +1,39 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_101	0	16422	14580,88.783
+scaffold_3	0	72291019	15784,0.022
+scaffold_1	0	433842295	37626,0.009
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_98	0	16836	7800,46.329
+scaffold_106	0	11981	5331,44.495
+scaffold_56	0	65410	24361,37.244
+scaffold_74	0	36536	9347,25.583
+scaffold_40	0	98985	21134,21.351
+scaffold_95	0	20736	3000,14.468
+scaffold_69	0	44716	6156,13.767
+scaffold_37	0	123085	16861,13.699
+scaffold_5	0	1370677	129796,9.469
+scaffold_78	0	32643	3082,9.442
+scaffold_105	0	12002	1102,9.182
+scaffold_51	0	71436	1121,1.569
+scaffold_3	0	72291019	169,0.000
+scaffold_1	0	433842295	478,0.000
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_7	0	1160547	840,0.072
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
