@@ -4,7 +4,21 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001143l_1	0	20242	4091,20.210
+REMOVE	atg004443l
+REMOVE	atg005125l
+REMOVE	atg006478l
+REMOVE	hap_ptg000626l_1
+REMOVE	hap_ptg000971l_1
+REMOVE	hap_ptg000994l_1
+REMOVE	hap_ptg001143l_1
+REMOVE	hap_ptg001143l_1
+REMOVE	hap_ptg001346l_1
+REMOVE	hap_ptg001564l_1
+REMOVE	hap_ptg001652l_1
+REMOVE	hap_ptg001723l_1
+REMOVE	hap_ptg001863l_1
+REMOVE	hap_ptg002072l_1
+REMOVE	hap_ptg002209l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,6 +29,10 @@ hap_ptg001143l_1	0	20242	4091,20.210
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: virus ==========
+# Uncultured virus isolate
+REMOVE	atg004189l
+
 ========== REFSEQ: fungi ==========
 
 #Mucoromycetes
@@ -24,6 +42,10 @@ REMOVE	hap_ptg001342l_1
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+REMOVE	atg006910l
+REMOVE	atg006904l
+REMOVE	atg006907l
 
 #Magnoliopsida
 REMOVE	atg000125l
