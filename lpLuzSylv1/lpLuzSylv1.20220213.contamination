@@ -6,6 +6,17 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_117
 
+# found during curation
+REMOVE	scaffold_68
+REMOVE	scaffold_73
+REMOVE	scaffold_76
+REMOVE	scaffold_80
+REMOVE	scaffold_118
+REMOVE	scaffold_121
+REMOVE	scaffold_130
+REMOVE	scaffold_132
+REMOVE	scaffold_167
+
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_147
