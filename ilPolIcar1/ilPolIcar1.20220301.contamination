@@ -4,22 +4,20 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_61	0	16064	8350,51.980
-scaffold_65	0	15559	7093,45.588
-scaffold_60	0	16166	7096,43.895
-scaffold_67	0	15416	6344,41.152
-scaffold_69	0	15387	6311,41.015
-scaffold_70	0	15350	6283,40.932
-scaffold_68	0	15405	6280,40.766
-scaffold_64	0	15592	6280,40.277
-scaffold_63	0	15735	6281,39.917
-scaffold_59	0	16236	6197,38.168
-scaffold_66	0	15436	5254,34.037
-scaffold_58	0	18536	6280,33.880
-scaffold_57	0	22125	6280,28.384
-scaffold_62	0	15768	3966,25.152
-scaffold_17	0	18577862	1372,0.007
-scaffold_5	0	27387405	1360,0.005
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_60
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
 
 ========== PLASTID SEQUENCE ==========
 
@@ -31,17 +29,27 @@ VecScreen_Moderate	scaffold_28	83625	83653
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: virus ==========
+#Caudovirales
+REMOVE	scaffold_37
+REMOVE	scaffold_49
+REMOVE	scaffold_53
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_47	0	37069	11104,29.955
-scaffold_41	0	54631	15131,27.697
-scaffold_39	0	60685	15978,26.329
-scaffold_45	0	48205	11077,22.979
-scaffold_38	0	61403	11063,18.017
-scaffold_35	0	92810	10559,11.377
-scaffold_71	0	12986	440,3.388
-scaffold_72	0	11218	177,1.578
-scaffold_51	0	33901	107,0.316
+
+#Legionellales
+REMOVE	scaffold_72
+
+#Rickettsiales
+REMOVE	scaffold_35
+REMOVE	scaffold_38
+REMOVE	scaffold_39
+REMOVE	scaffold_41
+REMOVE	scaffold_45
+REMOVE	scaffold_47
+REMOVE	scaffold_52
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
