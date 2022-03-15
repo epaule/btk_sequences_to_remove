@@ -1,17 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000203l_1	0	43800	6781,15.482
-atg000205l_1	0	22475	199,0.885
-hap_ptg000124l_1_1	0	45847	368,0.803
-hap_ptg000039l_1_1	0	33650	52,0.155
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_ptg000155l_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000203l_1	0	43800	2647,6.043
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -20,23 +16,30 @@ atg000203l_1	0	43800	2647,6.043
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000203l_1	0	43800	4181,9.546
-atg000205l_1	0	22475	316,1.406
-hap_ptg000103l_1_1	0	32605	113,0.347
-atg000003l_1	0	2923939	107,0.004
-atg000011l_1	0	9983766	301,0.003
-atg000027l_1	0	12130606	198,0.002
+
+#Enterobacterales
+REMOVE	atg000174l_1
+REMOVE	atg000203l_1
+REMOVE	atg000205l_1
+REMOVE	hap_ptg000032l_1_1
+REMOVE	hap_ptg000039l_1_1
+REMOVE	hap_ptg000047l_1_1
+REMOVE	hap_ptg000055l_1_1
+REMOVE	hap_ptg000059l_1_1
+REMOVE	hap_ptg000103l_1_1
+REMOVE	hap_ptg000117l_1_1
+REMOVE	hap_ptg000135l_1_1
+REMOVE	hap_ptg000139l_1_1
+REMOVE	hap_ptg000124l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000370l_1	0	14235	280,1.967
-hap_ptg000090l_1_1	0	23206	280,1.207
-hap_ptg000051l_1_1	0	333331	3780,1.134
-atg000298l_1	0	28604	280,0.979
-atg000199l_1	0	27650	140,0.506
-hap_ptg000093l_1_1	0	68600	280,0.408
-atg000048l_1	0	6423996	700,0.011
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Fabales
+REMOVE	hap_ptg000093l_1_1
+
 ========== TRIM Ns ==========
 
