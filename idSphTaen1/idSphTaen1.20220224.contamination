@@ -16,6 +16,11 @@ REMOVE	scaffold_101
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
+# from curation
+REMOVE	scaffold_5
+REMOVE	scaffold_95
+REMOVE	scaffold_40
+
 #Alphaproteobacteria
 REMOVE	scaffold_103
 REMOVE	scaffold_105
