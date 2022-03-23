@@ -1,0 +1,33 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg004865l_1	0	19433	18794,96.712
+atg005467l_1	0	24606	7426,30.180
+atg009131l_1	0	39407	4992,12.668
+atg002007l_1	0	851263	11276,1.325
+atg000703l_1	0	1130354	12369,1.094
+atg002125l_1	0	703365	4579,0.651
+atg000280l_1	0	3662481	15302,0.418
+atg001760l_1	0	1460133	4559,0.312
+atg000077l_1	0	5846133	14110,0.241
+atg000600l_1	0	3027742	6366,0.210
+atg001711l_1	0	2087765	3599,0.172
+atg000759l_1	0	813493	1389,0.171
+atg000334l_1	0	4623644	5673,0.123
+atg000623l_1	0	1988136	710,0.036
+atg000714l_1	0	2023499	633,0.031
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: chordata ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
