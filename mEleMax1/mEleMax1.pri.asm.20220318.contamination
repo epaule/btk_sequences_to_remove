@@ -4,18 +4,18 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_41	0	3821917	14837,0.388
-scaffold_29	0	33256324	7426,0.022
-scaffold_11	0	117242463	15432,0.013
-scaffold_16	0	88520463	11276,0.013
-scaffold_8	0	133857495	12367,0.009
-scaffold_5	0	166437468	14093,0.008
-scaffold_19	0	84721396	4992,0.006
-scaffold_12	0	109810614	6346,0.006
-scaffold_24	0	79663537	4580,0.006
-scaffold_6	0	141573419	6383,0.005
-scaffold_21	0	80310087	2022,0.003
-scaffold_1	0	241991417	4555,0.002
+# scaffold_41	0	3821917	14837,0.388
+# scaffold_29	0	33256324	7426,0.022
+# scaffold_11	0	117242463	15432,0.013
+# scaffold_16	0	88520463	11276,0.013
+# scaffold_8	0	133857495	12367,0.009
+# scaffold_5	0	166437468	14093,0.008
+# scaffold_19	0	84721396	4992,0.006
+# scaffold_12	0	109810614	6346,0.006
+# scaffold_24	0	79663537	4580,0.006
+# scaffold_6	0	141573419	6383,0.005
+# scaffold_21	0	80310087	2022,0.003
+# scaffold_1	0	241991417	4555,0.002
 
 ========== PLASTID SEQUENCE ==========
 
