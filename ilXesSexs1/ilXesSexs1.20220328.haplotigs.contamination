@@ -1,0 +1,42 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	atg001462l_1
+REMOVE	atg001107l_1
+REMOVE	atg000999l_1
+REMOVE	hap_ptg000047l_1_1
+# atg001147l_1	0	213765	17516,8.194
+# atg000033l_1	0	197902	12389,6.260
+# atg001224l_1	0	31224	1415,4.532
+# hap_ptg000078l_1_1	0	213551	9155,4.287
+# atg001362l_1	0	34035	1076,3.161
+# atg000585l_1	0	756346	18914,2.501
+# atg000290l_1	0	702145	11678,1.663
+# atg000542l_1	0	597102	9915,1.661
+# atg000431l_1	0	614526	9160,1.491
+# atg000214l_1	0	336314	2528,0.752
+# atg000286l_1	0	2107514	14167,0.672
+# atg000904l_1	0	545219	2429,0.446
+# atg000025l_1	0	569801	1805,0.317
+# hap_ptg000110l_1_1	0	642531	1075,0.167
+# atg000071l_1	0	400051	628,0.157
+# atg000037l_1	0	4021859	4938,0.123
+# atg000461l_1	0	1910020	584,0.031
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+

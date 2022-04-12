@@ -10,6 +10,25 @@ REMOVE	scaffold_264
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+# Enterobacter
+REMOVE	scaffold_493
+
+# Enterococcus
+REMOVE	scaffold_124
+REMOVE	scaffold_145
+REMOVE	scaffold_256
+REMOVE	scaffold_312
+REMOVE	scaffold_356
+REMOVE	scaffold_411
+REMOVE	scaffold_493
+REMOVE	scaffold_599
+
+# Virgibacillus
+REMOVE	scaffold_232
+
+# Desulfuromonas
+REMOVE	scaffold_248
 
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -20,5 +39,13 @@ REMOVE	scaffold_264
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+REMOVE	scaffold_194
+REMOVE	scaffold_318
+REMOVE	scaffold_351
+REMOVE	scaffold_423
+REMOVE	scaffold_425
+REMOVE	scaffold_464
+
 ========== TRIM Ns ==========
 
