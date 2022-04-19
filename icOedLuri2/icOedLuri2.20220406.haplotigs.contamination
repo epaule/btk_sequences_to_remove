@@ -13,16 +13,9 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000960l_1_166457	0	166457	1428,0.858
-hap_ptg000954l_1_353155	0	353155	2448,0.693
-atg000032l_1_5470568	0	5470568	655,0.012
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000231l_1_846024	0	846024	109,0.013
-hap_ptg000166l_236533_2985764	0	2749232	218,0.008
-atg000646l_1_2078174	0	2078174	108,0.005
-hap_ptg000100l_1_5493153	0	5493153	107,0.002
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

@@ -6,7 +6,6 @@
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_947	0	3040	661,21.743
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 VecScreen_Strong	scaffold_11	17296212	17296244
@@ -18,18 +17,15 @@ VecScreen_Strong	scaffold_15	5551034	5551065
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_947	0	3040	3039,99.967
+
+# Wolbachia
+REMOVE	scaffold_947
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_3	0	88956353	2340,0.003
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_947	0	3040	285,9.375
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_10	0	46499813	220,0.000
-scaffold_13	0	40460235	111,0.000
-scaffold_1	0	116774619	218,0.000
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
