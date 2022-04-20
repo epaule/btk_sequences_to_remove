@@ -37,6 +37,19 @@ REMOVE	scaffold_248
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+# from NCBI-GX
+REMOVE	scaffold_715
+REMOVE	scaffold_688
+REMOVE	scaffold_647
+REMOVE	scaffold_645
+REMOVE	scaffold_634
+REMOVE	scaffold_620
+REMOVE	scaffold_463
+REMOVE	scaffold_372
+REMOVE	scaffold_351
+REMOVE	scaffold_338
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
