@@ -3,10 +3,6 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	atg001722l_1
-REMOVE	atg002469l_1
-REMOVE	hap_ptg001103l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,10 +11,20 @@ REMOVE	hap_ptg001103l_1_1
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_70	0	52615	49140,93.395
+scaffold_73	0	29908	1510,5.049
+scaffold_71	0	36907	973,2.636
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_28	0	7051948	256,0.004
+scaffold_24	0	8187598	113,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_70	0	52615	477,0.907
 ========== TRIM Ns ==========
 
