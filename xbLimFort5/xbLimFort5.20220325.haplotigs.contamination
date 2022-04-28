@@ -4,9 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003116l	0	18787	18560,98.792
-atg001246l	0	18516	18289,98.774
-hap_ptg001205c	0	39689	38645,97.370
+REMOVE	atg003116l
+REMOVE	atg001246l
+REMOVE	hap_ptg001205c
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,20 +16,84 @@ hap_ptg001205c	0	39689	38645,97.370
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001266l	0	16370	106,0.648
-hap_ptg001167l	0	19243	123,0.639
-hap_ptg001237l	0	27517	126,0.458
-hap_ptg001086l	0	74108	141,0.190
-atg001870l	0	75802	112,0.148
-hap_ptg000924l	0	128633	124,0.096
-hap_ptg001026l	0	123882	114,0.092
-atg000271l	0	632468	132,0.021
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001870l	0	75802	112,0.148
+
+# Magnoliopsida
+REMOVE	atg001253l
+REMOVE	atg001498l
+REMOVE	atg001714l
+REMOVE	atg001776l
+REMOVE	atg001827l
+REMOVE	atg001870l
+REMOVE	atg001886l
+REMOVE	atg002046l
+REMOVE	atg002075l
+REMOVE	atg002127l
+REMOVE	atg002152l
+REMOVE	atg002362l
+REMOVE	atg002410l
+REMOVE	atg002485l
+REMOVE	atg002569l
+REMOVE	atg002617l
+REMOVE	atg002739l
+REMOVE	atg002792l
+REMOVE	atg002793l
+REMOVE	atg002908l
+REMOVE	atg002988l
+REMOVE	atg003029l
+REMOVE	atg003056l
+REMOVE	atg003092l
+REMOVE	atg003108l
+REMOVE	atg003198l
+REMOVE	atg003208l
+REMOVE	atg003361l
+REMOVE	atg003406l
+REMOVE	atg003438l
+REMOVE	atg003510l
+REMOVE	atg003524l
+REMOVE	atg003638l
+REMOVE	atg003647l
+REMOVE	atg003653l
+REMOVE	atg003676l
+REMOVE	atg003694l
+REMOVE	atg003706l
+REMOVE	atg003732l
+REMOVE	atg003743l
+REMOVE	atg003752l
+REMOVE	atg003762l
+REMOVE	atg003808l
+REMOVE	atg003869l
+REMOVE	atg003909l
+REMOVE	atg003928l
+REMOVE	atg003970l
+REMOVE	atg004109l
+REMOVE	atg004136l
+REMOVE	atg004147l
+REMOVE	hap_ptg000063l
+REMOVE	hap_ptg000137l
+REMOVE	hap_ptg000610l
+REMOVE	hap_ptg000628l
+REMOVE	hap_ptg000871l
+REMOVE	hap_ptg000924l
+REMOVE	hap_ptg000926l
+REMOVE	hap_ptg000935l
+REMOVE	hap_ptg000967l
+REMOVE	hap_ptg001019l
+REMOVE	hap_ptg001086l
+REMOVE	hap_ptg001099l
+REMOVE	hap_ptg001115l
+REMOVE	hap_ptg001128l
+REMOVE	hap_ptg001146l
+REMOVE	hap_ptg001196l
+REMOVE	hap_ptg001202l
+REMOVE	hap_ptg001203l
+REMOVE	hap_ptg001251l
+REMOVE	hap_ptg001273l
+
 ========== TRIM Ns ==========
 TRIM:	hap_ptg000016l	1	23	
 TRIM:	hap_ptg000034l	520115	520137	
