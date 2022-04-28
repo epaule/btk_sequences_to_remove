@@ -20,5 +20,29 @@ REMOVE	hap_ptg001103l_1_1
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+# Fabales
+REMOVE	atg001415l_1
+REMOVE	atg001417l_1
+REMOVE	hap_ptg000833l_1_1
+
+========== REFSEQ: virus ==========
+
+# Pokkesviricetes
+REMOVE	atg001645l_1
+REMOVE	atg001868l_1
+REMOVE	atg002631l_1
+REMOVE	atg002637l_1
+REMOVE	hap_ptg000369l_1_1
+REMOVE	hap_ptg000522l_1_1
+REMOVE	hap_ptg000560l_1_1
+REMOVE	hap_ptg000623l_1_1
+REMOVE	hap_ptg000726l_1_1
+REMOVE	hap_ptg001227l_1_1
+REMOVE	hap_ptg001236l_1_1
+
+
+REMOVE	hap_ptg001274l_1_1
+
 ========== TRIM Ns ==========
 

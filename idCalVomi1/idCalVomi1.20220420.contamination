@@ -307,9 +307,37 @@ REMOVE	scaffold_98
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+# Fabales
+REMOVE	scaffold_302
+REMOVE	scaffold_371
+
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_377	0	19079	981,5.142
-# scaffold_91	0	37864	1333,3.520
+
+#Pokkesviricetes
+REMOVE	scaffold_106
+REMOVE	scaffold_119
+REMOVE	scaffold_126
+REMOVE	scaffold_160
+REMOVE	scaffold_178
+REMOVE	scaffold_26
+REMOVE	scaffold_263
+REMOVE	scaffold_28
+REMOVE	scaffold_31
+REMOVE	scaffold_348
+REMOVE	scaffold_349
+REMOVE	scaffold_40
+REMOVE	scaffold_405
+REMOVE	scaffold_444
+REMOVE	scaffold_82
+
+# Caudoviricetes
+REMOVE	scaffold_59
+REMOVE	scaffold_91
+REMOVE	scaffold_377
+REMOVE	scaffold_303
+
+REMOVE	scaffold_271
 ========== TRIM Ns ==========
 
