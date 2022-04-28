@@ -1,0 +1,76 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003116l	0	18787	18560,98.792
+atg001246l	0	18516	18289,98.774
+hap_ptg001205c	0	39689	38645,97.370
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001266l	0	16370	106,0.648
+hap_ptg001167l	0	19243	123,0.639
+hap_ptg001237l	0	27517	126,0.458
+hap_ptg001086l	0	74108	141,0.190
+atg001870l	0	75802	112,0.148
+hap_ptg000924l	0	128633	124,0.096
+hap_ptg001026l	0	123882	114,0.092
+atg000271l	0	632468	132,0.021
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001870l	0	75802	112,0.148
+========== TRIM Ns ==========
+TRIM:	hap_ptg000016l	1	23	
+TRIM:	hap_ptg000034l	520115	520137	
+TRIM:	hap_ptg000040l	491394	491416	
+TRIM:	hap_ptg000047l	1050762	1050784	
+TRIM:	hap_ptg000065l	1	23	
+TRIM:	hap_ptg000097l	1	23	
+TRIM:	hap_ptg000108l	1	23	
+TRIM:	hap_ptg000116l	1	23	
+TRIM:	hap_ptg000131l	582588	582610	
+TRIM:	hap_ptg000177l	1	23	
+TRIM:	hap_ptg000207l	1	23	
+TRIM:	hap_ptg000211l	969090	969112	
+TRIM:	hap_ptg000215l	1	23	
+TRIM:	hap_ptg000247l	707822	707844	
+TRIM:	hap_ptg000258l	44771	44793	
+TRIM:	hap_ptg000263l	145856	145878	
+TRIM:	hap_ptg000275l	160526	160548	
+TRIM:	hap_ptg000293l	229218	229240	
+TRIM:	hap_ptg000343l	1	23	
+TRIM:	hap_ptg000343l	60197	60219	
+TRIM:	hap_ptg000357l	32961	32983	
+TRIM:	hap_ptg000361l	1	23	
+TRIM:	hap_ptg000372l	1	23	
+TRIM:	hap_ptg000372l	206195	206217	
+TRIM:	hap_ptg000408l	132537	132559	
+TRIM:	hap_ptg000454l	1	23	
+TRIM:	hap_ptg000469l	1	23	
+TRIM:	hap_ptg000476l	58739	58761	
+TRIM:	hap_ptg000491l	1	23	
+TRIM:	hap_ptg000543l	773616	773638	
+TRIM:	hap_ptg000557l	314634	314656	
+TRIM:	hap_ptg000568l	1	23	
+TRIM:	hap_ptg000583l	1	23	
+TRIM:	hap_ptg000604l	1	23	
+TRIM:	hap_ptg000631l	1	23	
+TRIM:	hap_ptg000678l	1	23	
+TRIM:	hap_ptg000680l	1	23	
+TRIM:	hap_ptg000738l	218277	218299	
+TRIM:	hap_ptg000779l	1	23	
+TRIM:	hap_ptg000798l	1	23	
+TRIM:	hap_ptg000840l	78750	78772	
+TRIM:	hap_ptg000978l	50476	50498	
+
