@@ -11,12 +11,8 @@ REMOVE	scaffold_45
 ========== BARCODES ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_22	0	4508844	1200,0.027
-# scaffold_10	0	53397252	400,0.001
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_22	0	4508844	1248,0.028
-# scaffold_10	0	53397252	208,0.000
 
 ========== REFSEQ: bacteria ==========
 # gammaproteobacteria
@@ -30,7 +26,5 @@ REMOVE	scaffold_63
 
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_22	0	4508844	1356,0.030
-# scaffold_10	0	53397252	445,0.001
 ========== TRIM Ns ==========
 
