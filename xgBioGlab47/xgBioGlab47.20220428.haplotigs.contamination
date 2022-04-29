@@ -1,0 +1,53 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001057l_1	0	29885	1684,5.635
+atg002150l_1	0	31519	1684,5.343
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000336c_1_1	0	13670	13670,100.000
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001057l_1	0	29885	2540,8.499
+atg002150l_1	0	31519	2540,8.059
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001838l_1	0	34318	318,0.927
+hap_ptg000494l_1_1	0	11561	106,0.917
+atg001689l_1	0	25691	212,0.825
+atg001240l_1	0	26535	212,0.799
+atg002868l_1	0	27121	212,0.782
+atg002983l_1	0	30191	212,0.702
+hap_ptg000347l_1_1	0	200637	1272,0.634
+atg001044l_1	0	18214	106,0.582
+atg003121l_1	0	21950	106,0.483
+atg002781l_1	0	24650	106,0.430
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001057l_1	0	29885	5761,19.277
+atg002150l_1	0	31519	5610,17.799
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001838l_1	0	34318	1017,2.963
+hap_ptg000494l_1_1	0	11561	339,2.932
+atg001689l_1	0	25691	678,2.639
+atg002868l_1	0	27121	678,2.500
+atg002983l_1	0	30191	678,2.246
+atg001240l_1	0	26535	565,2.129
+hap_ptg000347l_1_1	0	200637	4181,2.084
+atg001044l_1	0	18214	339,1.861
+atg003121l_1	0	21950	339,1.544
+atg002781l_1	0	24650	339,1.375
+atg003397l_1	0	16708	113,0.676
+========== REFSEQ: fungi ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
