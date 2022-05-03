@@ -4,11 +4,11 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-mito_rotated	0	298572	235473,78.866
+# mito_rotated	0	298572	235473,78.866
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-mito_rotated	0	298572	3434,1.150
+# mito_rotated	0	298572	3434,1.150
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
