@@ -23,10 +23,21 @@ REMOVE	hap_ptg000202l_1
 
 ========== BARCODES ==========
 
-========== REFSEQ: chordata ==========
+
+========== refseq: bacteria ==========
+
+# gammaproteobacteria
+REMOVE	atg001275l
+
+========== refseq: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# symbodinium
+REMOVE	atg001975l
+REMOVE	atg002084l
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
