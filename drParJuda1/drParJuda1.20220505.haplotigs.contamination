@@ -1,0 +1,102 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000211l_1_1	0	19365	18707,96.602
+atg003468l_1	0	14888	13803,92.712
+hap_ptg000417l_1_1	0	37455	26018,69.465
+hap_ptg000350l_1_1	0	46084	27040,58.675
+hap_ptg000524l_1_1	0	45201	26064,57.662
+hap_ptg000701l_1_1	0	39395	22586,57.332
+hap_ptg000219l_1_1	0	31044	17587,56.652
+hap_ptg000141l_1_1	0	22805	12602,55.260
+hap_ptg000320l_1_1	0	29296	15539,53.041
+hap_ptg000243l_1_1	0	29405	15166,51.576
+hap_ptg000140l_1_1	0	46196	23613,51.115
+hap_ptg000519l_1_1	0	40576	19508,48.078
+hap_ptg000271l_1_1	0	39220	18796,47.925
+hap_ptg000197l_1_1	0	22550	10766,47.743
+hap_ptg000500l_1_1	0	34892	14911,42.735
+hap_ptg000399l_1_1	0	28841	12247,42.464
+hap_ptg000261l_1_1	0	41100	15603,37.964
+hap_ptg000160l_1_1	0	36055	13619,37.773
+hap_ptg000520l_1_1	0	30305	11357,37.476
+hap_ptg000462l_1_1	0	39933	14575,36.499
+hap_ptg000322l_1_1	0	37251	13137,35.266
+hap_ptg000511l_1_1	0	44481	14513,32.627
+hap_ptg000386l_1_1	0	53683	16979,31.628
+hap_ptg000878l_1_1	0	31074	9152,29.452
+hap_ptg000851l_1_1	0	17398	1119,6.432
+hap_ptg000280l_1_1	0	48780	2241,4.594
+hap_ptg000049l_1_1	0	538397	22959,4.264
+atg001429l_1	0	50597	2130,4.210
+hap_ptg000118l_1_1	0	53934	2240,4.153
+hap_ptg000343l_1_1	0	71597	2795,3.904
+hap_ptg000151l_1_1	0	29357	1120,3.815
+hap_ptg000440l_1_1	0	76901	2800,3.641
+atg001700l_1	0	61583	2236,3.631
+hap_ptg000291l_1_1	0	31601	1120,3.544
+hap_ptg000630l_1_1	0	47636	1680,3.527
+hap_ptg000748l_1_1	0	34757	1119,3.219
+atg000905l_1	0	41518	782,1.884
+atg000150l_1	0	46895	540,1.152
+atg000732l_1	0	510744	5040,0.987
+atg000377l_1	0	185204	818,0.442
+hap_ptg000177l_1_1	0	152705	559,0.366
+atg000967l_1	0	221860	531,0.239
+atg000318l_1	0	908613	587,0.065
+hap_ptg000054l_1_1	0	4596740	559,0.012
+hap_ptg000011l_1_1	0	8949611	504,0.006
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003468l_1	0	14888	14888,100.000
+hap_ptg000211l_1_1	0	19365	19365,100.000
+hap_ptg000386l_1_1	0	53683	50208,93.527
+hap_ptg000219l_1_1	0	31044	28537,91.924
+hap_ptg000141l_1_1	0	22805	20309,89.055
+hap_ptg000140l_1_1	0	46196	40269,87.170
+hap_ptg000350l_1_1	0	46084	40042,86.889
+hap_ptg000417l_1_1	0	37455	31381,83.783
+hap_ptg000524l_1_1	0	45201	37502,82.967
+hap_ptg000399l_1_1	0	28841	8692,30.138
+hap_ptg000701l_1_1	0	39395	7394,18.769
+hap_ptg000160l_1_1	0	36055	4977,13.804
+hap_ptg000519l_1_1	0	40576	5197,12.808
+hap_ptg000261l_1_1	0	41100	4416,10.745
+hap_ptg000520l_1_1	0	30305	1882,6.210
+hap_ptg000320l_1_1	0	29296	1222,4.171
+hap_ptg000878l_1_1	0	31074	989,3.183
+hap_ptg000462l_1_1	0	39933	1196,2.995
+hap_ptg000243l_1_1	0	29405	593,2.017
+hap_ptg000322l_1_1	0	37251	736,1.976
+atg000905l_1	0	41518	782,1.884
+atg000852l_1	0	49416	663,1.342
+atg002781l_1	0	97007	545,0.562
+atg000377l_1	0	185204	818,0.442
+hap_ptg000102l_1_1	0	733260	1288,0.176
+hap_ptg000011l_1_1	0	8949611	2184,0.024
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000211l_1_1	0	19365	113,0.584
+hap_ptg000350l_1_1	0	46084	226,0.490
+atg000905l_1	0	41518	127,0.306
+hap_ptg000417l_1_1	0	37455	113,0.302
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000211l_1_1	0	19365	188,0.971
+hap_ptg000350l_1_1	0	46084	376,0.816
+hap_ptg000417l_1_1	0	37455	188,0.502
+atg000905l_1	0	41518	117,0.282
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
