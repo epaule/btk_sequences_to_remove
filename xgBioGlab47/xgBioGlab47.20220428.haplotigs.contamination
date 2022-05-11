@@ -5,13 +5,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
 REMOVE	hap_ptg000336c_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001057l_1	0	29885	2540,8.499
-atg002150l_1	0	31519	2540,8.059
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -22,17 +19,21 @@ atg002150l_1	0	31519	2540,8.059
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-# Aeromonas
+#Gammaproteobacteria
 REMOVE	atg001057l_1
 REMOVE	atg002150l_1
 REMOVE	hap_ptg000386l_1_1
 REMOVE	hap_ptg000393l_1_1
+REMOVE	hap_ptg000448l_1_1
+
+#Flavobacteriia
+REMOVE	atg002211l_1
+
+#Megaviricetes
+REMOVE	atg002424l_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-# fishes ?
-REMOVE	atg001650l_1
 
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========
