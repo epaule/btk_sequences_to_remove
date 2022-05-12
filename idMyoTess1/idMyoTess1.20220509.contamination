@@ -13,25 +13,43 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_6	0	1283801	1029473,80.189
-scaffold_5	0	1321449	139095,10.526
-scaffold_7	0	1018635	80739,7.926
-scaffold_8	0	343440	21552,6.275
-scaffold_27	0	39730	130,0.327
-scaffold_23	0	42802	130,0.304
-scaffold_26	0	39733	116,0.292
-scaffold_3	0	62479659	227,0.000
-scaffold_1	0	74632285	128,0.000
+
+#Rickettsia / alphaproteobacteria
+REMOVE	scaffold_11
+REMOVE	scaffold_14
+REMOVE	scaffold_16
+REMOVE	scaffold_17
+REMOVE	scaffold_18
+REMOVE	scaffold_19
+REMOVE	scaffold_20
+REMOVE	scaffold_21
+REMOVE	scaffold_22
+REMOVE	scaffold_23
+REMOVE	scaffold_24
+REMOVE	scaffold_25
+REMOVE	scaffold_26
+REMOVE	scaffold_27
+REMOVE	scaffold_28
+REMOVE	scaffold_29
+REMOVE	scaffold_30
+REMOVE	scaffold_31
+REMOVE	scaffold_32
+REMOVE	scaffold_33
+REMOVE	scaffold_34
+REMOVE	scaffold_35
+REMOVE	scaffold_37
+REMOVE	scaffold_38
+REMOVE	scaffold_39
+REMOVE	scaffold_5
+REMOVE	scaffold_6
+REMOVE	scaffold_7
+REMOVE	scaffold_8
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_4	0	45701601	109,0.000
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_27	0	39730	111,0.279
-scaffold_23	0	42802	111,0.259
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_27	0	39730	113,0.284
-scaffold_23	0	42802	113,0.264
 ========== TRIM Ns ==========
 
