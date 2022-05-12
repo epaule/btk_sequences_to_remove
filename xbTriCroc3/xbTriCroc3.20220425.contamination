@@ -26,6 +26,10 @@ REMOVE	scaffold_55
 REMOVE	scaffold_63
 REMOVE	scaffold_64
 
+========== REFSEQ: virus ==========
+# Retrovirus
+REMOVE  scaffold_44
+REMOVE  scaffold_51
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
