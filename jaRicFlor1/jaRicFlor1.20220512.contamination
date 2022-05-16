@@ -1,0 +1,60 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_127	0	21378	21378,100.000
+scaffold_58	0	186322	147235,79.022
+scaffold_38	0	543135	357217,65.769
+scaffold_68	0	158524	33027,20.834
+scaffold_64	0	172483	29069,16.853
+scaffold_112	0	35752	2606,7.289
+scaffold_100	0	49795	2806,5.635
+scaffold_106	0	41934	2244,5.351
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_112	0	35752	26480,74.066
+scaffold_64	0	172483	124497,72.179
+scaffold_38	0	543135	241348,44.436
+scaffold_68	0	158524	44272,27.928
+scaffold_58	0	186322	9621,5.164
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_38	0	543135	452,0.083
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_163	0	12051	236,1.958
+scaffold_106	0	41934	816,1.946
+scaffold_100	0	49795	816,1.639
+scaffold_178	0	9625	112,1.164
+scaffold_13	0	28033908	118,0.000
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_163	0	12051	448,3.718
+scaffold_178	0	9625	119,1.236
+scaffold_13	0	28033908	224,0.001
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_178	0	9625	646,6.712
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_38	0	543135	420665,77.451
+scaffold_58	0	186322	141413,75.897
+scaffold_112	0	35752	12868,35.992
+scaffold_64	0	172483	49293,28.578
+scaffold_100	0	49795	5559,11.164
+scaffold_106	0	41934	4632,11.046
+scaffold_163	0	12051	548,4.547
+scaffold_68	0	158524	5931,3.741
+scaffold_178	0	9625	334,3.470
+scaffold_13	0	28033908	615,0.002
+========== TRIM Ns ==========
+

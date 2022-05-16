@@ -1,0 +1,73 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg005021l_1	0	18132	18132,100.000
+atg006611l_1	0	11773	11773,100.000
+atg007093l_1	0	11909	11896,99.891
+atg002459l_1	0	23614	22179,93.923
+atg005343l_1	0	6509	6027,92.595
+atg005479l_1	0	21448	18760,87.467
+atg002696l_1	0	17064	13688,80.216
+hap_ptg000761l_1_1	0	11553	8802,76.188
+atg005493l_1	0	6354	4395,69.169
+atg005197l_1	0	5634	2868,50.905
+atg003433l_1	0	10372	4969,47.908
+atg004799l_1	0	5726	1956,34.160
+atg004573l_1	0	21692	1122,5.172
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002696l_1	0	17064	17064,100.000
+atg003433l_1	0	10372	10372,100.000
+atg004191l_1	0	5265	5265,100.000
+atg004799l_1	0	5726	5726,100.000
+atg004914l_1	0	8017	8017,100.000
+atg005197l_1	0	5634	5634,100.000
+atg005343l_1	0	6509	6509,100.000
+atg005479l_1	0	21448	21448,100.000
+atg005493l_1	0	6354	6354,100.000
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+CONTAMINANT	atg002843l_1	18635	18648
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002696l_1	0	17064	113,0.662
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg004573l_1	0	21692	408,1.881
+atg006710l_1	0	12704	236,1.858
+hap_ptg000814l_1_1	0	19227	354,1.841
+hap_ptg000747l_1_1	0	40995	472,1.151
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg006710l_1	0	12704	448,3.526
+hap_ptg000814l_1_1	0	19227	672,3.495
+hap_ptg000747l_1_1	0	40995	896,2.186
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003433l_1	0	10372	10372,100.000
+atg005197l_1	0	5634	5634,100.000
+atg005493l_1	0	6354	6354,100.000
+atg005479l_1	0	21448	21035,98.074
+atg002696l_1	0	17064	16651,97.580
+atg005343l_1	0	6509	6231,95.729
+atg004914l_1	0	8017	7105,88.624
+atg002459l_1	0	23614	20253,85.767
+hap_ptg000761l_1_1	0	11553	7043,60.963
+atg004799l_1	0	5726	3017,52.689
+atg004191l_1	0	5265	2075,39.411
+atg004573l_1	0	21692	2688,12.392
+hap_ptg000814l_1_1	0	19227	983,5.113
+atg006710l_1	0	12704	548,4.314
+hap_ptg000747l_1_1	0	40995	1740,4.244
+atg000633l_1	0	770541	112,0.015
+========== TRIM Ns ==========
+
