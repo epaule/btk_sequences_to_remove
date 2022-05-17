@@ -38,11 +38,12 @@ REMOVE	scaffold_172
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#symbodinium
+#symbiodinium
 REMOVE	scaffold_143
 REMOVE	scaffold_157
 REMOVE	scaffold_181
 REMOVE	scaffold_74
+REMOVE	scaffold_96
 
 #alveolates
 REMOVE	scaffold_124

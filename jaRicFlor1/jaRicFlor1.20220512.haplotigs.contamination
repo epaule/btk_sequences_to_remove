@@ -4,31 +4,15 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg005021l_1	0	18132	18132,100.000
-atg006611l_1	0	11773	11773,100.000
-atg007093l_1	0	11909	11896,99.891
-atg002459l_1	0	23614	22179,93.923
-atg005343l_1	0	6509	6027,92.595
-atg005479l_1	0	21448	18760,87.467
-atg002696l_1	0	17064	13688,80.216
-hap_ptg000761l_1_1	0	11553	8802,76.188
-atg005493l_1	0	6354	4395,69.169
-atg005197l_1	0	5634	2868,50.905
-atg003433l_1	0	10372	4969,47.908
-atg004799l_1	0	5726	1956,34.160
-atg004573l_1	0	21692	1122,5.172
+REMOVE	atg002459l_1
+REMOVE	atg005021l_1
+REMOVE	atg006611l_1
+REMOVE	atg007093l_1
+REMOVE	hap_ptg000761l_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002696l_1	0	17064	17064,100.000
-atg003433l_1	0	10372	10372,100.000
-atg004191l_1	0	5265	5265,100.000
-atg004799l_1	0	5726	5726,100.000
-atg004914l_1	0	8017	8017,100.000
-atg005197l_1	0	5634	5634,100.000
-atg005343l_1	0	6509	6509,100.000
-atg005479l_1	0	21448	21448,100.000
-atg005493l_1	0	6354	6354,100.000
+REMOVE	atg005493l_1
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -38,36 +22,134 @@ CONTAMINANT	atg002843l_1	18635	18648
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002696l_1	0	17064	113,0.662
+
+#Bacteria-undef
+REMOVE	atg001882l_1
+REMOVE	atg002574l_1
+REMOVE	atg002658l_1
+REMOVE	atg003057l_1
+REMOVE	atg004397l_1
+REMOVE	atg006948l_1
+REMOVE	hap_ptg000862l_1_1
+
+#Cytophagales
+REMOVE	atg003044l_1
+REMOVE	atg003485l_1
+REMOVE	atg003904l_1
+REMOVE	atg004931l_1
+REMOVE	atg005418l_1
+REMOVE	atg006035l_1
+REMOVE	hap_ptg000733l_1_1
+
+#Flavobacteriales
+REMOVE	atg002656l_1
+
+#Gammaproteobacteria-undef
+REMOVE	atg000150l_1
+REMOVE	atg000502l_1
+REMOVE	atg000568l_1
+REMOVE	atg000570l_1
+REMOVE	atg000680l_1
+REMOVE	atg000746l_1
+REMOVE	atg000789l_1
+REMOVE	atg001178l_1
+REMOVE	atg001598l_1
+REMOVE	atg001805l_1
+REMOVE	atg002095l_1
+REMOVE	atg002241l_1
+REMOVE	atg002650l_1
+REMOVE	atg002918l_1
+REMOVE	atg002925l_1
+REMOVE	atg002935l_1
+REMOVE	atg003048l_1
+REMOVE	atg003085l_1
+REMOVE	atg003346l_1
+REMOVE	atg003507l_1
+REMOVE	atg003619l_1
+REMOVE	atg003633l_1
+REMOVE	atg004737l_1
+REMOVE	atg004964l_1
+REMOVE	atg005186l_1
+REMOVE	atg006538l_1
+REMOVE	hap_ptg000124l_2_1
+
+#Pseudomonadales
+REMOVE	atg001026l_1
+
+#Rickettsiales
+REMOVE	atg000498l_1
+REMOVE	atg002415l_1
+REMOVE	atg002934l_1
+REMOVE	atg002953l_1
+REMOVE	atg004854l_1
+REMOVE	atg006753l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004573l_1	0	21692	408,1.881
-atg006710l_1	0	12704	236,1.858
-hap_ptg000814l_1_1	0	19227	354,1.841
-hap_ptg000747l_1_1	0	40995	472,1.151
-========== REFSEQ: fungi ==========
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006710l_1	0	12704	448,3.526
-hap_ptg000814l_1_1	0	19227	672,3.495
-hap_ptg000747l_1_1	0	40995	896,2.186
+
+#Pimascovirales
+REMOVE	atg003490l_1
+
 ========== REFSEQ: other_eukaryota ==========
+
+#alveolates
+REMOVE	atg003776l_1
+REMOVE	hap_ptg000738l_1_1
+REMOVE	hap_ptg000754l_1_1
+
+#symbodinium
+REMOVE	atg003512l_1
+REMOVE	atg003776l_1
+REMOVE	atg005846l_1
+REMOVE	hap_ptg000741l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003433l_1	0	10372	10372,100.000
-atg005197l_1	0	5634	5634,100.000
-atg005493l_1	0	6354	6354,100.000
-atg005479l_1	0	21448	21035,98.074
-atg002696l_1	0	17064	16651,97.580
-atg005343l_1	0	6509	6231,95.729
-atg004914l_1	0	8017	7105,88.624
-atg002459l_1	0	23614	20253,85.767
-hap_ptg000761l_1_1	0	11553	7043,60.963
-atg004799l_1	0	5726	3017,52.689
-atg004191l_1	0	5265	2075,39.411
-atg004573l_1	0	21692	2688,12.392
-hap_ptg000814l_1_1	0	19227	983,5.113
-atg006710l_1	0	12704	548,4.314
-hap_ptg000747l_1_1	0	40995	1740,4.244
-atg000633l_1	0	770541	112,0.015
+
+REMOVE	atg001491l_1
+REMOVE	atg002025l_1
+REMOVE	atg002195l_1
+REMOVE	atg002249l_1
+REMOVE	atg002459l_1
+REMOVE	atg002696l_1
+REMOVE	atg002855l_1
+REMOVE	atg002885l_1
+REMOVE	atg003409l_1
+REMOVE	atg003433l_1
+REMOVE	atg004191l_1
+REMOVE	atg004431l_1
+REMOVE	atg004573l_1
+REMOVE	atg004681l_1
+REMOVE	atg004799l_1
+REMOVE	atg004914l_1
+REMOVE	atg005197l_1
+REMOVE	atg005236l_1
+REMOVE	atg005249l_1
+REMOVE	atg005343l_1
+REMOVE	atg005479l_1
+REMOVE	atg005493l_1
+REMOVE	atg005581l_1
+REMOVE	hap_ptg000197l_1_1
+REMOVE	hap_ptg000212l_1_1
+REMOVE	hap_ptg000425l_1_1
+REMOVE	hap_ptg000439l_1_1
+REMOVE	hap_ptg000463c_1_1
+REMOVE	hap_ptg000483l_1_1
+REMOVE	hap_ptg000518l_1_1
+REMOVE	hap_ptg000543l_1_1
+REMOVE	hap_ptg000598l_1_1
+REMOVE	hap_ptg000613l_1_1
+REMOVE	hap_ptg000616l_1_1
+REMOVE	hap_ptg000619l_1_1
+REMOVE	hap_ptg000630l_1_1
+REMOVE	hap_ptg000650c_1_1
+REMOVE	hap_ptg000670l_1_1
+REMOVE	hap_ptg000703c_1_1
+REMOVE	hap_ptg000747l_1_1
+REMOVE	hap_ptg000761l_1_1
+REMOVE	hap_ptg000814l_1_1
+
 ========== TRIM Ns ==========
 
