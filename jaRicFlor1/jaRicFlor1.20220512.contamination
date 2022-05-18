@@ -60,8 +60,6 @@ REMOVE	scaffold_247
 REMOVE	scaffold_98
 
 ========== REFSEQ: virus ==========
-#retrotransposon
-REMOVE	scaffold_172
 
 # RNA-virus
 REMOVE	scaffold_220
@@ -121,7 +119,6 @@ REMOVE	scaffold_198
 REMOVE	scaffold_200
 REMOVE	scaffold_201
 REMOVE	scaffold_202
-REMOVE	scaffold_203
 REMOVE	scaffold_203
 REMOVE	scaffold_204
 REMOVE	scaffold_205
