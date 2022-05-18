@@ -48,7 +48,6 @@ REMOVE	scaffold_96
 #alveolates
 REMOVE	scaffold_124
 REMOVE	scaffold_138
-REMOVE	scaffold_141
 REMOVE	scaffold_145
 REMOVE	scaffold_150
 REMOVE	scaffold_176
@@ -57,9 +56,15 @@ REMOVE	scaffold_208
 REMOVE	scaffold_243
 REMOVE	scaffold_247
 
+#diptera
+REMOVE	scaffold_98
+
 ========== REFSEQ: virus ==========
 #retrotransposon
 REMOVE	scaffold_172
+
+# RNA-virus
+REMOVE	scaffold_220
 
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -86,9 +91,11 @@ REMOVE	scaffold_162
 REMOVE	scaffold_163
 REMOVE	scaffold_164
 REMOVE	scaffold_165
+REMOVE	scaffold_166
 REMOVE	scaffold_167
 REMOVE	scaffold_169
 REMOVE	scaffold_171
+REMOVE	scaffold_173
 REMOVE	scaffold_174
 REMOVE	scaffold_175
 REMOVE	scaffold_177
@@ -136,6 +143,7 @@ REMOVE	scaffold_225
 REMOVE	scaffold_226
 REMOVE	scaffold_227
 REMOVE	scaffold_228
+REMOVE	scaffold_229
 REMOVE	scaffold_230
 REMOVE	scaffold_231
 REMOVE	scaffold_232
