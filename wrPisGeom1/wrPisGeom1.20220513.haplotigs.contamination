@@ -9,16 +9,23 @@
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+
+#alphaproteobacteria
+REMOVE	atg002630l_1
+REMOVE	atg001519l_1
+REMOVE	atg013795l_1
+REMOVE	atg016819l_1
+REMOVE	atg017686l_1
+
+#Halolactibacillus
+REMOVE	atg007413l_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000070l_1_1	0	344667	1469,0.426
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000736l_1_1	0	120311	4926,4.094
-atg000246l_1	0	35105	723,2.060
-hap_ptg001000l_1_1	0	41811	536,1.282
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
