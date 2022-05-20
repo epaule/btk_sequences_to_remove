@@ -15,17 +15,12 @@ REMOVE	hap_ptg000230l_1_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 
-# Wolbachia
-REMOVE	atg000876l_1
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000019l_1	0	4990882	1109,0.022
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000712l_1	0	74937	234,0.312
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg001000l_1	0	61451	112,0.182
 ========== TRIM Ns ==========
 

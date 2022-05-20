@@ -13,7 +13,6 @@ REMOVE	scaffold_83
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_11	0	18561712	111,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
@@ -21,12 +20,7 @@ REMOVE	scaffold_83
 # scaffold_8	0	24795924	553,0.002
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_11	0	18561712	117,0.001
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_10	0	20753654	112,0.001
-# scaffold_6	0	29442697	112,0.000
-# scaffold_5	0	30590200	112,0.000
-# scaffold_4	0	30929565	112,0.000
 ========== TRIM Ns ==========
 
