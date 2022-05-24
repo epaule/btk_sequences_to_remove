@@ -1,3 +1,5 @@
+# BTK couldn't run on the sequences, so the below is based on BLASTs and FCS-genome
+
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
@@ -26,6 +28,25 @@ REMOVE	atg007413l_1
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# mollusc
+REMOVE	atg003151l_1
+REMOVE	atg005041l_1
+REMOVE	hap_ptg000070l_1_1
+REMOVE	hap_ptg001297l_1_1
+
+# echinoderms
+REMOVE	atg005204l_1
+REMOVE	hap_ptg000472l_1_1
+
+# basal metazoa
+REMOVE	hap_ptg000159l_1_1
+
+# picked up by the old NCBI pipeline
+REMOVE	atg000246l_1
+REMOVE	hap_ptg000736l_1_1
+REMOVE	hap_ptg001000l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
