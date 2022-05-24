@@ -1,0 +1,56 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000896l_1	0	311174	1620,0.521
+atg000184l_1	0	1044906	1076,0.103
+atg000151l_1	0	4912549	3740,0.076
+atg000372l_1	0	877216	540,0.062
+atg000020l_1	0	2780418	515,0.019
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001289l_1	0	120594	220,0.182
+atg000991l_1	0	372364	134,0.036
+atg000068l_1	0	1132367	379,0.033
+atg000267l_1	0	1745060	500,0.029
+atg000606l_1	0	677163	122,0.018
+atg000667l_1	0	1848982	301,0.016
+atg000980l_1	0	850405	124,0.015
+atg000342l_1	0	1305944	188,0.014
+atg000421l_1	0	3260623	450,0.014
+atg000271l_1	0	3726607	438,0.012
+atg000524l_1	0	6135112	680,0.011
+atg000716l_1	0	1590885	155,0.010
+atg000482l_1	0	3040631	227,0.007
+atg000151l_1	0	4912549	304,0.006
+atg000069l_1	0	1867777	113,0.006
+atg000197l_1	0	1829150	109,0.006
+atg000055l_1	0	3588459	186,0.005
+atg000154l_1	0	4917993	122,0.002
+atg000416l_1	0	5124450	115,0.002
+atg000044l_1	0	9195669	158,0.002
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002284l_1	0	19965	280,1.402
+atg001418l_1	0	44069	420,0.953
+hap_ptg000294l_1_1	0	61048	560,0.917
+hap_ptg000224l_1_1	0	202643	1680,0.829
+hap_ptg000200l_1_1	0	69795	560,0.802
+hap_ptg000216l_1_1	0	342245	2660,0.777
+atg000058l_1	0	3439972	117,0.003
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000058l_1	0	3439972	113,0.003
+========== TRIM Ns ==========
+
