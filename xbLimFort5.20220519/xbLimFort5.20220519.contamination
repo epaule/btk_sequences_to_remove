@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_478	0	18517	18290,98.774
-scaffold_217	0	55551	53690,96.650
+REMOVE	scaffold_478
+REMOVE	scaffold_217
 
 ========== PLASTID SEQUENCE ==========
 
@@ -14,22 +14,67 @@ scaffold_217	0	55551	53690,96.650
 ========== BARCODES ==========
 CONTAMINANT	scaffold_342	30274	30290
 
+========== REFSEQ: bacteria ==========
+
+# unknown bacteria
+REMOVE	scaffold_313
+REMOVE	scaffold_445
+
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_465	0	19245	123,0.639
-scaffold_3	0	102323053	14885,0.015
-scaffold_2	0	112740911	132,0.000
-scaffold_5	0	98014552	114,0.000
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_199	0	58885	153,0.260
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_199	0	58885	166,0.282
 ========== REFSEQ: other_metazoa ==========
+
+REMOVE	scaffold_306
+REMOVE	scaffold_503
+REMOVE	scaffold_548
+REMOVE	scaffold_549
+
+========== REFSEQ: virus ==========
+
+# bacteriophage
+REMOVE	scaffold_108
+REMOVE	scaffold_491
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_199	0	58885	166,0.282
+
+# Magnoliopsida
+REMOVE	scaffold_102
+REMOVE	scaffold_114
+REMOVE	scaffold_122
+REMOVE	scaffold_128
+REMOVE	scaffold_134
+REMOVE	scaffold_139
+REMOVE	scaffold_144
+REMOVE	scaffold_157
+REMOVE	scaffold_162
+REMOVE	scaffold_167
+REMOVE	scaffold_172
+REMOVE	scaffold_199
+REMOVE	scaffold_206
+REMOVE	scaffold_212
+REMOVE	scaffold_218
+REMOVE	scaffold_254
+REMOVE	scaffold_292
+REMOVE	scaffold_325
+REMOVE	scaffold_332
+REMOVE	scaffold_355
+REMOVE	scaffold_396
+REMOVE	scaffold_425
+REMOVE	scaffold_427
+REMOVE	scaffold_439
+REMOVE	scaffold_44
+REMOVE	scaffold_52
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_67
+REMOVE	scaffold_69
+
 ========== TRIM Ns ==========
 

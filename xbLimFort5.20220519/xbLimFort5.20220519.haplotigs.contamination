@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000822c	0	18479	18271,98.874
-h2tg001570l	0	19442	18625,95.798
+REMOVE	h2tg000822c
+REMOVE	h2tg001570l
 
 ========== PLASTID SEQUENCE ==========
 
@@ -14,21 +14,60 @@ h2tg001570l	0	19442	18625,95.798
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+========== REFSEQ: bacteria ==========
+
+# Clostridia
+REMOVE	h2tg000671l
+
+# Bacteria-undef
+REMOVE	h2tg000699l
+REMOVE	h2tg000970l
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg001542l	0	41040	124,0.302
-h2tg000120l	0	7625904	14885,0.195
-h2tg001339l	0	123882	114,0.092
-h2tg000244l	0	3016093	133,0.004
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg001583l	0	58887	153,0.260
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg001583l	0	58887	166,0.282
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg001583l	0	58887	166,0.282
+
+# Magnoliopsida
+REMOVE	h2tg000082l
+REMOVE	h2tg000387l
+REMOVE	h2tg000737c
+REMOVE	h2tg000748l
+REMOVE	h2tg001006l
+REMOVE	h2tg001129c
+REMOVE	h2tg001172l
+REMOVE	h2tg001223l
+REMOVE	h2tg001228l
+REMOVE	h2tg001253l
+REMOVE	h2tg001269l
+REMOVE	h2tg001335l
+REMOVE	h2tg001344l
+REMOVE	h2tg001349l
+REMOVE	h2tg001350l
+REMOVE	h2tg001376l
+REMOVE	h2tg001419l
+REMOVE	h2tg001422l
+REMOVE	h2tg001436l
+REMOVE	h2tg001438l
+REMOVE	h2tg001494l
+REMOVE	h2tg001503l
+REMOVE	h2tg001526l
+REMOVE	h2tg001533c
+REMOVE	h2tg001549l
+REMOVE	h2tg001551l
+REMOVE	h2tg001557l
+REMOVE	h2tg001559l
+REMOVE	h2tg001567l
+REMOVE	h2tg001583l
+REMOVE	h2tg001613l
+REMOVE	h2tg001627l
+
+
 ========== TRIM Ns ==========
 
