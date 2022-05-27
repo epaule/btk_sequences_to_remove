@@ -1,0 +1,136 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_494	0	47250	59,0.125
+scaffold_168	0	90872	59,0.065
+scaffold_8	0	4197957	59,0.001
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_77	0	163260	161355,98.833
+scaffold_94	0	138870	15705,11.309
+scaffold_1272	0	22996	702,3.053
+scaffold_2	0	136272668	18491,0.014
+scaffold_1	0	143398222	8930,0.006
+scaffold_4	0	57308814	1666,0.003
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_94	0	138870	137690,99.150
+scaffold_1272	0	22996	5749,25.000
+scaffold_114	0	117591	545,0.463
+scaffold_82	0	156963	545,0.347
+scaffold_3	0	85555491	3268,0.004
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_1479	0	18928	10865,57.402
+scaffold_1432	0	19497	2513,12.889
+scaffold_1307	0	22163	753,3.398
+scaffold_254	0	71430	1856,2.598
+scaffold_538	0	44982	1068,2.374
+scaffold_502	0	46712	869,1.860
+scaffold_134	0	103299	1885,1.825
+scaffold_114	0	117591	1824,1.551
+scaffold_1179	0	25054	359,1.433
+scaffold_340	0	58382	724,1.240
+scaffold_82	0	156963	1823,1.161
+scaffold_1727	0	13974	155,1.109
+scaffold_1762	0	12937	125,0.966
+scaffold_1546	0	17862	140,0.784
+scaffold_1658	0	15896	122,0.767
+scaffold_183	0	86000	641,0.745
+scaffold_74	0	167000	1200,0.719
+scaffold_112	0	118050	835,0.707
+scaffold_1548	0	17756	116,0.653
+scaffold_64	0	186846	1200,0.642
+scaffold_1522	0	18140	107,0.590
+scaffold_94	0	138870	747,0.538
+scaffold_1317	0	22000	113,0.514
+scaffold_515	0	45936	229,0.499
+scaffold_309	0	61367	285,0.464
+scaffold_458	0	49228	218,0.443
+scaffold_1142	0	25931	113,0.436
+scaffold_1035	0	28129	121,0.430
+scaffold_809	0	34275	137,0.400
+scaffold_958	0	29818	112,0.376
+scaffold_105	0	123726	395,0.319
+scaffold_663	0	39272	123,0.313
+scaffold_662	0	39275	120,0.306
+scaffold_614	0	40960	122,0.298
+scaffold_700	0	38141	111,0.291
+scaffold_673	0	39046	106,0.271
+scaffold_586	0	42434	114,0.269
+scaffold_556	0	43744	117,0.267
+scaffold_578	0	42711	113,0.265
+scaffold_501	0	46789	121,0.259
+scaffold_342	0	57639	142,0.246
+scaffold_519	0	45760	112,0.245
+scaffold_599	0	41660	101,0.242
+scaffold_441	0	50426	106,0.210
+scaffold_381	0	54771	112,0.204
+scaffold_256	0	70885	143,0.202
+scaffold_363	0	56143	113,0.201
+scaffold_223	0	76664	151,0.197
+scaffold_380	0	54896	102,0.186
+scaffold_335	0	58447	100,0.171
+scaffold_233	0	74971	127,0.169
+scaffold_274	0	66740	109,0.163
+scaffold_273	0	66756	107,0.160
+scaffold_240	0	74295	119,0.160
+scaffold_235	0	74732	118,0.158
+scaffold_252	0	71520	112,0.157
+scaffold_212	0	78793	112,0.142
+scaffold_138	0	101816	144,0.141
+scaffold_161	0	92236	125,0.136
+scaffold_165	0	91072	120,0.132
+scaffold_201	0	81206	101,0.124
+scaffold_135	0	103351	110,0.106
+scaffold_110	0	119789	119,0.099
+scaffold_118	0	115561	101,0.087
+scaffold_72	0	170079	125,0.073
+scaffold_80	0	161219	116,0.072
+scaffold_81	0	159389	112,0.070
+scaffold_76	0	165947	116,0.070
+scaffold_8	0	4197957	2587,0.062
+scaffold_53	0	242276	121,0.050
+scaffold_47	0	265405	112,0.042
+scaffold_10	0	3339000	1295,0.039
+scaffold_6	0	6023267	2195,0.036
+scaffold_26	0	700000	254,0.036
+scaffold_11	0	3294000	1009,0.031
+scaffold_7	0	5149000	1555,0.030
+scaffold_36	0	363252	108,0.030
+scaffold_18	0	2119000	284,0.013
+scaffold_22	0	1099117	123,0.011
+scaffold_23	0	1096274	116,0.011
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_979	0	29103	609,2.093
+scaffold_449	0	49828	812,1.630
+scaffold_88	0	150944	2436,1.614
+scaffold_1144	0	25905	406,1.567
+scaffold_1095	0	26928	393,1.459
+scaffold_1615	0	16734	203,1.213
+scaffold_1439	0	19467	203,1.043
+scaffold_1771	0	12638	112,0.886
+scaffold_2	0	136272668	544,0.000
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_1727	0	13974	127,0.909
+scaffold_1658	0	15896	122,0.767
+scaffold_1307	0	22163	107,0.483
+scaffold_94	0	138870	597,0.430
+scaffold_134	0	103299	127,0.123
+scaffold_2	0	136272668	263,0.000
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
