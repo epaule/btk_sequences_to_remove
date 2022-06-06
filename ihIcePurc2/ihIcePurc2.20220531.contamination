@@ -10,15 +10,22 @@
 
 ========== BARCODES ==========
 
+========== REFSEQ: bacteria ==========
+
+# Walczuchella
+REMOVE	scaffold_34
+
+
+
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_30	0	24046	254,1.056
-scaffold_31	0	17240	127,0.737
-scaffold_2	0	496281694	254,0.000
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_33	0	7491	131,1.749
+
+# ascomycetes
+REMOVE	scaffold_33
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
