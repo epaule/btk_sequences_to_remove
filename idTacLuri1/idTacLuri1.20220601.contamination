@@ -4,9 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_13	0	5196286	612,0.012
-scaffold_2	0	142412056	4179,0.003
-scaffold_4	0	92902016	1634,0.002
+REMOVE	scaffold_146
 
 ========== PLASTID SEQUENCE ==========
 
@@ -17,28 +15,20 @@ scaffold_4	0	92902016	1634,0.002
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_148	0	14661	13453,91.760
-scaffold_151	0	13129	11932,90.883
-scaffold_134	0	26167	23486,89.754
-scaffold_135	0	25940	22718,87.579
-scaffold_143	0	18275	13885,75.978
-scaffold_154	0	11070	8039,72.620
-scaffold_142	0	19855	13995,70.486
-scaffold_155	0	10931	5950,54.432
-scaffold_139	0	23524	4976,21.153
-scaffold_73	0	231329	756,0.327
-scaffold_5	0	84311714	385,0.000
-scaffold_2	0	142412056	589,0.000
-scaffold_4	0	92902016	316,0.000
-scaffold_1	0	153577740	314,0.000
-scaffold_7	0	79785159	120,0.000
-scaffold_3	0	114261105	145,0.000
+
+# Wolbachia
+REMOVE	scaffold_134
+REMOVE	scaffold_135
+REMOVE	scaffold_139
+REMOVE	scaffold_142
+REMOVE	scaffold_143
+REMOVE	scaffold_148
+REMOVE	scaffold_151
+REMOVE	scaffold_154
+REMOVE	scaffold_155
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_37	0	698574	840,0.120
-scaffold_65	0	290197	140,0.048
-scaffold_58	0	345268	128,0.037
-scaffold_15	0	2835629	280,0.010
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
