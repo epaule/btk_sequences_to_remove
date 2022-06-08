@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	atg005047l_1_16427
 
 ========== PLASTID SEQUENCE ==========
 
@@ -11,22 +12,58 @@
 ========== BARCODES ==========
 CONTAMINANT	atg000229l_1_1369871	1175605	1175621
 
+========== REFSEQ: bacteria & archaea ==========
+# archaea
+REMOVE	atg000192l_1_16559
+REMOVE	atg001736l_1_12448
+REMOVE	atg003643l_1_10613
+REMOVE	atg004926l_1_5910
+REMOVE	atg005213l_1_3355
+REMOVE	hap_ptg003827l_1_3907
+REMOVE	hap_ptg003857l_1_15225
+
+# alphaproteobacteria
+REMOVE	atg003148l_1_10536
+REMOVE	atg000002l_1
+REMOVE	atg000036l_1
+REMOVE	atg000057l_1
+REMOVE	atg000079l_1
+REMOVE	atg000082l_1
+
+# Flavobacteria
+REMOVE	atg000023l_1
+REMOVE	atg000024l_1
+REMOVE	atg000044l_1
+REMOVE	atg000048l_1
+REMOVE	atg000059l_1
+REMOVE	atg000074l_1
+REMOVE	atg000081l_1
+REMOVE	atg000088l_1
+REMOVE	atg000094l_1
+REMOVE	atg000100l_1
+REMOVE	atg000106l_1
+REMOVE	atg000107l_1
+REMOVE	atg000117l_1
+REMOVE	atg000129l_1
+REMOVE	atg000134l_1
+REMOVE	atg000140l_1
+
+# CFB group bacteria
+REMOVE	atg004920l_1_3154
+
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004409l_1_21529	0	21529	106,0.492
+REMOVE	atg003938l_1_13288
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000826l_1_442866	0	442866	3952,0.892
-hap_ptg000233l_16854_73576	0	56723	129,0.227
-hap_ptg001659l_1_215998	0	215998	112,0.052
-atg000416l_1_420635	0	420635	125,0.030
-atg001674l_1_427433	0	427433	109,0.026
-hap_ptg001574l_1_423125	0	423125	106,0.025
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000233l_16854_73576	0	56723	126,0.222
+# Magnoliopsida
+REMOVE	hap_ptg000582l_1_1
+
 ========== TRIM Ns ==========
 
