@@ -27,6 +27,11 @@ REMOVE	scaffold_151
 REMOVE	scaffold_154
 REMOVE	scaffold_155
 
+========== REFSEQ: virus ==========
+# virus
+REMOVE	scaffold_48
+REMOVE	scaffold_139
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
