@@ -26,7 +26,15 @@ REMOVE	scaffold_34
 # ascomycetes
 REMOVE	scaffold_33
 
+# Basidiomycota
+REMOVE	scaffold_32
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
+# strptophyta
+REMOVE	scaffold_30
+REMOVE	scaffold_31
+
 ========== TRIM Ns ==========
 

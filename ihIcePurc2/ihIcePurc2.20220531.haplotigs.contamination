@@ -14,7 +14,7 @@
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-# Walczuchella
+# Flavobacteriales 
 REMOVE	atg000023l_1
 REMOVE	atg000024l_1
 REMOVE	atg000044l_1
@@ -32,8 +32,19 @@ REMOVE	atg000129l_1
 REMOVE	atg000134l_1
 REMOVE	atg000140l_1
 
+
+# Rickettsiales
+REMOVE	atg000002l_1
+REMOVE	atg000036l_1
+REMOVE	atg000057l_1
+REMOVE	atg000079l_1
+REMOVE	atg000082l_1
+
+========== REFSEQ: plants ==========
+# Fabales
+REMOVE	hap_ptg000582l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000582l_1_1	0	85059	762,0.896
 ========== TRIM Ns ==========
 
