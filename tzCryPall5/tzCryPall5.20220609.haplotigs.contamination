@@ -13,16 +13,18 @@
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-# g-proteobacteria
-REMOVE	atg003164l_1_20746
-REMOVE	atg004419l_1_8460 
+# a-proteobacteria
+REMOVE	atg004419l_1_8460
 REMOVE	hap_ptg001637l_1_7719
-REMOVE	hap_ptg001701l_1_17499
 REMOVE	hap_ptg002058l_1_17774
-REMOVE	hap_ptg002256l_1_3589 
-REMOVE	hap_ptg002510l_1_27984
 REMOVE	hap_ptg002725l_1_24724
 REMOVE	hap_ptg003009l_1_17193
+
+# g-proteobacteria
+REMOVE	atg003164l_1_20746
+REMOVE	hap_ptg001701l_1_17499
+REMOVE	hap_ptg002256l_1_3589
+REMOVE	hap_ptg002510l_1_27984
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -54,7 +56,7 @@ REMOVE	atg005592l_1_14187
 REMOVE	atg005725l_1_16717
 REMOVE	hap_ptg001417l_1_121707
 
-# nametodes
+# nematodes
 REMOVE	atg001001l_1_891040
 
 ========== REFSEQ: viridiplantae ==========
