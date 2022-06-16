@@ -4,34 +4,76 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000011l_1	0	33856	33856,100.000
-atg000021l_1	0	50182	50182,100.000
-atg000054l_1	0	22723	22723,100.000
-atg000059l_1	0	46396	46396,100.000
-hap_ptg000150l_1_1	0	29430	1952,6.633
+REMOVE	atg000011l_1
+REMOVE	atg000021l_1
+REMOVE	atg000054l_1
+REMOVE	atg000059l_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000054l_1	0	22723	642,2.825
-atg000059l_1	0	46396	642,1.384
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+# insect
+REMOVE	atg000065l_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000032l_1	0	18390	620,3.371
+
+# g-proteobacteria
+REMOVE	atg000032l_1
+REMOVE	hap_ptg000251l_1_1
+REMOVE	hap_ptg000388l_1_1
+
+# a-proteobacteria
+REMOVE	hap_ptg000077l_1_1
+REMOVE	hap_ptg000160l_1_1
+REMOVE	hap_ptg000212l_1_1
+REMOVE	hap_ptg000295l_1_1
+REMOVE	hap_ptg000235l_1_1
+
+# b-proteobactera
+REMOVE	hap_ptg000298l_1_1
+REMOVE	hap_ptg000317l_1_1
+
+# CFB group bacteria
+REMOVE	hap_ptg000243l_1_1
+
+# Verrucomicrobiae
+REMOVE	hap_ptg000323l_1_1
+
+# Sphingobacteria
+REMOVE	hap_ptg000331l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000196l_1_1	0	58617	261,0.445
+
+# ascomycetes
+REMOVE	atg000022l_1
+REMOVE	atg000002l_1
+REMOVE	atg000053l_1
+
+# basidiomycota
+REMOVE	atg000007l_1
+REMOVE	hap_ptg000150l_1_1
+
+# Mucoromycetes
+atg000016l_1
+
+# Oomycota
+REMOVE	atg000057l_1
+REMOVE	hap_ptg000262l_1_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000032l_1	0	18390	264,1.436
-hap_ptg000196l_1_1	0	58617	710,1.211
-hap_ptg000363l_1_1	0	25926	224,0.864
+
+# Variosea
+REMOVE	atg000066l_1
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
