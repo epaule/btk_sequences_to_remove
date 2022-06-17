@@ -18,5 +18,11 @@ REMOVE	scaffold_208
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
+# Magnoliopsida
+REMOVE	scaffold_167
+REMOVE	scaffold_273
+REMOVE	scaffold_274
+
 ========== TRIM Ns ==========
 
