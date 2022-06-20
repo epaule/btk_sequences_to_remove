@@ -1,0 +1,42 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000327l_1	0	19126	18253,95.436
+ptg000485l_1	0	23689	21431,90.468
+ptg000650l_1	0	17548	15327,87.343
+ptg000338l_1	0	18329	14909,81.341
+ptg000278l_1	0	12699	10317,81.243
+ptg000435l_1	0	24282	19714,81.188
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000024c_1	0	215461	4033,1.872
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000299l_1	0	31600	548,1.734
+# ptg000276l_1	0	47181	548,1.161
+# ptg000024c_1	0	215461	114,0.053
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000001l_1	0	2218899	276,0.012
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000299l_1	0	31600	128,0.405
+# ptg000276l_1	0	47181	128,0.271
+# ptg000024c_1	0	215461	138,0.064
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000252l_1	0	39150	2279,5.821
+# ptg000024c_1	0	215461	750,0.348
+========== TRIM Ns ==========
+
