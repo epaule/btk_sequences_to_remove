@@ -1,0 +1,46 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000710l_1	0	15894	8222,51.730
+ptg000714l_1	0	8888	4384,49.325
+ptg000712l_1	0	9351	4191,44.819
+ptg000711l_1	0	12770	5581,43.704
+ptg000715l_1	0	12208	3838,31.438
+ptg000709l_1	0	9393	2757,29.352
+ptg000705l_1	0	19354	3807,19.670
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000008c_1	0	259330	36236,13.973
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000526l_1	0	33320	110,0.330
+ptg000008c_1	0	259330	112,0.043
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000167l_1	0	24557	248,1.010
+ptg000485l_1	0	21739	112,0.515
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000478l_1	0	10905	118,1.082
+ptg000167l_1	0	24557	224,0.912
+ptg000008c_1	0	259330	385,0.148
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000167l_1	0	24557	408,1.661
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000167l_1	0	24557	1426,5.807
+ptg000478l_1	0	10905	244,2.238
+ptg000008c_1	0	259330	1083,0.418
+========== TRIM Ns ==========
+
