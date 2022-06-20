@@ -1,0 +1,117 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001248l_1_1	0	34873	128,0.367
+atg004508l_1	0	29453	59,0.200
+hap_ptg001409l_1_1	0	32753	64,0.195
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002384l_1	0	27948	12275,43.921
+atg001915l_1	0	25046	10222,40.813
+atg000712l_1	0	74750	29781,39.841
+atg001866l_1	0	26129	10233,39.163
+atg000837l_1	0	37829	14358,37.955
+atg003115l_1	0	27195	9487,34.885
+atg000471l_1	0	22895	7350,32.103
+atg001050l_1	0	114653	34533,30.120
+hap_ptg000058l_1_1	0	135207	40142,29.689
+atg000899l_1	0	38562	11427,29.633
+hap_ptg001409l_1_1	0	32753	9624,29.384
+atg001475l_1	0	23925	6678,27.912
+atg000022l_1	0	37392	10073,26.939
+atg001036l_1	0	22314	4980,22.318
+atg003094l_1	0	15100	2211,14.642
+hap_ptg001248l_1_1	0	34873	4918,14.103
+hap_ptg001319l_1_1	0	33542	1128,3.363
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003115l_1	0	27195	24120,88.693
+atg003094l_1	0	15100	13134,86.980
+atg001475l_1	0	23925	18442,77.083
+atg002384l_1	0	27948	17229,61.647
+hap_ptg001248l_1_1	0	34873	21434,61.463
+hap_ptg001409l_1_1	0	32753	19630,59.933
+atg000712l_1	0	74750	2462,3.294
+atg000471l_1	0	22895	641,2.800
+atg001915l_1	0	25046	641,2.559
+atg000022l_1	0	37392	716,1.915
+hap_ptg000058l_1_1	0	135207	1725,1.276
+atg001050l_1	0	114653	586,0.511
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001721l_1	0	34382	34382,100.000
+atg002782l_1	0	27078	27078,100.000
+atg003579l_1	0	21004	21004,100.000
+atg003622l_1	0	32923	32923,100.000
+atg004267l_1	0	44658	44658,100.000
+atg004508l_1	0	29453	29453,100.000
+atg004719l_1	0	16062	16062,100.000
+atg002688l_1	0	24751	24747,99.984
+atg004937l_1	0	7729	7726,99.961
+atg004862l_1	0	39178	38321,97.813
+atg004751l_1	0	33842	32342,95.568
+atg003153l_1	0	49265	43845,88.998
+atg004511l_1	0	12804	9885,77.202
+atg004003l_1	0	19194	8627,44.946
+atg004007l_1	0	19332	3375,17.458
+atg003800l_1	0	24754	310,1.252
+atg002384l_1	0	27948	111,0.397
+hap_ptg001409l_1_1	0	32753	111,0.339
+atg000090l_1	0	2639168	383,0.015
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001484l_1_1	0	60791	945,1.555
+atg004496l_1	0	13622	116,0.852
+atg002171l_1	0	13712	116,0.846
+atg003869l_1	0	15913	116,0.729
+hap_ptg002133l_1_1	0	16372	116,0.709
+atg003283l_1	0	16988	116,0.683
+atg002108l_1	0	21075	116,0.550
+atg003598l_1	0	21078	116,0.550
+atg003672l_1	0	26724	116,0.434
+atg003615l_1	0	31048	116,0.374
+hap_ptg000732l_1_1	0	335430	1160,0.346
+atg003103l_1	0	36737	116,0.316
+atg001379l_1	0	41837	116,0.277
+hap_ptg000755c_1_1	0	46504	116,0.249
+atg000610l_1	0	168534	232,0.138
+hap_ptg000412l_1_1	0	298928	149,0.050
+hap_ptg000081l_1_1	0	1306879	232,0.018
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001484l_1_1	0	60791	945,1.555
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001484l_1_1	0	60791	2367,3.894
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001409l_1_1	0	32753	13659,41.703
+hap_ptg001248l_1_1	0	34873	13025,37.350
+atg003115l_1	0	27195	9556,35.139
+atg002384l_1	0	27948	8394,30.034
+atg001915l_1	0	25046	4554,18.183
+atg001866l_1	0	26129	3980,15.232
+atg000712l_1	0	74750	11213,15.001
+atg000899l_1	0	38562	5492,14.242
+hap_ptg000058l_1_1	0	135207	17228,12.742
+atg000837l_1	0	37829	4791,12.665
+atg001475l_1	0	23925	2691,11.248
+atg001050l_1	0	114653	11204,9.772
+atg000022l_1	0	37392	3463,9.261
+atg000471l_1	0	22895	1795,7.840
+atg001036l_1	0	22314	1326,5.942
+hap_ptg001484l_1_1	0	60791	2250,3.701
+atg003094l_1	0	15100	239,1.583
+atg003800l_1	0	24754	110,0.444
+========== TRIM Ns ==========
+
