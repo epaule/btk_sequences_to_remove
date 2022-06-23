@@ -3,7 +3,14 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg001766l_1
+REMOVE	atg002263l_1
+REMOVE	atg002562l_1
+REMOVE	atg003130l_1
+REMOVE	atg003324l_1
+REMOVE	atg003543l_1
+REMOVE	hap_ptg000821l_1_1
+REMOVE	hap_ptg001565l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,13 +20,8 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000518l_1	0	82094	107,0.130
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003127l_1	0	19883	276,1.388
-atg003030l_1	0	22919	140,0.611
-atg000947l_1	0	29223	140,0.479
-atg003031l_1	0	34125	137,0.401
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
