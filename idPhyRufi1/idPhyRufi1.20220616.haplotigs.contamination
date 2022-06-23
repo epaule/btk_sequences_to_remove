@@ -9,23 +9,17 @@
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-CONTAMINANT	hap_ptg001107l_1_1	1	23
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000518l_1	0	82094	107,0.130
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: fungi ==========
-========== REFSEQ: other_eukaryota ==========
-========== REFSEQ: other_metazoa ==========
-
-# molluscs
-REMOVE  atg004551l_1
-REMOVE  atg005102l_1
-REMOVE  atg006329l_1
-REMOVE  atg006426l_1
-REMOVE  hap_ptg002422l_1_1
-
+atg003127l_1	0	19883	276,1.388
+atg003030l_1	0	22919	140,0.611
+atg000947l_1	0	29223	140,0.479
+atg003031l_1	0	34125	137,0.401
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
