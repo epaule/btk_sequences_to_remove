@@ -1,0 +1,54 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_397	0	6980	5907,84.628
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_267	0	16062	118,0.735
+scaffold_110	0	85498	118,0.138
+scaffold_7	0	26240636	354,0.001
+scaffold_8	0	24600729	236,0.001
+scaffold_10	0	18706863	118,0.001
+scaffold_6	0	26955590	118,0.000
+scaffold_5	0	27929225	119,0.000
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_267	0	16062	224,1.395
+scaffold_110	0	85498	224,0.262
+scaffold_7	0	26240636	672,0.003
+scaffold_8	0	24600729	448,0.002
+scaffold_10	0	18706863	224,0.001
+scaffold_6	0	26955590	224,0.001
+scaffold_5	0	27929225	224,0.001
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_267	0	16062	126,0.784
+scaffold_7	0	26240636	378,0.001
+scaffold_8	0	24600729	252,0.001
+scaffold_10	0	18706863	126,0.001
+scaffold_6	0	26955590	126,0.000
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_416	0	4000	209,5.225
+scaffold_267	0	16062	528,3.287
+scaffold_110	0	85498	850,0.994
+scaffold_7	0	26240636	1944,0.007
+scaffold_8	0	24600729	1265,0.005
+scaffold_10	0	18706863	737,0.004
+scaffold_6	0	26955590	737,0.003
+scaffold_5	0	27929225	206,0.001
+scaffold_3	0	36191142	209,0.001
+scaffold_2	0	45364877	209,0.000
+scaffold_1	0	49094998	209,0.000
+========== TRIM Ns ==========
+
