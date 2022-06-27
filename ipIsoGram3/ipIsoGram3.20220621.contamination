@@ -14,16 +14,28 @@ REMOVE	scaffold_775
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_676	0	25983	243,0.935
-# scaffold_634	0	31529	243,0.771
-# scaffold_109	0	358738	116,0.032
-# scaffold_3	0	58248774	729,0.001
-# scaffold_1	0	228124401	116,0.000
+
+# birds
+# REMOVE	scaffold_849
+
+# amphibia
+REMOVE	scaffold_111
+REMOVE	scaffold_646
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_9	0	29215698	109,0.000
-# scaffold_4	0	49422597	109,0.000
-# scaffold_3	0	58248774	109,0.000
+
+# Echinoidea
+REMOVE	scaffold_316
+REMOVE	scaffold_333
+REMOVE	scaffold_433
+REMOVE	scaffold_625
+REMOVE	scaffold_727
+
 ========== REFSEQ: viridiplantae ==========
+
+# Magnoliopsida
+REMOVE	scaffold_482
+
 ========== TRIM Ns ==========
 
