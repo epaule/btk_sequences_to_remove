@@ -23,5 +23,9 @@ VecScreen_Strong	atg002284l_1	8555	8588
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+# Magnoliopsida
+REMOVE	atg001050l_1
+REMOVE	atg002373l_1
 ========== TRIM Ns ==========
 

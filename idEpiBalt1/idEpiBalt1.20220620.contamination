@@ -6,8 +6,6 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 REMOVE	scaffold_50
 REMOVE	scaffold_49
-# scaffold_11	0	531503	3307,0.622
-# scaffold_1	0	265340918	18826,0.007
 
 ========== PLASTID SEQUENCE ==========
 
@@ -18,7 +16,9 @@ REMOVE	scaffold_49
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_6	0	1421490	247646,17.422
+
+# Alphaproteobacteria
+REMOVE	scaffold_6
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
