@@ -14,10 +14,17 @@ REMOVE	atg002518l_1
 CONTAMINANT	atg001659l_1	1	17
 CONTAMINANT	atg002872l_1	25268	25283
 
+========== REFSEQ: fungi ==========
+# Mucoromycetes
+REMOVE	atg002334l_1
+
 ========== REFSEQ: bacteria ==========
 
 # firmicutes
 REMOVE	hap_ptg002711l_1_1
+
+# Actinobacteria
+REMOVE	atg000695l_1
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========

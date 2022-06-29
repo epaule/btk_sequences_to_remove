@@ -13,16 +13,39 @@ REMOVE	scaffold_1102
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: fungi ==========
+
+# Actinomycetia
+REMOVE	scaffold_1211
+
+# Mucoromycetes
+REMOVE	scaffold_576
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# Cyanobacteria
+REMOVE	scaffold_698
 
 # firmicutes
 REMOVE	scaffold_90
 
 # a-proteobacteria
-REMOVE	scaffold_447   
-REMOVE	scaffold_545   
+REMOVE	scaffold_1014
+REMOVE	scaffold_1042
+REMOVE	scaffold_1124
+REMOVE	scaffold_1190
 REMOVE	scaffold_1190  
+REMOVE	scaffold_193
+REMOVE	scaffold_414 
+REMOVE	scaffold_545
+REMOVE	scaffold_545   
+REMOVE	scaffold_699
+REMOVE	scaffold_843
+REMOVE	scaffold_985
+
+# Bacilli
+REMOVE	scaffold_447 
 
 # g-proteobacteria
 REMOVE	scaffold_193  
