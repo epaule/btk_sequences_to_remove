@@ -64,8 +64,6 @@ REMOVE	scaffold_383
 REMOVE	scaffold_384
 REMOVE	scaffold_391
 
-# Sordariomycetes
-REMOVE	scaffold_359
 ========== REFSEQ: other_eukaryota ==========
 # Revtraviricetes
 REMOVE	scaffold_376
