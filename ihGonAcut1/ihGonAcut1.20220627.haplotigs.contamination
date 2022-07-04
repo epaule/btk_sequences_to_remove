@@ -17,38 +17,14 @@ REMOVE	hap_ptg002091l_1_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg009050l_1	0	20471	2618,12.789
-atg009778l_1	0	15220	1792,11.774
-atg005015l_1	0	20144	1192,5.917
-atg002566l_1	0	85659	395,0.461
-atg001966l_1	0	456646	229,0.050
+
+# mycoplasma
+REMOVE	atg007549l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg009399l_1	0	22166	406,1.832
-# hap_ptg002170l_1_1	0	26189	406,1.550
-# atg009228l_1	0	28285	406,1.435
-# atg010838l_1	0	14601	203,1.390
-# hap_ptg001614l_1_1	0	134945	1827,1.354
-# atg005459l_1	0	38696	406,1.049
-# hap_ptg002287l_1_1	0	19808	203,1.025
-# hap_ptg001917l_1_1	0	23562	203,0.862
-# hap_ptg001683l_1_1	0	91906	725,0.789
-# atg005576l_1	0	15409	116,0.753
-# atg005437l_1	0	27320	203,0.743
-# hap_ptg002160l_1_1	0	30483	203,0.666
-# atg006117l_1	0	32189	203,0.631
-# hap_ptg000479l_1_1	0	460053	406,0.088
-# atg000319l_1	0	930863	203,0.022
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg004534l_1	0	52225	106,0.203
-# atg001321l_1	0	267298	441,0.165
-# atg003731l_1	0	228544	110,0.048
-# atg001392l_1	0	239908	109,0.045
-# atg000518l_1	0	390657	109,0.028
-# atg000397l_1	0	488499	110,0.023
-# atg001972l_1	0	491707	108,0.022
-# atg000128l_1	0	851547	110,0.013
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
