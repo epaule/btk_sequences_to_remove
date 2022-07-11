@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003616l_1	0	13809	13809,100.000
-hap_ptg000546l_1_1	0	30061	30061,100.000
+REMOVE	atg003616l_1
+REMOVE	hap_ptg000546l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,27 +13,149 @@ hap_ptg000546l_1_1	0	30061	30061,100.000
 
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
+
+# Aphididae
+REMOVE	atg005113l_1
+
+# insect
+REMOVE	atg003934l_1
+REMOVE	atg005358l_1
+REMOVE	atg006147l_1
+REMOVE	atg005947l_1
+
+# Nymphonidae
+REMOVE	atg000081l_1
+REMOVE	atg000090l_1
+REMOVE	atg000294l_1
+REMOVE	atg000396l_1
+REMOVE	atg001171l_1
+REMOVE	atg001444l_1
+REMOVE	atg001671l_1
+REMOVE	atg002106l_1
+REMOVE	atg002408l_1
+REMOVE	atg002572l_1
+REMOVE	atg003123l_1
+REMOVE	atg004336l_1
+REMOVE	atg004808l_1
+REMOVE	atg004824l_1
+REMOVE	atg005493l_1
+REMOVE	atg005622l_1
+REMOVE	atg005971l_1
+REMOVE	atg006352l_1
+REMOVE	atg006437l_1
+REMOVE	atg006645l_1
+REMOVE	atg006950l_1
+REMOVE	atg006974l_1
+REMOVE	atg007053l_1
+REMOVE	atg007130l_1
+REMOVE	atg007142l_1
+REMOVE	atg007533l_1
+REMOVE	atg008084l_1
+REMOVE	hap_ptg000702l_1_1
+REMOVE	hap_ptg000754l_1_1
+
+# Palaemonidae
+REMOVE	atg000685l_1
+REMOVE	atg001096l_1
+REMOVE	atg002341l_1
+REMOVE	atg002467l_1
+REMOVE	atg007097l_1
+REMOVE	atg007407l_1
+REMOVE	atg008457l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006190l_1	0	11529	200,1.735
-hap_ptg000979c_1_1	0	23033	200,0.868
-hap_ptg000622l_1_1	0	304173	400,0.132
-atg001202l_1	0	202673	115,0.057
-atg002859l_1	0	561538	200,0.036
-atg000024l_1	0	1130001	117,0.010
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006190l_1	0	11529	208,1.804
-hap_ptg000979c_1_1	0	23033	208,0.903
-hap_ptg000622l_1_1	0	304173	208,0.068
-atg002859l_1	0	561538	208,0.037
+
+# Symbiodiniaceae
+REMOVE	atg006075l_1
+REMOVE	atg007005l_1
+REMOVE	atg007028l_1
+REMOVE	atg007265l_1
+REMOVE	atg007397l_1
+REMOVE	atg007530l_1
+REMOVE	atg007602l_1
+REMOVE	atg007696l_1
+REMOVE	atg009165l_1
+REMOVE	hap_ptg000996l_1_1
+REMOVE	hap_ptg001011l_1_1
+REMOVE	hap_ptg001024l_1_1
+REMOVE	hap_ptg001039l_1_1
+REMOVE	hap_ptg001071l_1_1
+
+# Stylophora
+REMOVE	atg000438l_1
+
+========== REFSEQ: bacteria ==========
+
+# Vibrionaceae
+REMOVE	atg003594l_1
+
+# Thiotrichaceae
+REMOVE	atg007395l_1 
+
+# Bacteria-undef
+REMOVE	atg000093l_1
+REMOVE	atg000782l_1
+REMOVE	atg000801l_1
+REMOVE	atg001273l_1
+REMOVE	atg002871l_1
+REMOVE	atg004096l_1
+REMOVE	atg004320l_1
+REMOVE	atg004706l_1
+REMOVE	atg005690l_1
+REMOVE	atg009181l_1
+
+# g-proteobacteria
+REMOVE	atg000451l_1
+REMOVE	atg000751l_1
+REMOVE	atg001954l_1
+REMOVE	atg002286l_1
+REMOVE	atg002561l_1
+REMOVE	atg002618l_1
+REMOVE	atg002764l_1
+REMOVE	atg002812l_1
+REMOVE	atg002825l_1
+REMOVE	atg002843l_1
+REMOVE	atg002975l_1
+REMOVE	atg003240l_1
+REMOVE	atg003539l_1
+REMOVE	atg004435l_1
+REMOVE	atg004815l_1
+REMOVE	atg004985l_1
+REMOVE	atg005135l_1
+REMOVE	atg005363l_1
+REMOVE	atg005769l_1
+REMOVE	atg006064l_1
+REMOVE	atg006378l_1
+REMOVE	atg006399l_1
+REMOVE	atg007032l_1
+REMOVE	atg007070l_1
+REMOVE	hap_ptg000829l_1_1
+REMOVE	hap_ptg000836l_1_1
+
+# Sulfurovaceae
+REMOVE	atg004133l_1
+REMOVE	atg005185l_1
+
+========== REFSEQ: virus ==========
+# Adintoviridae
+REMOVE	atg003281l_1
+REMOVE	atg007061l_1
+REMOVE	hap_ptg000735l_1_1
+
+# Viruses-undef
+REMOVE	atg006007l_1
+
 ========== REFSEQ: other_metazoa ==========
+
+# Capitellidae
+REMOVE	atg000517l_1
+REMOVE	atg004479l_1
+REMOVE	atg006661l_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006190l_1	0	11529	226,1.960
-hap_ptg000979c_1_1	0	23033	226,0.981
-hap_ptg000622l_1_1	0	304173	445,0.146
-atg002859l_1	0	561538	226,0.040
-atg000024l_1	0	1130001	122,0.011
 ========== TRIM Ns ==========
 

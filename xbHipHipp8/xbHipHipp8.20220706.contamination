@@ -16,24 +16,111 @@ VecScreen_Moderate	scaffold_4	30426337	30426364
 # insect (from FCS)
 REMOVE	scaffold_178
 
+# Insecta
+REMOVE	scaffold_100
+REMOVE	scaffold_111
+REMOVE	scaffold_113
+REMOVE	scaffold_114
+REMOVE	scaffold_115
+REMOVE	scaffold_118
+REMOVE	scaffold_121
+REMOVE	scaffold_122
+REMOVE	scaffold_142
+REMOVE	scaffold_144
+REMOVE	scaffold_148
+REMOVE	scaffold_150
+REMOVE	scaffold_157
+REMOVE	scaffold_161
+REMOVE	scaffold_164
+REMOVE	scaffold_166
+REMOVE	scaffold_170
+REMOVE	scaffold_172
+REMOVE	scaffold_177
+REMOVE	scaffold_184
+REMOVE	scaffold_190
+REMOVE	scaffold_192
+REMOVE	scaffold_194
+REMOVE	scaffold_196
+REMOVE	scaffold_201
+REMOVE	scaffold_203
+REMOVE	scaffold_205
+REMOVE	scaffold_208
+REMOVE	scaffold_209
+REMOVE	scaffold_210
+REMOVE	scaffold_213
+REMOVE	scaffold_22
+REMOVE	scaffold_222
+REMOVE	scaffold_223
+REMOVE	scaffold_229
+REMOVE	scaffold_236
+REMOVE	scaffold_237
+REMOVE	scaffold_239
+REMOVE	scaffold_242
+REMOVE	scaffold_243
+REMOVE	scaffold_264
+REMOVE	scaffold_271
+REMOVE	scaffold_29
+REMOVE	scaffold_49
+REMOVE	scaffold_55
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_74
+REMOVE	scaffold_77
+REMOVE	scaffold_94
+REMOVE	scaffold_95
+
+# Malacostraca
+REMOVE	scaffold_117
+REMOVE	scaffold_214
+
+========== REFSEQ: bacteria ==========
+# b-proteobacteria
+REMOVE	scaffold_274
+
+# g-proteobacteria
+REMOVE	scaffold_218
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_178	0	43393	400,0.922
-scaffold_204	0	24097	200,0.830
-scaffold_19	0	4441107	400,0.009
-scaffold_2	0	77704345	112,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_178	0	43393	416,0.959
-scaffold_204	0	24097	208,0.863
-scaffold_19	0	4441107	208,0.005
+
+# Kinetoplastea
+REMOVE	scaffold_263
+
+# Dinophyceae
+REMOVE	scaffold_101
+REMOVE	scaffold_188
+REMOVE	scaffold_232
+REMOVE	scaffold_234
+REMOVE	scaffold_248
+REMOVE	scaffold_260
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_178	0	43393	452,1.042
-scaffold_204	0	24097	226,0.938
-scaffold_19	0	4441107	445,0.010
-scaffold_15	0	44717759	122,0.000
+
+# Magnoliopsida
+REMOVE	scaffold_120
+REMOVE	scaffold_151
+REMOVE	scaffold_175
+REMOVE	scaffold_186
+REMOVE	scaffold_211
+REMOVE	scaffold_220
+REMOVE	scaffold_224
+REMOVE	scaffold_24
+REMOVE	scaffold_241
+REMOVE	scaffold_26
+REMOVE	scaffold_33
+REMOVE	scaffold_34
+REMOVE	scaffold_84
+REMOVE	scaffold_86
+REMOVE	scaffold_93
+
 ========== TRIM Ns ==========
 
