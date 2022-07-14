@@ -31,6 +31,8 @@ REMOVE	scaffold_708
 REMOVE	scaffold_742
 REMOVE	scaffold_749
 REMOVE	scaffold_806
+REMOVE	scaffold_1260
+REMOVE	scaffold_1500
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -1574,6 +1576,9 @@ REMOVE	scaffold_993
 REMOVE	scaffold_994
 REMOVE	scaffold_996
 REMOVE	scaffold_998
+
+# b-proteobacteria
+REMOVE	scaffold_100
 
 #Verrucomicrobia
 REMOVE	scaffold_1053
