@@ -1,0 +1,62 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_28	0	25100	22894,91.211
+scaffold_19	0	39017	34598,88.674
+scaffold_26	0	27178	22754,83.722
+scaffold_30	0	23451	18093,77.152
+scaffold_24	0	32481	22950,70.657
+scaffold_25	0	31635	20932,66.167
+scaffold_33	0	20063	11303,56.338
+scaffold_13	0	69733	35247,50.546
+scaffold_23	0	33053	16668,50.428
+scaffold_15	0	54671	25500,46.643
+scaffold_20	0	37589	15709,41.791
+scaffold_17	0	48341	19548,40.438
+scaffold_32	0	20064	7388,36.822
+scaffold_31	0	23007	8285,36.011
+scaffold_22	0	34827	12342,35.438
+scaffold_18	0	42694	14746,34.539
+scaffold_21	0	36355	8628,23.733
+scaffold_29	0	23510	5461,23.228
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_32	0	20064	20064,100.000
+scaffold_31	0	23007	1136,4.938
+scaffold_30	0	23451	772,3.292
+scaffold_33	0	20063	559,2.786
+scaffold_13	0	69733	1897,2.720
+scaffold_17	0	48341	1125,2.327
+scaffold_25	0	31635	646,2.042
+scaffold_15	0	54671	1105,2.021
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_32	0	20064	13545,67.509
+scaffold_33	0	20063	4991,24.877
+scaffold_23	0	33053	7903,23.910
+scaffold_30	0	23451	5183,22.101
+scaffold_31	0	23007	5026,21.846
+scaffold_24	0	32481	6811,20.969
+scaffold_13	0	69733	12980,18.614
+scaffold_29	0	23510	3773,16.048
+scaffold_17	0	48341	7757,16.046
+scaffold_15	0	54671	8619,15.765
+scaffold_20	0	37589	5374,14.297
+scaffold_22	0	34827	3856,11.072
+scaffold_21	0	36355	3478,9.567
+scaffold_18	0	42694	3686,8.634
+scaffold_25	0	31635	2441,7.716
+========== TRIM Ns ==========
+
