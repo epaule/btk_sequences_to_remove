@@ -6,26 +6,9 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 REMOVE	scaffold_48
-REMOVE	scaffold_49
-REMOVE	scaffold_54
-REMOVE	scaffold_65
-REMOVE	scaffold_67
-REMOVE	scaffold_63
-REMOVE	scaffold_72
-REMOVE	scaffold_10
-# scaffold_35	0	70000	44893,64.133
-# scaffold_24	0	142464	78392,55.026
-# scaffold_48	0	34158	2519,7.375
-# scaffold_50	0	32782	2268,6.918
-# scaffold_68	0	18457	1134,6.144
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# REMOVE	scaffold_24
-# REMOVE	scaffold_35
-# scaffold_65	0	20547	660,3.212
-# scaffold_49	0	33683	629,1.867
-# scaffold_10	0	495594	5248,1.059
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -34,24 +17,15 @@ REMOVE	scaffold_10
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_35	0	70000	113,0.161
-# scaffold_24	0	142464	113,0.079
-# scaffold_22	0	161385	101,0.063
-# scaffold_4	0	80265581	111,0.000
-# scaffold_2	0	169163951	126,0.000
-# scaffold_1	0	176490648	125,0.000
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_70	0	16086	280,1.741
-# scaffold_5	0	22081011	673,0.003
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_35	0	70000	188,0.269
-# scaffold_24	0	142464	188,0.132
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
+# Magnoliopsida
 REMOVE	scaffold_10
 REMOVE	scaffold_24
 REMOVE	scaffold_35
@@ -62,6 +36,8 @@ REMOVE	scaffold_63
 REMOVE	scaffold_65
 REMOVE	scaffold_67
 REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
 REMOVE	scaffold_72
 ========== TRIM Ns ==========
 

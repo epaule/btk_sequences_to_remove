@@ -4,22 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000279l_1_1	0	18945	18945,100.000
-hap_ptg000292l_1_1	0	21752	21752,100.000
-hap_ptg000303l_1_1	0	18398	18396,99.989
-atg001182l_1	0	20926	20233,96.688
-hap_ptg000215l_1_1	0	20162	17463,86.613
-hap_ptg000168l_1_1	0	26738	9473,35.429
-atg001106l_1	0	37701	13179,34.957
-atg000732l_1	0	20122	1134,5.636
-atg000932l_1	0	18926	567,2.996
-
+REMOVE	atg001267l_1
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001106l_1	0	37701	37701,100.000
-atg001182l_1	0	20926	20926,100.000
-hap_ptg000215l_1_1	0	20162	20162,100.000
-hap_ptg000168l_1_1	0	26738	26710,99.895
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -28,29 +15,24 @@ hap_ptg000168l_1_1	0	26738	26710,99.895
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000215l_1_1	0	20162	230,1.141
-hap_ptg000131l_1_1	0	225703	101,0.045
-atg000003l_1	0	3419987	161,0.005
-atg000127l_1	0	3211558	128,0.004
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000928l_1	0	26642	140,0.525
-atg000384l_1	0	318747	280,0.088
-atg000298l_1	0	736846	113,0.015
-hap_ptg000111l_1_1	0	1274738	140,0.011
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000215l_1_1	0	20162	188,0.932
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000279l_1_1	0	18945	18945,100.000
-hap_ptg000292l_1_1	0	21752	21752,100.000
-hap_ptg000303l_1_1	0	18398	18396,99.989
-hap_ptg000168l_1_1	0	26738	26710,99.895
-atg001106l_1	0	37701	37658,99.886
-atg001182l_1	0	20926	20382,97.400
-hap_ptg000215l_1_1	0	20162	19513,96.781
-atg000732l_1	0	20122	532,2.644
+
+# Magnoliopsida
+REMOVE	atg000732l_1
+REMOVE	atg000932l_1
+REMOVE	atg001106l_1
+REMOVE	atg001182l_1
+REMOVE	hap_ptg000168l_1_1
+REMOVE	hap_ptg000215l_1_1
+REMOVE	hap_ptg000279l_1_1
+REMOVE	hap_ptg000292l_1_1
+REMOVE	hap_ptg000303l_1_1
+
 ========== TRIM Ns ==========
 
