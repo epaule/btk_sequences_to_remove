@@ -4,8 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_80	0	32968	8782,26.638
-
+REMOVE	scaffold_125
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -15,11 +14,21 @@ scaffold_80	0	32968	8782,26.638
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_113	0	16835	12530,74.428
+
+#bacillus 
+REMOVE	scaffold_113
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_80	0	32968	141,0.428
-scaffold_29	0	503761	116,0.023
+
+#Actinopteri
+REMOVE	scaffold_111
+REMOVE	scaffold_127
+REMOVE	scaffold_129
+
+========== REFSEQ: virus ==========
+#Caudoviricetes
+REMOVE	scaffold_94
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========

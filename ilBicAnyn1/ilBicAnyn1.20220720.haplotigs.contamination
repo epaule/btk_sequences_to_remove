@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000801l_1	0	22339	4626,20.708
+REMOVE	atg000801l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,8 +15,16 @@ CONTAMINANT	atg000856l_1	332	348
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
+
+#Actinopteri
+REMOVE	hap_ptg000587l_1_1
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	hap_ptg001181l_1_1
+
 ========== TRIM Ns ==========
 
