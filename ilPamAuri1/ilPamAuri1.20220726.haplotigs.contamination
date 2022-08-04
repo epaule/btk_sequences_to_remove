@@ -4,16 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001079l_1	0	285064	15793,5.540
-atg000985l_1	0	1058880	49156,4.642
-atg001044l_1	0	365213	15785,4.322
-atg000047l_1	0	450242	14933,3.317
-hap_ptg000125l_1_1	0	325597	10663,3.275
-atg000795l_1	0	427141	13606,3.185
-atg000360l_1	0	468674	12409,2.648
-atg000784l_1	0	803609	13680,1.702
-atg001493l_1	0	320907	1281,0.399
-atg001982l_1	0	403941	625,0.155
 
 ========== PLASTID SEQUENCE ==========
 
@@ -25,8 +15,6 @@ VecScreen_Moderate	atg001161l_1	757579	757610
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000426l_1	0	1441257	2214,0.154
-atg001004l_1	0	535690	387,0.072
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
@@ -34,8 +22,5 @@ atg001004l_1	0	535690	387,0.072
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000058l_1	0	205638	176,0.086
-atg000377l_1	0	964751	176,0.018
-atg000906l_1	0	1050067	176,0.017
 ========== TRIM Ns ==========
 
