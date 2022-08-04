@@ -4,15 +4,11 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	scaffold_349
-REMOVE	scaffold_386
-REMOVE	scaffold_392
-REMOVE	scaffold_393
-REMOVE	scaffold_394
-REMOVE	scaffold_396
-REMOVE	scaffold_397
-REMOVE	scaffold_404
-
+scaffold_25	0	25176343	17083,0.068
+scaffold_28	0	19175779	11514,0.060
+scaffold_18	0	33506588	15746,0.047
+scaffold_22	0	28748297	10000,0.035
+scaffold_16	0	34589934	1409,0.004
 
 ========== PLASTID SEQUENCE ==========
 
@@ -23,30 +19,25 @@ REMOVE	scaffold_404
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#a-proteobacteria
-REMOVE	scaffold_206
-REMOVE	scaffold_220
-REMOVE	scaffold_235
-REMOVE	scaffold_256
-REMOVE	scaffold_269
-REMOVE	scaffold_271
-REMOVE	scaffold_276
-REMOVE	scaffold_291
-REMOVE	scaffold_306
-REMOVE	scaffold_313
-REMOVE	scaffold_316
-REMOVE	scaffold_321
-REMOVE	scaffold_322
-REMOVE	scaffold_348
-REMOVE	scaffold_354
-
+scaffold_31	0	1930450	249039,12.901
+scaffold_28	0	19175779	2214,0.012
+scaffold_10	0	40149049	387,0.001
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: virus ==========
-
+scaffold_30	0	2551606	128,0.005
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+========== REFSEQ: viruses_and_viroids ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_27	0	23882722	176,0.001
+scaffold_26	0	24241859	176,0.001
+scaffold_21	0	29804278	176,0.001
+scaffold_15	0	35134273	176,0.001
+scaffold_10	0	40149049	176,0.000
+scaffold_2	0	55541158	176,0.000
+scaffold_5	0	44290306	139,0.000
+scaffold_1	0	72712871	176,0.000
 ========== TRIM Ns ==========
 
