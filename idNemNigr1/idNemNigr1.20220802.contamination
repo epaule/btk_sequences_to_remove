@@ -1,0 +1,59 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+CONTAMINANT	scaffold_6	43805105	43805121
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_1313	0	23732	150,0.632
+scaffold_1107	0	33389	170,0.509
+scaffold_1101	0	33535	106,0.316
+scaffold_251	0	149089	414,0.278
+scaffold_995	0	39139	106,0.271
+scaffold_364	0	120589	252,0.209
+scaffold_744	0	65478	106,0.162
+scaffold_252	0	148947	212,0.142
+scaffold_655	0	74982	106,0.141
+scaffold_417	0	110551	143,0.129
+scaffold_312	0	132580	166,0.125
+scaffold_157	0	190550	212,0.111
+scaffold_463	0	102937	106,0.103
+scaffold_445	0	106887	106,0.099
+scaffold_443	0	107376	106,0.099
+scaffold_170	0	186473	170,0.091
+scaffold_105	0	244829	212,0.087
+scaffold_230	0	157358	106,0.067
+scaffold_112	0	235624	106,0.045
+scaffold_101	0	249675	106,0.042
+scaffold_85	0	274711	106,0.039
+scaffold_73	0	298473	106,0.036
+scaffold_59	0	332798	106,0.032
+scaffold_27	0	518978	106,0.020
+scaffold_11	0	1501340	258,0.017
+scaffold_23	0	619109	106,0.017
+scaffold_3	0	82631082	2678,0.003
+scaffold_6	0	53073739	1086,0.002
+scaffold_1	0	189599836	2077,0.001
+scaffold_2	0	85236405	803,0.001
+scaffold_4	0	77440164	611,0.001
+scaffold_5	0	74501085	540,0.001
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_7	0	11567872	980,0.008
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_11	0	1501340	111,0.007
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_11	0	1501340	113,0.008
+========== TRIM Ns ==========
+
