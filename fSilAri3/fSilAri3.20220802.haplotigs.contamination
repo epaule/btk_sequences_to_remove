@@ -4,8 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006262l_1	0	9940	9940,100.000
-atg008411l_1	0	13844	13844,100.000
+
+REMOVE   atg006262l_1
+REMOVE   atg008411l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -14,11 +15,71 @@ atg008411l_1	0	13844	13844,100.000
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
+
+#squamata
+REMOVE  atg000753l_1
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004706l_1	0	198071	115,0.058
+# atg004706l_1	0	198071	115,0.058
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	atg000150l_1
+REMOVE	atg000231l_1
+REMOVE	atg000241l_1
+REMOVE	atg000315l_1
+REMOVE	atg000578l_1
+REMOVE	atg000916l_1
+REMOVE	atg000970l_1
+REMOVE	atg001102l_1
+REMOVE	atg001224l_1
+REMOVE	atg001324l_1
+REMOVE	atg001629l_1
+REMOVE	atg001786l_1
+REMOVE	atg001866l_1
+REMOVE	atg002370l_1
+REMOVE	atg002732l_1
+REMOVE	atg002826l_1
+REMOVE	atg003221l_1
+REMOVE	atg003249l_1
+REMOVE	atg003806l_1
+REMOVE	atg003945l_1
+REMOVE	atg004046l_1
+REMOVE	atg004549l_1
+REMOVE	atg004593l_1
+REMOVE	atg004653l_1
+REMOVE	atg004761l_1
+REMOVE	atg005366l_1
+REMOVE	atg005461l_1
+REMOVE	atg005492l_1
+REMOVE	atg005534l_1
+REMOVE	atg005775l_1
+REMOVE	atg006203l_1
+REMOVE	atg006204l_1
+REMOVE	atg006492l_1
+REMOVE	atg006607l_1
+REMOVE	atg006850l_1
+REMOVE	atg006854l_1
+REMOVE	atg007471l_1
+REMOVE	atg007737l_1
+REMOVE	atg008143l_1
+REMOVE	atg008285l_1
+REMOVE	atg008512l_1
+REMOVE	atg008814l_1
+REMOVE	atg008926l_1
+REMOVE	atg008954l_1
+REMOVE	atg009130l_1
+REMOVE	atg009139l_1
+REMOVE	atg009391l_1
+REMOVE	atg009396l_1
+REMOVE	atg009899l_1
+REMOVE	atg009902l_1
+REMOVE	atg010390l_1
+REMOVE	atg011272l_1
+REMOVE	atg011477l_1
+
 ========== TRIM Ns ==========
 
