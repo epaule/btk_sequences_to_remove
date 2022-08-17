@@ -1,0 +1,78 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003507l_1_15483	0	15483	779,5.031
+atg002926l_1_56386	0	56386	778,1.380
+atg000791l_1_410971	0	410971	1558,0.379
+atg000255l_1_1995811	0	1995811	1839,0.092
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# atg000763l_1_39958	0	39958	1077,2.695
+# atg001107l_1_25840	0	25840	8610,33.320
+# atg001550l_1_25753	0	25753	22336,86.732
+# atg001793l_1_46006	0	46006	14024,30.483
+# atg002060l_1_33299	0	33299	1087,3.264
+# atg002285l_1_35763	0	35763	413,1.155
+# atg002540l_1_36557	0	36557	16066,43.948
+# atg002636l_1_25183	0	25183	6618,26.280
+# atg002785l_1_35439	0	35439	6411,18.090
+# atg003131l_1_7909	0	7909	4283,54.153
+# atg003215l_1_11409	0	11409	4563,39.995
+# atg003277l_1_10743	0	10743	9575,89.128
+# atg003312l_1_6451	0	6451	4667,72.345
+# atg003316l_1_7660	0	7660	4546,59.347
+# atg003321l_1_8340	0	8340	970,11.631
+# atg003335l_1_11091	0	11091	4759,42.909
+# atg003423l_1_15491	0	15491	8755,56.517
+# atg003462l_1_13975	0	13975	1122,8.029
+# atg003516l_1_8271	0	8271	3521,42.570
+# atg003529l_1_8579	0	8579	988,11.516
+# hap_ptg000286l_1_32058	0	32058	4139,12.911
+
+#a-proteobacteria
+REMOVE	atg000763l_1_39958
+REMOVE	atg001107l_1_25840
+REMOVE	atg001550l_1_25753
+REMOVE	atg001793l_1_46006
+REMOVE	atg002060l_1_33299
+REMOVE	atg002285l_1_35763
+REMOVE	atg002540l_1_36557
+REMOVE	atg002636l_1_25183
+REMOVE	atg002669l_1_10422
+REMOVE	atg002785l_1_35439
+REMOVE	atg003131l_1_7909 
+REMOVE	atg003215l_1_11409
+REMOVE	atg003268l_1_16047
+REMOVE	atg003277l_1_10743
+REMOVE	atg003312l_1_6451 
+REMOVE	atg003316l_1_7660 
+REMOVE	atg003321l_1_8340 
+REMOVE	atg003330l_1_8359 
+REMOVE	atg003335l_1_11091
+REMOVE	atg003378l_1_12000
+REMOVE	atg003423l_1_15491
+REMOVE	atg003462l_1_13975
+REMOVE	atg003504l_1_8542 
+REMOVE	atg003516l_1_8271 
+REMOVE	atg003529l_1_8579 
+REMOVE	hap_ptg000286l_1_32058
+
+
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
