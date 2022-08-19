@@ -1,14 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000450l_1	0	30868	135,0.437
-# atg009820l_1	0	42382	71,0.168
-# hap_ptg003091l_1_1	0	57643	65,0.113
-# atg002585l_1	0	69784	64,0.092
-# atg003855l_1	0	145708	70,0.048
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	atg016345l_1
+REMOVE	atg016454l_1
+REMOVE	atg017121l_1
+REMOVE	atg013857l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -35,47 +34,18 @@ REMOVE	atg012486l_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg001972l_1	0	22426	842,3.755
-# atg016776l_1	0	9149	270,2.951
-# atg013557l_1	0	9668	270,2.793
-# atg014436l_1	0	9902	270,2.727
-# atg006020l_1	0	7407	135,1.823
-# atg007174l_1	0	8161	135,1.654
-# atg017077l_1	0	8924	135,1.513
-# atg016336l_1	0	9266	135,1.457
-# atg008112l_1	0	9360	135,1.442
-# atg012110l_1	0	9545	135,1.414
-# atg015003l_1	0	10031	135,1.346
-# atg015122l_1	0	10109	135,1.335
-# atg016808l_1	0	10148	135,1.330
-# atg002585l_1	0	69784	858,1.230
-# atg001398l_1	0	139835	1548,1.107
-# hap_ptg003160l_1_1	0	75159	810,1.078
-# atg000419l_1	0	57920	195,0.337
-# atg006697l_1	0	44594	135,0.303
-# hap_ptg002259l_1_1	0	53375	135,0.253
-# hap_ptg000773l_1_1	0	100832	135,0.134
+
+#rodentia
+REMOVE	atg012414l_1
+REMOVE	atg014385l_1
+
+========== REFSEQ: virus ==========
+#chuviridae
+REMOVE	atg001974l_1
+REMOVE	atg009809l_1
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg016776l_1	0	9149	234,2.558
-# atg013557l_1	0	9668	234,2.420
-# atg014436l_1	0	9902	234,2.363
-# atg006020l_1	0	7407	117,1.580
-# atg015114l_1	0	7979	117,1.466
-# atg007174l_1	0	8161	117,1.434
-# atg017077l_1	0	8924	117,1.311
-# atg016336l_1	0	9266	117,1.263
-# atg008112l_1	0	9360	117,1.250
-# atg012110l_1	0	9545	117,1.226
-# atg015003l_1	0	10031	117,1.166
-# atg015122l_1	0	10109	117,1.157
-# atg016808l_1	0	10148	117,1.153
-# atg014901l_1	0	10510	117,1.113
-# hap_ptg003160l_1_1	0	75159	702,0.934
-# hap_ptg002259l_1_1	0	53375	234,0.438
-# atg012094l_1	0	26995	117,0.433
-# atg006697l_1	0	44594	117,0.262
-# hap_ptg000773l_1_1	0	100832	117,0.116
 ========== TRIM Ns ==========
 

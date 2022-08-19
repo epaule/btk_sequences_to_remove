@@ -20,28 +20,31 @@ VecScreen_Strong	scaffold_1153	13989	14058
 ========== BARCODES ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_338	0	32489	247,0.760
-scaffold_340	0	32317	135,0.418
-scaffold_34	0	348218	135,0.039
-scaffold_6	0	85642250	1456,0.002
-scaffold_3	0	103215258	675,0.001
-scaffold_1	0	107052254	675,0.001
 
 #rodent
 REMOVE	scaffold_895   
-REMOVE	scaffold_1562  
+REMOVE	scaffold_1562
+REMOVE	scaffold_1153
+REMOVE	scaffold_922
+REMOVE	scaffold_1247
+REMOVE	scaffold_1408
+
 ========== REFSEQ: bacteria ==========
+#mucorales
+REMOVE	scaffold_1110 
+
+#enterobacteria
+REMOVE	scaffold_851
 
 #firmicutes
 REMOVE	scaffold_397
 
+#flavobacteria
+REMOVE	scaffold_638
+
+#bacteroidales
+REMOVE	scaffold_195
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_338	0	32489	234,0.720
-# scaffold_340	0	32317	117,0.362
-# scaffold_34	0	348218	117,0.034
-# scaffold_3	0	103215258	585,0.001
-# scaffold_1	0	107052254	585,0.001
-# scaffold_5	0	95684764	121,0.000
 ========== TRIM Ns ==========
 
