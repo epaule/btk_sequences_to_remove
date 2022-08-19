@@ -1,7 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_1153	0	15066	123,0.816
-# scaffold_4	0	98341900	134,0.000
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
