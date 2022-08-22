@@ -10,7 +10,6 @@ REMOVE	hap_ptg000157l_1_1
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: bacteria ==========
