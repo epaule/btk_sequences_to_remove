@@ -13,15 +13,101 @@ REMOVE	hap_ptg000157l_1_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# hap_ptg000434l_1_1	0	344443	3600,1.045
-# atg007107l_1	0	31475	200,0.635
-# atg002146l_1	0	35052	200,0.571
-========== REFSEQ: fungi ==========
-========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: bacteria ==========
+
+#Alphaproteobacteria
+REMOVE	atg003218l_1
+REMOVE	atg004344l_1
+
+#Bacteria-undef
+REMOVE	atg000459l_1
+REMOVE	atg001617l_1
+REMOVE	atg003177l_1
+REMOVE	atg004931l_1
+REMOVE	atg005443l_1
+REMOVE	atg005449l_1
+REMOVE	atg005869l_1
+REMOVE	atg007019l_1
+
+#Deltaproteobacteria
+REMOVE	atg003545l_1
+REMOVE	atg008001l_1
+
+#Epsilonproteobacteria
+REMOVE	atg002295l_1
+REMOVE	atg005610l_1
+
+#Gammaproteobacteria
+REMOVE	atg000342l_1 #Gammaproteobacteria
+REMOVE	atg001767l_1 #Gammaproteobacteria
+REMOVE	atg001792l_1 #Gammaproteobacteria
+REMOVE	atg002817l_1 #Gammaproteobacteria
+REMOVE	atg003055l_1 #Gammaproteobacteria
+REMOVE	atg003152l_1 #Gammaproteobacteria
+REMOVE	atg003307l_1 #Gammaproteobacteria
+REMOVE	atg003523l_1 #Gammaproteobacteria
+REMOVE	atg004747l_1 #Gammaproteobacteria
+REMOVE	atg004952l_1 #Gammaproteobacteria
+REMOVE	atg005747l_1 #Gammaproteobacteria
+REMOVE	atg006664l_1 #Gammaproteobacteria
+REMOVE	atg007022l_1 #Gammaproteobacteria
+REMOVE	atg007259l_1 #Gammaproteobacteria
+
+========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# hap_ptg000434l_1_1	0	344443	3744,1.087
-# atg007107l_1	0	31475	208,0.661
-# atg002146l_1	0	35052	208,0.593
+
+#Pycnogonida
+REMOVE	atg000982l_1
+REMOVE	atg001545l_1
+REMOVE	atg001642l_1
+REMOVE	atg001753l_1
+REMOVE	atg001985l_1
+REMOVE	atg002301l_1
+REMOVE	atg002403l_1
+REMOVE	atg002577l_1
+REMOVE	atg003259l_1
+REMOVE	atg003447l_1
+REMOVE	atg003499l_1
+REMOVE	atg003589l_1
+REMOVE	atg003629l_1
+REMOVE	atg003751l_1
+REMOVE	atg004003l_1
+REMOVE	atg004030l_1
+REMOVE	atg004075l_1
+REMOVE	atg004223l_1
+REMOVE	atg004225l_1
+REMOVE	atg004290l_1
+REMOVE	atg004584l_1
+REMOVE	atg004665l_1
+REMOVE	atg004882l_1
+REMOVE	atg005107l_1
+REMOVE	atg005151l_1
+REMOVE	atg005220l_1
+REMOVE	atg005596l_1
+REMOVE	atg005601l_1
+REMOVE	atg005658l_1
+REMOVE	atg005832l_1
+REMOVE	atg005836l_1
+REMOVE	atg005857l_1
+REMOVE	atg005860l_1
+REMOVE	atg006235l_1
+REMOVE	atg006730l_1
+REMOVE	atg006969l_1
+REMOVE	atg006982l_1
+REMOVE	atg007140l_1
+REMOVE	atg007580l_1
+REMOVE	atg007630l_1
+REMOVE	atg007763l_1
+
+#Polychaeta
+REMOVE	atg004146l_1
+REMOVE	atg005361l_1
+REMOVE	atg005575l_1
+REMOVE	atg006524l_1
+REMOVE	atg006628l_1
+REMOVE	atg006662l_1
+REMOVE	atg006953l_1
+
 ========== REFSEQ: other_metazoa ==========
 
 # basal metazoa
@@ -31,14 +117,40 @@ REMOVE	atg001938l_1
 #echinoderm
 REMOVE	atg001733l_1
 
+#Anthozoa
+REMOVE	atg000124l_1
+REMOVE	atg000299l_1
+REMOVE	atg000758l_1
+REMOVE	atg002770l_1
+REMOVE	atg005045l_1
+REMOVE	atg005163l_1
+REMOVE	atg005651l_1
+REMOVE	atg005821l_1
+REMOVE	atg005868l_1
+REMOVE	atg006121l_1
+REMOVE	atg006743l_1
+REMOVE	atg006950l_1
+REMOVE	atg007096l_1
+REMOVE	atg007313l_1
+REMOVE	atg007481l_1
+REMOVE	atg007987l_1
+REMOVE	atg008279l_1
+REMOVE	hap_ptg000387l_1_1
+
+
 ========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# hap_ptg000434l_1_1	0	344443	4050,1.176
-# atg007107l_1	0	31475	225,0.715
-# atg002146l_1	0	35052	225,0.642
 
 #eukaryotic virus
 REMOVE	atg002226l_1
+
+#Polintoviricetes
+REMOVE	atg003770l_1
+REMOVE	atg004268l_1
+REMOVE	atg007675l_1
+REMOVE	atg007876l_1
+REMOVE	atg008168l_1
+REMOVE	hap_ptg000215l_1_1
 
 ========== TRIM Ns ==========
 
