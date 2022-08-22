@@ -3,6 +3,9 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	atg003288l_1
+REMOVE	hap_ptg002190l_1_1
+REMOVE	hap_ptg005263l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -10,17 +13,108 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg004846l_1_1	0	56217	600,1.067
-hap_ptg005961l_1_1	0	19414	200,1.030
-hap_ptg002979c_1_1	0	66833	600,0.898
-========== REFSEQ: fungi ==========
+
+REMOVE	hap_ptg000440l_1_1
+REMOVE	hap_ptg000533l_1_1
+REMOVE	hap_ptg000631l_1_1
+REMOVE	hap_ptg000820l_1_1
+REMOVE	hap_ptg000828l_1_1
+REMOVE	hap_ptg001064l_1_1
+REMOVE	hap_ptg001233l_1_1
+REMOVE	hap_ptg001285l_1_1
+REMOVE	hap_ptg001376l_1_1
+REMOVE	hap_ptg001389l_1_1
+REMOVE	hap_ptg001440l_1_1
+REMOVE	hap_ptg001727l_1_1
+REMOVE	hap_ptg001812l_1_1
+REMOVE	hap_ptg001981l_1_1
+REMOVE	hap_ptg002122l_1_1
+REMOVE	hap_ptg002309l_1_1
+REMOVE	hap_ptg003214l_1_1
+REMOVE	hap_ptg003225l_1_1
+REMOVE	hap_ptg003324l_1_1
+REMOVE	hap_ptg004636l_1_1
+
+#Gammaproteobacteria
+REMOVE	atg002892l_1
+REMOVE	atg002918l_1
+REMOVE	hap_ptg000012l_1_1
+REMOVE	hap_ptg000111l_1_1
+REMOVE	hap_ptg000322l_1_1
+REMOVE	hap_ptg000328l_1_1
+REMOVE	hap_ptg000546l_1_1
+REMOVE	hap_ptg000557l_1_1
+REMOVE	hap_ptg000715l_1_1
+REMOVE	hap_ptg000762l_1_1
+REMOVE	hap_ptg000879l_1_1
+REMOVE	hap_ptg000946l_1_1
+REMOVE	hap_ptg001012l_1_1
+REMOVE	hap_ptg001089l_1_1
+REMOVE	hap_ptg001152l_1_1
+REMOVE	hap_ptg001195l_1_1
+REMOVE	hap_ptg001258l_1_1
+REMOVE	hap_ptg001371l_1_1
+REMOVE	hap_ptg001477l_1_1
+REMOVE	hap_ptg001513l_2_1
+REMOVE	hap_ptg001581l_1_1
+REMOVE	hap_ptg001771l_1_1
+REMOVE	hap_ptg001967l_1_1
+REMOVE	hap_ptg002198l_1_1
+REMOVE	hap_ptg002340l_1_1
+REMOVE	hap_ptg002387l_1_1
+REMOVE	hap_ptg002436l_1_1
+REMOVE	hap_ptg002474l_1_1
+REMOVE	hap_ptg002779l_1_1
+REMOVE	hap_ptg003020l_1_1
+REMOVE	hap_ptg006074l_1_1
+REMOVE	hap_ptg007754l_1_1
+
+#Epsilonproteobacteria
+REMOVE	hap_ptg000363l_1_1
+REMOVE	hap_ptg002679l_1_1
+
+#cyanobacteria
+REMOVE	hap_ptg002771l_1_1
+
+#Bacteroidetes
+REMOVE	atg002804l_1
+REMOVE	hap_ptg005709l_1_1
+
+========== REFSEQ: eukaryota ==========
+#Symbiodinium
+REMOVE	atg000654l_1
+REMOVE	atg001410l_1
+REMOVE	atg002422l_1
+
+#Cladocopium
+REMOVE	atg001586l_1
+REMOVE	atg002385l_1
+REMOVE	hap_ptg003877l_1_1
+
 ========== REFSEQ: other_metazoa ==========
+
+#Anthozoa
+REMOVE	atg000823l_1
+REMOVE	atg001532l_1
+REMOVE	atg002371l_1
+REMOVE	atg002538l_1
+REMOVE	atg002646l_1
+REMOVE	atg002697l_1
+REMOVE	atg002828l_1
+REMOVE	atg002858l_1
+REMOVE	atg003079l_1
+REMOVE	hap_ptg000229l_1_1
+REMOVE	hap_ptg000889l_1_1
+REMOVE	hap_ptg000953l_1_1
+REMOVE	hap_ptg001122l_1_1
+REMOVE	hap_ptg004713l_1_1
+REMOVE	hap_ptg004942l_1_1
+REMOVE	hap_ptg005727l_1_1
+REMOVE	hap_ptg005940l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg004846l_1_1	0	56217	651,1.158
-hap_ptg005961l_1_1	0	19414	217,1.118
-hap_ptg002979c_1_1	0	66833	651,0.974
 ========== TRIM Ns ==========
 

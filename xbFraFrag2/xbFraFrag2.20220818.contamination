@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_331
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,11 +14,66 @@ VecScreen_Moderate	scaffold_2	22566108	22566135
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_35	0	1180707	200,0.017
-========== REFSEQ: fungi ==========
+========== REFSEQ: arthropoda ==========
+
+#Pycnogonida
+REMOVE	scaffold_1398
+REMOVE	scaffold_100
+REMOVE	scaffold_66
+
+========== REFSEQ: virus ==========
+
+#megaviricetes
+REMOVE	scaffold_2677
+
+========== REFSEQ: bacteria ==========
+
+REMOVE	scaffold_55
+REMOVE	scaffold_169
+REMOVE	scaffold_418
+REMOVE	scaffold_667
+REMOVE	scaffold_1381
+REMOVE	scaffold_1582
+REMOVE	scaffold_2204
+
+#g-proteobacteria
+REMOVE	scaffold_58
+REMOVE	scaffold_77
+REMOVE	scaffold_118
+REMOVE	scaffold_1115
+REMOVE	scaffold_2547
+
+#bacteriodetes
+REMOVE	scaffold_98
+REMOVE	scaffold_1840
+REMOVE	scaffold_323
+REMOVE	scaffold_2446
+
+#a-proteobacteria
+REMOVE	scaffold_1964
+REMOVE	scaffold_3881
+REMOVE	scaffold_4007
+REMOVE	scaffold_4084
+REMOVE	scaffold_4112
+
 ========== REFSEQ: other_metazoa ==========
+
+#cladocopium
+REMOVE	scaffold_132
+REMOVE	scaffold_574
+REMOVE	scaffold_722
+REMOVE	scaffold_757
+REMOVE	scaffold_1953
+REMOVE	scaffold_1977
+REMOVE	scaffold_2486
+REMOVE	scaffold_2714
+REMOVE	scaffold_3250
+REMOVE	scaffold_3441
+REMOVE	scaffold_4182
+REMOVE	scaffold_4338
+REMOVE	scaffold_4372
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_35	0	1180707	217,0.018
 ========== TRIM Ns ==========
 
