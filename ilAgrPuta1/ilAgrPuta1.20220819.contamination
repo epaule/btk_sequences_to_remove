@@ -3,6 +3,8 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_50	0	7021	7021,100.000
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,32 +15,13 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-# Anaplasmataceae
-REMOVE scaffold_35
-REMOVE scaffold_36
-REMOVE scaffold_37
-REMOVE scaffold_39
-REMOVE scaffold_40
-REMOVE scaffold_41
-REMOVE scaffold_42
-REMOVE scaffold_46
-REMOVE scaffold_51
-REMOVE scaffold_53
-REMOVE scaffold_55
-
-# Weeksellaceae
-REMOVE scaffold_32
-
+scaffold_35	0	233570	11173,4.784
+scaffold_32	0	3389801	1130,0.033
 ========== REFSEQ: chordata ==========
-========== REFSEQ: virus ==========
-# Myoviridae
-REMOVE scaffold_43
-REMOVE scaffold_45
-REMOVE scaffold_47
-
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_49	0	9220	2723,29.534
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========

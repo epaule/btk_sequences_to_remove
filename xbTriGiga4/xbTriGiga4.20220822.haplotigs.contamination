@@ -37,20 +37,20 @@ REMOVE	atg002295l_1
 REMOVE	atg005610l_1
 
 #Gammaproteobacteria
-REMOVE	atg000342l_1 #Gammaproteobacteria
-REMOVE	atg001767l_1 #Gammaproteobacteria
-REMOVE	atg001792l_1 #Gammaproteobacteria
-REMOVE	atg002817l_1 #Gammaproteobacteria
-REMOVE	atg003055l_1 #Gammaproteobacteria
-REMOVE	atg003152l_1 #Gammaproteobacteria
-REMOVE	atg003307l_1 #Gammaproteobacteria
-REMOVE	atg003523l_1 #Gammaproteobacteria
-REMOVE	atg004747l_1 #Gammaproteobacteria
-REMOVE	atg004952l_1 #Gammaproteobacteria
-REMOVE	atg005747l_1 #Gammaproteobacteria
-REMOVE	atg006664l_1 #Gammaproteobacteria
-REMOVE	atg007022l_1 #Gammaproteobacteria
-REMOVE	atg007259l_1 #Gammaproteobacteria
+REMOVE	atg000342l_1
+REMOVE	atg001767l_1
+REMOVE	atg001792l_1
+REMOVE	atg002817l_1
+REMOVE	atg003055l_1
+REMOVE	atg003152l_1
+REMOVE	atg003307l_1
+REMOVE	atg003523l_1
+REMOVE	atg004747l_1
+REMOVE	atg004952l_1
+REMOVE	atg005747l_1
+REMOVE	atg006664l_1
+REMOVE	atg007022l_1
+REMOVE	atg007259l_1
 
 ========== REFSEQ: arthropoda ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description

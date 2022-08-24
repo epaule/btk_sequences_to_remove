@@ -1,0 +1,59 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000476l_1	0	1023900	15338,1.498
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002498l_1	0	34229	20899,61.056
+atg002609l_1	0	32739	14036,42.872
+atg002682l_1	0	39395	16160,41.020
+atg002687l_1	0	14835	6035,40.681
+atg002848l_1	0	15582	5672,36.401
+atg002396l_1	0	31001	9483,30.589
+atg002760l_1	0	11893	3380,28.420
+atg002358l_1	0	15131	4094,27.057
+atg002700l_1	0	20451	4668,22.825
+atg002586l_1	0	24757	5254,21.222
+atg002885l_1	0	9909	2075,20.941
+atg002696l_1	0	12988	2117,16.300
+atg002521l_1	0	25333	4008,15.821
+atg002741l_1	0	44308	6374,14.386
+atg002817l_1	0	26709	3546,13.276
+atg002443l_1	0	29151	3731,12.799
+atg002659l_1	0	27874	3499,12.553
+atg002852l_1	0	23833	2985,12.525
+atg002764l_1	0	12192	1470,12.057
+atg002879l_1	0	23507	2745,11.677
+atg002604l_1	0	27419	3147,11.477
+atg002492l_1	0	29309	2582,8.810
+atg002815l_1	0	9873	745,7.546
+atg002570l_1	0	16659	1173,7.041
+atg002880l_1	0	19687	1103,5.603
+atg002635l_1	0	29209	1080,3.697
+atg002826l_1	0	12483	413,3.308
+atg002694l_1	0	28461	638,2.242
+atg002842l_1	0	31848	661,2.075
+atg001671l_1	0	22107	324,1.466
+atg002628l_1	0	25061	365,1.456
+atg002827l_1	0	12248	169,1.380
+atg002742l_1	0	15688	200,1.275
+atg002642l_1	0	16107	144,0.894
+atg002856l_1	0	24849	189,0.761
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
