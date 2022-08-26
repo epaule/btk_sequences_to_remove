@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	hap_ptg000154l_1_1
-REMOVE	hap_ptg000102l_1_1
+atg000728l_1	0	17694	6145,34.729
+atg000797l_1	0	23926	4602,19.234
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,15 +13,17 @@ REMOVE	hap_ptg000102l_1_1
 
 ========== BARCODES ==========
 
-========== REFSEQ: bacteria ==========
-#Gammaproteobacteria
-REMOVE	hap_ptg000165l_1_1
-REMOVE	hap_ptg000186l_1_1
-
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002025l_1	0	5671	5671,100.000
+atg002453l_1	0	8819	1193,13.528
+hap_ptg000218l_1_1	0	24958	120,0.481
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001266l_1	0	20719	6953,33.559
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========

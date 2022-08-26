@@ -1,0 +1,69 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_157	0	14802	5117,34.570
+scaffold_112	0	19791	6012,30.377
+scaffold_85	0	24348	5304,21.784
+scaffold_49	0	39220	5129,13.078
+scaffold_55	0	34806	408,1.172
+scaffold_200	0	11353	79,0.696
+scaffold_87	0	22748	111,0.488
+scaffold_75	0	26374	111,0.421
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_112	0	19791	4011,20.267
+scaffold_157	0	14802	2566,17.335
+scaffold_85	0	24348	2562,10.522
+scaffold_49	0	39220	2645,6.744
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_181	0	12907	10873,84.241
+scaffold_110	0	20031	10414,51.989
+scaffold_157	0	14802	5586,37.738
+scaffold_112	0	19791	6073,30.686
+scaffold_120	0	18904	4854,25.677
+scaffold_103	0	20715	4782,23.085
+scaffold_85	0	24348	5252,21.571
+scaffold_49	0	39220	5529,14.097
+scaffold_144	0	15885	653,4.111
+scaffold_100	0	20939	437,2.087
+scaffold_87	0	22748	354,1.556
+scaffold_192	0	12236	156,1.275
+scaffold_75	0	26374	311,1.179
+scaffold_54	0	35513	390,1.098
+scaffold_208	0	10725	113,1.054
+scaffold_205	0	11014	108,0.981
+scaffold_200	0	11353	110,0.969
+scaffold_173	0	13358	121,0.906
+scaffold_91	0	22401	190,0.848
+scaffold_179	0	13002	106,0.815
+scaffold_159	0	14696	117,0.796
+scaffold_35	0	53379	373,0.699
+scaffold_95	0	21715	139,0.640
+scaffold_37	0	49389	279,0.565
+scaffold_52	0	37145	209,0.563
+scaffold_59	0	30439	136,0.447
+scaffold_80	0	25335	113,0.446
+scaffold_47	0	41564	131,0.315
+scaffold_43	0	42788	114,0.266
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_158	0	14800	3636,24.568
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_103	0	20715	365,1.762
+========== TRIM Ns ==========
+
