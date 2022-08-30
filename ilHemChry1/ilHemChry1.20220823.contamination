@@ -99,6 +99,7 @@ REMOVE	scaffold_99
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
+#magnoliopsida
 REMOVE	scaffold_33
 REMOVE	scaffold_61
 REMOVE	scaffold_66
