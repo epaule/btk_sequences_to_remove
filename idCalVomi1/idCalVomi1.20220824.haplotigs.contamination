@@ -4,11 +4,11 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001102l_1	0	22150	22150,100.000
-hap_ptg000475l_1_1	0	60384	60384,100.000
-hap_ptg000615l_1_1	0	20179	20179,100.000
-hap_ptg000868l_1_1	0	17255	17255,100.000
-atg001888l_1	0	22947	22944,99.987
+REMOVE	atg001102l_1
+REMOVE	atg001888l_1
+REMOVE	hap_ptg000475l_1_1
+REMOVE	hap_ptg000615l_1_1
+REMOVE	hap_ptg000868l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,21 +16,76 @@ atg001888l_1	0	22947	22944,99.987
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: virus  ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001102l_1	0	22150	22150,100.000
-hap_ptg000615l_1_1	0	20179	20179,100.000
-atg001888l_1	0	22947	22944,99.987
-hap_ptg000475l_1_1	0	60384	57963,95.991
-hap_ptg000868l_1_1	0	17255	11656,67.551
-========== REFSEQ: chordata ==========
+
+#yalta virus
+REMOVE	atg001499l_1
+REMOVE	atg001983l_1
+REMOVE	atg002151l_1
+REMOVE	atg002569l_1
+REMOVE	atg002736l_1
+REMOVE	hap_ptg000164l_1_1
+REMOVE	hap_ptg000280l_1_1
+REMOVE	hap_ptg000310l_1_1
+REMOVE	hap_ptg000357l_1_1
+REMOVE	hap_ptg000448l_1_1
+REMOVE	hap_ptg000507l_1_1
+REMOVE	hap_ptg000539l_1_1
+REMOVE	hap_ptg000551l_1_1
+REMOVE	hap_ptg000625l_1_1
+REMOVE	hap_ptg000659l_1_1
+REMOVE	hap_ptg000661l_1_1
+REMOVE	hap_ptg000807l_1_1
+REMOVE	hap_ptg001143l_1_1
+REMOVE	hap_ptg002082l_1_1
+
+#virus undef
+REMOVE	hap_ptg001274l_1_1
+
+#Pokkesviricetes
+REMOVE	atg001645l_1
+REMOVE	atg001868l_1
+REMOVE	atg002631l_1
+REMOVE	atg002637l_1
+REMOVE	hap_ptg000369l_1_1
+REMOVE	hap_ptg000522l_1_1
+REMOVE	hap_ptg000560l_1_1
+REMOVE	hap_ptg000623l_1_1
+REMOVE	hap_ptg000726l_1_1
+REMOVE	hap_ptg001227l_1_1
+REMOVE	hap_ptg001236l_1_1
+
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000979l_1	0	40625	420,1.034
-hap_ptg000849l_1_1	0	27554	280,1.016
-atg002200l_1	0	30997	280,0.903
-hap_ptg000042l_1_1	0	467629	1120,0.240
+
 ========== REFSEQ: fungi ==========
-========== REFSEQ: other_eukaryota ==========
+
+#basidiomycetes
+REMOVE	atg001320l_1
+REMOVE	atg002167l_1
+
+========== REFSEQ: arthropoda ==========
+
+#Collembola
+REMOVE	atg000892l_1
+REMOVE	atg000917l_1
+REMOVE	atg001184l_1
+REMOVE	atg001222l_1
+REMOVE	atg001503l_1
+REMOVE	atg001525l_1
+REMOVE	atg001740l_1
+REMOVE	atg001758l_1
+REMOVE	atg002313l_1
+REMOVE	atg002401l_1
+REMOVE	atg002738l_1
+
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	atg001415l_1
+REMOVE	atg001417l_1
+REMOVE	hap_ptg000833l_1_1
+
 ========== TRIM Ns ==========
 
