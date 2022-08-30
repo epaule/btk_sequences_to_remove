@@ -11,30 +11,41 @@
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_170	0	47539	134,0.282
 
 #mycoplasma
 REMOVE	scaffold_263
+REMOVE	scaffold_188
+REMOVE	scaffold_398
 
-#CFB group bacteria
+#Bacteroidia
+REMOVE	scaffold_137
+
+#Flavobacteriia
+REMOVE	scaffold_259
+REMOVE	scaffold_260
+REMOVE	scaffold_312
+REMOVE	scaffold_348
+
+#Chitinophagia
 REMOVE	scaffold_72
 REMOVE	scaffold_96
-REMOVE	scaffold_137
 REMOVE	scaffold_166
 REMOVE	scaffold_170
 REMOVE	scaffold_182
 REMOVE	scaffold_214
 REMOVE	scaffold_245
-REMOVE	scaffold_260
 REMOVE	scaffold_289
 REMOVE	scaffold_295
-REMOVE	scaffold_312
-REMOVE	scaffold_348
+REMOVE	scaffold_326
 
 
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
+#magnoliopsidae
+REMOVE	scaffold_60
+
 ========== TRIM Ns ==========
 
