@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001270l_1	0	18747	18747,100.000
+REMOVE	atg001270l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,15 +13,52 @@ atg001270l_1	0	18747	18747,100.000
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+#Araneae
+REMOVE	atg001189l_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001481l_1	0	34707	1003,2.890
-atg001651l_1	0	25331	418,1.650
-atg001242l_1	0	22788	109,0.478
+
+#Spiroplasma
+REMOVE	atg000228l_1
+REMOVE	atg000852l_1
+REMOVE	atg001138l_1
+REMOVE	atg001242l_1
+REMOVE	atg001305l_1
+REMOVE	atg001360l_1
+REMOVE	atg001376l_1
+REMOVE	atg001389l_1
+REMOVE	atg001481l_1
+REMOVE	atg001493l_1
+REMOVE	atg001570l_1
+REMOVE	atg001581l_1
+REMOVE	atg001614l_1
+REMOVE	atg001635l_1
+REMOVE	atg001638l_1
+REMOVE	atg001650l_1
+REMOVE	atg001651l_1
+REMOVE	atg001658l_1
+REMOVE	atg001690l_1
+REMOVE	atg001693l_1
+REMOVE	hap_ptg000137l_1_1
+REMOVE	hap_ptg000140l_1_1
+
 ========== REFSEQ: chordata ==========
+
+#primates
+REMOVE	atg001254l_1
+REMOVE	atg001394l_1
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#nematoda
+REMOVE	atg001170l_1
+REMOVE	atg001293l_1
+REMOVE	atg001603l_1
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
