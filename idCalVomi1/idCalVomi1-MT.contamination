@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# tig00002495_1_rc_rotated	0	16165	16165,100.000
+ptg000993l_rotated	0	16152	16152,100.000
 
 ========== PLASTID SEQUENCE ==========
 
@@ -12,5 +12,8 @@
 
 ========== BARCODES ==========
 
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000993l_rotated	0	16152	16152,100.000
 ========== TRIM Ns ==========
 
