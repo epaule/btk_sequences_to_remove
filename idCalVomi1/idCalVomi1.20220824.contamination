@@ -301,25 +301,24 @@ REMOVE	scaffold_487
 REMOVE	scaffold_488
 REMOVE	scaffold_489
 REMOVE	scaffold_491
-REMOVE	scaffold_65 
-REMOVE	scaffold_67 
-REMOVE	scaffold_68 
-REMOVE	scaffold_69 
-REMOVE	scaffold_75 
-REMOVE	scaffold_78 
-REMOVE	scaffold_79 
-REMOVE	scaffold_80 
-REMOVE	scaffold_82 
-REMOVE	scaffold_83 
-REMOVE	scaffold_84 
-REMOVE	scaffold_86 
-REMOVE	scaffold_87 
-REMOVE	scaffold_88 
-REMOVE	scaffold_89 
-REMOVE	scaffold_90 
-REMOVE	scaffold_96 
-REMOVE	scaffold_97 
-REMOVE	scaffold_99 
+REMOVE	scaffold_65
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_75
+REMOVE	scaffold_78
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_83
+REMOVE	scaffold_84
+REMOVE	scaffold_86
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_90
+REMOVE	scaffold_96
+REMOVE	scaffold_97
+REMOVE	scaffold_99
 
 ========== PLASTID SEQUENCE ==========
 
