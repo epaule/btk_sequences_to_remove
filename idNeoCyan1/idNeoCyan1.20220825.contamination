@@ -14,6 +14,12 @@
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
+
+#Spirotrichea
+REMOVE	scaffold_25
+REMOVE	scaffold_27
+REMOVE	scaffold_34
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
