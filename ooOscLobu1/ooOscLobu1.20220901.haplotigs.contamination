@@ -4,70 +4,49 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001446l_1	0	22883	22883,100.000
-atg000472l_1	0	28902	5141,17.788
-atg000946l_1	0	17800	2749,15.444
-atg002386l_1	0	13013	836,6.424
-atg000520l_1	0	193122	11424,5.915
-atg001542l_1	0	26069	1502,5.762
-atg002366l_1	0	26212	1477,5.635
-atg002182l_1	0	18807	983,5.227
-atg001075l_1	0	26496	1078,4.069
-atg000711l_1	0	22054	865,3.922
-atg000212l_1	0	99450	3104,3.121
-atg000949l_1	0	51484	1493,2.900
-atg000988l_1	0	90142	1748,1.939
-atg000145l_1	0	134756	2419,1.795
-atg000363l_1	0	67376	1058,1.570
-atg000752l_1	0	241531	3623,1.500
-atg000674l_1	0	90309	1344,1.488
-hap_ptg000377l_1_1	0	141959	2099,1.479
-atg000049l_1	0	286731	2713,0.946
-atg000271l_1	0	86859	497,0.572
-hap_ptg000257l_1_1	0	96201	536,0.557
-atg000396l_1	0	135331	553,0.409
-atg000293l_1	0	318074	1128,0.355
-atg000577l_1	0	202369	550,0.272
-hap_ptg000080l_1_1	0	356961	506,0.142
+REMOVE	atg001446l_1
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000003l_2_1	0	42456	203,0.478
-atg000366l_1	0	45600	197,0.432
-atg000512l_1	0	104046	203,0.195
-atg000438l_1	0	144015	203,0.141
-hap_ptg000046l_1_1	0	332723	406,0.122
-atg000510l_1	0	264559	203,0.077
-hap_ptg000171l_1_1	0	272291	203,0.075
-atg000615l_1	0	285925	203,0.071
-atg000072l_1	0	498476	203,0.041
-========== REFSEQ: other_eukaryota ==========
+
+#a-proteobacteria
+REMOVE	atg001523l_1
+REMOVE	atg002736l_1
+REMOVE	atg001495l_1
+REMOVE	atg000335l_1
+
+#d-proteobacteria
+REMOVE	atg000609l_1
+
+#g-proteobacteria
+REMOVE	atg001893l_1
+REMOVE	atg002041l_1
+
+#bacteria
+REMOVE	atg002136l_1
+REMOVE	atg002141l_1
+REMOVE	atg001815l_1
+REMOVE	atg001896l_1
+REMOVE	atg002538l_1
+REMOVE	atg001949l_1
+REMOVE	atg002514l_1
+REMOVE	atg001161l_1
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000003l_2_1	0	42456	100,0.236
-hap_ptg000411l_1_1	0	62896	100,0.159
-atg000512l_1	0	104046	100,0.096
-atg000438l_1	0	144015	100,0.069
-hap_ptg000046l_1_1	0	332723	200,0.060
-atg000510l_1	0	264559	100,0.038
-hap_ptg000171l_1_1	0	272291	100,0.037
-atg000615l_1	0	285925	100,0.035
-atg000072l_1	0	498476	100,0.020
+
+#prokaryotic viruses
+REMOVE	atg001800l_1
+REMOVE	atg002444l_1
+REMOVE	atg002825l_1
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000366l_1	0	45600	242,0.531
-hap_ptg000003l_2_1	0	42456	138,0.325
-atg000512l_1	0	104046	138,0.133
-atg000438l_1	0	144015	138,0.096
-hap_ptg000046l_1_1	0	332723	276,0.083
-atg000510l_1	0	264559	138,0.052
-hap_ptg000171l_1_1	0	272291	138,0.051
-atg000615l_1	0	285925	138,0.048
-atg000072l_1	0	498476	138,0.028
 ========== TRIM Ns ==========
 
