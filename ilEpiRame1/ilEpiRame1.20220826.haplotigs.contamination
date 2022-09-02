@@ -15,7 +15,10 @@ REMOVE	atg000931l_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# atg000303l_1	0	1216852	154,0.013
+
+#d-proteobacteria
+REMOVE	atg000762l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
