@@ -4,15 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_63	0	156681	9467,6.042
-scaffold_58	0	181909	10915,6.000
-scaffold_9	0	47963095	10957,0.023
-scaffold_18	0	42866772	9575,0.022
-scaffold_21	0	41975962	8324,0.020
-scaffold_27	0	30237877	5514,0.018
-scaffold_13	0	46230176	7885,0.017
-scaffold_12	0	47202214	3504,0.007
-scaffold_3	0	51190815	618,0.001
 
 ========== PLASTID SEQUENCE ==========
 
@@ -23,13 +14,22 @@ scaffold_3	0	51190815	618,0.001
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_37	0	1662280	243960,14.676
+
+#wolbachia
+REMOVE	scaffold_37
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_16	0	44286079	120,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#nematode
+REMOVE	scaffold_112
+
+#platyhelminthes
+REMOVE	scaffold_98
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
