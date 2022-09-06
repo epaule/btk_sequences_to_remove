@@ -11,24 +11,24 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
-========== REFSEQ: fungi ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#microsporidia
-REMOVE	atg000118l_1
-REMOVE	atg000684l_1
-REMOVE	atg000162l_1
-REMOVE	atg000880l_1
-
 ========== REFSEQ: bacteria ==========
-#actinomycetia
-REMOVE	atg000448l_1
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_39	0	28571	20144,70.505
+scaffold_50	0	7867	4391,55.815
+scaffold_42	0	23606	10352,43.853
+scaffold_38	0	31193	9642,30.911
+scaffold_45	0	22707	5448,23.993
+scaffold_47	0	10578	1673,15.816
+scaffold_37	0	33940	4387,12.926
+scaffold_32	0	568881	71742,12.611
+scaffold_49	0	8406	969,11.527
+scaffold_36	0	36359	1778,4.890
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_31	0	3993479	128,0.003
+========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
-
-#Spirotrichea
-REMOVE	atg001680l_1
-
+========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

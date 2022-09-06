@@ -3,7 +3,6 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-REMOVE	scaffold_41
 
 ========== PLASTID SEQUENCE ==========
 
@@ -14,22 +13,19 @@ REMOVE	scaffold_41
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#a-proteobacteria
-REMOVE	scaffold_45
+atg000705l_1	0	28631	21139,73.833
+atg000632l_1	0	28890	16620,57.529
+atg000128l_1	0	24200	11315,46.756
+atg000786l_1	0	31855	10685,33.543
+atg000677l_1	0	31557	9718,30.795
+atg001063l_1	0	25941	4926,18.989
+atg000636l_1	0	28321	5232,18.474
+hap_ptg000038c_1_1	0	1606411	195060,12.143
+atg000844l_1	0	29631	1778,6.000
+atg000922l_1	0	25728	1344,5.224
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#microsporidia
-REMOVE	scaffold_33
-REMOVE	scaffold_34
-REMOVE	scaffold_35
-REMOVE	scaffold_36
-
 ========== REFSEQ: other_eukaryota ==========
-
-
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
