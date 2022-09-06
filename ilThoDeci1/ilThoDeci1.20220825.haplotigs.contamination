@@ -4,17 +4,12 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-REMOVE	atg001392l_1
-REMOVE	atg002997l_1
-REMOVE	atg003974l_1
-REMOVE	atg004010l_1
-REMOVE	atg004165l_1
-REMOVE	atg004523l_1
-REMOVE	atg004602l_1
-REMOVE	atg005049l_1
-REMOVE	atg005129l_1
-REMOVE	hap_ptg000485l_1_1
+atg001139l_1	0	162751	5514,3.388
+atg000718l_1	0	514427	12917,2.511
+atg001002l_1	0	138815	2144,1.545
+atg000073l_1	0	579151	8324,1.437
+atg000187l_1	0	844969	7908,0.936
+atg001218l_1	0	352739	1149,0.326
 
 ========== PLASTID SEQUENCE ==========
 
@@ -25,6 +20,8 @@ REMOVE	hap_ptg000485l_1_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001285l_1	0	64854	120,0.185
+atg001178l_1	0	549296	120,0.022
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
