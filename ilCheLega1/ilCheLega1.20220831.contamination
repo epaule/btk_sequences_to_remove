@@ -3,7 +3,8 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	hap_ptg000077c_1_1
+REMOVE	hap_ptg000098l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,19 +14,26 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_39	0	28571	20144,70.505
-scaffold_50	0	7867	4391,55.815
-scaffold_42	0	23606	10352,43.853
-scaffold_38	0	31193	9642,30.911
-scaffold_45	0	22707	5448,23.993
-scaffold_47	0	10578	1673,15.816
-scaffold_37	0	33940	4387,12.926
-scaffold_32	0	568881	71742,12.611
-scaffold_49	0	8406	969,11.527
-scaffold_36	0	36359	1778,4.890
-========== REFSEQ: chordata ==========
+
+#a-proteobacteria
+REMOVE	scaffold_32
+REMOVE	scaffold_36
+REMOVE	scaffold_37
+REMOVE	scaffold_38
+REMOVE	scaffold_39
+REMOVE	scaffold_42
+REMOVE	scaffold_45
+REMOVE	scaffold_47
+REMOVE	scaffold_49
+REMOVE	scaffold_50
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_31	0	3993479	128,0.003
+
+#Caudoviricetes
+REMOVE	scaffold_46
+REMOVE	scaffold_48
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
