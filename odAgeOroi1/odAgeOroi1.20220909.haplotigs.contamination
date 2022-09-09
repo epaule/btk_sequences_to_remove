@@ -3,8 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003618l_1	0	34221	17368,50.752
+REMOVE	atg003618l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,14 +14,63 @@ atg003618l_1	0	34221	17368,50.752
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg009649l_1	0	77141	1026,1.330
-========== REFSEQ: fungi ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#archaea
+REMOVE	hap_ptg003089l_1_1
+
+#a-proteobacteria
+REMOVE	atg003308l_1
+REMOVE	atg013048l_1
+REMOVE	atg014572l_1
+REMOVE	atg015365l_1
+REMOVE	hap_ptg003653l_1_1
+
+#bacteria
+REMOVE	atg000924l_1
+REMOVE	atg001481l_1
+REMOVE	atg003066l_1
+REMOVE	atg019314l_1
+REMOVE	atg022028l_1
+REMOVE	atg022088l_1
+REMOVE	atg022118l_1
+REMOVE	hap_ptg003226l_1_1
+REMOVE	hap_ptg004044l_1_1
+REMOVE	hap_ptg004322l_1_1
+REMOVE	hap_ptg004370l_1_1
+REMOVE	hap_ptg004516l_1_1
+
+#d-proteobacteria
+REMOVE	atg013931l_1
+REMOVE	atg020925l_1
+REMOVE	atg021721l_1
+REMOVE	hap_ptg003737l_1_1
+REMOVE	hap_ptg004275l_1_1
+REMOVE	hap_ptg004342l_1_1
+REMOVE	hap_ptg004418l_1_1
+
+#firmicutes
+REMOVE	atg005961l_1
+
+#g-proteobacteria
+REMOVE	atg003521l_1
+REMOVE	atg021663l_1
+REMOVE	atg016683l_1
+REMOVE	atg009136l_1
+REMOVE	hap_ptg000417l_1_1
+
+#high GC Gram+
+REMOVE	atg015013l_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg009649l_1	0	77141	900,1.167
 ========== REFSEQ: other_metazoa ==========
+
+#worms
+REMOVE	hap_ptg003133l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg009649l_1	0	77141	1602,2.077
 ========== TRIM Ns ==========
 
