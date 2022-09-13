@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_ptg000099l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,6 +16,13 @@
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+#firmicutes
+REMOVE	atg000067l_1
+
 ========== REFSEQ: viridiplantae ==========
+
+#magnoliopsida
+REMOVE	atg000216l_1
+
 ========== TRIM Ns ==========
 

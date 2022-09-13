@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_44	0	29819	29819,100.000
-scaffold_45	0	18624	18624,100.000
+
+REMOVE	scaffold_43
 
 ========== PLASTID SEQUENCE ==========
 
@@ -20,7 +20,9 @@ scaffold_45	0	18624	18624,100.000
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_44	0	29819	29819,100.000
-scaffold_45	0	18624	18624,100.000
+
+#magnoliopsida
+REMOVE	scaffold_44
+REMOVE	scaffold_45
 ========== TRIM Ns ==========
 
