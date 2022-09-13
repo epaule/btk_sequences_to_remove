@@ -4,17 +4,26 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 
+REMOVE	atg000134l_1
+REMOVE	atg000269l_1
+REMOVE	hap_ptg000064c_1_1
+
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#firmicutes
+REMOVE	atg000025l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
 ========== TRIM Ns ==========
 

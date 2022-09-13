@@ -13,8 +13,9 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_32	0	1277606	139536,10.922
-scaffold_21	0	8161422	101,0.001
+
+#a-proteobacteria
+REMOVE	scaffold_32
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
