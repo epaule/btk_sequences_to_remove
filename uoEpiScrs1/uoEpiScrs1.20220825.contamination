@@ -38,6 +38,9 @@ REMOVE	scaffold_53
 REMOVE	scaffold_60
 REMOVE	scaffold_61
 REMOVE	scaffold_8
+REMOVE	scaffold_56
+REMOVE	scaffold_46
+REMOVE	scaffold_52
 
 #g-proteobacteria
 REMOVE	scaffold_10
@@ -56,6 +59,10 @@ REMOVE	scaffold_33
 REMOVE	scaffold_34
 REMOVE	scaffold_38
 REMOVE	scaffold_39
+
+#firmicutes
+REMOVE	scaffold_50
+REMOVE	scaffold_40
 
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
