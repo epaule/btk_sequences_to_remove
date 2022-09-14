@@ -70,44 +70,6 @@ REMOVE	scaffold_282
 REMOVE	scaffold_354
 REMOVE	scaffold_402
 
-#CFB group bacteria
-REMOVE	scaffold_302
-REMOVE	scaffold_356
-REMOVE	scaffold_327
-REMOVE	scaffold_182
-REMOVE	scaffold_293
-REMOVE	scaffold_371
-REMOVE	scaffold_266
-REMOVE	scaffold_376
-REMOVE	scaffold_228
-REMOVE	scaffold_374
-REMOVE	scaffold_195
-REMOVE	scaffold_388
-REMOVE	scaffold_259
-REMOVE	scaffold_339
-REMOVE	scaffold_342
-REMOVE	scaffold_288
-REMOVE	scaffold_65 
-REMOVE	scaffold_27 
-REMOVE	scaffold_243
-REMOVE	scaffold_273
-REMOVE	scaffold_353
-REMOVE	scaffold_262
-REMOVE	scaffold_337
-REMOVE	scaffold_257
-REMOVE	scaffold_398
-REMOVE	scaffold_296
-REMOVE	scaffold_299
-REMOVE	scaffold_308
-REMOVE	scaffold_360
-REMOVE	scaffold_122
-REMOVE	scaffold_16 
-REMOVE	scaffold_368
-REMOVE	scaffold_267
-REMOVE	scaffold_391
-REMOVE	scaffold_399
-REMOVE	scaffold_347
-
 #g-proteobacteria
 REMOVE	scaffold_10
 REMOVE	scaffold_109
@@ -137,7 +99,6 @@ REMOVE	scaffold_179
 REMOVE	scaffold_181
 REMOVE	scaffold_184
 REMOVE	scaffold_188
-REMOVE	scaffold_190
 REMOVE	scaffold_191
 REMOVE	scaffold_192
 REMOVE	scaffold_194
@@ -176,7 +137,6 @@ REMOVE	scaffold_250
 REMOVE	scaffold_254
 REMOVE	scaffold_256
 REMOVE	scaffold_263
-REMOVE	scaffold_264
 REMOVE	scaffold_268
 REMOVE	scaffold_269
 REMOVE	scaffold_270
@@ -185,7 +145,6 @@ REMOVE	scaffold_272
 REMOVE	scaffold_274
 REMOVE	scaffold_276
 REMOVE	scaffold_281
-REMOVE	scaffold_282
 REMOVE	scaffold_283
 REMOVE	scaffold_285
 REMOVE	scaffold_286
@@ -223,7 +182,6 @@ REMOVE	scaffold_346
 REMOVE	scaffold_348
 REMOVE	scaffold_349
 REMOVE	scaffold_351
-REMOVE	scaffold_354
 REMOVE	scaffold_357
 REMOVE	scaffold_358
 REMOVE	scaffold_359
@@ -240,7 +198,6 @@ REMOVE	scaffold_392
 REMOVE	scaffold_393
 REMOVE	scaffold_395
 REMOVE	scaffold_397
-REMOVE	scaffold_402
 REMOVE	scaffold_48
 REMOVE	scaffold_52
 REMOVE	scaffold_54
@@ -253,11 +210,6 @@ REMOVE	scaffold_85
 REMOVE	scaffold_86
 REMOVE	scaffold_98
 
-#clostridia
-REMOVE	scaffold_85
-REMOVE	scaffold_192
-REMOVE	scaffold_194
-
 #Mollicutes
 REMOVE	scaffold_136
 REMOVE	scaffold_280
@@ -265,14 +217,6 @@ REMOVE	scaffold_326
 REMOVE	scaffold_355
 REMOVE	scaffold_373
 REMOVE	scaffold_396
-
-#bacteria
-REMOVE	scaffold_396
-REMOVE	scaffold_373
-REMOVE	scaffold_280
-REMOVE	scaffold_355
-REMOVE	scaffold_326
-REMOVE	scaffold_136
 
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
