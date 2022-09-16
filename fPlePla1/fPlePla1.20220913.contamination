@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_377	0	17386	17023,97.912
+REMOVE	scaffold_377
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,6 +16,10 @@ scaffold_377	0	17386	17023,97.912
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#trematoda
+REMOVE	scaffold_344
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

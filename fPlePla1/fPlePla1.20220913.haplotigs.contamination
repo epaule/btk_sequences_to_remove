@@ -4,7 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001619l_1_1	0	15356	14759,96.112
+
+REMOVE	hap_ptg001619l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,6 +17,15 @@ hap_ptg001619l_1_1	0	15356	14759,96.112
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#mollusc
+REMOVE	hap_ptg000641l_1_1
+
+#insecta
+REMOVE	atg001181l_1
+REMOVE	atg002169l_1
+REMOVE	atg001698l_1
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
