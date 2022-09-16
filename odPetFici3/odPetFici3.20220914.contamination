@@ -12,24 +12,12 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_13	0	6870705	218,0.003
-# scaffold_42	0	4414569	109,0.002
-# scaffold_1	0	64081058	218,0.000
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_13	0	6870705	260,0.004
-# scaffold_42	0	4414569	130,0.003
-# scaffold_1	0	64081058	1040,0.002
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_13	0	6870705	200,0.003
-# scaffold_42	0	4414569	100,0.002
-# scaffold_1	0	64081058	800,0.001
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-# scaffold_13	0	6870705	240,0.003
-# scaffold_42	0	4414569	120,0.003
-# scaffold_1	0	64081058	845,0.001
 ========== TRIM Ns ==========
 

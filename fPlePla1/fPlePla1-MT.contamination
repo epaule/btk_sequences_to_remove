@@ -4,11 +4,14 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+tig00002218_rc_rotated	0	17386	17287,99.431
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
+
+========== REFSEQ: chordata ==========
 ========== TRIM Ns ==========
 
