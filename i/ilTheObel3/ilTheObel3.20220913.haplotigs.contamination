@@ -4,8 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000157l_1_1	0	35560	3155,8.872
-
+REMOVE	hap_ptg000157l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -15,9 +14,65 @@ hap_ptg000157l_1_1	0	35560	3155,8.872
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000087l_1	0	2388578	1875,0.078
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
+#microsporidians
+REMOVE	atg000139l_1
+REMOVE	atg000205l_1
+REMOVE	atg000242l_1
+REMOVE	atg000260l_1
+REMOVE	atg000291l_1
+REMOVE	atg000301l_1
+REMOVE	atg000302l_1
+REMOVE	atg000303l_1
+REMOVE	atg000311l_1
+REMOVE	atg000317l_1
+REMOVE	atg000319l_1
+REMOVE	atg000338l_1
+REMOVE	atg000347l_1
+REMOVE	atg000368l_1
+REMOVE	atg000381l_1
+REMOVE	atg000386l_1
+REMOVE	atg000396l_1
+REMOVE	atg000397l_1
+REMOVE	atg000406l_1
+REMOVE	atg000407l_1
+REMOVE	atg000408l_1
+REMOVE	atg000409l_1
+REMOVE	atg000420l_1
+REMOVE	atg000422l_1
+REMOVE	atg000424l_1
+REMOVE	atg000440l_1
+REMOVE	atg000446l_1
+REMOVE	atg000524l_1
+REMOVE	atg000596l_1
+REMOVE	atg000607l_1
+REMOVE	atg000609l_1
+REMOVE	atg000639l_1
+REMOVE	atg000749l_1
+REMOVE	hap_ptg000044l_1_1
+REMOVE	hap_ptg000069l_1_1
+REMOVE	hap_ptg000078l_1_1
+REMOVE	hap_ptg000083l_1_1
+REMOVE	hap_ptg000093l_1_1
+REMOVE	hap_ptg000100l_1_1
+REMOVE	hap_ptg000104l_1_1
+REMOVE	hap_ptg000128l_1_1
+REMOVE	hap_ptg000130l_1_1
+REMOVE	hap_ptg000135l_1_1
+REMOVE	hap_ptg000136l_1_1
+REMOVE	hap_ptg000140l_1_1
+REMOVE	hap_ptg000142l_1_1
+REMOVE	hap_ptg000146l_1_1
+REMOVE	hap_ptg000147l_1_1
+REMOVE	hap_ptg000156l_1_1
+REMOVE	hap_ptg000158l_1_1
+REMOVE	hap_ptg000162l_1_1
+REMOVE	hap_ptg000164l_1_1
+REMOVE	hap_ptg000171l_1_1
+REMOVE	hap_ptg000181l_1_1
+REMOVE	hap_ptg000199l_1_1
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
