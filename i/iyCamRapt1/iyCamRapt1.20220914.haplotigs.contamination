@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	hap_ptg000148c_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,42 +13,28 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000199l_1_1	0	31072	7445,23.960
+
+#wolbachia
+REMOVE	hap_ptg000199l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000880l_1	0	32084	222,0.692
-atg001634l_1	0	16588	111,0.669
-atg001832l_1	0	19341	111,0.574
-atg000658l_1	0	45810	222,0.485
-atg000318l_1	0	92140	444,0.482
-atg000681l_1	0	23596	111,0.470
-atg000105l_1	0	222232	999,0.450
-atg001166l_1	0	25537	111,0.435
-atg000638l_1	0	25972	111,0.427
-hap_ptg000265l_1_1	0	210004	888,0.423
-hap_ptg000280l_1_1	0	26684	111,0.416
-atg000245l_1	0	81622	333,0.408
-atg001472l_1	0	28587	111,0.388
-atg000546l_1	0	63737	222,0.348
-atg000440l_1	0	64868	222,0.342
-atg000506l_1	0	32685	111,0.340
-atg000531l_1	0	33174	111,0.335
-atg000893l_1	0	38772	111,0.286
-atg001338l_1	0	40724	111,0.273
-atg001655l_1	0	47517	111,0.234
-atg000336l_1	0	58822	111,0.189
-atg000127l_1	0	309103	444,0.144
-atg000228l_1	0	256262	333,0.130
-atg000063l_1	0	1639960	111,0.007
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000089l_1	0	236758	159,0.067
-atg000614l_1	0	259390	154,0.059
-atg000363l_1	0	456649	157,0.034
-atg000190l_1	0	748534	160,0.021
-atg000082l_1	0	943322	155,0.016
+
+#Ichnoviriform
+REMOVE	atg000358l_1
+REMOVE	atg000431l_1
+REMOVE	atg000624l_1
+REMOVE	atg001042l_1
+REMOVE	atg001158l_1
+REMOVE	hap_ptg000045l_1_1
+REMOVE	hap_ptg000216l_1_1
+REMOVE	hap_ptg000062l_1_1
+REMOVE	hap_ptg000243l_1_1
+
 ========== TRIM Ns ==========
 
