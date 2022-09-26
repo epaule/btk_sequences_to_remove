@@ -4,16 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003019l_1	0	47768	14974,31.347
-atg002801l_1	0	97803	21104,21.578
-atg003389l_1	0	174117	24351,13.985
-atg000506l_1	0	637468	28947,4.541
-atg000993l_1	0	409817	13914,3.395
-atg000794l_1	0	472675	14479,3.063
-atg000342l_1	0	415147	9229,2.223
-atg002442l_1	0	279599	2537,0.907
-atg000056l_1	0	182663	601,0.329
-atg000624l_1	0	781844	642,0.082
 
 ========== PLASTID SEQUENCE ==========
 
@@ -21,19 +11,104 @@ atg000624l_1	0	781844	642,0.082
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: fungi ==========
+#Mucoromycetes
+REMOVE	atg004815l_1
+
+#Microsporidia
+REMOVE	atg004003l_1
+REMOVE	atg003271l_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004733l_1	0	19603	1545,7.881
-atg004812l_1	0	23876	489,2.048
-atg001084l_1	0	92896	245,0.264
-atg000461l_1	0	251186	575,0.229
-atg000456l_1	0	770797	177,0.023
-atg000541l_1	0	1249720	214,0.017
+
+#wolbachia
+REMOVE	atg004733l_1
+REMOVE	atg004812l_1
+
+#Actinobacteria
+REMOVE	atg004838l_1
+REMOVE	atg002874l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004616l_1	0	199727	123,0.062
 ========== REFSEQ: other_eukaryota ==========
+
+#Gastropoda
+REMOVE	atg000058l_1
+REMOVE	atg000184l_1
+REMOVE	atg000249l_1
+REMOVE	atg000384l_1
+REMOVE	atg000580l_1
+REMOVE	atg001034l_1
+REMOVE	atg001124l_1
+REMOVE	atg001142l_1
+REMOVE	atg001409l_1
+REMOVE	atg001429l_1
+REMOVE	atg001470l_1
+REMOVE	atg001615l_1
+REMOVE	atg001623l_1
+REMOVE	atg001791l_1
+REMOVE	atg001973l_1
+REMOVE	atg002150l_1
+REMOVE	atg002287l_1
+REMOVE	atg002362l_1
+REMOVE	atg002416l_1
+REMOVE	atg002423l_1
+REMOVE	atg002489l_1
+REMOVE	atg002506l_1
+REMOVE	atg002517l_1
+REMOVE	atg002554l_1
+REMOVE	atg002598l_1
+REMOVE	atg002691l_1
+REMOVE	atg002727l_1
+REMOVE	atg002747l_1
+REMOVE	atg002772l_1
+REMOVE	atg002950l_1
+REMOVE	atg002979l_1
+REMOVE	atg003091l_1
+REMOVE	atg003106l_1
+REMOVE	atg003130l_1
+REMOVE	atg003163l_1
+REMOVE	atg003195l_1
+REMOVE	atg003200l_1
+REMOVE	atg003245l_1
+REMOVE	atg003267l_1
+REMOVE	atg003341l_1
+REMOVE	atg003413l_1
+REMOVE	atg003453l_1
+REMOVE	atg003705l_1
+REMOVE	atg003737l_1
+REMOVE	atg003799l_1
+REMOVE	atg003935l_1
+REMOVE	atg004038l_1
+REMOVE	atg004039l_1
+REMOVE	atg004079l_1
+REMOVE	atg004087l_1
+REMOVE	atg004194l_1
+REMOVE	atg004195l_1
+REMOVE	atg004344l_1
+REMOVE	atg004365l_1
+REMOVE	atg004432l_1
+REMOVE	atg004500l_1
+REMOVE	atg004526l_1
+REMOVE	atg004632l_1
+REMOVE	atg004746l_1
+REMOVE	atg004777l_1
+
 ========== REFSEQ: viridiplantae ==========
+
+#magnoliopsida
+REMOVE	atg001693l_1
+REMOVE	atg002561l_1
+REMOVE	atg002716l_1
+REMOVE	atg003301l_1
+REMOVE	atg003400l_1
+REMOVE	atg003511l_1
+REMOVE	atg003692l_1
+REMOVE	atg004155l_1
+REMOVE	atg004162l_1
+REMOVE	atg004498l_1
+
 ========== TRIM Ns ==========
 

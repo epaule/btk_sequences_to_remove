@@ -4,17 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_484	0	19656	4768,24.257
-scaffold_156	0	310921	24712,7.948
-scaffold_114	0	443955	2031,0.457
-scaffold_199	0	221989	565,0.255
-scaffold_6	0	8929594	21107,0.236
-scaffold_9	0	6311067	14479,0.229
-scaffold_8	0	6791292	13932,0.205
-scaffold_165	0	294582	498,0.169
-scaffold_1	0	228185362	29139,0.013
-scaffold_2	0	195525515	3283,0.002
-scaffold_3	0	189570108	546,0.000
 
 ========== PLASTID SEQUENCE ==========
 
@@ -25,31 +14,31 @@ scaffold_3	0	189570108	546,0.000
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_483	0	19953	10393,52.087
-scaffold_407	0	35868	16705,46.574
-scaffold_443	0	28446	7000,24.608
-scaffold_477	0	21993	3674,16.705
-scaffold_482	0	20492	3409,16.636
-scaffold_511	0	12862	1562,12.144
-scaffold_494	0	17222	2009,11.665
-scaffold_512	0	12672	1248,9.848
-scaffold_344	0	62548	5073,8.111
-scaffold_290	0	96515	7362,7.628
-scaffold_399	0	38269	2900,7.578
-scaffold_326	0	70195	5289,7.535
-scaffold_513	0	12605	918,7.283
-scaffold_417	0	34268	2434,7.103
-scaffold_468	0	23287	1483,6.368
-scaffold_401	0	37547	2298,6.120
-scaffold_381	0	43130	2266,5.254
-scaffold_398	0	38281	1495,3.905
-scaffold_428	0	31646	1072,3.387
-scaffold_466	0	23484	680,2.896
-scaffold_374	0	45425	907,1.997
-scaffold_435	0	30625	325,1.061
-scaffold_7	0	8879975	575,0.006
-scaffold_4	0	120632665	908,0.001
-scaffold_1	0	228185362	245,0.000
+
+#wolbachia
+REMOVE	scaffold_290
+REMOVE	scaffold_326
+REMOVE	scaffold_344
+REMOVE	scaffold_374
+REMOVE	scaffold_381
+REMOVE	scaffold_398
+REMOVE	scaffold_399
+REMOVE	scaffold_401
+REMOVE	scaffold_407
+REMOVE	scaffold_417
+REMOVE	scaffold_428
+REMOVE	scaffold_435
+REMOVE	scaffold_443
+REMOVE	scaffold_466
+REMOVE	scaffold_468
+REMOVE	scaffold_477
+REMOVE	scaffold_482
+REMOVE	scaffold_483
+REMOVE	scaffold_511
+REMOVE	scaffold_512
+REMOVE	scaffold_513
+REMOVE	scaffold_521
+REMOVE	scaffold_523
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
