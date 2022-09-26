@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002733l_1	0	7366	7273,98.737
-atg002222l_1	0	7011	2933,41.834
+REMOVE	atg002733l_1
+REMOVE	atg002222l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,36 +16,26 @@ atg002222l_1	0	7011	2933,41.834
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000860l_1	0	26186	782,2.986
-atg001236l_1	0	20293	125,0.616
-atg000010l_1	0	178191	156,0.088
-atg000168l_1	0	356200	244,0.069
-atg000439l_1	0	381185	168,0.044
-atg000147l_1	0	610947	214,0.035
-atg000115l_1	0	513751	169,0.033
-atg000104l_1	0	441750	127,0.029
-atg000160l_1	0	575161	123,0.021
-atg000143l_1	0	525692	103,0.020
-atg000824l_1	0	649818	119,0.018
-atg000052l_1	0	938815	171,0.018
-atg000498l_1	0	1039071	178,0.017
-atg000428l_1	0	782944	130,0.017
-atg000535l_1	0	829452	131,0.016
-atg000079l_1	0	666544	101,0.015
-atg000382l_1	0	856432	123,0.014
-atg000016l_1	0	1270322	182,0.014
-atg000070l_1	0	1420517	179,0.013
-atg000135l_1	0	1579110	185,0.012
-atg000369l_1	0	1227141	120,0.010
-atg000056l_1	0	1292481	100,0.008
+
+#a-proteobacteria
+REMOVE	atg000860l_1
+REMOVE	atg001236l_1
+
+#Actinobacteria
+REMOVE	atg000958l_1
+REMOVE	atg001663l_1
+REMOVE	atg001966l_1
+REMOVE	atg002305l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000368l_1_1	0	165516	700,0.423
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000860l_1	0	26186	128,0.489
-========== REFSEQ: viridiplantae ==========
+========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000537l_1	0	210566	113,0.054
+
+#Mucoromycetes
+REMOVE	atg001621l_1
+
 ========== TRIM Ns ==========
 

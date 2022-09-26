@@ -13,32 +13,45 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_6	0	1381302	1188996,86.078
-scaffold_7	0	1167800	521439,44.651
-scaffold_15	0	325241	126364,38.852
-scaffold_178	0	22408	1735,7.743
-scaffold_120	0	41921	782,1.865
-scaffold_61	0	99852	1188,1.190
-scaffold_50	0	132004	1564,1.185
-scaffold_64	0	95177	782,0.822
-scaffold_63	0	98118	631,0.643
-scaffold_29	0	190315	522,0.274
-scaffold_2	0	113980492	1032,0.001
-scaffold_4	0	71443325	544,0.001
-scaffold_3	0	101067202	645,0.001
-scaffold_1	0	161396801	257,0.000
+
+#a-proteobacteria
+EMOVE	scaffold_139
+REMOVE	scaffold_120
+REMOVE	scaffold_139
+REMOVE	scaffold_15
+REMOVE	scaffold_161
+REMOVE	scaffold_162
+REMOVE	scaffold_178
+REMOVE	scaffold_207
+REMOVE	scaffold_22
+REMOVE	scaffold_24
+REMOVE	scaffold_29
+REMOVE	scaffold_30
+REMOVE	scaffold_44
+REMOVE	scaffold_48
+REMOVE	scaffold_50
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_59
+REMOVE	scaffold_6
+REMOVE	scaffold_60
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_7
+REMOVE	scaffold_77
+REMOVE	scaffold_87
+REMOVE	scaffold_93
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_37	0	176924	1540,0.870
-scaffold_194	0	18351	140,0.763
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_120	0	41921	128,0.305
-scaffold_50	0	132004	256,0.194
-scaffold_64	0	95177	128,0.134
-scaffold_29	0	190315	128,0.067
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_4	0	71443325	113,0.000
-========== TRIM Ns ==========
+
+#magnoliopsida
+REMOVE	scaffold_220
+REMOVE	scaffold_37
+
+========= TRIM Ns ==========
 
