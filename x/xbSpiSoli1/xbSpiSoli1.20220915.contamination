@@ -10,23 +10,47 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_5	0	52918441	452,0.001
-========== REFSEQ: chordata ==========
+
+#Chlamydiia
+REMOVE	scaffold_23
+REMOVE	scaffold_25
+REMOVE	scaffold_52
+
+#a-proteobacteria
+REMOVE	scaffold_51
+
+#g-proteobacteria
+REMOVE	scaffold_53
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_68	0	15593	234,1.501
-scaffold_61	0	18586	234,1.259
-scaffold_60	0	18728	234,1.249
-scaffold_38	0	148546	1170,0.788
-scaffold_46	0	78594	468,0.595
-scaffold_54	0	45596	234,0.513
-scaffold_18	0	26195215	468,0.002
-scaffold_5	0	52918441	876,0.002
-scaffold_10	0	48229222	678,0.001
-scaffold_7	0	52695421	104,0.000
+
+REMOVE	scaffold_32
+
+#Caudoviricetes
+REMOVE	scaffold_45
+REMOVE	scaffold_57
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#Enoplea
+REMOVE	scaffold_38
+REMOVE	scaffold_46
+REMOVE	scaffold_54
+REMOVE	scaffold_60
+REMOVE	scaffold_61
+REMOVE	scaffold_68
+
+#insecta
+REMOVE	scaffold_42
+
+#Holothuroidea
+REMOVE	scaffold_44
+
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
