@@ -1,0 +1,46 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000307l_1	0	308460	3888,1.260
+# ptg000831l_1	0	48818	613,1.256
+# ptg000657l_1	0	19742	243,1.231
+# ptg000708l_1	0	39735	486,1.223
+# ptg000313l_1	0	30873	359,1.163
+# ptg000545l_1	0	177938	2049,1.152
+# ptg000474l_1	0	43383	486,1.120
+# ptg000241l_1	0	134529	1458,1.084
+# ptg000832l_1	0	46595	486,1.043
+# ptg000372l_1	0	198693	2060,1.037
+# ptg000490l_1	0	36530	370,1.013
+# ptg000566l_1	0	27486	254,0.924
+# ptg000169l_1	0	15306	127,0.830
+# ptg000306l_1	0	15820	127,0.803
+# ptg000240l_1	0	63284	486,0.768
+# ptg000296l_1	0	263398	1817,0.690
+# ptg000183l_1	0	5099357	11305,0.222
+# ptg000329l_1	0	423206	116,0.027
+# ptg000063l_1	0	5278007	232,0.004
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+# ptg000144l_1	0	1408213	110,0.008
+# ptg000023l_1	0	7158268	116,0.002
+========== REFSEQ: bacteria ==========
+
+#bacilii
+REMOVE	ptg000340l_1
+
+#clostridia
+REMOVE	ptg000555l_1
+========== TRIM Ns ==========
+
