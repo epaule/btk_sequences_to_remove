@@ -20,6 +20,9 @@ REMOVE	scaffold_67
 REMOVE	scaffold_92
 REMOVE	scaffold_97
 
+#pseudomonas
+REMOVE	scaffold_138
+
 ========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
@@ -38,6 +41,30 @@ REMOVE	scaffold_102
 REMOVE	scaffold_116
 REMOVE	scaffold_159
 REMOVE	scaffold_131
+REMOVE	scaffold_84
+
+#Megaviricetes
+REMOVE	scaffold_90
+REMOVE	scaffold_127
+REMOVE	scaffold_145
+REMOVE	scaffold_126
+REMOVE	scaffold_134
+REMOVE	scaffold_137
+REMOVE	scaffold_142
+REMOVE	scaffold_195
+REMOVE	scaffold_204
+
+#Mimiviridae
+REMOVE	scaffold_144
+REMOVE	scaffold_170
+REMOVE	scaffold_181
+REMOVE	scaffold_184
+REMOVE	scaffold_164
+REMOVE	scaffold_200
+
+#caudovirales
+REMOVE	scaffold_109
+
 
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
