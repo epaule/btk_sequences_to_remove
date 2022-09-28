@@ -6,7 +6,6 @@
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000374l_1	0	49741	661,1.329
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -15,14 +14,16 @@ atg000374l_1	0	49741	661,1.329
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000525l_1	0	6697	3958,59.101
-atg000252l_1	0	44340	15239,34.369
-atg000374l_1	0	49741	5421,10.898
+
+#g-proteobacteria
+REMOVE	atg000252l_1
+REMOVE	atg000374l_1
+REMOVE	atg000525l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000374l_1	0	49741	285,0.573
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
