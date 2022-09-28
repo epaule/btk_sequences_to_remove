@@ -13,32 +13,8 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_220	0	139000	1817,1.307
-scaffold_263	0	84357	1099,1.303
-scaffold_161	0	308460	3888,1.260
-scaffold_311	0	48818	613,1.256
-scaffold_331	0	19742	243,1.231
-scaffold_317	0	39735	486,1.223
-scaffold_321	0	30873	359,1.163
-scaffold_205	0	177938	2049,1.152
-scaffold_315	0	43383	486,1.120
-scaffold_225	0	134529	1458,1.084
-scaffold_201	0	185000	1944,1.051
-scaffold_313	0	46595	486,1.043
-scaffold_195	0	198693	2060,1.037
-scaffold_320	0	36530	370,1.013
-scaffold_325	0	27486	254,0.924
-scaffold_145	0	376000	3159,0.840
-scaffold_335	0	15306	127,0.830
-scaffold_334	0	15820	127,0.803
-scaffold_285	0	63284	486,0.768
-scaffold_174	0	263398	1817,0.690
-scaffold_25	0	4315000	3286,0.076
-scaffold_133	0	423206	116,0.027
-scaffold_49	0	1734000	232,0.013
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_2	0	21850635	226,0.001
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
