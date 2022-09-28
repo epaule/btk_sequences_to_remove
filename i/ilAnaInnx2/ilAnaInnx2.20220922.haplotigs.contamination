@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	atg000610l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -10,11 +11,24 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#firmicutes
+REMOVE	atg000114l_1
+
 ========== REFSEQ: chordata ==========
-========== REFSEQ: fungi ==========
+========== REFSEQ: virus ==========
+
+#Megaviricetes
+REMOVE	atg000298l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#Chromadorea
+REMOVE	atg000451l_1
+REMOVE	atg000543l_1
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

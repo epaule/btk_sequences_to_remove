@@ -4,7 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_39	0	61005	916,1.502
+REMOVE	scaffold_39
 
 ========== PLASTID SEQUENCE ==========
 
@@ -12,10 +12,13 @@ scaffold_39	0	61005	916,1.502
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#a-proteobacteria
+REMOVE	scaffold_42
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_21	0	8730270	113,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
