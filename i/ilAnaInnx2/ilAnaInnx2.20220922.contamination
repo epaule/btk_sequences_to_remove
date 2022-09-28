@@ -3,6 +3,8 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_39	0	61005	916,1.502
 
 ========== PLASTID SEQUENCE ==========
 
@@ -10,15 +12,13 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: bacteria ==========
-#firmicutes
-REMOVE	scaffold_338
-REMOVE	scaffold_339
-
+========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_21	0	8730270	113,0.001
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

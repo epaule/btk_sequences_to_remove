@@ -10,15 +10,11 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: bacteria ==========
-#firmicutes
-REMOVE	scaffold_338
-REMOVE	scaffold_339
-
+========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
