@@ -1,0 +1,64 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000221l_1	0	290694	778,0.268
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001174l_1_1	0	420049	418121,99.541
+hap_ptg002100l_1_1	0	34280	190,0.554
+hap_ptg004822l_1_1	0	29024	125,0.431
+hap_ptg002943l_1_1	0	42702	141,0.330
+atg001057l_1	0	82433	223,0.271
+atg002899l_1	0	123758	280,0.226
+atg003085l_1	0	59005	122,0.207
+atg002742l_1	0	67991	124,0.182
+atg006748l_1	0	175881	229,0.130
+hap_ptg000344l_1_1	0	384760	268,0.070
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000843l_1_1	0	10911	140,1.283
+hap_ptg004638l_1_1	0	22204	279,1.257
+atg001941l_1	0	11300	140,1.239
+hap_ptg004703l_1_1	0	12264	140,1.142
+hap_ptg004992l_1_1	0	26200	280,1.069
+atg009888l_1	0	13200	140,1.061
+atg006577l_1	0	14436	140,0.970
+atg006128l_1	0	14480	137,0.946
+hap_ptg002488l_1_1	0	118959	1121,0.942
+hap_ptg002602l_1_1	0	106177	977,0.920
+hap_ptg002726l_1_1	0	16078	140,0.871
+atg008722l_1	0	16991	140,0.824
+hap_ptg004868l_1_1	0	17015	140,0.823
+atg007192l_1	0	18220	140,0.768
+atg010007l_1	0	18950	140,0.739
+atg011101l_1	0	19882	140,0.704
+atg010560l_1	0	20881	140,0.670
+atg010303l_1	0	43016	280,0.651
+hap_ptg004449l_1_1	0	21638	140,0.647
+hap_ptg004726l_1_1	0	21850	140,0.641
+atg007583l_1	0	22203	140,0.631
+hap_ptg004865l_1_1	0	22515	140,0.622
+hap_ptg004904l_1_1	0	22704	140,0.617
+hap_ptg000496c_1_1	0	293477	1680,0.572
+atg009095l_1	0	27116	140,0.516
+atg008533l_1	0	32835	140,0.426
+atg002529l_1	0	35868	140,0.390
+hap_ptg002285l_1_1	0	436528	1260,0.289
+atg003530l_1	0	56370	136,0.241
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
