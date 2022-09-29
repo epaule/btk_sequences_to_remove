@@ -10,6 +10,16 @@
 
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
+
+REMOVE	scaffold_4525
+REMOVE	scaffold_4786
+REMOVE	scaffold_5204
+
+#crustacea
+REMOVE	scaffold_5183
+REMOVE	scaffold_5401
+REMOVE	scaffold_5428
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
@@ -17,7 +27,15 @@
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_metazoa ==========
+
+#tunicate
+REMOVE	scaffold_5620
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+REMOVE	scaffold_4776
+REMOVE	scaffold_5426
+
 ========== TRIM Ns ==========
 
