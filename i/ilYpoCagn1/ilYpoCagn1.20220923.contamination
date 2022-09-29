@@ -10,34 +10,41 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: virus ==========
+
+REMOVE	scaffold_96
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_107	0	16219	16218,99.994
-scaffold_103	0	18485	18476,99.951
-scaffold_63	0	132361	122388,92.465
-scaffold_65	0	123059	112414,91.350
-scaffold_51	0	224244	196569,87.659
-scaffold_33	0	2408115	1942780,80.676
-scaffold_69	0	109447	73594,67.242
-scaffold_92	0	43478	26200,60.260
-scaffold_108	0	15326	9006,58.763
-scaffold_76	0	87021	50260,57.756
-scaffold_64	0	132126	35438,26.821
-scaffold_79	0	76320	17431,22.839
-scaffold_49	0	241813	44281,18.312
-scaffold_52	0	211725	37133,17.538
-scaffold_83	0	66444	3738,5.626
-scaffold_105	0	17073	313,1.833
+
+#firmicutes
+REMOVE	scaffold_33
+REMOVE	scaffold_49
+REMOVE	scaffold_51
+REMOVE	scaffold_52
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_65
+REMOVE	scaffold_69
+REMOVE	scaffold_76
+REMOVE	scaffold_79
+REMOVE	scaffold_83
+REMOVE	scaffold_92
+REMOVE	scaffold_103
+REMOVE	scaffold_106
+REMOVE	scaffold_107
+REMOVE	scaffold_108
+
+
+#wolbachia
+REMOVE	scaffold_105
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_67	0	115000	128,0.111
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_63	0	132361	477,0.360
-scaffold_33	0	2408115	2385,0.099
 ========== TRIM Ns ==========
 
