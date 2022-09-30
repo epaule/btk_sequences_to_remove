@@ -18,7 +18,13 @@
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_metazoa ==========
-========== REFSEQ: viridiplantae ==========
+========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+# fish/turtle
+REMOVE	scaffold_327
+REMOVE	scaffold_510
+REMOVE	scaffold_385
+
 ========== TRIM Ns ==========
 
