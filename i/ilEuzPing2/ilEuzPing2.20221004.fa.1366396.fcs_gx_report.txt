@@ -1,0 +1,40 @@
+##[["FCS genome report", 2, 1], {"git-rev": "0.2.3-1-gd68d6a3", "run-date": "Wed Oct  5 09:41:54 2022", "db": {"build-date": "2022-07-09", "seqs": 3086610, "Gbp": 708.351}, "run-info": {"agg-cvg": 0.223, "asserted-div": "anml:insects", "primary-divs": ["anml:insects"]}}]
+#seq_id	start_pos	end_pos	seq_len	action	div	agg_cont_cov	top_tax_name
+scaffold_4	2400101	2402312	20116310	FIX	prok:high GC Gram+	70	Mycobacterium riyadhense
+scaffold_8	336470	339773	17448621	FIX	anml:primates	50	Homo sapiens
+scaffold_12	1	536211	17117396	TRIM	prok:a-proteobacteria	76	Wolbachia endosymbiont of Carposina sasakii
+scaffold_32	1	4632407	4632407	EXCLUDE	prok:g-proteobacteria	98	Rahnella victoriana
+scaffold_35	1	1608899	1608899	EXCLUDE	prok:a-proteobacteria	99	Wolbachia endosymbiont of Carposina sasakii
+scaffold_36	1	730574	730574	EXCLUDE	prok:g-proteobacteria	98	Rahnella victoriana
+scaffold_38	1	163679	163679	EXCLUDE	prok:g-proteobacteria	70	Rahnella laticis
+scaffold_47	1	56900	56900	EXCLUDE	prok:a-proteobacteria	83	Wolbachia endosymbiont of Rhagoletis cerasi
+scaffold_50	1	52783	52783	EXCLUDE	prok:g-proteobacteria	96	Erwinia billingiae
+scaffold_54	1	47340	47340	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_56	1	41635	41635	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Drosophila santomea
+scaffold_57	1	40697	40697	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_58	1	37902	37902	EXCLUDE	prok:a-proteobacteria	98	Wolbachia endosymbiont of Rhagoletis cerasi
+scaffold_62	1	33907	33907	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_65	1	32901	32901	EXCLUDE	prok:g-proteobacteria	94	Erwinia billingiae
+scaffold_66	1	32841	32841	EXCLUDE	prok:g-proteobacteria	39	Yersinia entomophaga
+scaffold_69	1	30832	30832	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_71	1	26941	26941	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_72	1	26941	26941	EXCLUDE	prok:g-proteobacteria	94	Buttiauxella brennerae
+scaffold_73	1	26284	26284	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_74	1	26181	26181	EXCLUDE	prok:g-proteobacteria	61	Yersinia entomophaga
+scaffold_75	1	25947	25947	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_76	1	24750	24750	EXCLUDE	prok:g-proteobacteria	96	Pantoea sp. UBA5707
+scaffold_78	1	24559	24559	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_79	1	24080	24080	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_81	1	22571	22571	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_82	1	22158	22158	EXCLUDE	prok:g-proteobacteria	44	Pluralibacter sp.
+scaffold_83	1	20997	20997	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Chrysomya megacephala
+scaffold_87	1	18369	18369	EXCLUDE	prok:g-proteobacteria	94	Erwinia billingiae
+scaffold_88	1	18042	18042	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_90	1	17155	17155	EXCLUDE	prok:g-proteobacteria	90	Erwinia billingiae
+scaffold_91	1	16731	16731	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_93	1	9745	9745	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Chrysomya megacephala
+scaffold_94	1	9003	9003	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_95	1	8283	8283	EXCLUDE	prok:a-proteobacteria	100	Wolbachia endosymbiont of Aedes albopictus
+scaffold_96	1	7555	7555	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
+scaffold_97	1	6165	6165	EXCLUDE	prok:a-proteobacteria	94	Wolbachia endosymbiont of Spodoptera picta
+scaffold_98	1	3147	3147	EXCLUDE	prok:g-proteobacteria	100	Erwinia billingiae
