@@ -3,7 +3,11 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg002062l_1
+REMOVE	atg002260l_1
+REMOVE	atg002288l_1
+REMOVE	atg002298l_1
+REMOVE	atg002300l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,24 +17,19 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001399l_1	0	36785	36785,100.000
-atg001627l_1	0	49302	49302,100.000
-atg001661l_1	0	40995	40995,100.000
-atg001400l_1	0	48245	48088,99.675
-atg001758l_1	0	29484	29364,99.593
-atg002299l_1	0	28667	27301,95.235
-atg002025l_1	0	1295823	1172244,90.463
-atg000641l_1	0	84752	127,0.150
-atg001373l_1	0	97830	139,0.142
-atg000468l_1	0	339336	338,0.100
-atg001007l_1	0	361870	111,0.031
-atg001908l_1	0	1129497	319,0.028
-atg000742l_1	0	777415	128,0.016
-atg000161l_1	0	1760974	183,0.010
+
+#wolbachia
+REMOVE	atg000938l_1
+REMOVE	atg001399l_1
+REMOVE	atg001400l_1
+REMOVE	atg001627l_1
+REMOVE	atg001661l_1
+REMOVE	atg001758l_1
+REMOVE	atg002025l_1
+REMOVE	atg002299l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000325l_1	0	137008	140,0.102
-atg001036l_1	0	206960	143,0.069
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========

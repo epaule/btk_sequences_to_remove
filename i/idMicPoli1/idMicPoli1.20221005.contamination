@@ -3,7 +3,14 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	scaffold_211
+REMOVE	scaffold_216
+REMOVE	scaffold_223
+REMOVE	scaffold_225
+REMOVE	scaffold_226
+REMOVE	scaffold_227
+REMOVE	scaffold_229
+REMOVE	scaffold_230
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,16 +20,16 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_185	0	38994	25032,64.194
-scaffold_74	0	221733	117805,53.129
-scaffold_7	0	85515289	338,0.000
-scaffold_4	0	108649715	354,0.000
-scaffold_3	0	112589265	256,0.000
-scaffold_2	0	131888202	253,0.000
-scaffold_6	0	90536900	127,0.000
-========== REFSEQ: chordata ==========
+
+#wolbachia
+REMOVE	scaffold_185
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_23	0	968087	983,0.102
+
+#Caudoviricetes
+REMOVE	scaffold_74
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
