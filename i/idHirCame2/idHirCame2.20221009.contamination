@@ -4,8 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_21	0	448129	22145,4.942
-scaffold_15	0	728302	1587,0.218
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,10 +14,33 @@ scaffold_15	0	728302	1587,0.218
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_68	0	31760	4956,15.605
-========== REFSEQ: chordata ==========
+
+#Bacilli
+REMOVE	scaffold_100
+REMOVE	scaffold_101
+REMOVE	scaffold_103
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+REMOVE	scaffold_79
+REMOVE	scaffold_81
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_86
+REMOVE	scaffold_88
+REMOVE	scaffold_90
+REMOVE	scaffold_92
+REMOVE	scaffold_93
+REMOVE	scaffold_96
+
+========== REFSEQ: virus ==========
+
+#Caudoviricetes
+REMOVE	scaffold_74
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_68	0	31760	363,1.143
 ========== TRIM Ns ==========
 
