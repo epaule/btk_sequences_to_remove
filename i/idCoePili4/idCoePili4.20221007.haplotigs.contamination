@@ -4,18 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000375l_1_1	0	13194	8011,60.717
-atg001272l_1	0	42705	25588,59.918
-hap_ptg000453l_1_1	0	51232	4528,8.838
-atg000840l_1	0	22801	878,3.851
+REMOVE	hap_ptg000461l_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001272l_1	0	42705	42705,100.000
-hap_ptg000375l_1_1	0	13194	13194,100.000
-atg001325l_1	0	9103	5406,59.387
-atg001014l_1	0	36179	497,1.374
-atg000660l_1	0	41801	497,1.189
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -24,36 +16,45 @@ atg000660l_1	0	41801	497,1.189
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001272l_1	0	42705	113,0.265
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001615l_1	0	14091	280,1.987
-atg001610l_1	0	15871	280,1.764
-atg000650l_1	0	15891	280,1.762
-hap_ptg000437l_1_1	0	37756	640,1.695
-atg001348l_1	0	16722	280,1.674
-hap_ptg000490c_1_1	0	9098	140,1.539
-atg001387l_1	0	19734	280,1.419
-atg001501l_1	0	13084	140,1.070
-atg001670l_1	0	14491	140,0.966
-hap_ptg000198c_1_1	0	258240	2380,0.922
-atg000761l_1	0	44840	209,0.466
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001272l_1	0	42705	188,0.440
-atg001465l_1	0	30008	129,0.430
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000251l_1_1	0	19817	402,2.029
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001272l_1	0	42705	30641,71.750
-hap_ptg000251l_1_1	0	19817	2192,11.061
-hap_ptg000375l_1_1	0	13194	436,3.305
-atg000840l_1	0	22801	570,2.500
-hap_ptg000453l_1_1	0	51232	915,1.786
-atg000761l_1	0	44840	212,0.473
-atg000660l_1	0	41801	165,0.395
+
+#plant
+REMOVE	atg000650l_1
+REMOVE	atg000660l_1
+REMOVE	atg000708l_1
+REMOVE	atg000761l_1
+REMOVE	atg000834l_1
+REMOVE	atg000840l_1
+REMOVE	atg001014l_1
+REMOVE	atg001036l_1
+REMOVE	atg001272l_1
+REMOVE	atg001325l_1
+REMOVE	atg001348l_1
+REMOVE	atg001387l_1
+REMOVE	atg001501l_1
+REMOVE	atg001610l_1
+REMOVE	atg001615l_1
+REMOVE	atg001670l_1
+REMOVE	hap_ptg000251l_1_1
+REMOVE	hap_ptg000375l_1_1
+REMOVE	hap_ptg000453l_1_1
+REMOVE	hap_ptg000480l_1_1
+REMOVE	hap_ptg000490c_1_1
+REMOVE	hap_ptg000525l_1_1
+
+#algae
+REMOVE	atg001465l_1
+
+#Klebsormidiophyceae
+REMOVE	hap_ptg000383l_1_1
+
 ========== TRIM Ns ==========
 

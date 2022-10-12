@@ -4,23 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_103	0	27671	23854,86.206
-scaffold_81	0	112797	53564,47.487
-scaffold_137	0	5673	1912,33.704
-scaffold_94	0	43840	3650,8.326
-scaffold_80	0	125024	9302,7.440
-scaffold_91	0	54296	3170,5.838
-scaffold_82	0	106831	5600,5.242
+REMOVE	scaffold_102
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_91	0	54296	54296,100.000
-scaffold_81	0	112797	112171,99.445
-scaffold_80	0	125024	118114,94.473
-scaffold_103	0	27671	25763,93.105
-scaffold_82	0	106831	5406,5.060
-scaffold_68	0	203494	6009,2.953
-scaffold_94	0	43840	497,1.134
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -29,35 +16,55 @@ scaffold_94	0	43840	497,1.134
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_103	0	27671	230,0.831
-scaffold_80	0	125024	226,0.181
-scaffold_68	0	203494	210,0.103
+
+#alphaproteobacteria
+REMOVE	scaffold_139
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_108	0	22380	412,1.841
-scaffold_93	0	46276	209,0.452
-scaffold_12	0	3407832	280,0.008
-scaffold_11	0	3607622	131,0.004
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_103	0	27671	188,0.679
-scaffold_99	0	31983	129,0.403
-scaffold_68	0	203494	520,0.256
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_110	0	21147	402,1.901
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_81	0	112797	72000,63.831
-scaffold_103	0	27671	14787,53.439
-scaffold_137	0	5673	936,16.499
-scaffold_110	0	21147	2593,12.262
-scaffold_80	0	125024	3068,2.454
-scaffold_91	0	54296	870,1.602
-scaffold_94	0	43840	510,1.163
-scaffold_82	0	106831	1080,1.011
-scaffold_93	0	46276	212,0.458
-scaffold_68	0	203494	327,0.161
+
+#mosses
+REMOVE	scaffold_91
+REMOVE	scaffold_80
+REMOVE	scaffold_124
+
+#plants
+REMOVE	scaffold_81
+REMOVE	scaffold_82
+REMOVE	scaffold_93
+REMOVE	scaffold_94
+REMOVE	scaffold_97
+REMOVE	scaffold_103
+REMOVE	scaffold_110
+REMOVE	scaffold_112
+REMOVE	scaffold_123
+REMOVE	scaffold_127
+REMOVE	scaffold_129
+REMOVE	scaffold_130
+REMOVE	scaffold_133
+REMOVE	scaffold_134
+REMOVE	scaffold_136
+REMOVE	scaffold_137
+REMOVE	scaffold_145
+REMOVE	scaffold_147
+
+#cyanobacteria
+REMOVE	scaffold_99
+REMOVE	scaffold_68
+
+#Klebsormidiophyceae
+REMOVE	scaffold_135
+REMOVE	scaffold_142
+
+#Florideophyceae
+REMOVE	scaffold_131
+
 ========== TRIM Ns ==========
 
