@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000216l_1_1	0	17623	17623,100.000
-hap_ptg000293l_1_1	0	35190	35190,100.000
+REMOVE	hap_ptg000216l_1_1
+REMOVE	hap_ptg000293l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -14,11 +14,39 @@ hap_ptg000293l_1_1	0	35190	35190,100.000
 ========== BARCODES ==========
 CONTAMINANT	atg000604l_1	113541	113557
 
-========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
+
+#spiroplasma
+REMOVE	atg001566l_1
+REMOVE	atg001729l_1
+
+#betaproteobacteria
+REMOVE	atg001423l_1
+
+========== REFSEQ: virus ==========
+
+#Caudoviricetes
+REMOVE	hap_ptg000263l_1_1
+
 ========== REFSEQ: fungi ==========
+
+#Oomycota
+REMOVE	atg001451l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	atg001491l_1
+REMOVE	atg001581l_1
+REMOVE	atg002032l_1
+REMOVE	atg002157l_1
+REMOVE	atg002266l_1
+REMOVE	atg002383l_1
+REMOVE	hap_ptg000269c_1_1
+REMOVE	hap_ptg000271c_1_1
+REMOVE	hap_ptg000286c_1_1
+
 ========== TRIM Ns ==========
 
