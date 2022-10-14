@@ -1,19 +1,13 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000523l_1	0	20196	6053,29.971
-atg000479l_1	0	54733	5039,9.207
-atg000016l_1	0	353815	6241,1.764
-atg000496l_1	0	171591	78,0.045
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	atg000909l_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000523l_1	0	20196	3927,19.444
-atg000479l_1	0	54733	3928,7.177
-atg000016l_1	0	353815	3927,1.110
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -22,23 +16,28 @@ atg000016l_1	0	353815	3927,1.110
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000479l_1	0	54733	54733,100.000
-atg000523l_1	0	20196	20196,100.000
-atg000016l_1	0	353815	321576,90.888
-atg000496l_1	0	171591	122218,71.226
-hap_ptg000150l_1_1	0	26309	9057,34.425
-atg000641l_1	0	50531	14799,29.287
-hap_ptg000139l_1_1	0	21892	5579,25.484
-atg000645l_1	0	31397	7452,23.735
-hap_ptg000132l_1_1	0	33259	5527,16.618
-atg000959l_1	0	15552	633,4.070
-atg000800l_1	0	31731	227,0.715
-atg000245l_1	0	3276624	195,0.006
+
+#wolbachia
+REMOVE	hap_ptg000139l_1_1
+REMOVE	atg000607l_1
+REMOVE	atg000641l_1
+REMOVE	atg000645l_1
+REMOVE	hap_ptg000132l_1_1
+REMOVE	hap_ptg000150l_1_1
+REMOVE	atg000621l_1
+REMOVE	atg000800l_1
+
+#hafnia
+REMOVE	atg000479l_1
+REMOVE	atg000523l_1
+REMOVE	atg000959l_1
+REMOVE	atg000496l_1
+REMOVE	atg000016l_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000139l_1_1	0	21892	239,1.092
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
