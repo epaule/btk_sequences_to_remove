@@ -12,11 +12,32 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_11	0	59639149	800,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_metazoa ==========
+
+#alveolates
+REMOVE	scaffold_2955
+REMOVE	scaffold_4452
+REMOVE	scaffold_1230
+REMOVE	scaffold_2076
+REMOVE	scaffold_2003
+REMOVE	scaffold_1668
+REMOVE	scaffold_2592
+REMOVE	scaffold_1684
+REMOVE	scaffold_723
+REMOVE	scaffold_3000
+REMOVE	scaffold_777
+REMOVE	scaffold_646
+REMOVE	scaffold_1929
+REMOVE	scaffold_3697
+REMOVE	scaffold_1130
+REMOVE	scaffold_833
+REMOVE	scaffold_2590
+REMOVE	scaffold_2988
+REMOVE	scaffold_809
+REMOVE	scaffold_3313
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_11	0	59639149	868,0.001
 ========== TRIM Ns ==========
 
