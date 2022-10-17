@@ -3,38 +3,39 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	h2tg000586c_1
+REMOVE	h2tg000922l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#a-proteobacteria
+REMOVE	h2tg000223l_1
+REMOVE	h2tg000714l_1
+
+#bacteria
+REMOVE	h2tg000020l_1
+REMOVE	h2tg000692l_1
+REMOVE	h2tg000702l
+
+#firmicutes
+REMOVE	h2tg000168l_1
+
+#g-proteobacteria
+REMOVE	h2tg000356l
+REMOVE	h2tg000936l_1
+REMOVE	h2tg000745l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000007l_1	0	7396750	118,0.002
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000002l_1	0	10273053	117,0.001
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000003l_1	0	9039037	500,0.006
-h2tg000016l_1	0	8716440	400,0.005
-h2tg000005l_1	0	8796132	300,0.003
-h2tg000039l_1	0	3842169	100,0.003
-h2tg000023l_1	0	7703055	200,0.003
-h2tg000012l_1	0	8594859	200,0.002
-h2tg000025l_1	0	8057526	100,0.001
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000003l_1	0	9039037	906,0.010
-h2tg000016l_1	0	8716440	806,0.009
-h2tg000009l_1	0	6605611	394,0.006
-h2tg000012l_1	0	8594859	418,0.005
-h2tg000023l_1	0	7703055	302,0.004
-h2tg000006l_1	0	7519288	269,0.004
-h2tg000025l_1	0	8057526	151,0.002
-h2tg000005l_1	0	8796132	151,0.002
-h2tg000002l_1	0	10273053	116,0.001
 ========== TRIM Ns ==========
 
