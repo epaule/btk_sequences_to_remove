@@ -4,9 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000705l_1	0	227900	1598,0.701
-hap_ptg000279l_1_1	0	179299	646,0.360
-atg000425l_1	0	1018627	517,0.051
 
 ========== PLASTID SEQUENCE ==========
 
@@ -17,9 +14,55 @@ atg000425l_1	0	1018627	517,0.051
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001262l_1	0	779235	112,0.014
-atg000092l_1	0	1040044	114,0.011
 ========== REFSEQ: fungi ==========
+
+#nosema
+REMOVE	atg001569l_1
+REMOVE	atg002276l_1
+REMOVE	atg000079l_1
+REMOVE	atg000399l_1
+REMOVE	atg000489l_1
+REMOVE	atg000540l_1
+REMOVE	atg000715l_1
+REMOVE	atg001069l_1
+REMOVE	atg001176l_1
+REMOVE	atg001264l_1
+REMOVE	atg001267l_1
+REMOVE	atg001561l_1
+REMOVE	atg001576l_1
+REMOVE	atg001602l_1
+REMOVE	atg001641l_1
+REMOVE	atg001789l_1
+REMOVE	atg001871l_1
+REMOVE	atg001937l_1
+REMOVE	atg002207l_1
+REMOVE	atg002236l_1
+REMOVE	atg002248l_1
+REMOVE	atg002322l_1
+REMOVE	atg002500l_1
+REMOVE	atg002521l_1
+REMOVE	atg002941l_1
+REMOVE	hap_ptg000006l_1_1
+REMOVE	hap_ptg000013l_1_1
+REMOVE	hap_ptg000031l_1_1
+REMOVE	hap_ptg000057l_1_1
+REMOVE	hap_ptg000058l_1_1
+REMOVE	hap_ptg000068l_1_1
+REMOVE	hap_ptg000093l_1_1
+REMOVE	hap_ptg000106l_1_1
+REMOVE	hap_ptg000118l_1_1
+REMOVE	hap_ptg000144l_1_1
+REMOVE	hap_ptg000150l_1_1
+REMOVE	hap_ptg000165l_1_1
+REMOVE	hap_ptg000181l_1_1
+REMOVE	hap_ptg000182l_1_1
+REMOVE	hap_ptg000184l_1_1
+REMOVE	hap_ptg000193l_1_1
+REMOVE	hap_ptg000204l_1_1
+REMOVE	hap_ptg000247l_1_1
+REMOVE	hap_ptg000280l_1_1
+
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
