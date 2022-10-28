@@ -1,9 +1,0 @@
-scaffold_143
-scaffold_157
-scaffold_181
-scaffold_74
-scaffold_96
-atg003512l_1
-atg003776l_1
-atg005846l_1
-hap_ptg000741l_1_1
