@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_ptg000293l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,20 +14,26 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000647l_1	0	24611	24611,100.000
-atg000978l_1	0	18968	18968,100.000
-atg000984l_1	0	23404	23404,100.000
-hap_ptg000262l_1_1	0	28519	28519,100.000
-hap_ptg000299l_1_1	0	39591	39591,100.000
-hap_ptg000321l_1_1	0	18960	18960,100.000
-hap_ptg000345l_1_1	0	17549	17549,100.000
-hap_ptg000317l_1_1	0	12742	12741,99.992
-atg000100l_1	0	191304	168529,88.095
-atg001538l_1	0	13976	986,7.055
-hap_ptg000344l_1_1	0	20415	126,0.617
+
+#wolbachia
+REMOVE	atg000100l_1
+
+#firmicutes
+REMOVE	atg000647l_1
+REMOVE	atg000978l_1
+REMOVE	atg000984l_1
+REMOVE	atg001506l_1
+REMOVE	atg001538l_1
+REMOVE	hap_ptg000262l_1_1
+REMOVE	hap_ptg000299l_1_1
+REMOVE	hap_ptg000317l_1_1
+REMOVE	hap_ptg000321l_1_1
+REMOVE	hap_ptg000344l_1_1
+REMOVE	hap_ptg000345l_1_1
+REMOVE	hap_ptg000352l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000984l_1	0	23404	110,0.470
 ========== TRIM Ns ==========
 
