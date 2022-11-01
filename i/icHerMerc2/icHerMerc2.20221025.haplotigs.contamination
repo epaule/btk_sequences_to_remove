@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_tig00016536_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,24 +14,32 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00010971_1_1	0	12659	12659,100.000
-hap_tig00006508_1_1	0	21659	871,4.021
-hap_tig00011567_1_1	0	27819	983,3.534
-hap_tig00016584_1_1	0	12174	380,3.121
-hap_tig00008437_1_1	0	19296	550,2.850
-hap_tig00004101_1_1	0	17285	467,2.702
-hap_tig00001867_1_1	0	13355	331,2.478
-hap_tig00014437_1_1	0	27894	584,2.094
-hap_tig00001404_1_1	0	15112	119,0.787
-========== REFSEQ: chordata ==========
+
+#Wolbachia
+REMOVE	hap_tig00001404_1_1
+REMOVE	hap_tig00001867_1_1
+REMOVE	hap_tig00004869_1_1
+REMOVE	hap_tig00008437_1_1
+REMOVE	hap_tig00010971_1_1
+REMOVE	hap_tig00011567_1_1
+REMOVE	hap_tig00011579_1_1
+REMOVE	hap_tig00011753_1_1
+REMOVE	hap_tig00011763_1_1
+REMOVE	hap_tig00013789_1_1
+REMOVE	hap_tig00016584_1_1
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00016876_1_1	0	10571	116,1.097
-hap_tig00009456_1_1	0	15602	116,0.743
-hap_tig00009267_1_1	0	15631	116,0.742
-hap_tig00016788_1_1	0	15837	116,0.732
-hap_tig00009050_1_1	0	51029	359,0.704
-hap_tig00016685_1_1	0	43690	232,0.531
+
+#Caudoviricetes
+REMOVE	hap_tig00006508_1_1
+REMOVE	hap_tig00011567_1_1
+REMOVE	hap_tig00014437_1_1
+
 ========== REFSEQ: fungi ==========
+
+#Microsporidia
+REMOVE	hap_tig00003395_1_1
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
