@@ -4,11 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_37	0	264091	15054,5.700
-scaffold_16	0	714927	21784,3.047
-scaffold_23	0	450899	2176,0.483
-scaffold_1	0	56878139	53652,0.094
-scaffold_3	0	51083210	41754,0.082
 
 ========== PLASTID SEQUENCE ==========
 
@@ -19,73 +14,80 @@ scaffold_3	0	51083210	41754,0.082
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_104	0	63650	63650,100.000
-scaffold_105	0	61974	61974,100.000
-scaffold_119	0	42678	42678,100.000
-scaffold_122	0	41949	41949,100.000
-scaffold_143	0	26860	26860,100.000
-scaffold_147	0	24525	24525,100.000
-scaffold_170	0	11635	11635,100.000
-scaffold_177	0	5000	5000,100.000
-scaffold_178	0	3000	3000,100.000
-scaffold_181	0	1000	1000,100.000
-scaffold_44	0	236392	236392,100.000
-scaffold_77	0	116394	116394,100.000
-scaffold_89	0	91029	91029,100.000
-scaffold_98	0	71894	71894,100.000
-scaffold_99	0	71820	71820,100.000
-scaffold_53	0	196546	196514,99.984
-scaffold_75	0	119376	119316,99.950
-scaffold_76	0	117732	117060,99.429
-scaffold_73	0	121002	119295,98.589
-scaffold_33	0	328044	318885,97.208
-scaffold_6	0	3431233	3315906,96.639
-scaffold_175	0	7000	6664,95.200
-scaffold_55	0	165329	157111,95.029
-scaffold_79	0	115886	107458,92.727
-scaffold_176	0	6000	5301,88.350
-scaffold_69	0	130358	114918,88.156
-scaffold_167	0	13213	11645,88.133
-scaffold_102	0	64440	56674,87.948
-scaffold_85	0	104218	91212,87.520
-scaffold_149	0	23898	20638,86.359
-scaffold_107	0	60640	47129,77.719
-scaffold_138	0	28136	20552,73.045
-scaffold_96	0	72695	47602,65.482
-scaffold_130	0	34528	19389,56.154
-scaffold_109	0	58912	30257,51.360
-scaffold_80	0	113874	45098,39.603
-scaffold_95	0	75461	29112,38.579
-scaffold_150	0	22688	7310,32.220
-scaffold_151	0	22520	6842,30.382
-scaffold_136	0	30044	7897,26.285
-scaffold_88	0	97492	25533,26.190
-scaffold_86	0	100294	7625,7.603
-scaffold_139	0	28048	1843,6.571
+
+#firmicutes
+REMOVE	scaffold_102
+REMOVE	scaffold_104
+REMOVE	scaffold_105
+REMOVE	scaffold_107
+REMOVE	scaffold_109
+REMOVE	scaffold_119
+REMOVE	scaffold_122
+REMOVE	scaffold_130
+REMOVE	scaffold_138
+REMOVE	scaffold_139
+REMOVE	scaffold_143
+REMOVE	scaffold_147
+REMOVE	scaffold_150
+REMOVE	scaffold_151
+REMOVE	scaffold_167
+REMOVE	scaffold_170
+REMOVE	scaffold_175
+REMOVE	scaffold_176
+REMOVE	scaffold_177
+REMOVE	scaffold_178
+REMOVE	scaffold_181
+REMOVE	scaffold_33
+REMOVE	scaffold_44
+REMOVE	scaffold_53
+REMOVE	scaffold_55
+REMOVE	scaffold_6
+REMOVE	scaffold_69
+REMOVE	scaffold_73
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_77
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_85
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_95
+REMOVE	scaffold_96
+REMOVE	scaffold_98
+REMOVE	scaffold_99
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_4	0	23657263	125,0.001
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_164	0	15809	244,1.543
-scaffold_4	0	23657263	131,0.001
+
+#Saccharomycetes
+REMOVE	scaffold_124
+REMOVE	scaffold_155
+REMOVE	scaffold_162
+REMOVE	scaffold_171
+REMOVE	scaffold_172
+REMOVE	scaffold_173
+REMOVE	scaffold_174
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_119	0	42678	106,0.248
-scaffold_79	0	115886	106,0.091
-scaffold_77	0	116394	106,0.091
-scaffold_76	0	117732	106,0.090
-scaffold_53	0	196546	106,0.054
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_119	0	42678	109,0.255
-scaffold_79	0	115886	109,0.094
-scaffold_77	0	116394	109,0.094
-scaffold_76	0	117732	109,0.093
-scaffold_53	0	196546	109,0.055
-scaffold_6	0	3431233	1105,0.032
+
+#Streptophyta
+REMOVE	scaffold_164
+
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_6	0	3431233	2849,0.083
+
+#prokaryotic viruses
+REMOVE	scaffold_86
+REMOVE	scaffold_136
+REMOVE	scaffold_149
+REMOVE	scaffold_132
+REMOVE	scaffold_182
+
 ========== TRIM Ns ==========
 
