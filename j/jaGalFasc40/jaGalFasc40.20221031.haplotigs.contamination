@@ -4,29 +4,88 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000558l	0	36109	36109,100.000
-h2tg000859l_1	0	37538	37538,100.000
-h2tg000881l	0	30789	30789,100.000
-h2tg001106l	0	12611	12611,100.000
+REMOVE	h2tg000558l
+REMOVE	h2tg000859l_1
+REMOVE	h2tg000881l
+REMOVE	h2tg001106l
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000698l	0	40025	354,0.884
-h2tg000773l	0	30299	236,0.779
-h2tg000105l_1	0	1811873	709,0.039
-h2tg000343l_1	0	346749	109,0.031
-h2tg000410l_1	0	1514214	120,0.008
-h2tg000149l_1	0	3094663	118,0.004
+
+#Verrucomicrobia
+REMOVE	h2tg000476l_1
+REMOVE	h2tg001040l_1
+REMOVE	h2tg000338l
+REMOVE	h2tg000626l
+REMOVE	h2tg000705l
+REMOVE	h2tg000856l
+REMOVE	h2tg000883l
+
+#Firmicutes
+REMOVE	h2tg000739l_1
+REMOVE	h2tg000675l
+
+#Fusobacteria
+REMOVE	hap_h1tg001293l_1_1
+
+#Proteobacteria
+REMOVE	hap_h1tg000757l_1_1
+REMOVE	h2tg000937c
+
+#Actinobacteria
+REMOVE	h2tg000991l_1
+
+#Archaea
+REMOVE	h2tg001091l_1
+
+#Bacteroidetes
+REMOVE	h2tg000567l_1
+
 ========== REFSEQ: other_metazoa ==========
+
+#Mollusca
+REMOVE	h2tg000459l_1
+REMOVE	h2tg000527l_1
+REMOVE	h2tg000555l_1
+REMOVE	h2tg000604l_1
+REMOVE	h2tg000743l_1
+REMOVE	h2tg000928l_1
+REMOVE	h2tg000954l_1
+REMOVE	h2tg000960l_1
+REMOVE	h2tg001061l_1
+REMOVE	h2tg001090l
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-h2tg000698l	0	40025	642,1.604
-h2tg000773l	0	30299	321,1.059
-h2tg000410l_1	0	1514214	208,0.014
+
+#streptophyta
+REMOVE	h2tg000273l
+REMOVE	h2tg000492l_1
+REMOVE	h2tg000556l
+REMOVE	h2tg000577l
+REMOVE	h2tg000620l
+REMOVE	h2tg000669l
+REMOVE	h2tg000695l_1
+REMOVE	h2tg000725l
+REMOVE	h2tg000730l_1
+REMOVE	h2tg000819l
+REMOVE	h2tg000820c_1
+REMOVE	h2tg000824l_1
+REMOVE	h2tg000885c
+REMOVE	h2tg000926l_1
+REMOVE	h2tg000978l_1
+REMOVE	h2tg001093l_1
+
+REMOVE	h2tg000714l_1
+
+#Rhodophyta
+REMOVE	h2tg000320l_1
+REMOVE	hap_h1tg000691l_1_1
+
 ========== TRIM Ns ==========
 

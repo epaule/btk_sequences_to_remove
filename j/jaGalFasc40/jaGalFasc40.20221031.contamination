@@ -4,21 +4,46 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_141	0	37538	37538,100.000
+REMOVE	scaffold_141
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_3	0	37605311	2342,0.006
-scaffold_9	0	25505156	118,0.000
+
+#Gammaproteobacteria
+REMOVE	scaffold_189
+REMOVE	scaffold_350
+REMOVE	scaffold_571
+
+#Alphaproteobacteria
+REMOVE	scaffold_573
+========== REFSEQ: virus ==========
+#Viruses-undef
+REMOVE	scaffold_505
+
 ========== REFSEQ: other_metazoa ==========
+
+#alveolates
+REMOVE	scaffold_283
+REMOVE	scaffold_391
+REMOVE	scaffold_439
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_9	0	25505156	321,0.001
-scaffold_11	0	21317812	113,0.001
+
+REMOVE	scaffold_551
+
+#Chlorophyta
+REMOVE	scaffold_569
+
+#Rhodophyta
+REMOVE	scaffold_398
+REMOVE	scaffold_311
+REMOVE	scaffold_228
+
 ========== TRIM Ns ==========
 
