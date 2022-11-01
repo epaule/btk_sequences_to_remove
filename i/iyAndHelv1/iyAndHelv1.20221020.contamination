@@ -4,18 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_93	0	15448	15448,100.000
-scaffold_96	0	13977	12678,90.706
-scaffold_87	0	31134	19188,61.630
-scaffold_90	0	28574	14609,51.127
-scaffold_95	0	14134	1047,7.408
+REMOVE	scaffold_92
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_87	0	31134	31134,100.000
-scaffold_90	0	28574	28574,100.000
-scaffold_95	0	14134	14134,100.000
-scaffold_93	0	15448	1610,10.422
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -24,20 +16,21 @@ scaffold_93	0	15448	1610,10.422
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_26	0	1475898	1121517,75.989
-scaffold_12	0	15684209	114,0.001
-scaffold_2	0	43505200	139,0.000
+
+#Wolbachia
+REMOVE	scaffold_26
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_35	0	655044	1287,0.196
-scaffold_9	0	18195143	1392,0.008
-scaffold_10	0	17579976	359,0.002
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_90	0	28574	28574,100.000
-scaffold_95	0	14134	14133,99.993
-scaffold_87	0	31134	31126,99.974
-scaffold_96	0	13977	6090,43.572
-scaffold_93	0	15448	1773,11.477
+
+#plant
+REMOVE	scaffold_87
+REMOVE	scaffold_90
+REMOVE	scaffold_95
+REMOVE	scaffold_93
+REMOVE	scaffold_96
+
 ========== TRIM Ns ==========
 

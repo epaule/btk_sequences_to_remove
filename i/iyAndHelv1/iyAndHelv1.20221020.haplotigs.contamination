@@ -4,6 +4,12 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 
+REMOVE	atg000261l_1
+REMOVE	atg000920l_1
+REMOVE	atg003952l_1
+REMOVE	atg004104l_1
+REMOVE	hap_ptg000141l_1_1
+
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,23 +19,29 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006436l_1	0	9727	9727,100.000
-atg006538l_1	0	5182	5182,100.000
-atg003356l_1	0	63116	114,0.181
-atg003511l_1	0	91060	139,0.153
+
+#Wolbachia
+REMOVE	atg006071l_1
+REMOVE	atg006109l_1
+REMOVE	atg005244l_1
+
+#g-proteobacteria
+REMOVE	atg005670l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000250l_1_1	0	25629	232,0.905
-hap_ptg000320l_1_1	0	39181	348,0.888
-atg003858l_1	0	28707	243,0.846
-atg006021l_1	0	32822	232,0.707
-atg004921l_1	0	18570	116,0.625
-atg005929l_1	0	24546	116,0.473
-atg002397l_1	0	121284	464,0.383
-hap_ptg000064l_1_1	0	812285	2088,0.257
-atg000546l_1	0	778579	464,0.060
-========== REFSEQ: fungi ==========
+========== REFSEQ: virus ==========
+#prokaryotic viruses
+REMOVE	atg006538l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	atg003940l_1
+REMOVE	atg005719l_1
+REMOVE	hap_ptg000250l_1_1
+REMOVE	hap_ptg000320l_1_1
+
 ========== TRIM Ns ==========
 
