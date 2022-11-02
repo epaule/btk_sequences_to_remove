@@ -4,8 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000980l_1_1	0	16650	615,3.694
-
+REMOVE	atg002187l_1
+REMOVE	hap_ptg000934l_1_1
+REMOVE	hap_ptg000974l_1_1
+REMOVE	hap_ptg000980l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========

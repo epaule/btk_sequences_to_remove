@@ -3,7 +3,10 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	scaffold_205
+REMOVE	scaffold_215
+REMOVE	scaffold_219
+REMOVE	scaffold_221
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,7 +16,9 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_33	0	1640500	194292,11.843
+
+#Wolbachia
+REMOVE	scaffold_33
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
