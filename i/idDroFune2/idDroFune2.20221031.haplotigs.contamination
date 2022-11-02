@@ -4,7 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002971_1_1	0	17530	542,3.092
+
+REMOVE	hap_tig00003459_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,7 +16,9 @@ hap_tig00002971_1_1	0	17530	542,3.092
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002260_1_1	0	26570	9204,34.641
+
+#Firmicutes
+REMOVE	hap_tig00002260_1_1
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========
