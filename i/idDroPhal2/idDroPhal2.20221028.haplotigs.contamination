@@ -1,20 +1,14 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002335_1_1	0	29220	3149,10.777
-hap_tig00002498_1_1	0	7957	256,3.217
-hap_tig00002601_1_1	0	10788	311,2.883
-hap_tig00002318_1_1	0	37860	226,0.597
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00003944_1_1	0	25990	14165,54.502
-hap_tig00001227_1_1	0	18878	569,3.014
+REMOVE	hap_tig00003944_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002335_1_1	0	29220	2370,8.111
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -23,11 +17,21 @@ hap_tig00002335_1_1	0	29220	2370,8.111
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002335_1_1	0	29220	2728,9.336
-hap_tig00002498_1_1	0	7957	141,1.772
-hap_tig00002601_1_1	0	10788	107,0.992
-hap_tig00002318_1_1	0	37860	116,0.306
-========== REFSEQ: chordata ==========
+
+#g-proteobacteria
+REMOVE	hap_tig00002318_1_1
+REMOVE	hap_tig00002335_1_1
+REMOVE	hap_tig00002366_1_1
+REMOVE	hap_tig00002423_1_1
+REMOVE	hap_tig00002438_1_1
+REMOVE	hap_tig00002483_1_1
+REMOVE	hap_tig00002498_1_1
+REMOVE	hap_tig00002579_1_1
+REMOVE	hap_tig00002601_1_1
+========== REFSEQ: virus ==========
+
+#eukaryotic viruse
+REMOVE	hap_tig00002579_1_1
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
