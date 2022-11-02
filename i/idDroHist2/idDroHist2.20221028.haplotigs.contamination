@@ -4,11 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002173l_1	0	12327	10780,87.450
-hap_ptg000488l_1_1	0	25301	10481,41.425
-atg001447l_1	0	23515	5430,23.092
-atg001828l_1	0	20917	658,3.146
-
+REMOVE	atg002173l_1
+REMOVE	hap_ptg000488l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -18,10 +15,21 @@ atg001828l_1	0	20917	658,3.146
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001683l_1	0	7947	1040,13.087
-atg000420l_1	0	43639	1518,3.479
-atg000731l_1	0	54517	1251,2.295
-hap_ptg000698l_1_1	0	16959	238,1.403
+
+#firmicutes
+REMOVE	atg000731l_1
+REMOVE	atg001850l_1
+REMOVE	hap_ptg000447l_1_1
+REMOVE	hap_ptg000491l_1_1
+REMOVE	hap_ptg000564l_1_1
+REMOVE	hap_ptg000630l_1_1
+REMOVE	hap_ptg000712l_1_1
+REMOVE	atg001683l_1
+REMOVE	hap_ptg000576l_1_1
+REMOVE	hap_ptg000698l_1_1
+REMOVE	atg000420l_1
+REMOVE	hap_ptg000655l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========
