@@ -4,13 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg010870l_1	0	18588	16361,88.019
-hap_ptg000395c_1_1	0	18612	16110,86.557
-atg006876l_1	0	74273	8058,10.849
-atg000626l_1	0	118199	797,0.674
-atg000991l_1	0	416239	1111,0.267
-atg000307l_1	0	272203	608,0.223
-atg002514l_1	0	273598	514,0.188
+REMOVE	atg010870l_1
+REMOVE	hap_ptg000395c_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -20,11 +15,19 @@ atg002514l_1	0	273598	514,0.188
 CONTAMINANT	atg011286l_1	19887	19903
 
 ========== REFSEQ: chordata ==========
+
+#Actinopteri
+REMOVE	atg000912l_1
+REMOVE	atg008553l_1
+REMOVE	atg009514l_1
+REMOVE	atg010064l_1
+REMOVE	atg001486l_1
+REMOVE	atg010138l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001771l_1	0	253694	101,0.040
 ========== TRIM Ns ==========
 
