@@ -4,13 +4,13 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000005c_rotated	0	22436	12091,53.891
 
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-
 ========== REFSEQ: other_metazoa ==========
 ========== TRIM Ns ==========
 
