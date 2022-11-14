@@ -15,41 +15,73 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 #wolbachia
-REMOVE	scaffold_48	0	1733622	123007,7.095
+REMOVE	scaffold_48
+REMOVE	scaffold_488
 
-scaffold_428	0	52347	688,1.314
-scaffold_345	0	72732	688,0.946
-scaffold_434	0	50667	374,0.738
-scaffold_287	0	97886	374,0.382
-scaffold_275	0	104252	118,0.113
-scaffold_47	0	2057788	169,0.008
+#spiroplasma
+REMOVE	scaffold_47
+
+#CFB group bacteria
+REMOVE	scaffold_164
+REMOVE	scaffold_212
+REMOVE	scaffold_215
+REMOVE	scaffold_218
+REMOVE	scaffold_239
+REMOVE	scaffold_248
+REMOVE	scaffold_274
+REMOVE	scaffold_275
+REMOVE	scaffold_287
+REMOVE	scaffold_417
+REMOVE	scaffold_421
+REMOVE	scaffold_434
+REMOVE	scaffold_439
+REMOVE	scaffold_441
+REMOVE	scaffold_442
+REMOVE	scaffold_443
+REMOVE	scaffold_455
+REMOVE	scaffold_478
+REMOVE	scaffold_483
+REMOVE	scaffold_524
+REMOVE	scaffold_558
+
+#Bacteroidia
+REMOVE	scaffold_300
+REMOVE	scaffold_345
+REMOVE	scaffold_377
+REMOVE	scaffold_414
+REMOVE	scaffold_428
+REMOVE	scaffold_494
+REMOVE	scaffold_501
+REMOVE	scaffold_533
+REMOVE	scaffold_545
+REMOVE	scaffold_561
+REMOVE	scaffold_567
+REMOVE	scaffold_569
+
+#g-proteobacteria
+REMOVE	scaffold_598
+REMOVE	scaffold_582
+
+#cytophagia
+REMOVE	scaffold_473
+
+#Chitinophagia
+REMOVE	scaffold_358
+
+#d-proteobacteria
+REMOVE	scaffold_550
+REMOVE	scaffold_603
+
+#cyanobacteria
+REMOVE	scaffold_597
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_505	0	33199	630,1.898
-scaffold_544	0	21520	201,0.934
-scaffold_415	0	55391	116,0.209
-scaffold_37	0	3676258	928,0.025
-scaffold_67	0	967100	125,0.013
-scaffold_17	0	12848392	116,0.001
-scaffold_9	0	17910186	126,0.001
-scaffold_6	0	20451707	126,0.001
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_505	0	33199	600,1.807
-scaffold_544	0	21520	199,0.925
-scaffold_34	0	5041627	109,0.002
-scaffold_24	0	10250102	220,0.002
-scaffold_20	0	12553647	218,0.002
-scaffold_21	0	12252173	109,0.001
-scaffold_11	0	16098562	109,0.001
-scaffold_9	0	17910186	109,0.001
-scaffold_1	0	40777991	219,0.001
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_505	0	33199	615,1.852
-scaffold_428	0	52347	109,0.208
-scaffold_345	0	72732	109,0.150
 ========== TRIM Ns ==========
 
