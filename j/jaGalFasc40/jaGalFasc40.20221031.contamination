@@ -31,6 +31,10 @@ REMOVE	scaffold_505
 REMOVE	scaffold_283
 REMOVE	scaffold_391
 REMOVE	scaffold_439
+REMOVE	scaffold_82
+
+#fish
+REMOVE	scaffold_210
 
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
