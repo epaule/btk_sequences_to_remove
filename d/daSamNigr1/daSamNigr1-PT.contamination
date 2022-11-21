@@ -4,11 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-1	0	158061	99901,63.204
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-1	0	158061	158037,99.985
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -16,10 +14,8 @@
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-1	0	158061	498,0.315
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-1	0	158061	376,0.238
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
