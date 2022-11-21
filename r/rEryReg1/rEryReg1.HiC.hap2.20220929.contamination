@@ -1,0 +1,24 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+
+#firmicutes
+REMOVE	scaffold_228
+REMOVE	scaffold_271
+REMOVE	scaffold_307
+
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
