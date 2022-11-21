@@ -4,27 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	hap_ptg003848l_1_1
-REMOVE	hap_ptg004310l_1_1
-REMOVE	hap_ptg001601l_1_1
 REMOVE	hap_ptg005008l_1_1
-REMOVE	hap_ptg003797l_1_1
 REMOVE	hap_ptg005307l_1_1
-REMOVE	hap_ptg004945l_1_1
-REMOVE	hap_ptg003087l_1_1
-REMOVE	hap_ptg002830l_1_1
-REMOVE	hap_ptg004080l_1_1
-REMOVE	hap_ptg001355l_1_1
-REMOVE	hap_ptg002753l_1_1
-REMOVE	hap_ptg003987l_1_1
-REMOVE	hap_ptg002587l_1_1
-REMOVE	hap_ptg004853l_1_1
-REMOVE	hap_ptg002199l_1_1
-REMOVE	hap_ptg001561l_1_1
 REMOVE	hap_ptg003177l_1_1
-REMOVE	hap_ptg002888l_1_1
-REMOVE	hap_ptg003850l_1_1
-REMOVE	hap_ptg001918l_1_1
 REMOVE	hap_ptg002178l_1_1
 
 ========== PLASTID SEQUENCE ==========
