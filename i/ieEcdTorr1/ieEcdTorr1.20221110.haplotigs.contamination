@@ -1,6 +1,5 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000139l_1	0	956313	59,0.006
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
@@ -15,16 +14,8 @@ atg000139l_1	0	956313	59,0.006
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000596l_1	0	26421	920,3.482
-atg000031l_1	0	13196	246,1.864
-atg002143l_1	0	61427	940,1.530
-atg000029l_1	0	1090686	3975,0.364
-hap_ptg001997l_1_1	0	61885	162,0.262
-hap_ptg001369l_1_1	0	60202	126,0.209
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000583l_1_1	0	1285988	1270,0.099
-hap_ptg000032l_1_1	0	1352718	112,0.008
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
