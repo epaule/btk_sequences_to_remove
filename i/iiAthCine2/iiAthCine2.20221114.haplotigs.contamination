@@ -13,8 +13,6 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003255l_1	0	128252	110,0.086
-atg000844l_1	0	185283	110,0.059
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
