@@ -16,18 +16,6 @@ REMOVE	hap_ptg002696l_1_1
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#Chitinophagia
-REMOVE	atg002143l_1
-
-#Cytophagia
-REMOVE	atg000031l_1
-REMOVE	hap_ptg001982l_1_1
-REMOVE	hap_ptg002212l_1_1
-REMOVE	hap_ptg002500l_1_1
-REMOVE	hap_ptg002554l_1_1
-REMOVE	hap_ptg002627l_1_1
-REMOVE	hap_ptg002687l_1_1
-
 #b-proteobacteria
 REMOVE	atg000029l_1
 REMOVE	atg000139l_1
@@ -50,8 +38,31 @@ REMOVE	hap_ptg002570l_1_1
 REMOVE	hap_ptg002587l_1_1
 REMOVE	hap_ptg002599l_1_1
 REMOVE	hap_ptg002655l_1_1
+REMOVE  atg000029l_1
+REMOVE  atg000139l_1
+REMOVE  atg001557l_1
+REMOVE  atg001618l_1
+REMOVE  atg001733l_1
+REMOVE  atg001853l_1
+REMOVE  atg002583l_1
+REMOVE  atg004488l_1
+REMOVE  atg008019l_1
+REMOVE  hap_ptg000526l_1_1
+REMOVE  hap_ptg001690l_1_1
+REMOVE  hap_ptg001905l_1_1
+REMOVE  hap_ptg002200l_1_1
+REMOVE  hap_ptg002323l_1_1
+REMOVE  hap_ptg002364l_1_1
+REMOVE  hap_ptg002388l_1_1
+REMOVE  hap_ptg002401l_1_1
+REMOVE  hap_ptg002499l_1_1
+REMOVE  hap_ptg002570l_1_1
+REMOVE  hap_ptg002587l_1_1
+REMOVE  hap_ptg002599l_1_1
+REMOVE  hap_ptg002655l_1_1
 
-#flavobacteria
+
+#bacteriodetes
 REMOVE	atg000031l_1
 REMOVE	atg000596l_1
 REMOVE	atg000710l_1
@@ -69,7 +80,6 @@ REMOVE	hap_ptg002025l_1_1
 REMOVE	hap_ptg002079l_1_1
 REMOVE	hap_ptg002212l_1_1
 REMOVE	hap_ptg002304l_1_1
-REMOVE	hap_ptg002366l_1_1
 REMOVE	hap_ptg002404l_1_1
 REMOVE	hap_ptg002459l_1_1
 REMOVE	hap_ptg002465l_1_1
@@ -80,17 +90,50 @@ REMOVE	hap_ptg002627l_1_1
 REMOVE	hap_ptg002629l_1_1
 REMOVE	hap_ptg002685l_1_1
 REMOVE	hap_ptg002687l_1_1
-
+REMOVE  atg000031l_1
+REMOVE  atg000596l_1
+REMOVE  atg000710l_1
+REMOVE  atg002143l_1
+REMOVE  atg002923l_1
+REMOVE  hap_ptg000596l_1_1
+REMOVE  hap_ptg001369l_1_1
+REMOVE  hap_ptg001471l_1_1
+REMOVE  hap_ptg001646l_1_1
+REMOVE  hap_ptg001712l_1_1
+REMOVE  hap_ptg001721l_1_1
+REMOVE  hap_ptg001982l_1_1
+REMOVE  hap_ptg001997l_1_1
+REMOVE  hap_ptg002025l_1_1
+REMOVE  hap_ptg002079l_1_1
+REMOVE  hap_ptg002304l_1_1
+REMOVE  hap_ptg002366l_1_1
+REMOVE  hap_ptg002459l_1_1
+REMOVE  hap_ptg002465l_1_1
+REMOVE  hap_ptg002500l_1_1
+REMOVE  hap_ptg002589l_1_1
+REMOVE  hap_ptg002627l_1_1
+REMOVE  hap_ptg002629l_1_1
+REMOVE  hap_ptg002685l_1_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 
-#Mucoromycetes
-REMOVE	hap_ptg001055l_1_1
+#Ascomycota
+REMOVE  atg002833l_1
 
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#Heterolobosea
+REMOVE  atg000229l_1
+REMOVE  atg001305l_1
+
 ========== REFSEQ: viridiplantae ==========
+
+#Streptophyta
+REMOVE  hap_ptg000175l_1_1
+REMOVE  hap_ptg000773l_1_1
+
 ========== TRIM Ns ==========
 
