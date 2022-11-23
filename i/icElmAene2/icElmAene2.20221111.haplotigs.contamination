@@ -15,19 +15,186 @@ REMOVE	hap_ptg002129c_1_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003628l_1	0	17485	17485,100.000
-atg003721l_1	0	12617	965,7.648
-hap_ptg001474l_1_1	0	21559	133,0.617
-hap_ptg001657l_1_1	0	31306	154,0.492
-========== REFSEQ: chordata ==========
+
+#Acidobacteriia
+REMOVE	hap_ptg001647l_1_1
+
+#a-proteobacteria
+REMOVE	atg003628l_1
+REMOVE	atg004095l_1
+REMOVE	atg005117l_1
+REMOVE	hap_ptg000946l_1_1
+REMOVE	hap_ptg001657l_1_1
+REMOVE	hap_ptg001875l_1_1
+REMOVE	hap_ptg002032l_1_1
+
+#b-proteobacteri
+REMOVE	atg002964l_1
+REMOVE	atg003551l_1
+REMOVE	atg003721l_1
+REMOVE	atg003892l_1
+REMOVE	atg003976l_1
+REMOVE	atg004006l_1
+REMOVE	atg004382l_1
+REMOVE	atg004698l_1
+REMOVE	atg005036l_1
+REMOVE	atg005056l_1
+REMOVE	atg005088l_1
+REMOVE	atg005214l_1
+REMOVE	atg005304l_1
+REMOVE	atg005646l_1
+REMOVE	atg005699l_1
+REMOVE	atg005763l_1
+REMOVE	atg005849l_1
+REMOVE	atg005870l_1
+REMOVE	atg005885l_1
+REMOVE	atg005990l_1
+REMOVE	atg006229l_1
+REMOVE	atg006289l_1
+REMOVE	atg006326l_1
+REMOVE	atg006447l_1
+REMOVE	atg006638l_1
+REMOVE	atg006931l_1
+REMOVE	hap_ptg000830l_1_1
+REMOVE	hap_ptg001181l_1_1
+REMOVE	hap_ptg001374l_1_1
+REMOVE	hap_ptg001474l_1_1
+REMOVE	hap_ptg001821l_1_1
+REMOVE	hap_ptg001938l_1_1
+REMOVE	hap_ptg002095l_1_1
+REMOVE	hap_ptg002159l_1_1
+REMOVE	hap_ptg002187l_1_1
+
+#Chitinophagia
+REMOVE	atg003230l_1
+REMOVE	hap_ptg001554l_1_1
+
+#Cyanobacteria
+REMOVE	hap_ptg000950l_1_1
+
+#Cytophagia
+REMOVE	atg005187l_1
+REMOVE	atg006191l_1
+REMOVE	atg006532l_1
+REMOVE	hap_ptg000084l_1_1
+REMOVE	hap_ptg001250l_1_1
+REMOVE	hap_ptg001278l_1_1
+REMOVE	hap_ptg001566l_1_1
+REMOVE	hap_ptg001654l_1_1
+REMOVE	hap_ptg001690l_1_1
+REMOVE	hap_ptg001794l_1_1
+REMOVE	hap_ptg001814l_1_1
+REMOVE	hap_ptg001963l_1_1
+REMOVE	hap_ptg001979l_1_1
+REMOVE	hap_ptg002223l_1_1
+REMOVE	hap_ptg002233l_1_1
+
+#Flavobacteriia
+REMOVE	hap_ptg001662l_1_1
+REMOVE	hap_ptg001708l_1_1
+REMOVE	hap_ptg001987l_1_1
+REMOVE	hap_ptg002137l_1_1
+
+#Gammaproteobacteria
+REMOVE	atg001825l_1
+REMOVE	atg003338l_1
+REMOVE	hap_ptg001229l_1_1
+
+#Nitrospira
+REMOVE	atg001091l_1
+REMOVE	atg001247l_1
+REMOVE	atg001821l_1
+REMOVE	atg002102l_1
+REMOVE	atg002552l_1
+REMOVE	atg002613l_1
+REMOVE	atg002661l_1
+REMOVE	atg002736l_1
+REMOVE	atg002747l_1
+REMOVE	atg002872l_1
+REMOVE	atg003305l_1
+REMOVE	atg003756l_1
+REMOVE	atg003884l_1
+REMOVE	atg003901l_1
+REMOVE	atg003931l_1
+REMOVE	atg004032l_1
+REMOVE	atg004074l_1
+REMOVE	atg004404l_1
+REMOVE	atg004610l_1
+REMOVE	atg004625l_1
+REMOVE	atg004718l_1
+REMOVE	atg004906l_1
+REMOVE	atg004912l_1
+REMOVE	atg004974l_1
+REMOVE	atg005033l_1
+REMOVE	atg005090l_1
+REMOVE	atg005108l_1
+REMOVE	atg005181l_1
+REMOVE	atg005256l_1
+REMOVE	atg005387l_1
+REMOVE	atg005408l_1
+REMOVE	atg005552l_1
+REMOVE	atg005591l_1
+REMOVE	atg005637l_1
+REMOVE	atg005817l_1
+REMOVE	atg005943l_1
+REMOVE	atg005969l_1
+REMOVE	atg006148l_1
+REMOVE	atg006154l_1
+REMOVE	atg006189l_1
+REMOVE	atg006200l_1
+REMOVE	atg006228l_1
+REMOVE	atg006248l_1
+REMOVE	atg006334l_1
+REMOVE	atg006363l_1
+REMOVE	atg006394l_1
+REMOVE	atg006398l_1
+REMOVE	atg006451l_1
+REMOVE	atg006530l_1
+REMOVE	atg006616l_1
+REMOVE	atg006678l_1
+REMOVE	atg006770l_1
+REMOVE	atg006794l_1
+REMOVE	atg006845l_1
+REMOVE	atg006857l_1
+REMOVE	atg006880l_1
+REMOVE	hap_ptg000948l_1_1
+REMOVE	hap_ptg001451l_1_1
+REMOVE	hap_ptg001738l_1_1
+
+
+#CFB group bacteria
+
+#bacteria
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000820l_1_1	0	73161	1091,1.491
-atg001843l_1	0	9391	116,1.235
-hap_ptg001050l_1_1	0	122046	1044,0.855
-hap_ptg000555l_1_1	0	135075	812,0.601
-========== REFSEQ: other_metazoa ==========
+
+#Caudoviricetes
+
+#Viruses-undef
+REMOVE	atg001971l_1
+
+========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003445l_1	0	59521	219,0.368
+
+#Glomeromycetes
+REMOVE	atg004940l_1
+REMOVE	atg005260l_1
+REMOVE	atg006280l_1
+
+#Mucoromycetes
+REMOVE	atg002073l_1
+
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	atg001098l_1
+REMOVE	atg001512l_1
+REMOVE	atg001686l_1
+REMOVE	atg002101l_1
+REMOVE	atg002182l_1
+REMOVE	atg002184l_1
+REMOVE	atg002714l_1
+
 ========== TRIM Ns ==========
 
