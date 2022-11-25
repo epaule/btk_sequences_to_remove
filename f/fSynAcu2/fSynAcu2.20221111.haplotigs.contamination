@@ -4,12 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000050l_1_1	0	32571	9307,28.574
-hap_ptg000332l_1_1	0	18508	4772,25.783
+REMOVE	hap_ptg000050l_1_1
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000332l_1_1	0	18508	16757,90.539
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -17,17 +15,164 @@ hap_ptg000332l_1_1	0	18508	16757,90.539
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg005100l_1	0	17923	1310,7.309
-hap_ptg000485l_1_1	0	28801	372,1.292
-hap_ptg000402l_1_1	0	16453	121,0.735
-atg000129l_1	0	29738	164,0.551
-atg005255l_1	0	39966	118,0.295
-atg000155l_1	0	52085	118,0.227
-========== REFSEQ: chordata ==========
+
+#Bacteroidia
+REMOVE	atg005677l_1
+
+#Betaproteobacteria
+REMOVE	atg006640l_1
+
+#Chitinophagia
+REMOVE	atg001912l_1
+REMOVE	atg002631l_1
+
+#Cytophagia
+REMOVE	atg000741l_1
+REMOVE	atg001768l_1
+REMOVE	atg003195l_1
+REMOVE	atg004598l_1
+REMOVE	atg004646l_1
+REMOVE	atg004779l_1
+REMOVE	atg004895l_1
+REMOVE	atg005194l_1
+
+#Alphaproteobacteria
+REMOVE	atg001221l_1
+REMOVE	atg001513l_1
+REMOVE	atg002828l_1
+REMOVE	atg003206l_1
+REMOVE	atg004057l_1
+REMOVE	atg004507l_1
+REMOVE	atg004774l_1
+REMOVE	hap_ptg000247l_1_1
+
+#d-proteobacteria
+REMOVE	atg002805l_1
+REMOVE	atg002934l_1
+REMOVE	atg004945l_1
+
+#Flavobacteriia
+REMOVE	atg001116l_1
+REMOVE	atg001635l_1
+REMOVE	atg001960l_1
+REMOVE	atg002132l_1
+REMOVE	atg003462l_1
+REMOVE	atg003942l_1
+REMOVE	atg004147l_1
+REMOVE	atg004283l_1
+REMOVE	atg004989l_1
+REMOVE	atg005126l_1
+REMOVE	atg005187l_1
+REMOVE	atg005255l_1
+REMOVE	atg005368l_1
+REMOVE	atg005493l_1
+REMOVE	atg005572l_1
+REMOVE	atg005755l_1
+REMOVE	atg005824l_1
+REMOVE	atg005843l_1
+REMOVE	atg005878l_1
+REMOVE	atg005904l_1
+REMOVE	atg005946l_1
+REMOVE	atg006025l_1
+REMOVE	hap_ptg000154l_1_1
+REMOVE	hap_ptg000402l_1_1
+REMOVE	hap_ptg000497l_1_1
+REMOVE	hap_ptg000522l_1_1
+REMOVE	hap_ptg000672l_1_1
+
+#Planctomycetia
+REMOVE	atg000690l_1
+REMOVE	atg002456l_1
+REMOVE	atg003236l_1
+REMOVE	atg003590l_1
+REMOVE	atg003997l_1
+REMOVE	atg004027l_1
+REMOVE	atg004195l_1
+REMOVE	atg005382l_1
+REMOVE	atg005420l_1
+REMOVE	atg006792l_1
+REMOVE	hap_ptg000431l_1_1
+REMOVE	hap_ptg000623l_1_1
+
+#Sphingobacteriia
+REMOVE	atg005061l_1
+
+#Saprospiria
+REMOVE	atg000155l_1
+REMOVE	atg000237l_1
+REMOVE	atg000291l_1
+REMOVE	atg000957l_1
+REMOVE	atg000994l_1
+REMOVE	atg001024l_1
+REMOVE	atg001168l_1
+REMOVE	atg001266l_1
+REMOVE	atg001543l_1
+REMOVE	atg001763l_1
+REMOVE	atg001766l_1
+REMOVE	atg001786l_1
+REMOVE	atg001996l_1
+REMOVE	atg002174l_1
+REMOVE	atg002441l_1
+REMOVE	atg002469l_1
+REMOVE	atg002532l_1
+REMOVE	atg003290l_1
+REMOVE	atg003397l_1
+REMOVE	atg003438l_1
+REMOVE	atg003490l_1
+REMOVE	atg003549l_1
+REMOVE	atg003558l_1
+REMOVE	atg003579l_1
+REMOVE	atg003644l_1
+REMOVE	atg003669l_1
+REMOVE	atg003910l_1
+REMOVE	atg003929l_1
+REMOVE	atg004420l_1
+REMOVE	atg004951l_1
+REMOVE	atg005081l_1
+REMOVE	atg005100l_1
+REMOVE	atg005107l_1
+REMOVE	atg005113l_1
+REMOVE	atg005185l_1
+REMOVE	atg005219l_1
+REMOVE	atg005223l_1
+REMOVE	atg005233l_1
+REMOVE	atg005348l_1
+REMOVE	atg005617l_1
+REMOVE	atg005672l_1
+REMOVE	atg005788l_1
+REMOVE	atg005888l_1
+REMOVE	atg005893l_1
+REMOVE	atg006363l_1
+REMOVE	atg006837l_1
+REMOVE	atg006910l_1
+REMOVE	hap_ptg000085l_1_1
+REMOVE	hap_ptg000485l_1_1
+REMOVE	hap_ptg000605l_1_1
+
+#bacteria
+REMOVE	atg000129l_1
+
+========== REFSEQ: arthropoda ==========
+
+#Insecta
+REMOVE	atg001537l_1
+REMOVE	atg001750l_1
+REMOVE	atg002679l_1
+REMOVE	atg002756l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000332l_1_1	0	18508	3634,19.635
+
+#plants
+REMOVE	hap_ptg000451l_1_1
+REMOVE	hap_ptg000332l_1_1
+REMOVE	atg000277l_1
+REMOVE	atg002429l_1
+REMOVE	atg002555l_1
+REMOVE	atg005036l_1
+REMOVE	atg005217l_1
+
 ========== TRIM Ns ==========
 
