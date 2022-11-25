@@ -19,74 +19,152 @@ REMOVE	scaffold_177
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#Acidobacteriia
-REMOVE	scaffold_195
-
-#Bacteroidia
-REMOVE	scaffold_480
-
 #a-proteobacteria
-REMOVE	scaffold_121
+REMOVE	scaffold_492
+REMOVE	scaffold_338
+REMOVE	scaffold_487
 REMOVE	scaffold_125
+REMOVE	scaffold_380
+REMOVE	scaffold_198
+REMOVE	scaffold_424
+REMOVE	scaffold_25
+REMOVE	scaffold_135
+REMOVE	scaffold_378
+REMOVE	scaffold_255
+REMOVE	scaffold_72
+REMOVE	scaffold_154
+REMOVE	scaffold_268
+REMOVE	scaffold_330
+REMOVE	scaffold_121
+REMOVE	scaffold_319
+REMOVE	scaffold_263
+REMOVE	scaffold_60
+REMOVE	scaffold_391
+REMOVE	scaffold_180
 REMOVE	scaffold_126
 REMOVE	scaffold_131
-REMOVE	scaffold_135
-REMOVE	scaffold_138
-REMOVE	scaffold_153
-REMOVE	scaffold_154
 REMOVE	scaffold_166
-REMOVE	scaffold_180
-REMOVE	scaffold_198
-REMOVE	scaffold_237
-REMOVE	scaffold_25
-REMOVE	scaffold_255
-REMOVE	scaffold_263
-REMOVE	scaffold_268
-REMOVE	scaffold_278
 REMOVE	scaffold_300
-REMOVE	scaffold_317
-REMOVE	scaffold_319
+REMOVE	scaffold_153
+REMOVE	scaffold_138
+REMOVE	scaffold_278
+REMOVE	scaffold_237
 REMOVE	scaffold_325
-REMOVE	scaffold_330
-REMOVE	scaffold_338
-REMOVE	scaffold_378
-REMOVE	scaffold_380
-REMOVE	scaffold_391
-REMOVE	scaffold_424
-REMOVE	scaffold_477
-REMOVE	scaffold_487
-REMOVE	scaffold_492
-REMOVE	scaffold_60
-REMOVE	scaffold_72
-
-#Betaproteobacteria
-REMOVE	scaffold_221
-REMOVE	scaffold_420
-
-#Chitinophagia
-REMOVE	scaffold_381
-
-#Cyanobacteria
-REMOVE	scaffold_302
-
-#Cytophagia
-REMOVE	scaffold_160
-REMOVE	scaffold_162
-REMOVE	scaffold_281
-REMOVE	scaffold_399
-REMOVE	scaffold_429
-REMOVE	scaffold_441
-REMOVE	scaffold_472
+REMOVE	scaffold_317
 
 #d-proteobacteria
+REMOVE	scaffold_382
+REMOVE	scaffold_471
+
+#CFB group bacteria
+REMOVE	scaffold_426
+REMOVE	scaffold_211
+REMOVE	scaffold_332
+REMOVE	scaffold_474
+REMOVE	scaffold_486
+REMOVE	scaffold_376
+REMOVE	scaffold_320
+REMOVE	scaffold_434
+REMOVE	scaffold_81
+REMOVE	scaffold_119
+REMOVE	scaffold_112
+REMOVE	scaffold_22
+REMOVE	scaffold_467
+REMOVE	scaffold_164
+REMOVE	scaffold_110
+REMOVE	scaffold_23
+REMOVE	scaffold_447
+REMOVE	scaffold_133
+REMOVE	scaffold_162
+REMOVE	scaffold_134
+REMOVE	scaffold_259
+REMOVE	scaffold_210
+REMOVE	scaffold_254
+REMOVE	scaffold_79
+REMOVE	scaffold_101
+REMOVE	scaffold_155
+REMOVE	scaffold_363
+REMOVE	scaffold_76
+REMOVE	scaffold_246
+REMOVE	scaffold_206
+REMOVE	scaffold_216
+REMOVE	scaffold_140
+REMOVE	scaffold_437
+REMOVE	scaffold_77
+REMOVE	scaffold_235
+REMOVE	scaffold_38
+REMOVE	scaffold_412
+REMOVE	scaffold_230
+REMOVE	scaffold_85
+REMOVE	scaffold_435
+REMOVE	scaffold_27
+REMOVE	scaffold_451
+REMOVE	scaffold_208
+REMOVE	scaffold_42
+REMOVE	scaffold_204
+REMOVE	scaffold_446
+REMOVE	scaffold_176
+REMOVE	scaffold_86
+REMOVE	scaffold_327
+REMOVE	scaffold_267
+REMOVE	scaffold_275
+REMOVE	scaffold_178
+REMOVE	scaffold_207
+REMOVE	scaffold_342
+REMOVE	scaffold_236
+REMOVE	scaffold_233
+REMOVE	scaffold_476
+REMOVE	scaffold_289
+REMOVE	scaffold_427
+REMOVE	scaffold_305
+REMOVE	scaffold_146
+REMOVE	scaffold_251
+REMOVE	scaffold_228
+REMOVE	scaffold_114
+REMOVE	scaffold_239
+REMOVE	scaffold_459
+REMOVE	scaffold_222
+REMOVE	scaffold_312
+REMOVE	scaffold_245
+REMOVE	scaffold_480
+
+#Bacteroidota
+REMOVE	scaffold_95
+REMOVE	scaffold_143
+REMOVE	scaffold_148
+REMOVE	scaffold_160
+REMOVE	scaffold_190
+REMOVE	scaffold_202
+REMOVE	scaffold_281
+REMOVE	scaffold_294
+REMOVE	scaffold_311
+REMOVE	scaffold_343
+REMOVE	scaffold_381
+REMOVE	scaffold_411
+REMOVE	scaffold_416
+REMOVE	scaffold_422
+REMOVE	scaffold_441
+REMOVE	scaffold_461
+REMOVE	scaffold_465
+REMOVE	scaffold_468
+REMOVE	scaffold_472
+REMOVE	scaffold_473
+REMOVE	scaffold_493
+
+#Proteobacteria
+REMOVE	scaffold_129
 REMOVE	scaffold_152
 REMOVE	scaffold_182
+REMOVE	scaffold_195
 REMOVE	scaffold_219
+REMOVE	scaffold_221
 REMOVE	scaffold_231
 REMOVE	scaffold_241
 REMOVE	scaffold_261
-REMOVE	scaffold_269
 REMOVE	scaffold_276
+REMOVE	scaffold_280
+REMOVE	scaffold_302
+REMOVE	scaffold_328
 REMOVE	scaffold_334
 REMOVE	scaffold_351
 REMOVE	scaffold_358
@@ -94,102 +172,32 @@ REMOVE	scaffold_362
 REMOVE	scaffold_366
 REMOVE	scaffold_367
 REMOVE	scaffold_368
-REMOVE	scaffold_375
 REMOVE	scaffold_377
-REMOVE	scaffold_382
 REMOVE	scaffold_389
 REMOVE	scaffold_395
+REMOVE	scaffold_399
 REMOVE	scaffold_402
 REMOVE	scaffold_404
 REMOVE	scaffold_405
+REMOVE	scaffold_406
 REMOVE	scaffold_413
 REMOVE	scaffold_417
-REMOVE	scaffold_425
 REMOVE	scaffold_428
 REMOVE	scaffold_430
 REMOVE	scaffold_431
 REMOVE	scaffold_432
-REMOVE	scaffold_440
 REMOVE	scaffold_445
 REMOVE	scaffold_452
 REMOVE	scaffold_453
-REMOVE	scaffold_456
 REMOVE	scaffold_460
-REMOVE	scaffold_471
+REMOVE	scaffold_463
 REMOVE	scaffold_475
 
-#Gammaproteobacteria
-REMOVE	scaffold_328
-REMOVE	scaffold_388
-
-#Flavobacteriia
-REMOVE	scaffold_112
-REMOVE	scaffold_114
-REMOVE	scaffold_119
-REMOVE	scaffold_133
-REMOVE	scaffold_134
-REMOVE	scaffold_140
-REMOVE	scaffold_143
-REMOVE	scaffold_146
-REMOVE	scaffold_148
-REMOVE	scaffold_155
-REMOVE	scaffold_176
-REMOVE	scaffold_178
-REMOVE	scaffold_190
-REMOVE	scaffold_204
-REMOVE	scaffold_206
-REMOVE	scaffold_207
-REMOVE	scaffold_208
-REMOVE	scaffold_210
-REMOVE	scaffold_211
-REMOVE	scaffold_216
-REMOVE	scaffold_22
-REMOVE	scaffold_222
-REMOVE	scaffold_228
-REMOVE	scaffold_23
-REMOVE	scaffold_233
-REMOVE	scaffold_235
-REMOVE	scaffold_236
-REMOVE	scaffold_239
-REMOVE	scaffold_245
-REMOVE	scaffold_251
-REMOVE	scaffold_254
-REMOVE	scaffold_267
-REMOVE	scaffold_27
-REMOVE	scaffold_275
-REMOVE	scaffold_289
-REMOVE	scaffold_305
-REMOVE	scaffold_312
-REMOVE	scaffold_327
-REMOVE	scaffold_332
-REMOVE	scaffold_342
-REMOVE	scaffold_343
-REMOVE	scaffold_376
-REMOVE	scaffold_38
-REMOVE	scaffold_412
-REMOVE	scaffold_42
-REMOVE	scaffold_426
-REMOVE	scaffold_427
-REMOVE	scaffold_435
-REMOVE	scaffold_446
-REMOVE	scaffold_447
-REMOVE	scaffold_459
-REMOVE	scaffold_461
-REMOVE	scaffold_473
-REMOVE	scaffold_474
-REMOVE	scaffold_476
-REMOVE	scaffold_486
-REMOVE	scaffold_77
-REMOVE	scaffold_79
-REMOVE	scaffold_81
-REMOVE	scaffold_86
-
-#Planctomycetia
+#Planctomycetota
 REMOVE	scaffold_100
 REMOVE	scaffold_102
 REMOVE	scaffold_113
 REMOVE	scaffold_123
-REMOVE	scaffold_129
 REMOVE	scaffold_151
 REMOVE	scaffold_157
 REMOVE	scaffold_159
@@ -202,7 +210,6 @@ REMOVE	scaffold_183
 REMOVE	scaffold_187
 REMOVE	scaffold_188
 REMOVE	scaffold_200
-REMOVE	scaffold_202
 REMOVE	scaffold_203
 REMOVE	scaffold_234
 REMOVE	scaffold_240
@@ -212,9 +219,9 @@ REMOVE	scaffold_248
 REMOVE	scaffold_249
 REMOVE	scaffold_250
 REMOVE	scaffold_257
+REMOVE	scaffold_264
 REMOVE	scaffold_296
 REMOVE	scaffold_297
-REMOVE	scaffold_298
 REMOVE	scaffold_301
 REMOVE	scaffold_303
 REMOVE	scaffold_304
@@ -232,67 +239,60 @@ REMOVE	scaffold_387
 REMOVE	scaffold_390
 REMOVE	scaffold_394
 REMOVE	scaffold_403
-REMOVE	scaffold_406
 REMOVE	scaffold_408
 REMOVE	scaffold_410
 REMOVE	scaffold_414
+REMOVE	scaffold_420
 REMOVE	scaffold_423
+REMOVE	scaffold_429
 REMOVE	scaffold_436
 REMOVE	scaffold_439
 REMOVE	scaffold_442
-REMOVE	scaffold_448
 REMOVE	scaffold_449
 REMOVE	scaffold_454
 REMOVE	scaffold_455
 REMOVE	scaffold_458
 REMOVE	scaffold_462
 REMOVE	scaffold_464
-REMOVE	scaffold_470
-REMOVE	scaffold_479
-REMOVE	scaffold_484
-REMOVE	scaffold_485
-REMOVE	scaffold_489
-REMOVE	scaffold_491
 
-#Saprospiria
-REMOVE	scaffold_101
-REMOVE	scaffold_110
-REMOVE	scaffold_164
-REMOVE	scaffold_230
-REMOVE	scaffold_246
-REMOVE	scaffold_259
-REMOVE	scaffold_294
-REMOVE	scaffold_311
-REMOVE	scaffold_320
-REMOVE	scaffold_363
-REMOVE	scaffold_411
-REMOVE	scaffold_416
-REMOVE	scaffold_422
-REMOVE	scaffold_434
-REMOVE	scaffold_437
-REMOVE	scaffold_451
-REMOVE	scaffold_465
-REMOVE	scaffold_467
-REMOVE	scaffold_468
-REMOVE	scaffold_493
-REMOVE	scaffold_76
-REMOVE	scaffold_85
-REMOVE	scaffold_95
+#Actinobacteria
+REMOVE	scaffold_269
+REMOVE	scaffold_375
+
+#Spirochaetes
+REMOVE	scaffold_425
+
+#Verrucomicrobia
+REMOVE	scaffold_448
+REMOVE	scaffold_470
+
+#Bacteria-undef
+REMOVE	scaffold_456
+
+#Firmicutes
+REMOVE	scaffold_477
 
 #bacteria
-REMOVE	scaffold_264
+REMOVE	scaffold_489
+REMOVE	scaffold_485
+REMOVE	scaffold_481
 
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
+REMOVE	scaffold_490
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#nematoda
+REMOVE	scaffold_353
 
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 #plants
 REMOVE	scaffold_150
-REMOVE	scaffold_353
 REMOVE	scaffold_469
 REMOVE	scaffold_478
 REMOVE	scaffold_82
