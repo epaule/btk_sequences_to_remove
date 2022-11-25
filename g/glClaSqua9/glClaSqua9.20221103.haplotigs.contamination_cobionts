@@ -15,7 +15,7 @@ REMOVE	hap_ptg000170l_1_1
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 
-#ciliophora
+#insecta
 REMOVE	hap_ptg001530l_1_1
 
 ========== REFSEQ: viridiplantae ==========
@@ -25,6 +25,5 @@ REMOVE	atg000075l_1
 REMOVE	atg000131l_1
 REMOVE	atg000150l_1
 REMOVE	atg000157l_1
-
 ========== TRIM Ns ==========
 
