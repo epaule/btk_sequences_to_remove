@@ -16,16 +16,14 @@ REMOVE	hap_ptg001160l_1_1
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#Firmicutes
+REMOVE	hap_ptg001007l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: virus ==========
-
-#Monjiviricetes
-REMOVE	atg001829l_1
-REMOVE	atg003660l_1
-REMOVE	atg005189l_1
-
+========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -34,6 +32,7 @@ REMOVE	atg005189l_1
 REMOVE	hap_ptg001080l_1_1
 REMOVE	hap_ptg001119l_1_1
 REMOVE	atg003550l_1
+REMOVE	atg007277l_1
 
 ========== TRIM Ns ==========
 
