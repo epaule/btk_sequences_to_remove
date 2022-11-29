@@ -1,0 +1,14 @@
+REMOVE	id #buscoregions_phylum
+REMOVE	scaffold_184 #Echinodermata
+REMOVE	scaffold_401 #Cnidaria
+REMOVE	scaffold_10 #Tenericutes
+REMOVE	scaffold_297 #Tenericutes
+REMOVE	scaffold_190 #Chordata
+REMOVE	scaffold_205 #Echinodermata
+REMOVE	scaffold_268 #Echinodermata
+REMOVE	scaffold_228 #Mollusca
+REMOVE	scaffold_295 #Mollusca
+REMOVE	scaffold_340 #Mollusca
+REMOVE	scaffold_234 #Chordata
+REMOVE	scaffold_241 #Nematoda
+REMOVE	scaffold_305 #Nematoda
