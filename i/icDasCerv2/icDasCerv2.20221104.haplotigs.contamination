@@ -1,0 +1,53 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001156l_1	0	60204	77,0.128
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002452l_1	0	17588	661,3.758
+atg001156l_1	0	60204	661,1.098
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000138l_1_1	0	52039	29104,55.927
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002937l_1	0	5935	3753,63.235
+atg002607l_1	0	10973	4724,43.051
+atg002452l_1	0	17588	5976,33.978
+atg001156l_1	0	60204	6421,10.665
+atg002409l_1	0	12038	1136,9.437
+atg002626l_1	0	5871	427,7.273
+atg002304l_1	0	14777	1056,7.146
+atg002354l_1	0	10529	256,2.431
+atg002621l_1	0	8083	118,1.460
+atg002708l_1	0	10168	125,1.229
+atg001875l_1	0	40275	401,0.996
+atg002636l_1	0	16234	128,0.788
+atg002122l_1	0	28930	198,0.684
+atg000142l_1	0	55344	325,0.587
+atg001339l_1	0	46649	264,0.566
+atg002053l_1	0	31103	142,0.457
+atg001109l_1	0	35515	157,0.442
+hap_ptg000231l_1_1	0	36638	157,0.429
+atg001659l_1	0	32496	129,0.397
+atg001551l_1	0	41983	142,0.338
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000271l_1	0	288784	116,0.040
+atg000031l_1	0	1277555	116,0.009
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg002452l_1	0	17588	285,1.620
+atg001156l_1	0	60204	285,0.473
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
