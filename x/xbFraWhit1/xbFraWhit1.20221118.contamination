@@ -10,15 +10,78 @@
 
 ========== BARCODES ==========
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_14	0	58313894	400,0.001
-scaffold_12	0	60913720	400,0.001
-========== REFSEQ: fungi ==========
+
+
+#bacteriodetes
+REMOVE	scaffold_319
+REMOVE	scaffold_407
+REMOVE	scaffold_1079
+REMOVE	scaffold_1548
+
+#alphaproteobacteria
+REMOVE	scaffold_331
+REMOVE	scaffold_1178
+REMOVE	scaffold_1199
+REMOVE	scaffold_2405
+REMOVE	scaffold_2562
+
+#Gammaproteobacteria
+REMOVE	scaffold_1817
+REMOVE	scaffold_1973
+REMOVE	scaffold_2564
+
+
+========== REFSEQ: virus ==========
+
+REMOVE	scaffold_162
+REMOVE	scaffold_242
+REMOVE	scaffold_1231
+
+#Maveriviricetes
+REMOVE	scaffold_200
+
 ========== REFSEQ: other_metazoa ==========
+
+#alveolates
+REMOVE	scaffold_72
+REMOVE	scaffold_76
+REMOVE	scaffold_79
+REMOVE	scaffold_116
+REMOVE	scaffold_122
+REMOVE	scaffold_162
+REMOVE	scaffold_221
+REMOVE	scaffold_226
+REMOVE	scaffold_332
+REMOVE	scaffold_371
+REMOVE	scaffold_452
+REMOVE	scaffold_491
+REMOVE	scaffold_543
+REMOVE	scaffold_632
+REMOVE	scaffold_776
+REMOVE	scaffold_877
+REMOVE	scaffold_926
+REMOVE	scaffold_1032
+REMOVE	scaffold_1036
+REMOVE	scaffold_1120
+REMOVE	scaffold_1179
+REMOVE	scaffold_1245
+REMOVE	scaffold_1280
+REMOVE	scaffold_1281
+REMOVE	scaffold_1418
+REMOVE	scaffold_1424
+REMOVE	scaffold_1528
+REMOVE	scaffold_1656
+REMOVE	scaffold_1774
+REMOVE	scaffold_1884
+REMOVE	scaffold_1911
+REMOVE	scaffold_1948
+REMOVE	scaffold_2127
+REMOVE	scaffold_2411
+REMOVE	scaffold_2542
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_14	0	58313894	434,0.001
-scaffold_12	0	60913720	434,0.001
 ========== TRIM Ns ==========
 
