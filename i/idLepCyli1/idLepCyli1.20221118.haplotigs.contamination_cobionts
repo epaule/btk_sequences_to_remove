@@ -14,18 +14,20 @@ REMOVE	atg001401l_1
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Proteobacteria
+REMOVE	atg000231l_1
+REMOVE	atg001418l_1
+
+#Firmicutes
+REMOVE	atg001359l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: fungi ==========
-
-#microsporidia
-REMOVE	atg001183l_1
-
 ========== REFSEQ: virus ==========
 
-#Monjiviricetes
-REMOVE	atg001033l_1
 
+========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
