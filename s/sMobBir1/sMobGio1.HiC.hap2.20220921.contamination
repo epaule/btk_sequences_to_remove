@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_36	0	19298948	13918,0.072
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,6 +14,7 @@ scaffold_36	0	19298948	13918,0.072
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 TRIM:	scaffold_17	1	82730	
