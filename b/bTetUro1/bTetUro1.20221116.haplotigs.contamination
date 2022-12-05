@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002278l_1	0	462690	889,0.192
 
 ========== PLASTID SEQUENCE ==========
 
@@ -18,7 +17,5 @@ atg002278l_1	0	462690	889,0.192
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001880l_1	0	403787	261,0.065
-atg001532l_1	0	406800	121,0.030
 ========== TRIM Ns ==========
 

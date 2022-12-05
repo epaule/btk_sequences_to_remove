@@ -4,8 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_121	0	45868	45868,100.000
-scaffold_3	0	93087106	889,0.001
+REMOVE	scaffold_121
 
 ========== PLASTID SEQUENCE ==========
 
@@ -19,8 +18,5 @@ scaffold_3	0	93087106	889,0.001
 ========== REFSEQ: viridiplantae ==========
 ========== REFSEQ: viruses_and_viroids ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_18	0	14534689	261,0.002
-scaffold_13	0	19915077	121,0.001
-scaffold_2	0	110011032	190,0.000
 ========== TRIM Ns ==========
 
