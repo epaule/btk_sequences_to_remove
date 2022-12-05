@@ -1,0 +1,76 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_35	0	19218955	13918,0.072
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+TRIM:	scaffold_15	71143187	71536585	
+REVCLIP:	scaffold_15	71143187	71536585
+TRIM:	scaffold_23	1	138592	
+FWDCLIP:	scaffold_23	1	138592
+TRIM:	scaffold_30	1	371716	
+FWDCLIP:	scaffold_30	1	371716
+TRIM:	scaffold_36	1	66229	
+FWDCLIP:	scaffold_36	1	66229
+TRIM:	scaffold_88	3921014	4088075	
+REVCLIP:	scaffold_88	3921014	4088075
+TRIM:	scaffold_100	1	15512	
+FWDCLIP:	scaffold_100	1	15512
+TRIM:	scaffold_107	3061701	3175356	
+REVCLIP:	scaffold_107	3061701	3175356
+TRIM:	scaffold_143	2148231	2151807	
+REVCLIP:	scaffold_143	2148231	2151807
+TRIM:	scaffold_146	2052882	2112029	
+REVCLIP:	scaffold_146	2052882	2112029
+TRIM:	scaffold_161	1397258	1820462	
+REVCLIP:	scaffold_161	1397258	1820462
+TRIM:	scaffold_191	1	31130	
+FWDCLIP:	scaffold_191	1	31130
+TRIM:	scaffold_193	1	613931	
+FWDCLIP:	scaffold_193	1	613931
+TRIM:	scaffold_204	958900	1360950	
+REVCLIP:	scaffold_204	958900	1360950
+TRIM:	scaffold_205	1	96324	
+FWDCLIP:	scaffold_205	1	96324
+TRIM:	scaffold_225	1	126657	
+FWDCLIP:	scaffold_225	1	126657
+FWDCLIP:	scaffold_234	1	67089
+TRIM:	scaffold_239	1	29811	
+FWDCLIP:	scaffold_239	1	29811
+TRIM:	scaffold_245	753142	1056788	
+REVCLIP:	scaffold_245	753142	1056788
+TRIM:	scaffold_273	1	59912	
+FWDCLIP:	scaffold_273	1	59912
+TRIM:	scaffold_302	1	250194	
+FWDCLIP:	scaffold_302	1	250194
+TRIM:	scaffold_306	1	80696	
+FWDCLIP:	scaffold_306	1	80696
+TRIM:	scaffold_324	564839	689535	
+REVCLIP:	scaffold_324	564839	689535
+TRIM:	scaffold_350	1	314492	
+FWDCLIP:	scaffold_350	1	314492
+TRIM:	scaffold_376	357267	530685	
+REVCLIP:	scaffold_376	357267	530685
+TRIM:	scaffold_441	401102	406308	
+REVCLIP:	scaffold_441	401102	406308
+TRIM:	scaffold_458	300961	386160	
+REVCLIP:	scaffold_458	300961	386160
+TRIM:	scaffold_476	1	50036	
+FWDCLIP:	scaffold_476	1	50036
+TRIM:	scaffold_608	207411	250259	
+REVCLIP:	scaffold_608	207411	250259
+
