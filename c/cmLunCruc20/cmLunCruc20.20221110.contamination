@@ -75,10 +75,13 @@ REMOVE	scaffold_587
 
 ========== BARCODES ==========
 
-========== REFSEQ: virtus ==========
+========== REFSEQ: virus ==========
 
 #Uroviricota
 REMOVE	scaffold_2090
+
+#prokaryotic viruses
+REMOVE	scaffold_651
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -95,9 +98,11 @@ REMOVE	scaffold_2221
 REMOVE	scaffold_2363
 REMOVE	scaffold_2385
 REMOVE	scaffold_2481
+REMOVE	scaffold_796
 
 #g-proteobacteria
 REMOVE	scaffold_2357
+REMOVE	scaffold_880
 
 #bacteriodetes
 REMOVE	scaffold_1020
@@ -220,7 +225,6 @@ REMOVE	scaffold_984
 REMOVE	scaffold_985
 REMOVE	scaffold_987
 REMOVE	scaffold_988
-
 
 #cyanobacteria
 #chloroflexi
@@ -488,7 +492,6 @@ REMOVE	scaffold_970
 REMOVE	scaffold_981
 REMOVE	scaffold_998
 
-
 #b-proteobacteria
 REMOVE	scaffold_808
 REMOVE	scaffold_2277
@@ -573,7 +576,6 @@ REMOVE	scaffold_2245
 REMOVE	scaffold_2327
 REMOVE	scaffold_2529
 
-
 #a-proteobacteria
 REMOVE	scaffold_2043
 REMOVE	scaffold_2255
@@ -581,6 +583,7 @@ REMOVE	scaffold_2411
 REMOVE	scaffold_1919
 REMOVE	scaffold_1993
 REMOVE	scaffold_2209
+REMOVE	scaffold_164
 
 #Actinobacteria
 REMOVE	scaffold_1642
