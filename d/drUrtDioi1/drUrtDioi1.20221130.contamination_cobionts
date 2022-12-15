@@ -47,7 +47,7 @@ REMOVE	scaffold_90
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#bacteriodetes
+#Bacteroidota
 REMOVE	scaffold_102
 REMOVE	scaffold_103
 REMOVE	scaffold_104
@@ -67,8 +67,6 @@ REMOVE	scaffold_85
 REMOVE	scaffold_89
 REMOVE	scaffold_91
 REMOVE	scaffold_92
-
-#proteobacteria
 REMOVE	scaffold_99
 
 
@@ -78,19 +76,42 @@ REMOVE	scaffold_99
 #insects
 REMOVE	scaffold_106
 REMOVE	scaffold_110
+REMOVE	scaffold_116
 REMOVE	scaffold_119
+REMOVE	scaffold_120
+REMOVE	scaffold_121
 REMOVE	scaffold_125
 REMOVE	scaffold_126
 REMOVE	scaffold_127
+REMOVE	scaffold_128
+REMOVE	scaffold_129
+REMOVE	scaffold_130
 REMOVE	scaffold_131
+REMOVE	scaffold_133
+REMOVE	scaffold_134
 REMOVE	scaffold_135
-REMOVE	scaffold_140
+REMOVE	scaffold_136
+REMOVE	scaffold_138
+REMOVE	scaffold_139
+REMOVE	scaffold_143
 REMOVE	scaffold_146
 REMOVE	scaffold_147
+REMOVE	scaffold_149
+REMOVE	scaffold_150
 REMOVE	scaffold_151
 REMOVE	scaffold_152
+REMOVE	scaffold_153
+REMOVE	scaffold_154
 REMOVE	scaffold_155
+REMOVE	scaffold_158
+REMOVE	scaffold_160
+REMOVE  scaffold_161
 REMOVE	scaffold_41
+REMOVE	scaffold_45
+REMOVE	scaffold_46
+REMOVE	scaffold_70
+REMOVE	scaffold_80
+REMOVE	scaffold_95
 
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
@@ -102,9 +123,11 @@ REMOVE	scaffold_44
 REMOVE	scaffold_53
 REMOVE	scaffold_79
 REMOVE	scaffold_94
+REMOVE	scaffold_96
 
 #basidiomycetes
 REMOVE	scaffold_88
+
 
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
