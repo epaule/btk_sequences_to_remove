@@ -67,27 +67,71 @@ REMOVE	hap_ptg000942l_1_1
 ========== REFSEQ: arthropoda ==========
 
 #Arthropoda
-REMOVE	atg001958l_1
-REMOVE	atg002475l_1
-REMOVE	atg005010l_1
+REMOVE  atg000374l_1
+REMOVE  atg000643l_1
+REMOVE  atg000690l_1
+REMOVE  atg001009l_1
+REMOVE  atg001047l_1
+REMOVE  atg001165l_1
+REMOVE  atg001432l_1
+REMOVE  atg001490l_1
+REMOVE  atg001585l_1
+REMOVE  atg001586l_1
+REMOVE  atg001710l_1
+REMOVE  atg001747l_1
+REMOVE  atg001958l_1
+REMOVE  atg002053l_1
+REMOVE  atg002095l_1
+REMOVE  atg002126l_1
+REMOVE  atg002272l_1
+REMOVE  atg002362l_1
+REMOVE  atg002392l_1
+REMOVE  atg002475l_1
+REMOVE  atg002548l_1
+REMOVE  atg002957l_1
+REMOVE  atg003039l_1
+REMOVE  atg003379l_1
+REMOVE  atg003402l_1
+REMOVE  atg003881l_1
+REMOVE  atg005010l_1
+REMOVE  hap_ptg000700l_1_1
+
 
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#CFB group bacteria
-REMOVE	hap_ptg000716l_1_1
+#Bacteroidota
+REMOVE	atg000214l_1
+REMOVE	atg000350l_1
+REMOVE	atg000738l_1
+REMOVE	atg001754l_1
+REMOVE	atg001935l_1
 REMOVE	atg002524l_1
+REMOVE	atg002732l_1
+REMOVE	atg002931l_1
+REMOVE	atg003012l_1
+REMOVE	atg003611l_1
+REMOVE	atg004289l_1
+REMOVE	atg004337l_1
 REMOVE	hap_ptg000611l_1_1
+REMOVE	hap_ptg000716l_1_1
+
+#Bacteria-undef
+REMOVE  atg000279l_1
+REMOVE  atg001052l_1
+REMOVE  atg003786l_1
+REMOVE  atg004731l_1
 
 #Proteobacteria
-REMOVE	atg001184l_1
-REMOVE	atg001503l_1
-REMOVE	atg001545l_1
-REMOVE	atg002080l_1
-REMOVE	atg003275l_1
-REMOVE	atg003786l_1
-REMOVE	atg004193l_1
-REMOVE	atg004731l_1
+REMOVE  atg001175l_1
+REMOVE  atg001503l_1
+REMOVE  atg001545l_1
+REMOVE  atg001624l_1
+REMOVE  atg001950l_1
+REMOVE  atg002078l_1
+REMOVE  atg003081l_1
+REMOVE  atg003275l_1
+REMOVE  atg005009l_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
