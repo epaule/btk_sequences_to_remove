@@ -1,0 +1,64 @@
+#Chordata
+REMOVE	atg000172l_1
+REMOVE	atg000732l_1
+REMOVE	atg001265l_1
+REMOVE	hap_ptg000286l_1_1
+REMOVE	hap_ptg000358l_1_1
+REMOVE	hap_ptg000485l_1_1
+REMOVE	hap_ptg000509l_1_1
+REMOVE	hap_ptg000638l_1_1
+REMOVE	hap_ptg000914l_1_1
+REMOVE	hap_ptg000996l_1_1
+REMOVE	hap_ptg001199l_1_1
+
+#Streptophyta
+REMOVE	atg000898l_1
+REMOVE	atg001090l_1
+REMOVE	atg001095l_1
+REMOVE	atg001383l_1
+
+#Mucoromycota
+REMOVE	atg001038l_1
+REMOVE	atg001381l_1
+REMOVE	atg001738l_1
+
+#Chytridiomycota
+REMOVE	atg001053l_1
+
+#Basidiomycota
+REMOVE	atg001117l_1
+REMOVE	atg001193l_1
+REMOVE	atg001505l_1
+REMOVE	atg001558l_1
+REMOVE	hap_ptg000963l_1_1
+
+#Ascomycota
+REMOVE	atg001250l_1
+
+#Firmicutes
+REMOVE	atg001400l_1
+REMOVE	hap_ptg000686l_1_1
+
+#Zoopagomycota
+REMOVE	atg001413l_1
+REMOVE	hap_ptg000379c_1_1
+
+#Rotifera
+REMOVE	atg001434l_1
+
+#Cnidaria
+REMOVE	atg001819l_1
+
+#Eukaryota-undef
+REMOVE	atg001832l_1
+REMOVE	hap_ptg000689l_1_1
+REMOVE	hap_ptg000837l_1_1
+REMOVE	hap_ptg001018l_1_1
+REMOVE	hap_ptg001047l_1_1
+
+#Microsporidia
+REMOVE	hap_ptg000859l_1_1
+
+#plastid
+REMOVE	hap_ptg001129l_1_1
+

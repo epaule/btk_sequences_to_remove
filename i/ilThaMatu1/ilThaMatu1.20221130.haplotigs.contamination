@@ -4,8 +4,7 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000118l_1_1	0	30015	29439,98.081
-atg000078l_1	0	2197003	882,0.040
+REMOVE	hap_ptg000118l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -18,12 +17,71 @@ atg000078l_1	0	2197003	882,0.040
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000379c_1_1	0	42748	354,0.828
-atg001250l_1	0	19713	118,0.599
+
+#Ascomycota
+REMOVE	atg001558l_1
+
+#Basidiomycota
+REMOVE	atg001072l_1
+REMOVE	atg001085l_1
+REMOVE	atg001193l_1
+REMOVE	atg001434l_1
+REMOVE	atg001660l_1
+REMOVE	atg001672l_1
+REMOVE	atg001738l_1
+REMOVE	hap_ptg001126l_1_1
+
+#Chytridiomycota
+REMOVE	atg000531l_1
+
+#Mucoromycota
+REMOVE	atg001275l_1
+REMOVE	atg001383l_1
+REMOVE	atg001730l_1
+REMOVE	atg001761l_1
+REMOVE	atg001819l_1
+REMOVE	hap_ptg000078l_1_1
+REMOVE	hap_ptg000286l_1_1
+REMOVE	hap_ptg000461l_1_1
+REMOVE	hap_ptg000560l_1_1
+REMOVE	hap_ptg000612l_1_1
+REMOVE	hap_ptg000686l_1_1
+REMOVE	hap_ptg000727l_1_1
+REMOVE	hap_ptg000898l_1_1
+REMOVE	hap_ptg000965l_1_1
+REMOVE	hap_ptg001007l_1_1
+REMOVE	hap_ptg001012l_1_1
+REMOVE	hap_ptg001101l_1_1
+REMOVE	hap_ptg001129l_1_1
+
+#Zoopagomycota
+REMOVE	atg001033l_1
+REMOVE	atg001413l_1
+REMOVE	atg001595l_1
+REMOVE	atg001611l_1
+REMOVE	hap_ptg000088l_1_1
+REMOVE	hap_ptg000093l_1_1
+REMOVE	hap_ptg000206l_1_1
+REMOVE	hap_ptg000697l_1_1
+REMOVE	hap_ptg000828l_1_1
+REMOVE	hap_ptg000870l_1_1
+
+#fungi
+REMOVE	hap_ptg000402l_1_1
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000379c_1_1	0	42748	501,1.172
-atg001250l_1	0	19713	167,0.847
+
+#Streptophyta
+REMOVE	atg001124l_1
+REMOVE	atg001166l_1
+REMOVE	atg001250l_1
+REMOVE	hap_ptg000379c_1_1
+REMOVE	hap_ptg000660l_1_1
+REMOVE	hap_ptg000736l_1_1
+REMOVE	hap_ptg000777l_1_1
+REMOVE	hap_ptg001091l_1_1
+
 ========== TRIM Ns ==========
 
