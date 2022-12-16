@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	scaffold_351
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -11,36 +11,24 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: bacteria ==========
-
-#Alphaproteobacteria
-REMOVE	atg004676l_1
-
+========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 
-#Oomycota
-REMOVE	atg004105l_1
+#ascomycetes
+REMOVE	scaffold_326
 
-========== REFSEQ: virus ==========
+#Basidiomycota
+REMOVE	scaffold_475
 
-#Pokkesviricetes
-REMOVE	atg003770l_1
-REMOVE	atg004377l_1
-REMOVE	atg005433l_1
-
+========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#Magnoliopsida
-REMOVE	atg002666l_1
-REMOVE	atg003077l_1
-REMOVE	atg003089l_1
-REMOVE	atg004522l_1
-REMOVE	atg005614l_1
-REMOVE	atg006339l_1
+#Streptophyta
+REMOVE	scaffold_535
 
 ========== TRIM Ns ==========
 

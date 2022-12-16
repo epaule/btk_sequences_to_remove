@@ -11,36 +11,28 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: bacteria ==========
-
-#Alphaproteobacteria
-REMOVE	atg004676l_1
-
+========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 
-#Oomycota
-REMOVE	atg004105l_1
+#Ascomycota
+REMOVE  atg001881l_1
+REMOVE  atg003414l_1
+REMOVE  atg005260l_1
 
 ========== REFSEQ: virus ==========
 
-#Pokkesviricetes
-REMOVE	atg003770l_1
-REMOVE	atg004377l_1
-REMOVE	atg005433l_1
+#Nucleocytoviricota
+REMOVE  atg006469l_1
 
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#Magnoliopsida
-REMOVE	atg002666l_1
-REMOVE	atg003077l_1
-REMOVE	atg003089l_1
-REMOVE	atg004522l_1
-REMOVE	atg005614l_1
-REMOVE	atg006339l_1
+#Streptophyta
+REMOVE  atg004806l_1
+REMOVE  atg005002l_1
 
 ========== TRIM Ns ==========
 

@@ -1,0 +1,97 @@
+#Chordata
+REMOVE	scaffold_37
+REMOVE	scaffold_70
+REMOVE	scaffold_78
+REMOVE	scaffold_79
+REMOVE	scaffold_109
+REMOVE	scaffold_116
+REMOVE	scaffold_132
+REMOVE	scaffold_135
+REMOVE	scaffold_143
+REMOVE	scaffold_145
+REMOVE	scaffold_161
+REMOVE	scaffold_163
+REMOVE	scaffold_171
+REMOVE	scaffold_172
+REMOVE	scaffold_184
+REMOVE	scaffold_186
+REMOVE	scaffold_188
+REMOVE	scaffold_192
+REMOVE	scaffold_193
+REMOVE	scaffold_209
+REMOVE	scaffold_215
+REMOVE	scaffold_218
+REMOVE	scaffold_230
+REMOVE	scaffold_232
+REMOVE	scaffold_246
+REMOVE	scaffold_252
+REMOVE	scaffold_253
+REMOVE	scaffold_260
+REMOVE	scaffold_262
+REMOVE	scaffold_267
+REMOVE	scaffold_302
+REMOVE	scaffold_309
+REMOVE	scaffold_311
+REMOVE	scaffold_313
+REMOVE	scaffold_318
+REMOVE	scaffold_322
+REMOVE	scaffold_328
+REMOVE	scaffold_329
+REMOVE	scaffold_334
+REMOVE	scaffold_337
+REMOVE	scaffold_344
+REMOVE	scaffold_350
+REMOVE	scaffold_360
+REMOVE	scaffold_361
+REMOVE	scaffold_372
+REMOVE	scaffold_398
+REMOVE	scaffold_449
+REMOVE	scaffold_454
+REMOVE	scaffold_474
+REMOVE	scaffold_476
+REMOVE	scaffold_480
+REMOVE	scaffold_481
+REMOVE	scaffold_482
+REMOVE	scaffold_484
+REMOVE	scaffold_486
+REMOVE	scaffold_487
+REMOVE	scaffold_495
+REMOVE	scaffold_498
+REMOVE	scaffold_499
+REMOVE	scaffold_500
+REMOVE	scaffold_501
+REMOVE	scaffold_503
+REMOVE	scaffold_505
+REMOVE	scaffold_507
+REMOVE	scaffold_508
+REMOVE	scaffold_511
+REMOVE	scaffold_515
+REMOVE	scaffold_516
+REMOVE	scaffold_517
+REMOVE	scaffold_520
+REMOVE	scaffold_522
+REMOVE	scaffold_524
+REMOVE	scaffold_538
+REMOVE	scaffold_539
+REMOVE	scaffold_542
+REMOVE	scaffold_544
+
+#Ascomycota
+REMOVE	scaffold_326
+
+#Annelida
+REMOVE	scaffold_442
+
+#Cnidaria
+REMOVE	scaffold_455
+
+#Basidiomycota
+REMOVE	scaffold_475
+
+#Eukaryota-undef
+REMOVE	scaffold_479
+REMOVE	scaffold_483
+
+#Streptophyta
+REMOVE	scaffold_535
+
