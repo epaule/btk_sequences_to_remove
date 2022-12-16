@@ -4,8 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_32	0	2937975	686,0.023
-scaffold_11	0	15769574	890,0.006
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,24 +14,21 @@ scaffold_11	0	15769574	890,0.006
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_36	0	1063262	15418,1.450
+
+#spiroplasma
+REMOVE	scaffold_36
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_302	0	26144	200,0.765
-scaffold_154	0	112009	800,0.714
-scaffold_289	0	29598	200,0.676
-scaffold_288	0	29681	200,0.674
-scaffold_285	0	30209	200,0.662
-scaffold_101	0	192000	1200,0.625
-scaffold_160	0	104479	600,0.574
-scaffold_277	0	34837	200,0.574
-scaffold_134	0	135455	200,0.148
-scaffold_108	0	174722	200,0.114
-scaffold_68	0	421550	200,0.047
-scaffold_32	0	2937975	1010,0.034
-scaffold_21	0	10934110	1368,0.013
-scaffold_31	0	3347302	400,0.012
-scaffold_23	0	9906618	317,0.003
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	scaffold_154
+REMOVE	scaffold_160
+REMOVE	scaffold_285
+REMOVE	scaffold_288
+REMOVE	scaffold_289
+REMOVE	scaffold_302
+
 ========== TRIM Ns ==========
 

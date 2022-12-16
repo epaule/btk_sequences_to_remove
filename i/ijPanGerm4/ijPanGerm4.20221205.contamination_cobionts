@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-REMOVE	hap_ptg000703l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,26 +12,38 @@ REMOVE	hap_ptg000703l_1_1
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#spiroplasma
+REMOVE	scaffold_36
+
+#Firmicutes
+REMOVE  scaffold_129
+REMOVE  scaffold_182
+REMOVE  scaffold_184
+REMOVE  scaffold_216
+REMOVE  scaffold_242
+REMOVE  scaffold_304
+
+#Apicomplexa
+REMOVE  scaffold_157
+REMOVE  scaffold_169
+REMOVE  scaffold_272
+REMOVE  scaffold_279
+REMOVE  scaffold_305
+REMOVE  scaffold_312
+REMOVE  scaffold_330
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 
-#Streptophyta
-REMOVE	atg003320l_1
-REMOVE	atg004474l_1
-REMOVE	atg005035l_1
-REMOVE	atg007439l_1
-REMOVE	atg007466l_1
-REMOVE	atg007528l_1
-REMOVE	atg008224l_1
-REMOVE	atg008334l_1
-REMOVE	hap_ptg001386c_1_1
-REMOVE	hap_ptg001932c_1_1
-REMOVE	hap_ptg002339l_1_1
-REMOVE	hap_ptg002500l_1_1
-REMOVE	hap_ptg002619l_1_1
-REMOVE	hap_ptg002658l_1_1
-REMOVE	hap_ptg002667l_1_1
+#chloroplast
+REMOVE  scaffold_301
+REMOVE  scaffold_316
 
+#streptophyta
+REMOVE  scaffold_317
 ========== TRIM Ns ==========
 

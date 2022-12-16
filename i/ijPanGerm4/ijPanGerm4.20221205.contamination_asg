@@ -1,0 +1,52 @@
+#Tenericutes
+REMOVE	scaffold_36
+
+#Chordata
+REMOVE	scaffold_51
+REMOVE	scaffold_122
+REMOVE	scaffold_124
+REMOVE	scaffold_128
+REMOVE	scaffold_138
+REMOVE	scaffold_153
+REMOVE	scaffold_208
+REMOVE	scaffold_218
+REMOVE	scaffold_235
+REMOVE	scaffold_261
+REMOVE	scaffold_284
+REMOVE	scaffold_310
+REMOVE	scaffold_328
+
+#Firmicutes
+REMOVE	scaffold_129
+REMOVE	scaffold_182
+REMOVE	scaffold_184
+REMOVE	scaffold_216
+REMOVE	scaffold_242
+REMOVE	scaffold_304
+
+#Apicomplexa
+REMOVE	scaffold_157
+REMOVE	scaffold_169
+REMOVE	scaffold_272
+REMOVE	scaffold_279
+REMOVE	scaffold_305
+REMOVE	scaffold_312
+REMOVE	scaffold_330
+
+#Mollusca
+REMOVE	scaffold_167
+REMOVE	scaffold_183
+REMOVE	scaffold_306
+REMOVE	scaffold_333
+
+#plastid
+REMOVE	scaffold_301
+REMOVE	scaffold_316
+
+#Eukaryota-undef
+REMOVE	scaffold_315
+REMOVE	scaffold_331
+
+#Streptophyta
+REMOVE	scaffold_317
+

@@ -16,23 +16,5 @@ REMOVE	hap_ptg000703l_1_1
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
-
-#Streptophyta
-REMOVE	atg003320l_1
-REMOVE	atg004474l_1
-REMOVE	atg005035l_1
-REMOVE	atg007439l_1
-REMOVE	atg007466l_1
-REMOVE	atg007528l_1
-REMOVE	atg008224l_1
-REMOVE	atg008334l_1
-REMOVE	hap_ptg001386c_1_1
-REMOVE	hap_ptg001932c_1_1
-REMOVE	hap_ptg002339l_1_1
-REMOVE	hap_ptg002500l_1_1
-REMOVE	hap_ptg002619l_1_1
-REMOVE	hap_ptg002658l_1_1
-REMOVE	hap_ptg002667l_1_1
-
 ========== TRIM Ns ==========
 
