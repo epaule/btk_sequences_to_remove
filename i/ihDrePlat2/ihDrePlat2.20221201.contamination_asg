@@ -1,0 +1,15 @@
+#Proteobacteria
+REMOVE	scaffold_16
+REMOVE	scaffold_24
+REMOVE	scaffold_27
+REMOVE	scaffold_29
+REMOVE	scaffold_33
+REMOVE	scaffold_36
+REMOVE	scaffold_40
+REMOVE	scaffold_47
+REMOVE	scaffold_49
+REMOVE	scaffold_92
+
+#Chordata
+REMOVE	scaffold_94
+
