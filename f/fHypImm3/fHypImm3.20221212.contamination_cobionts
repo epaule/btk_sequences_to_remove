@@ -1,0 +1,91 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Bacteroidota
+REMOVE	scaffold_149
+
+#g-proteobacteria
+REMOVE	scaffold_1076
+REMOVE	scaffold_1115
+REMOVE	scaffold_1131
+REMOVE	scaffold_1175
+REMOVE	scaffold_1181
+REMOVE	scaffold_1228
+REMOVE	scaffold_1266
+REMOVE	scaffold_737
+REMOVE	scaffold_837
+REMOVE	scaffold_890
+========== REFSEQ: chordata ==========
+========== REFSEQ: insect ==========
+
+#insect
+REMOVE	scaffold_100
+REMOVE	scaffold_103
+REMOVE	scaffold_1122
+REMOVE	scaffold_118
+REMOVE	scaffold_1247
+REMOVE	scaffold_1347
+REMOVE	scaffold_1348
+REMOVE	scaffold_1357
+REMOVE	scaffold_1399
+REMOVE	scaffold_1409
+REMOVE	scaffold_1421
+REMOVE	scaffold_1431
+REMOVE	scaffold_1434
+REMOVE	scaffold_1440
+REMOVE	scaffold_1443
+REMOVE	scaffold_1445
+REMOVE	scaffold_1460
+REMOVE	scaffold_1480
+REMOVE	scaffold_1481
+REMOVE	scaffold_1495
+REMOVE	scaffold_1510
+REMOVE	scaffold_1513
+REMOVE	scaffold_1521
+REMOVE	scaffold_1526
+REMOVE	scaffold_1533
+REMOVE	scaffold_1534
+REMOVE	scaffold_1542
+REMOVE	scaffold_1579
+REMOVE	scaffold_182
+REMOVE	scaffold_183
+REMOVE	scaffold_211
+REMOVE	scaffold_214
+REMOVE	scaffold_217
+REMOVE	scaffold_220
+REMOVE	scaffold_225
+REMOVE	scaffold_258
+REMOVE	scaffold_317
+REMOVE	scaffold_340
+REMOVE	scaffold_388
+REMOVE	scaffold_470
+REMOVE	scaffold_51
+REMOVE	scaffold_54
+REMOVE	scaffold_552
+REMOVE	scaffold_56
+REMOVE	scaffold_65
+REMOVE	scaffold_77
+REMOVE	scaffold_88
+REMOVE	scaffold_926
+
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Euglenozoa
+REMOVE	scaffold_1566
+
+========== TRIM Ns ==========
+
