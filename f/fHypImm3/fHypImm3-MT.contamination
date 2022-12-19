@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg003678l_rc_rotated	0	16527	16527,100.000
 
 ========== PLASTID SEQUENCE ==========
 

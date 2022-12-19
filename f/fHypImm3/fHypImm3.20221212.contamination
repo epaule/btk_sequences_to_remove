@@ -11,13 +11,35 @@
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_1115	0	12209	766,6.274
+
+#g-proteobacteria
+REMOVE	scaffold_1026
+REMOVE	scaffold_1076
+REMOVE	scaffold_1115
+REMOVE	scaffold_1131
+REMOVE	scaffold_1175
+REMOVE	scaffold_1181
+REMOVE	scaffold_1228
+REMOVE	scaffold_1294
+REMOVE	scaffold_1326
+REMOVE	scaffold_737
+REMOVE	scaffold_837
+REMOVE	scaffold_890
 ========== REFSEQ: chordata ==========
-========== REFSEQ: fungi ==========
+========== REFSEQ: insect ==========
+
+#insecta
+REMOVE	scaffold_1347
+REMOVE	scaffold_366
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
+
+#Holothuroidea
+REMOVE	scaffold_442
+REMOVE	scaffold_904
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_1115	0	12209	137,1.122
 ========== TRIM Ns ==========
 
