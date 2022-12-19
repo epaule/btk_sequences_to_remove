@@ -1,0 +1,29 @@
+#Chlorophyta
+REMOVE	scaffold_47
+REMOVE	scaffold_54
+REMOVE	scaffold_57
+REMOVE	scaffold_65
+REMOVE	scaffold_72
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+REMOVE	scaffold_81
+REMOVE	scaffold_83
+REMOVE	scaffold_104
+REMOVE	scaffold_106
+REMOVE	scaffold_114
+REMOVE	scaffold_123
+REMOVE	scaffold_142
+REMOVE	scaffold_207
+REMOVE	scaffold_312
+REMOVE	scaffold_320
+
+#Streptophyta
+REMOVE	scaffold_101
+REMOVE	scaffold_343
+
+#Tenericutes
+REMOVE	scaffold_266
+REMOVE	scaffold_322
+REMOVE	scaffold_328
+REMOVE	scaffold_338
+
