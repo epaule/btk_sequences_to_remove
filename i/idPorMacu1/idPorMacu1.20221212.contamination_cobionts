@@ -20,17 +20,22 @@ REMOVE	scaffold_18
 REMOVE	scaffold_19
 REMOVE	scaffold_36
 
+#Proteobacteria
+REMOVE	scaffold_15
+REMOVE	scaffold_27
+REMOVE	scaffold_62
+REMOVE	scaffold_75
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
 
-#Magnoliopsida
-REMOVE	scaffold_98
+#Streptophyta
 REMOVE	scaffold_92
 REMOVE	scaffold_94
 REMOVE	scaffold_95
-REMOVE	scaffold_96
+REMOVE	scaffold_98
 
 ========== TRIM Ns ==========
 

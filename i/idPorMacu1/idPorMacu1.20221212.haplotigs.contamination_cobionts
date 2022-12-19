@@ -14,20 +14,58 @@ REMOVE	hap_ptg000369l_1_1
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: virus ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#Viruses-undef
-REMOVE	atg002983l_1
+#Proteobacteria
+REMOVE	atg001595l_1
+REMOVE	atg002073l_1
+REMOVE	atg002798l_1
+REMOVE	atg002889l_1
+REMOVE	atg003463l_1
+REMOVE	atg003586l_1
+REMOVE	atg003953l_1
+REMOVE	atg004081l_1
+REMOVE	atg004205l_1
+REMOVE	atg004724l_1
+REMOVE	atg004761l_1
+REMOVE	atg005474l_1
+REMOVE	atg005570l_1
+REMOVE	atg005703l_1
+REMOVE	hap_ptg000440l_1_1
+
+#Archaea-undef
+REMOVE	atg001874l_1
+REMOVE	atg001896l_1
+REMOVE	atg002463l_1
+REMOVE	atg002666l_1
+REMOVE	atg004067l_1
+REMOVE	atg005199l_1
+REMOVE	hap_ptg000395l_1_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: other_eukaryota ==========
+
+========== REFSEQ: fungi ==========
+
+#Basidiomycota
+REMOVE	hap_ptg000312l_1_1
+
 ========== REFSEQ: viridiplantae ==========
 
-#Magnoliopsida
-REMOVE	atg005093l_1
+#plastid
+REMOVE	atg003619l_1
+REMOVE	atg004017l_1
+
+#Streptophyta
+REMOVE	atg004098l_1
+REMOVE	atg004845l_1
+REMOVE	atg005723l_1
+REMOVE	hap_ptg000301l_1_1
+REMOVE	hap_ptg000374l_1_1
+REMOVE	hap_ptg000446l_1_1
 REMOVE	hap_ptg000495l_1_1
+
 
 ========== TRIM Ns ==========
 
