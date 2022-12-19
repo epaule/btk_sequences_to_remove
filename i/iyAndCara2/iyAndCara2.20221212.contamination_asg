@@ -1,0 +1,45 @@
+#Chordata
+REMOVE	scaffold_12
+REMOVE	scaffold_14
+REMOVE	scaffold_38
+REMOVE	scaffold_42
+REMOVE	scaffold_48
+REMOVE	scaffold_63
+REMOVE	scaffold_67
+REMOVE	scaffold_73
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_82
+REMOVE	scaffold_105
+REMOVE	scaffold_112
+REMOVE	scaffold_113
+REMOVE	scaffold_118
+REMOVE	scaffold_147
+REMOVE	scaffold_153
+REMOVE	scaffold_164
+REMOVE	scaffold_180
+REMOVE	scaffold_187
+REMOVE	scaffold_196
+REMOVE	scaffold_197
+REMOVE	scaffold_210
+REMOVE	scaffold_239
+REMOVE	scaffold_271
+REMOVE	scaffold_273
+REMOVE	scaffold_357
+REMOVE	scaffold_673
+REMOVE	scaffold_699
+
+#Proteobacteria
+REMOVE	scaffold_20
+REMOVE	scaffold_27
+REMOVE	scaffold_68
+
+#Mollusca
+REMOVE	scaffold_201
+REMOVE	scaffold_288
+
+#Cyanobacteria
+REMOVE	scaffold_369
+
