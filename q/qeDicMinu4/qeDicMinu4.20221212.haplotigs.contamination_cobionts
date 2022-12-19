@@ -12,13 +12,35 @@
 
 ========== REFSEQ: bacteria ==========
 
-#Flavobacteria
-REMOVE	scaffold_510
+#Candidatus Delongbacteria
+REMOVE	atg000727l_1
+
+#Bacteroidota
+REMOVE	atg001802l_1
+REMOVE	atg004455l_1
+
+#Proteobacteria
+REMOVE	atg002056l_1
+REMOVE	atg003199l_1
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
+
+#Ascomycota
+REMOVE	atg002296l_1
+
+#Microsporidia
+REMOVE	atg004107l_1
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Streptophyta
+REMOVE	atg000289l_1
+REMOVE	atg003367l_1
+REMOVE	atg003418l_1
+REMOVE	atg004309l_1
+
 ========== TRIM Ns ==========
 

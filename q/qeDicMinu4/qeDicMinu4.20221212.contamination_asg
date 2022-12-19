@@ -1,0 +1,27 @@
+#Chordata
+REMOVE	scaffold_148
+REMOVE	scaffold_161
+REMOVE	scaffold_324
+REMOVE	scaffold_334
+REMOVE	scaffold_358
+REMOVE	scaffold_363
+REMOVE	scaffold_401
+REMOVE	scaffold_439
+REMOVE	scaffold_444
+REMOVE	scaffold_454
+REMOVE	scaffold_463
+REMOVE	scaffold_466
+REMOVE	scaffold_494
+REMOVE	scaffold_503
+
+#Eukaryota-undef
+REMOVE	scaffold_332
+REMOVE	scaffold_447
+REMOVE	scaffold_459
+
+#Preplasmiviricota
+REMOVE	scaffold_445
+
+#Bacteroidota
+REMOVE	scaffold_510
+

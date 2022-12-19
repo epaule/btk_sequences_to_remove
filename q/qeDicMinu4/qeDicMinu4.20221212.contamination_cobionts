@@ -12,12 +12,16 @@
 
 ========== REFSEQ: bacteria ==========
 
-#Flavobacteria
+#CFB group bacteria
 REMOVE	scaffold_510
 
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: fungi ==========
+========== REFSEQ: virus ==========
+
+#Preplasmiviricota
+REMOVE  scaffold_445
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
