@@ -1,19 +1,14 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000319l_1	0	58965	5014,8.503
-atg000167l_1	0	156572	10393,6.638
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000470l_1	0	9991	3027,30.297
-atg000062l_1	0	943750	4091,0.433
-
+REMOVE	atg000470l_1
+REMOVE	atg000655l_1
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000319l_1	0	58965	3920,6.648
-atg000167l_1	0	156572	7842,5.009
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -22,84 +17,21 @@ atg000167l_1	0	156572	7842,5.009
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000319l_1	0	58965	3050,5.173
-atg000167l_1	0	156572	6808,4.348
-atg000065l_1	0	1916124	585,0.031
-atg000143l_1	0	779149	116,0.015
-atg000028l_1	0	1921326	148,0.008
-atg000060l_1	0	1666828	116,0.007
-atg000080l_1	0	3102094	155,0.005
-atg000112l_1	0	3680693	172,0.005
+
+#g-proteobacteria
+REMOVE	atg000167l_1
+REMOVE	atg000319l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000623l_1	0	16020	280,1.748
-atg000501l_1	0	16117	280,1.737
-atg000373l_1	0	30376	420,1.383
-atg000402l_1	0	21979	280,1.274
-atg000269l_1	0	22090	280,1.268
-hap_ptg000227l_1_1	0	22408	280,1.250
-atg000342l_1	0	23199	280,1.207
-atg000432l_1	0	23339	280,1.200
-atg000621l_1	0	23489	280,1.192
-atg000527l_1	0	23642	280,1.184
-atg000492l_1	0	47517	560,1.179
-atg000658l_1	0	23812	280,1.176
-atg000627l_1	0	23914	280,1.171
-hap_ptg000190l_1_1	0	12003	137,1.141
-atg000611l_1	0	24834	280,1.127
-atg000645l_1	0	25011	280,1.120
-atg000395l_1	0	25061	280,1.117
-atg000476l_1	0	25110	280,1.115
-hap_ptg000183l_1_1	0	50370	560,1.112
-atg000683l_1	0	25613	280,1.093
-atg000290l_1	0	39030	420,1.076
-atg000630l_1	0	26059	280,1.074
-atg000447l_1	0	26226	280,1.068
-atg000416l_1	0	26346	280,1.063
-atg000671l_1	0	26537	280,1.055
-atg000266l_1	0	39806	420,1.055
-atg000516l_1	0	26639	280,1.051
-atg000302l_1	0	26778	280,1.046
-atg000631l_1	0	26919	280,1.040
-hap_ptg000214l_1_1	0	27114	280,1.033
-atg000235l_1	0	27187	280,1.030
-atg000601l_1	0	27374	280,1.023
-atg000552l_1	0	27438	280,1.020
-hap_ptg000144l_1_1	0	41456	420,1.013
-atg000497l_1	0	27855	280,1.005
-atg000329l_1	0	27984	280,1.001
-hap_ptg000216l_1_1	0	28071	280,0.997
-atg000466l_1	0	28155	280,0.994
-atg000592l_1	0	28228	280,0.992
-hap_ptg000152l_1_1	0	71399	700,0.980
-atg000577l_1	0	28648	280,0.977
-atg000578l_1	0	28668	280,0.977
-hap_ptg000209l_1_1	0	28891	280,0.969
-hap_ptg000184l_1_1	0	44394	420,0.946
-atg000259l_1	0	59248	560,0.945
-atg000628l_1	0	29692	280,0.943
-atg000551l_1	0	15466	140,0.905
-hap_ptg000110l_1_1	0	281053	2520,0.897
-atg000317l_1	0	15851	140,0.883
-atg000386l_1	0	47733	420,0.880
-atg000542l_1	0	32266	280,0.868
-hap_ptg000207l_1_1	0	16138	140,0.868
-atg000115l_1	0	34855	280,0.803
-hap_ptg000113l_1_1	0	88475	700,0.791
-hap_ptg000217l_1_1	0	36323	280,0.771
-atg000567l_1	0	18726	140,0.748
-atg000619l_1	0	19429	140,0.721
-atg000614l_1	0	20203	140,0.693
-atg000625l_1	0	20743	140,0.675
-atg000330l_1	0	21637	140,0.647
-atg000575l_1	0	21679	140,0.646
-atg000563l_1	0	21711	140,0.645
-atg000362l_1	0	22666	140,0.618
-atg000589l_1	0	22904	140,0.611
-atg000440l_1	0	23887	140,0.586
-atg000407l_1	0	24741	140,0.566
-atg000475l_1	0	25257	140,0.554
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#magnoliopsida
+REMOVE	atg000362l_1
+REMOVE	atg000440l_1
+REMOVE	atg000551l_1
+REMOVE	hap_ptg000207l_1_1
+
 ========== TRIM Ns ==========
 
