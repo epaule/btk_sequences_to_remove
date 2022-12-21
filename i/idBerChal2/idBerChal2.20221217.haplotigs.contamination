@@ -10,13 +10,21 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#Rickettsia
+REMOVE	atg001185l_1
+REMOVE	atg001464l_1
+REMOVE	hap_ptg000160l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000096l_1_1	0	132099	1260,0.954
-atg001759l_1	0	17854	140,0.784
-atg001392l_1	0	32552	140,0.430
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Fabales
+REMOVE	atg000263l_1
+REMOVE	hap_ptg000096l_1_1
+
 ========== TRIM Ns ==========
 
