@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg001636l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -11,22 +11,38 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001381l_1	0	24815	242,0.975
-atg001443l_1	0	14220	116,0.816
-atg000077l_1	0	47297	352,0.744
-atg000914l_1	0	23233	116,0.499
-atg000805l_1	0	23325	116,0.497
-atg000310l_1	0	23454	112,0.478
-atg001097l_1	0	27661	116,0.419
-atg001105l_1	0	34889	116,0.332
-atg001603l_1	0	195270	580,0.297
-atg001158l_1	0	54984	116,0.211
+
+#flavobacteria
+REMOVE	atg001629l_1
+REMOVE	atg001651l_1
+
+#g-proteobacteria
+REMOVE	atg000438l_1
+REMOVE	atg000886l_1
+REMOVE	atg001558l_1
+
+#b-proteobacteria
+REMOVE	atg000673l_1
+REMOVE	atg001374l_1
+REMOVE	atg001466l_1
+
+#CFB group bacteria
+REMOVE	atg000314l_1
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001213l_1	0	16503	870,5.272
-========== REFSEQ: other_metazoa ==========
+
+#yeast
+REMOVE	atg001213l_1
+
+========== REFSEQ: virus ==========
+
+#Quintoviricetes
+REMOVE	atg001486l_1
+
 ========== REFSEQ: viridiplantae ==========
+
 ========== TRIM Ns ==========
 
