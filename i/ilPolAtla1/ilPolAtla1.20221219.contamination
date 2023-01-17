@@ -4,8 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_666	0	37090	16266,43.855
-scaffold_360	0	169369	2192,1.294
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,19 +14,28 @@ scaffold_360	0	169369	2192,1.294
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_808	0	26421	128,0.484
-scaffold_596	0	50759	128,0.252
-scaffold_473	0	84000	128,0.152
-scaffold_224	0	1281277	128,0.010
-scaffold_191	0	1513116	127,0.008
-scaffold_118	0	2012551	117,0.006
-scaffold_109	0	2049400	119,0.006
-scaffold_24	0	3230580	119,0.004
 ========== REFSEQ: fungi ==========
+
+#microsporidia
+REMOVE	scaffold_282
+REMOVE	scaffold_293
+REMOVE	scaffold_297
+REMOVE	scaffold_320
+REMOVE	scaffold_328
+REMOVE	scaffold_372
+REMOVE	scaffold_413
+REMOVE	scaffold_415
+REMOVE	scaffold_439
+REMOVE	scaffold_543
+REMOVE	scaffold_544
+REMOVE	scaffold_562
+REMOVE	scaffold_1390
+REMOVE	scaffold_822
+REMOVE	scaffold_839
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_24	0	3230580	114,0.004
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
