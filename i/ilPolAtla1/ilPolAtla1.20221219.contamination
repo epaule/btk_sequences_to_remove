@@ -17,11 +17,6 @@
 ========== REFSEQ: fungi ==========
 
 #microsporidia
-REMOVE	scaffold_282
-REMOVE	scaffold_293
-REMOVE	scaffold_297
-REMOVE	scaffold_320
-REMOVE	scaffold_328
 REMOVE	scaffold_413
 REMOVE	scaffold_415
 REMOVE	scaffold_439
