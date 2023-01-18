@@ -1,38 +1,14 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_257	0	32214	7363,22.857
-scaffold_254	0	33460	5242,15.666
-scaffold_168	0	57809	5066,8.763
-scaffold_150	0	69243	5685,8.210
-scaffold_129	0	82761	5161,6.236
-scaffold_122	0	89251	5418,6.071
-scaffold_286	0	27641	1231,4.454
-scaffold_441	0	14225	281,1.975
-scaffold_411	0	16229	249,1.534
-scaffold_290	0	27333	352,1.288
-scaffold_180	0	54561	408,0.748
-scaffold_243	0	36340	268,0.737
-scaffold_408	0	16454	118,0.717
-scaffold_198	0	46657	250,0.536
-scaffold_331	0	21966	103,0.469
-scaffold_202	0	44825	180,0.402
-scaffold_265	0	30171	84,0.278
-scaffold_220	0	40377	79,0.196
-scaffold_208	0	43616	81,0.186
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_412	0	16130	14584,90.415
+REMOVE	scaffold_412
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_254	0	33460	2647,7.911
-scaffold_168	0	57809	2646,4.577
-scaffold_150	0	69243	2645,3.820
-scaffold_129	0	82761	2562,3.096
-scaffold_122	0	89251	2645,2.964
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -42,119 +18,188 @@ CONTAMINANT	scaffold_376	1	19
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_209	0	43166	43166,100.000
-scaffold_326	0	22305	22305,100.000
-scaffold_328	0	22102	22102,100.000
-scaffold_361	0	19722	19722,100.000
-scaffold_397	0	17313	17313,100.000
-scaffold_398	0	17259	17259,100.000
-scaffold_414	0	16018	16018,100.000
-scaffold_432	0	14959	14959,100.000
-scaffold_472	0	11460	11460,100.000
-scaffold_478	0	10031	10031,100.000
-scaffold_298	0	25942	25938,99.985
-scaffold_347	0	20412	20406,99.971
-scaffold_282	0	27972	27872,99.642
-scaffold_454	0	13300	13222,99.414
-scaffold_254	0	33460	33223,99.292
-scaffold_377	0	18631	18450,99.029
-scaffold_437	0	14525	14272,98.258
-scaffold_255	0	32868	31524,95.911
-scaffold_457	0	13251	12529,94.551
-scaffold_450	0	13428	11991,89.298
-scaffold_466	0	11989	10646,88.798
-scaffold_34	0	1147098	878940,76.623
-scaffold_41	0	432515	315328,72.906
-scaffold_66	0	213874	152168,71.148
-scaffold_386	0	18082	11466,63.411
-scaffold_434	0	14799	7760,52.436
-scaffold_168	0	57809	23953,41.435
-scaffold_257	0	32214	12171,37.782
-scaffold_129	0	82761	28648,34.615
-scaffold_111	0	103173	32168,31.179
-scaffold_277	0	28373	8302,29.260
-scaffold_98	0	119853	30407,25.370
-scaffold_48	0	325121	79844,24.558
-scaffold_69	0	180521	43861,24.297
-scaffold_74	0	164495	31478,19.136
-scaffold_247	0	34875	6186,17.738
-scaffold_199	0	46300	8035,17.354
-scaffold_120	0	90059	15177,16.852
-scaffold_117	0	96740	15498,16.020
-scaffold_150	0	69243	10899,15.740
-scaffold_33	0	1586950	240729,15.169
-scaffold_36	0	656689	98539,15.005
-scaffold_104	0	107522	15373,14.298
-scaffold_444	0	14092	1671,11.858
-scaffold_63	0	228010	26491,11.618
-scaffold_139	0	77117	8712,11.297
-scaffold_155	0	66323	7074,10.666
-scaffold_47	0	330535	32551,9.848
-scaffold_100	0	117755	9584,8.139
-scaffold_456	0	13278	1067,8.036
-scaffold_54	0	270771	21070,7.781
-scaffold_77	0	163472	12001,7.341
-scaffold_102	0	113968	7710,6.765
-scaffold_411	0	16229	1077,6.636
-scaffold_122	0	89251	5916,6.628
-scaffold_57	0	266261	17311,6.502
-scaffold_250	0	33657	2108,6.263
-scaffold_322	0	22787	1356,5.951
-scaffold_39	0	450811	24741,5.488
-scaffold_52	0	276265	15061,5.452
-scaffold_38	0	463216	24807,5.355
-scaffold_348	0	20390	977,4.792
-scaffold_286	0	27641	1300,4.703
-scaffold_53	0	275962	11319,4.102
-scaffold_216	0	41021	1450,3.535
-scaffold_106	0	106265	3739,3.519
-scaffold_208	0	43616	1493,3.423
-scaffold_75	0	164094	5489,3.345
-scaffold_141	0	76938	2559,3.326
-scaffold_46	0	330638	9027,2.730
-scaffold_276	0	28401	691,2.433
-scaffold_113	0	100507	2372,2.360
-scaffold_175	0	56580	1236,2.185
-scaffold_169	0	57423	1171,2.039
-scaffold_290	0	27333	543,1.987
-scaffold_82	0	152774	2170,1.420
-scaffold_222	0	39820	514,1.291
-scaffold_205	0	44094	525,1.191
-scaffold_448	0	13567	143,1.054
-scaffold_131	0	82287	840,1.021
-scaffold_223	0	39636	383,0.966
-scaffold_408	0	16454	149,0.906
-scaffold_90	0	132275	1197,0.905
-scaffold_87	0	136841	1154,0.843
-scaffold_191	0	50605	387,0.765
-scaffold_235	0	37181	279,0.750
-scaffold_187	0	52431	387,0.738
-scaffold_403	0	16685	117,0.701
-scaffold_332	0	21933	119,0.543
-scaffold_132	0	81685	398,0.487
-scaffold_294	0	26889	126,0.469
-scaffold_296	0	26310	123,0.468
-scaffold_217	0	40888	184,0.450
-scaffold_265	0	30171	133,0.441
-scaffold_196	0	48517	198,0.408
-scaffold_202	0	44825	155,0.346
-scaffold_180	0	54561	182,0.334
-scaffold_231	0	38018	119,0.313
-scaffold_227	0	38918	119,0.306
-scaffold_232	0	37932	111,0.293
-scaffold_220	0	40377	110,0.272
-scaffold_163	0	61376	136,0.222
-scaffold_88	0	133582	278,0.208
-scaffold_2	0	25323455	51607,0.204
-scaffold_37	0	491285	363,0.074
-scaffold_6	0	22804014	16408,0.072
-scaffold_49	0	318161	155,0.049
-scaffold_16	0	19743849	7333,0.037
-scaffold_43	0	400631	123,0.031
-========== REFSEQ: chordata ==========
+
+#Wolbachia
+REMOVE	scaffold_100
+REMOVE	scaffold_106
+REMOVE	scaffold_111
+REMOVE	scaffold_117
+REMOVE	scaffold_120
+REMOVE	scaffold_139
+REMOVE	scaffold_155
+REMOVE	scaffold_169
+REMOVE	scaffold_187
+REMOVE	scaffold_235
+REMOVE	scaffold_33
+REMOVE	scaffold_34
+REMOVE	scaffold_348
+REMOVE	scaffold_37
+REMOVE	scaffold_41
+REMOVE	scaffold_47
+REMOVE	scaffold_52
+REMOVE	scaffold_54
+REMOVE	scaffold_57
+REMOVE	scaffold_66
+REMOVE	scaffold_74
+REMOVE	scaffold_75
+REMOVE	scaffold_88
+REMOVE	scaffold_98
+
+#g-proteobacteria
+REMOVE	scaffold_122
+REMOVE	scaffold_129
+REMOVE	scaffold_132
+REMOVE	scaffold_140
+REMOVE	scaffold_144
+REMOVE	scaffold_147
+REMOVE	scaffold_150
+REMOVE	scaffold_153
+REMOVE	scaffold_158
+REMOVE	scaffold_163
+REMOVE	scaffold_165
+REMOVE	scaffold_168
+REMOVE	scaffold_173
+REMOVE	scaffold_175
+REMOVE	scaffold_180
+REMOVE	scaffold_182
+REMOVE	scaffold_184
+REMOVE	scaffold_186
+REMOVE	scaffold_190
+REMOVE	scaffold_192
+REMOVE	scaffold_195
+REMOVE	scaffold_196
+REMOVE	scaffold_198
+REMOVE	scaffold_202
+REMOVE	scaffold_203
+REMOVE	scaffold_205
+REMOVE	scaffold_207
+REMOVE	scaffold_208
+REMOVE	scaffold_209
+REMOVE	scaffold_210
+REMOVE	scaffold_211
+REMOVE	scaffold_215
+REMOVE	scaffold_216
+REMOVE	scaffold_217
+REMOVE	scaffold_219
+REMOVE	scaffold_220
+REMOVE	scaffold_222
+REMOVE	scaffold_223
+REMOVE	scaffold_227
+REMOVE	scaffold_229
+REMOVE	scaffold_231
+REMOVE	scaffold_232
+REMOVE	scaffold_233
+REMOVE	scaffold_240
+REMOVE	scaffold_241
+REMOVE	scaffold_243
+REMOVE	scaffold_254
+REMOVE	scaffold_255
+REMOVE	scaffold_256
+REMOVE	scaffold_257
+REMOVE	scaffold_258
+REMOVE	scaffold_263
+REMOVE	scaffold_265
+REMOVE	scaffold_268
+REMOVE	scaffold_270
+REMOVE	scaffold_272
+REMOVE	scaffold_276
+REMOVE	scaffold_277
+REMOVE	scaffold_280
+REMOVE	scaffold_282
+REMOVE	scaffold_286
+REMOVE	scaffold_287
+REMOVE	scaffold_289
+REMOVE	scaffold_290
+REMOVE	scaffold_293
+REMOVE	scaffold_294
+REMOVE	scaffold_296
+REMOVE	scaffold_297
+REMOVE	scaffold_298
+REMOVE	scaffold_300
+REMOVE	scaffold_302
+REMOVE	scaffold_304
+REMOVE	scaffold_308
+REMOVE	scaffold_310
+REMOVE	scaffold_313
+REMOVE	scaffold_315
+REMOVE	scaffold_320
+REMOVE	scaffold_324
+REMOVE	scaffold_326
+REMOVE	scaffold_328
+REMOVE	scaffold_331
+REMOVE	scaffold_332
+REMOVE	scaffold_334
+REMOVE	scaffold_335
+REMOVE	scaffold_338
+REMOVE	scaffold_345
+REMOVE	scaffold_347
+REMOVE	scaffold_350
+REMOVE	scaffold_354
+REMOVE	scaffold_356
+REMOVE	scaffold_358
+REMOVE	scaffold_361
+REMOVE	scaffold_368
+REMOVE	scaffold_371
+REMOVE	scaffold_377
+REMOVE	scaffold_379
+REMOVE	scaffold_384
+REMOVE	scaffold_386
+REMOVE	scaffold_390
+REMOVE	scaffold_392
+REMOVE	scaffold_395
+REMOVE	scaffold_396
+REMOVE	scaffold_397
+REMOVE	scaffold_398
+REMOVE	scaffold_399
+REMOVE	scaffold_401
+REMOVE	scaffold_403
+REMOVE	scaffold_405
+REMOVE	scaffold_406
+REMOVE	scaffold_407
+REMOVE	scaffold_408
+REMOVE	scaffold_409
+REMOVE	scaffold_411
+REMOVE	scaffold_414
+REMOVE	scaffold_415
+REMOVE	scaffold_419
+REMOVE	scaffold_422
+REMOVE	scaffold_425
+REMOVE	scaffold_426
+REMOVE	scaffold_428
+REMOVE	scaffold_430
+REMOVE	scaffold_432
+REMOVE	scaffold_434
+REMOVE	scaffold_437
+REMOVE	scaffold_440
+REMOVE	scaffold_441
+REMOVE	scaffold_442
+REMOVE	scaffold_443
+REMOVE	scaffold_444
+REMOVE	scaffold_445
+REMOVE	scaffold_447
+REMOVE	scaffold_448
+REMOVE	scaffold_450
+REMOVE	scaffold_451
+REMOVE	scaffold_454
+REMOVE	scaffold_457
+REMOVE	scaffold_459
+REMOVE	scaffold_462
+REMOVE	scaffold_464
+REMOVE	scaffold_465
+REMOVE	scaffold_466
+REMOVE	scaffold_469
+REMOVE	scaffold_472
+REMOVE	scaffold_476
+REMOVE	scaffold_478
+REMOVE	scaffold_99
+
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_14	0	19835627	112,0.001
-scaffold_2	0	25323455	113,0.000
+
+#Caudovirales
+REMOVE	scaffold_456
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
