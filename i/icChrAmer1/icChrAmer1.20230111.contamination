@@ -4,7 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
+REMOVE	scaffold_154
+REMOVE	scaffold_156
+REMOVE	scaffold_157
+REMOVE	scaffold_158
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
@@ -23,5 +26,10 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Magnoliopsida
+REMOVE	scaffold_152
+REMOVE	scaffold_155
+
 ========== TRIM Ns ==========
 
