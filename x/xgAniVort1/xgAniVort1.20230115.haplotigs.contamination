@@ -1,0 +1,58 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001412l_1	0	27434	212,0.773
+atg003752l_1	0	15725	106,0.674
+atg001673l_1	0	16119	106,0.658
+hap_ptg000557l_1_1	0	186761	1166,0.624
+hap_ptg000570c_1_1	0	54273	318,0.586
+hap_ptg001013l_1_1	0	18460	106,0.574
+hap_ptg000449l_1_1	0	79112	444,0.561
+hap_ptg000429l_1_1	0	38348	212,0.553
+hap_ptg000564l_1_1	0	21372	106,0.496
+atg000782l_1	0	26239	106,0.404
+hap_ptg001066l_1_1	0	26919	106,0.394
+atg002875l_1	0	30869	106,0.343
+atg003717l_1	0	33917	106,0.313
+hap_ptg000724l_1_1	0	77820	106,0.136
+hap_ptg000050l_1_1	0	120776	106,0.088
+hap_ptg000094l_1_1	0	961952	106,0.011
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003752l_1	0	15725	339,2.156
+hap_ptg000564l_1_1	0	21372	452,2.115
+atg001673l_1	0	16119	339,2.103
+atg001412l_1	0	27434	565,2.059
+hap_ptg001101l_1_1	0	21397	420,1.963
+hap_ptg000557l_1_1	0	186761	3503,1.876
+hap_ptg000570c_1_1	0	54273	1017,1.874
+hap_ptg001013l_1_1	0	18460	339,1.836
+atg000782l_1	0	26239	452,1.723
+hap_ptg001066l_1_1	0	26919	452,1.679
+atg003717l_1	0	33917	561,1.654
+hap_ptg000449l_1_1	0	79112	1246,1.575
+hap_ptg000429l_1_1	0	38348	565,1.473
+atg002875l_1	0	30869	339,1.098
+hap_ptg000724l_1_1	0	77820	226,0.290
+hap_ptg000094l_1_1	0	961952	1808,0.188
+hap_ptg000050l_1_1	0	120776	226,0.187
+atg000793l_1	0	1219920	119,0.010
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg001101l_1_1	0	21397	400,1.869
+========== TRIM Ns ==========
+
