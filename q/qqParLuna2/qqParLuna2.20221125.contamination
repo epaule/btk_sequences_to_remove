@@ -6,8 +6,8 @@
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_71	0	425174	1316,0.310
-scaffold_59	0	662210	1316,0.199
+#scaffold_71	0	425174	1316,0.310
+#scaffold_59	0	662210	1316,0.199
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -16,98 +16,156 @@ scaffold_59	0	662210	1316,0.199
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_429	0	22018	5006,22.736
-scaffold_406	0	24111	5006,20.762
-scaffold_389	0	25574	5006,19.575
-scaffold_414	0	23211	4316,18.595
-scaffold_402	0	24566	4243,17.272
-scaffold_383	0	26031	3727,14.318
-scaffold_346	0	30499	4114,13.489
-scaffold_472	0	13588	1799,13.240
-scaffold_443	0	20755	2689,12.956
-scaffold_479	0	12231	1522,12.444
-scaffold_280	0	42127	5116,12.144
-scaffold_330	0	33061	3564,10.780
-scaffold_263	0	46192	4797,10.385
-scaffold_294	0	39830	3893,9.774
-scaffold_490	0	10580	925,8.743
-scaffold_476	0	12610	1088,8.628
-scaffold_278	0	42635	3322,7.792
-scaffold_302	0	37973	2919,7.687
-scaffold_434	0	21824	1668,7.643
-scaffold_277	0	42791	3264,7.628
-scaffold_281	0	42096	3195,7.590
-scaffold_416	0	23127	1668,7.212
-scaffold_412	0	23398	1668,7.129
-scaffold_409	0	23714	1668,7.034
-scaffold_394	0	25439	1668,6.557
-scaffold_254	0	48226	3161,6.555
-scaffold_273	0	43595	2757,6.324
-scaffold_367	0	27988	1668,5.960
-scaffold_179	0	94489	5372,5.685
-scaffold_245	0	50536	2775,5.491
-scaffold_292	0	40155	2144,5.339
-scaffold_300	0	38265	1999,5.224
-scaffold_285	0	41553	2161,5.201
-scaffold_491	0	9970	490,4.915
-scaffold_428	0	22137	1067,4.820
-scaffold_225	0	60275	2808,4.659
-scaffold_423	0	22542	991,4.396
-scaffold_341	0	31236	1324,4.239
-scaffold_400	0	24856	918,3.693
-scaffold_308	0	36884	1335,3.619
-scaffold_257	0	47633	1602,3.363
-scaffold_363	0	28275	918,3.247
-scaffold_488	0	10969	344,3.136
-scaffold_316	0	35217	990,2.811
-scaffold_310	0	36460	1021,2.800
-scaffold_266	0	44754	1215,2.715
-scaffold_301	0	38071	1032,2.711
-scaffold_274	0	43283	1141,2.636
-scaffold_71	0	425174	10954,2.576
-scaffold_59	0	662210	16790,2.535
-scaffold_275	0	43220	1047,2.422
-scaffold_467	0	14383	348,2.420
-scaffold_355	0	29047	690,2.375
-scaffold_305	0	37657	871,2.313
-scaffold_393	0	25479	552,2.166
-scaffold_407	0	23913	445,1.861
-scaffold_438	0	21117	344,1.629
-scaffold_433	0	21853	344,1.574
-scaffold_455	0	18145	279,1.538
-scaffold_421	0	22682	344,1.517
-scaffold_420	0	22831	345,1.511
-scaffold_272	0	43627	626,1.435
-scaffold_380	0	26239	345,1.315
-scaffold_359	0	28557	282,0.987
-scaffold_118	0	202499	1856,0.917
-scaffold_362	0	28436	244,0.858
-scaffold_364	0	28128	223,0.793
-scaffold_183	0	90100	680,0.755
-scaffold_136	0	156115	729,0.467
-scaffold_365	0	28077	131,0.467
-scaffold_314	0	35255	144,0.408
-scaffold_336	0	31701	119,0.375
-scaffold_156	0	127047	424,0.334
-scaffold_276	0	42804	112,0.262
-scaffold_90	0	286641	614,0.214
-scaffold_94	0	261300	302,0.116
-scaffold_154	0	127700	106,0.083
-scaffold_86	0	301527	118,0.039
-scaffold_76	0	381117	135,0.035
-scaffold_11	0	90359688	1381,0.002
-========== REFSEQ: chordata ==========
+#scaffold_11	    0	90359688	1381,0.002
+
+# g-proteobacteria
+REMOVE scaffold_59	    0	662210	16790,2.535
+REMOVE scaffold_71	    0	425174	10954,2.576
+REMOVE scaffold_76	    0	381117	135,0.035
+REMOVE scaffold_86	    0	301527	118,0.039
+REMOVE scaffold_90	    0	286641	614,0.214
+REMOVE scaffold_94	    0	261300	302,0.116
+REMOVE scaffold_116
+REMOVE scaffold_118	0	202499	1856,0.917
+REMOVE scaffold_136	0	156115	729,0.467
+REMOVE scaffold_139
+REMOVE scaffold_154	0	127700	106,0.083
+REMOVE scaffold_156	0	127047	424,0.334
+REMOVE scaffold_171
+REMOVE scaffold_177
+REMOVE scaffold_181
+REMOVE scaffold_183	0	90100	680,0.755
+REMOVE scaffold_189
+REMOVE scaffold_199
+REMOVE scaffold_218
+REMOVE scaffold_276	0	42804	112,0.262
+REMOVE scaffold_279
+REMOVE scaffold_290
+REMOVE scaffold_335
+REMOVE scaffold_444
+REMOVE scaffold_448
+
+# a-proteobacteria - Wolbachia?
+REMOVE scaffold_179	0	94489	5372,5.685
+REMOVE scaffold_225	0	60275	2808,4.659
+REMOVE scaffold_245	0	50536	2775,5.491
+REMOVE scaffold_254	0	48226	3161,6.555
+REMOVE scaffold_257	0	47633	1602,3.363
+REMOVE scaffold_263	0	46192	4797,10.385
+REMOVE scaffold_266	0	44754	1215,2.715
+REMOVE scaffold_272	0	43627	626,1.435
+REMOVE scaffold_273	0	43595	2757,6.324
+REMOVE scaffold_274	0	43283	1141,2.636
+REMOVE scaffold_275	0	43220	1047,2.422
+REMOVE scaffold_277	0	42791	3264,7.628
+REMOVE scaffold_280	0	42127	5116,12.144
+REMOVE scaffold_285	0	41553	2161,5.201
+REMOVE scaffold_292	0	40155	2144,5.339
+REMOVE scaffold_300	0	38265	1999,5.224
+REMOVE scaffold_301	0	38071	1032,2.711
+REMOVE scaffold_305	0	37657	871,2.313
+REMOVE scaffold_308	0	36884	1335,3.619
+REMOVE scaffold_310	0	36460	1021,2.800
+REMOVE scaffold_315
+REMOVE scaffold_316	0	35217	990,2.811
+REMOVE scaffold_333
+REMOVE scaffold_346	0	30499	4114,13.489
+REMOVE scaffold_355	0	29047	690,2.375
+REMOVE scaffold_359	0	28557	282,0.987
+REMOVE scaffold_362	0	28436	244,0.858
+REMOVE scaffold_363	0	28275	918,3.247
+REMOVE scaffold_365	0	28077	131,0.467
+REMOVE scaffold_367	0	27988	1668,5.960
+REMOVE scaffold_380	0	26239	345,1.315
+REMOVE scaffold_383	0	26031	3727,14.318
+REMOVE scaffold_389	0	25574	5006,19.575
+REMOVE scaffold_393	0	25479	552,2.166
+REMOVE scaffold_394	0	25439	1668,6.557
+REMOVE scaffold_400	0	24856	918,3.693
+REMOVE scaffold_402	0	24566	4243,17.272
+REMOVE scaffold_406	0	24111	5006,20.762
+REMOVE scaffold_409	0	23714	1668,7.034
+REMOVE scaffold_412	0	23398	1668,7.129
+REMOVE scaffold_414	0	23211	4316,18.595
+REMOVE scaffold_416	0	23127	1668,7.212
+REMOVE scaffold_420	0	22831	345,1.511
+REMOVE scaffold_421	0	22682	344,1.517
+REMOVE scaffold_423	0	22542	991,4.396
+REMOVE scaffold_425
+REMOVE scaffold_428	0	22137	1067,4.820
+REMOVE scaffold_429	0	22018	5006,22.736
+REMOVE scaffold_433	0	21853	344,1.574
+REMOVE scaffold_434	0	21824	1668,7.643
+REMOVE scaffold_435
+REMOVE scaffold_438	0	21117	344,1.629
+REMOVE scaffold_443	0	20755	2689,12.956
+REMOVE scaffold_455	0	18145	279,1.538
+REMOVE scaffold_456
+REMOVE scaffold_466
+REMOVE scaffold_467	0	14383	348,2.420
+REMOVE scaffold_471
+REMOVE scaffold_472	0	13588	1799,13.240
+REMOVE scaffold_476	0	12610	1088,8.628
+REMOVE scaffold_488	0	10969	344,3.136
+REMOVE scaffold_489
+REMOVE scaffold_490	0	10580	925,8.743
+
+# a-proteobacteria - Tenericutes
+REMOVE scaffold_278	0	42635	3322,7.792
+REMOVE scaffold_281	0	42096	3195,7.590
+REMOVE scaffold_294	0	39830	3893,9.774
+REMOVE scaffold_302	0	37973	2919,7.687
+REMOVE scaffold_330	0	33061	3564,10.780
+REMOVE scaffold_341	0	31236	1324,4.239
+REMOVE scaffold_479	0	12231	1522,12.444
+
+#prok:high GC Gram+ (Corynebacterium glyciniphilum)
+REMOVE scaffold_299
+REMOVE scaffold_314	0	35255	144,0.408
+REMOVE scaffold_336	0	31701	119,0.375
+REMOVE scaffold_342
+REMOVE scaffold_358
+REMOVE scaffold_364	0	28128	223,0.793
+REMOVE scaffold_369
+REMOVE scaffold_372
+REMOVE scaffold_385
+REMOVE scaffold_387
+REMOVE scaffold_391
+REMOVE scaffold_404
+REMOVE scaffold_407	0	23913	445,1.861
+REMOVE scaffold_413
+REMOVE scaffold_415
+REMOVE scaffold_432
+REMOVE scaffold_436
+REMOVE scaffold_441
+REMOVE scaffold_449
+REMOVE scaffold_453
+REMOVE scaffold_460
+REMOVE scaffold_461
+REMOVE scaffold_462
+REMOVE scaffold_465
+REMOVE scaffold_468
+REMOVE scaffold_469
+REMOVE scaffold_470
+REMOVE scaffold_477
+REMOVE scaffold_480
+REMOVE scaffold_482
+REMOVE scaffold_491	0	9970	490,4.915
+
+========== REFSEQ: chordata ========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_399	0	24904	284,1.140
-scaffold_129	0	174814	1562,0.894
-scaffold_103	0	230290	1988,0.863
-scaffold_446	0	20371	142,0.697
-scaffold_287	0	40952	284,0.693
-scaffold_264	0	45816	284,0.620
-scaffold_418	0	23078	142,0.615
-scaffold_403	0	24521	142,0.579
-scaffold_243	0	52412	142,0.271
-scaffold_5	0	110875121	269,0.000
+
+# False positive
+# scaffold_399	0	24904	284,1.140
+# scaffold_129	0	174814	1562,0.894
+# scaffold_103	0	230290	1988,0.863
+# scaffold_446	0	20371	142,0.697
+# scaffold_287	0	40952	284,0.693
+# scaffold_264	0	45816	284,0.620
+# scaffold_418	0	23078	142,0.615
+# scaffold_403	0	24521	142,0.579
+# scaffold_243	0	52412	142,0.271
+# scaffold_5	0	110875121	269,0.000
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
