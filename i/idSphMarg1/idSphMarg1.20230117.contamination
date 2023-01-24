@@ -1,56 +1,14 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_366	0	21819	5030,23.053
-scaffold_367	0	21272	4885,22.964
-scaffold_350	0	23319	5024,21.545
-scaffold_335	0	25832	4875,18.872
-scaffold_323	0	26859	4983,18.552
-scaffold_320	0	27113	4877,17.988
-scaffold_311	0	27724	4974,17.941
-scaffold_281	0	31808	5099,16.031
-scaffold_277	0	32256	5022,15.569
-scaffold_251	0	37241	4883,13.112
-scaffold_340	0	24883	1710,6.872
-scaffold_330	0	26283	1711,6.510
-scaffold_293	0	29724	1710,5.753
-scaffold_285	0	31202	1709,5.477
-scaffold_288	0	30909	1449,4.688
-scaffold_400	0	16195	329,2.031
-scaffold_438	0	10728	56,0.522
-scaffold_394	0	17363	76,0.438
-scaffold_375	0	19452	76,0.391
-scaffold_338	0	25621	77,0.301
-scaffold_310	0	27870	77,0.276
-scaffold_241	0	42885	113,0.263
-scaffold_284	0	31386	79,0.252
-scaffold_256	0	36635	76,0.207
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_438	0	10728	54,0.503
-scaffold_241	0	42885	111,0.259
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_6	0	43414358	502,0.001
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_367	0	21272	3933,18.489
-scaffold_366	0	21819	3934,18.030
-scaffold_350	0	23319	3932,16.862
-scaffold_335	0	25832	3923,15.187
-scaffold_323	0	26859	3932,14.639
-scaffold_320	0	27113	3925,14.476
-scaffold_311	0	27724	3925,14.157
-scaffold_281	0	31808	3932,12.362
-scaffold_277	0	32256	3932,12.190
-scaffold_251	0	37241	3931,10.556
-scaffold_340	0	24883	1367,5.494
-scaffold_330	0	26283	1368,5.205
-scaffold_293	0	29724	1367,4.599
-scaffold_285	0	31202	1366,4.378
-scaffold_288	0	30909	1197,3.873
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -59,30 +17,145 @@ scaffold_288	0	30909	1197,3.873
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_442	0	9487	2524,26.605
-scaffold_327	0	26573	2790,10.499
-scaffold_367	0	21272	1131,5.317
-scaffold_350	0	23319	1131,4.850
-scaffold_366	0	21819	1038,4.757
-scaffold_281	0	31808	1298,4.081
-scaffold_277	0	32256	1243,3.854
-scaffold_320	0	27113	1038,3.828
-scaffold_335	0	25832	964,3.732
-scaffold_323	0	26859	958,3.567
-scaffold_311	0	27724	952,3.434
-scaffold_251	0	37241	1019,2.736
-scaffold_340	0	24883	360,1.447
-scaffold_330	0	26283	361,1.374
-scaffold_293	0	29724	360,1.211
-scaffold_285	0	31202	360,1.154
-scaffold_400	0	16195	177,1.093
-scaffold_288	0	30909	243,0.786
-scaffold_307	0	28195	144,0.511
-scaffold_261	0	34909	170,0.487
-scaffold_5	0	66270155	146,0.000
-scaffold_4	0	74660697	115,0.000
+
+#b-proteobacteria
+REMOVE	scaffold_440
+
+#g-proteobacteria
+REMOVE	scaffold_188
+REMOVE	scaffold_242
+REMOVE	scaffold_247
+REMOVE	scaffold_248
+REMOVE	scaffold_251
+REMOVE	scaffold_255
+REMOVE	scaffold_256
+REMOVE	scaffold_257
+REMOVE	scaffold_258
+REMOVE	scaffold_259
+REMOVE	scaffold_261
+REMOVE	scaffold_264
+REMOVE	scaffold_265
+REMOVE	scaffold_270
+REMOVE	scaffold_271
+REMOVE	scaffold_272
+REMOVE	scaffold_274
+REMOVE	scaffold_275
+REMOVE	scaffold_276
+REMOVE	scaffold_277
+REMOVE	scaffold_278
+REMOVE	scaffold_280
+REMOVE	scaffold_281
+REMOVE	scaffold_283
+REMOVE	scaffold_284
+REMOVE	scaffold_285
+REMOVE	scaffold_286
+REMOVE	scaffold_288
+REMOVE	scaffold_289
+REMOVE	scaffold_290
+REMOVE	scaffold_291
+REMOVE	scaffold_292
+REMOVE	scaffold_293
+REMOVE	scaffold_295
+REMOVE	scaffold_299
+REMOVE	scaffold_301
+REMOVE	scaffold_302
+REMOVE	scaffold_303
+REMOVE	scaffold_305
+REMOVE	scaffold_306
+REMOVE	scaffold_308
+REMOVE	scaffold_309
+REMOVE	scaffold_310
+REMOVE	scaffold_311
+REMOVE	scaffold_313
+REMOVE	scaffold_314
+REMOVE	scaffold_315
+REMOVE	scaffold_318
+REMOVE	scaffold_319
+REMOVE	scaffold_320
+REMOVE	scaffold_322
+REMOVE	scaffold_323
+REMOVE	scaffold_324
+REMOVE	scaffold_325
+REMOVE	scaffold_326
+REMOVE	scaffold_330
+REMOVE	scaffold_331
+REMOVE	scaffold_332
+REMOVE	scaffold_333
+REMOVE	scaffold_335
+REMOVE	scaffold_336
+REMOVE	scaffold_337
+REMOVE	scaffold_338
+REMOVE	scaffold_339
+REMOVE	scaffold_340
+REMOVE	scaffold_341
+REMOVE	scaffold_342
+REMOVE	scaffold_343
+REMOVE	scaffold_344
+REMOVE	scaffold_346
+REMOVE	scaffold_347
+REMOVE	scaffold_349
+REMOVE	scaffold_350
+REMOVE	scaffold_351
+REMOVE	scaffold_352
+REMOVE	scaffold_353
+REMOVE	scaffold_356
+REMOVE	scaffold_357
+REMOVE	scaffold_358
+REMOVE	scaffold_361
+REMOVE	scaffold_362
+REMOVE	scaffold_363
+REMOVE	scaffold_364
+REMOVE	scaffold_366
+REMOVE	scaffold_367
+REMOVE	scaffold_368
+REMOVE	scaffold_369
+REMOVE	scaffold_370
+REMOVE	scaffold_372
+REMOVE	scaffold_373
+REMOVE	scaffold_374
+REMOVE	scaffold_375
+REMOVE	scaffold_378
+REMOVE	scaffold_382
+REMOVE	scaffold_384
+REMOVE	scaffold_385
+REMOVE	scaffold_389
+REMOVE	scaffold_391
+REMOVE	scaffold_394
+REMOVE	scaffold_395
+REMOVE	scaffold_396
+REMOVE	scaffold_397
+REMOVE	scaffold_399
+REMOVE	scaffold_400
+REMOVE	scaffold_402
+REMOVE	scaffold_403
+REMOVE	scaffold_408
+REMOVE	scaffold_410
+REMOVE	scaffold_411
+REMOVE	scaffold_414
+REMOVE	scaffold_419
+REMOVE	scaffold_425
+REMOVE	scaffold_428
+REMOVE	scaffold_431
+REMOVE	scaffold_435
+REMOVE	scaffold_441
+REMOVE	scaffold_443
+REMOVE	scaffold_444
+REMOVE	scaffold_445
+
+#Proteobacteria
+REMOVE  scaffold_241
+REMOVE  scaffold_287
+REMOVE  scaffold_307
+REMOVE  scaffold_327
+REMOVE  scaffold_387
+REMOVE  scaffold_423
+REMOVE  scaffold_438
+REMOVE  scaffold_442
+
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
