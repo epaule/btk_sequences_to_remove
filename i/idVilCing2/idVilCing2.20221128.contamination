@@ -1,0 +1,56 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg007952l_1	0	25002	1124,4.496
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000730l_1	0	68559	659,0.961
+ptg001687l_1	0	135412	659,0.487
+ptg000925l_1	0	1161509	2636,0.227
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+CONTAMINANT	ptg007558l_1	1	20
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg001435l_1	0	115317	75802,65.734
+ptg007940l_1	0	8746	4702,53.762
+ptg001318l_1	0	89412	32852,36.742
+ptg000200l_1	0	301964	35501,11.757
+ptg003628l_1	0	90936	7736,8.507
+ptg004041l_1	0	150390	5923,3.938
+ptg000925l_1	0	1161509	45061,3.880
+ptg000730l_1	0	68559	2620,3.822
+ptg000526l_1	0	37107	1310,3.530
+ptg004402l_1	0	239126	4520,1.890
+ptg003503l_1	0	126372	2328,1.842
+ptg000310l_1	0	130807	2370,1.812
+ptg004783l_1	0	67055	1112,1.658
+ptg001895l_1	0	329569	5388,1.635
+ptg001687l_1	0	135412	2189,1.617
+ptg007573l_1	0	15885	115,0.724
+ptg001715l_1	0	23871	128,0.536
+ptg000738l_1	0	91297	338,0.370
+ptg001774l_1	0	89262	271,0.304
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg000026l_1	0	8063816	123,0.002
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg006951l_1	0	41582	354,0.851
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+ptg006951l_1	0	41582	334,0.803
+ptg007920l_1	0	24088	167,0.693
+ptg006682l_1	0	27516	167,0.607
+ptg002557l_1	0	31525	154,0.489
+========== TRIM Ns ==========
+
