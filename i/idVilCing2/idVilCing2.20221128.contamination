@@ -11,174 +11,19 @@
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-CONTAMINANT	ptg007558l_1	1	20
+CONTAMINANT	scaffold_1	38000001	38000017
+CONTAMINANT	scaffold_6487	20456	20475
 
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#g-proteobacteria
-REMOVE	ptg000200l_1
-REMOVE	ptg000310l_1
-REMOVE	ptg000526l_1
-REMOVE	ptg000730l_1
-REMOVE	ptg000738l_1
-REMOVE	ptg000925l_1
-REMOVE	ptg001006l_1
-REMOVE	ptg001318l_1
-REMOVE	ptg001413l_1
-REMOVE	ptg001435l_1
-REMOVE	ptg001687l_1
-REMOVE	ptg001715l_1
-REMOVE	ptg001774l_1
-REMOVE	ptg001895l_1
-REMOVE	ptg003503l_1
-REMOVE	ptg003628l_1
-REMOVE	ptg004041l_1
-REMOVE	ptg004054l_1
-REMOVE	ptg004402l_1
-REMOVE	ptg004783l_1
-REMOVE	ptg006194l_1
-REMOVE	ptg007534l_1
-REMOVE	ptg007573l_1
-
-#Proteobacteria
-REMOVE  ptg000200l_1
-REMOVE  ptg000310l_1
-REMOVE  ptg000526l_1
-REMOVE  ptg000738l_1
-REMOVE  ptg000925l_1
-REMOVE  ptg001006l_1
-REMOVE  ptg001318l_1
-REMOVE  ptg001413l_1
-REMOVE  ptg001435l_1
-REMOVE  ptg001687l_1
-REMOVE  ptg001715l_1
-REMOVE  ptg001774l_1
-REMOVE  ptg001895l_1
-REMOVE  ptg003628l_1
-REMOVE  ptg004041l_1
-REMOVE  ptg004054l_1
-REMOVE  ptg004402l_1
-REMOVE  ptg004783l_1
-REMOVE  ptg006194l_1
-REMOVE  ptg007534l_1
-REMOVE  ptg007573l_1
-REMOVE  ptg007940l_1
-
-#Firmicutes
-REMOVE  ptg004083l_1
-
-#Bacteria-undef
-REMOVE  ptg000283l_1
-REMOVE  ptg002869l_1
-REMOVE  ptg005789l_1
-REMOVE  ptg007452l_1
-
-========== REFSEQ: virus ==========
+========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#prokaryotic viruses
-REMOVE	ptg007940l_1
-
 ========== REFSEQ: fungi ==========
-
-#basidiomycetes
-REMOVE	ptg007952l_1
-
-#fungi
-REMOVE	ptg002886l_1
-REMOVE	ptg003991l_1
-REMOVE	ptg006174l_1
-REMOVE	ptg007106l_1
-REMOVE	ptg007682l_1
-REMOVE	ptg007946l_1
-
-#Zoopagomycota
-REMOVE  ptg000444l_1
-REMOVE  ptg002368l_1
-REMOVE  ptg002454l_1
-REMOVE  ptg002787l_1
-REMOVE  ptg002833l_1
-REMOVE  ptg003031l_1
-REMOVE  ptg003533l_1
-REMOVE  ptg003681l_1
-REMOVE  ptg003768l_1
-REMOVE  ptg004107l_1
-REMOVE  ptg004524l_1
-REMOVE  ptg004796l_1
-REMOVE  ptg004982l_1
-REMOVE  ptg005380l_1
-REMOVE  ptg005410l_1
-REMOVE  ptg005424l_1
-REMOVE  ptg005832l_1
-REMOVE  ptg005940l_1
-REMOVE  ptg006166l_1
-REMOVE  ptg006951l_1
-REMOVE  ptg007222l_1
-REMOVE  ptg007296l_1
-REMOVE  ptg007311l_1
-REMOVE  ptg007775l_1
-REMOVE  ptg007827l_1
-REMOVE  ptg007852l_1
-REMOVE  ptg007950l_1
-REMOVE  ptg007952l_1
-
-#Mucoromycota
-REMOVE  ptg000821l_1
-REMOVE  ptg002217l_1
-REMOVE  ptg002409l_1
-REMOVE  ptg003946l_1
-REMOVE  ptg005004l_1
-REMOVE  ptg005233l_1
-REMOVE  ptg005720l_1
-REMOVE  ptg005791l_1
-REMOVE  ptg006412l_1
-REMOVE  ptg006565l_1
-REMOVE  ptg007368l_1
-REMOVE  ptg007386l_1
-REMOVE  ptg007523l_1
-REMOVE  ptg007610l_1
-REMOVE  ptg007918l_1
-REMOVE  ptg007921l_1
-
-#Ascomycota
-REMOVE  ptg000940l_1
-REMOVE  ptg002290l_1
-REMOVE  ptg003019l_1
-REMOVE  ptg003296l_1
-REMOVE  ptg004416l_1
-REMOVE  ptg005660l_1
-
-#Basidiomycota
-REMOVE  ptg001487l_1
-REMOVE  ptg001551l_1
-REMOVE  ptg003529l_1
-REMOVE  ptg004167l_1
-REMOVE  ptg007106l_1
-REMOVE  ptg007109l_1
-REMOVE  ptg007920l_1
-
-#Chytridiomycota
-REMOVE  ptg006200l_1
-
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-
-#Streptophyta
-REMOVE  ptg000440l_1
-REMOVE  ptg002557l_1
-REMOVE  ptg003616l_1
-REMOVE  ptg004189l_1
-REMOVE  ptg004490l_1
-REMOVE  ptg004553l_1
-REMOVE  ptg004637l_1
-REMOVE  ptg006505l_1
-REMOVE  ptg006682l_1
-REMOVE  ptg007657l_1
-REMOVE  ptg007948l_1
-
 ========== TRIM Ns ==========
 
