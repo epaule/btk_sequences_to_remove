@@ -5,6 +5,8 @@
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
+REMOVE	atg002982l_1
+
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
@@ -15,13 +17,103 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#a-proteobacteria
+REMOVE	atg000239l_1
+REMOVE	atg000429l_1
+REMOVE	atg000697l_1
+REMOVE	atg000711l_1
+REMOVE	atg001244l_1
+REMOVE	atg001802l_1
+REMOVE	atg002026l_1
+REMOVE	atg002470l_1
+REMOVE	atg002672l_1
+REMOVE	atg002686l_1
+REMOVE	atg002691l_1
+REMOVE	atg002764l_1
+REMOVE	atg002782l_1
+REMOVE	atg002807l_1
+REMOVE	atg002812l_1
+REMOVE	atg002862l_1
+REMOVE	atg002900l_1
+REMOVE	atg002928l_1
+REMOVE	atg002958l_1
+REMOVE	atg002978l_1
+REMOVE	atg003019l_1
+REMOVE	atg003029l_1
+REMOVE	atg003047l_1
+
+#Firmicutes
+REMOVE	atg001068l_1
+
+#Bacteria-undef
+REMOVE	hap_ptg000969l_1_1
+REMOVE	hap_ptg001899l_1_1
+REMOVE	hap_ptg003275l_1_1
+REMOVE	hap_ptg005286l_1_1
+REMOVE	hap_ptg007337l_1_1
+REMOVE	hap_ptg007830l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Zoopagomycota
+REMOVE	atg000066l_1
+REMOVE	atg000672l_1
+REMOVE	atg001123l_1
+REMOVE	atg001266l_1
+REMOVE	atg001688l_1
+REMOVE	atg001725l_1
+REMOVE	atg002244l_1
+REMOVE	atg002306l_1
+REMOVE	atg002356l_1
+REMOVE	atg002573l_1
+REMOVE	atg002713l_1
+REMOVE	hap_ptg000711l_1_1
+REMOVE	hap_ptg004368l_1_1
+
+#ascomycetes
+REMOVE	atg001878l_1
+
+#Mucoromycota
+REMOVE	atg000590l_1
+REMOVE	hap_ptg001602l_1_1
+REMOVE	hap_ptg004335l_1_1
+
+#Ascomycota
+REMOVE	atg000907l_1
+REMOVE	atg000909l_1
+REMOVE	atg001112l_1
+REMOVE	atg002095l_1
+REMOVE	atg002450l_1
+REMOVE	hap_ptg006214l_1_1
+REMOVE	hap_ptg006881l_1_1
+
+#Basidiomycota
+REMOVE	atg001364l_1
+REMOVE	hap_ptg005467l_1_1
+REMOVE	hap_ptg006711l_1_1
+REMOVE	hap_ptg006802l_1_1
+
+#Chytridiomycota
+REMOVE	atg001721l_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Streptophyta
+REMOVE	atg000583l_1
+REMOVE	atg002133l_1
+REMOVE	hap_ptg006708l_1_1
+REMOVE	hap_ptg006833l_1_1
+REMOVE	hap_ptg007718l_1_1
+
+#plastid
+REMOVE	hap_ptg007169l_1_1
+
 ========== TRIM Ns ==========
 

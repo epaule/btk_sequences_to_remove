@@ -17,13 +17,118 @@ CONTAMINANT	scaffold_6487	20456	20475
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#g-proteobacteria
+REMOVE	scaffold_13
+REMOVE	scaffold_1721
+REMOVE	scaffold_1801
+REMOVE	scaffold_229
+REMOVE	scaffold_29
+REMOVE	scaffold_325
+REMOVE	scaffold_34
+REMOVE	scaffold_355
+REMOVE	scaffold_3592
+REMOVE	scaffold_384
+REMOVE	scaffold_4206
+REMOVE	scaffold_495
+REMOVE	scaffold_5121
+REMOVE	scaffold_53
+REMOVE	scaffold_570
+REMOVE	scaffold_6013
+REMOVE	scaffold_6963
+REMOVE	scaffold_7020
+REMOVE	scaffold_7126
+REMOVE	scaffold_762
+REMOVE	scaffold_940
+REMOVE	scaffold_947
+REMOVE	scaffold_993
+REMOVE	scaffold_997
+
+#Bacteria-undef
+REMOVE	scaffold_3605
+REMOVE	scaffold_5155
+REMOVE	scaffold_6272
+REMOVE	scaffold_6343
+REMOVE	scaffold_7095
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Ascomycota
+REMOVE	scaffold_435
+REMOVE	scaffold_3521
+REMOVE	scaffold_4268
+REMOVE	scaffold_5205
+REMOVE	scaffold_5615
+REMOVE	scaffold_5721
+REMOVE	scaffold_6213
+REMOVE	scaffold_6259
+REMOVE	scaffold_7127
+
+#Basidiomycota
+REMOVE	scaffold_2108
+REMOVE	scaffold_2932
+REMOVE	scaffold_3970
+REMOVE	scaffold_4031
+REMOVE	scaffold_4612
+REMOVE	scaffold_4719
+REMOVE	scaffold_5442
+REMOVE	scaffold_6307
+REMOVE	scaffold_6842
+
+#Zoopagomycota
+REMOVE	scaffold_2149
+REMOVE	scaffold_2712
+REMOVE	scaffold_3662
+REMOVE	scaffold_3833
+REMOVE	scaffold_5058
+REMOVE	scaffold_5298
+REMOVE	scaffold_5340
+REMOVE	scaffold_5349
+REMOVE	scaffold_5847
+REMOVE	scaffold_5969
+REMOVE	scaffold_6209
+REMOVE	scaffold_6326
+REMOVE	scaffold_6732
+REMOVE	scaffold_6777
+REMOVE	scaffold_6782
+REMOVE	scaffold_6843
+REMOVE	scaffold_6962
+REMOVE	scaffold_7000
+REMOVE	scaffold_7053
+REMOVE	scaffold_7105
+
+#Mucoromycota
+REMOVE	scaffold_2296
+REMOVE	scaffold_2956
+REMOVE	scaffold_3479
+REMOVE	scaffold_5060
+REMOVE	scaffold_5095
+REMOVE	scaffold_5455
+REMOVE	scaffold_5874
+REMOVE	scaffold_6367
+REMOVE	scaffold_6595
+REMOVE	scaffold_6811
+REMOVE	scaffold_7073
+
+#Microsporidia
+REMOVE	scaffold_4566
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Streptophyta
+REMOVE	scaffold_4599
+REMOVE	scaffold_5894
+REMOVE	scaffold_6258
+REMOVE	scaffold_6323
+REMOVE	scaffold_6695
+REMOVE	scaffold_7045
+REMOVE	scaffold_7121
+
 ========== TRIM Ns ==========
 
