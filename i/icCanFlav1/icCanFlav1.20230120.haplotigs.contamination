@@ -3,6 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	hap_ptg000127l_1_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -13,19 +14,8 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001342l_1	0	15768	204,1.294
-atg000789l_1	0	24107	204,0.846
-hap_ptg000143l_1_1	0	30135	204,0.677
-atg000917l_1	0	37183	204,0.549
-atg000229l_1	0	153290	204,0.133
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000087l_1	0	788482	220,0.028
-atg000247l_1	0	549731	111,0.020
-atg000070l_1	0	636427	110,0.017
-atg000240l_1	0	658257	101,0.015
-atg000037l_1	0	887187	111,0.013
-atg000228l_1	0	1159834	109,0.009
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
