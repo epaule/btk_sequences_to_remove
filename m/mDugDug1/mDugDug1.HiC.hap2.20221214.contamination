@@ -4,31 +4,30 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_144	0	37400	37400,100.000
-scaffold_167	0	19530	19530,100.000
-scaffold_170	0	18444	18444,100.000
-scaffold_171	0	18233	18233,100.000
-scaffold_172	0	18196	18196,100.000
-scaffold_173	0	17849	17849,100.000
-scaffold_174	0	17187	17187,100.000
-scaffold_176	0	16908	16908,100.000
-scaffold_177	0	16854	16854,100.000
-scaffold_178	0	16848	16848,100.000
-scaffold_179	0	16842	16842,100.000
-scaffold_180	0	16834	16834,100.000
-scaffold_181	0	16812	16812,100.000
-scaffold_182	0	16788	16788,100.000
-scaffold_183	0	16777	16777,100.000
-scaffold_184	0	16739	16739,100.000
-scaffold_185	0	16715	16715,100.000
-scaffold_186	0	16697	16697,100.000
-scaffold_165	0	23617	23612,99.979
-scaffold_169	0	19119	18756,98.101
-scaffold_129	0	51766	33878,65.445
+REMOVE	scaffold_129
+REMOVE	scaffold_144
+REMOVE	scaffold_165
+REMOVE	scaffold_167
+REMOVE	scaffold_169
+REMOVE	scaffold_170
+REMOVE	scaffold_171
+REMOVE	scaffold_172
+REMOVE	scaffold_173
+REMOVE	scaffold_174
+REMOVE	scaffold_176
+REMOVE	scaffold_177
+REMOVE	scaffold_178
+REMOVE	scaffold_179
+REMOVE	scaffold_180
+REMOVE	scaffold_181
+REMOVE	scaffold_182
+REMOVE	scaffold_183
+REMOVE	scaffold_184
+REMOVE	scaffold_185
+REMOVE	scaffold_186
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_129	0	51766	51766,100.000
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 VecScreen_Moderate	scaffold_14	79626392	79626422
@@ -36,12 +35,14 @@ VecScreen_Moderate	scaffold_14	79626392	79626422
 ========== BARCODES ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_129	0	51766	230,0.444
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_129	0	51766	49867,96.332
+
+#Magnoliopsida
+REMOVE scaffold_129
+
 ========== TRIM Ns ==========
 
