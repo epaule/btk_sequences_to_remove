@@ -3,7 +3,10 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	scaffold_1133
+REMOVE	scaffold_1149
+REMOVE	scaffold_1167
+REMOVE	scaffold_1170
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,34 +16,136 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_755	0	81128	404,0.498
+
+#Firmicutes
+REMOVE	scaffold_89
+REMOVE	scaffold_177
+REMOVE	scaffold_179
+REMOVE	scaffold_219
+REMOVE	scaffold_242
+REMOVE	scaffold_259
+REMOVE	scaffold_294
+REMOVE	scaffold_355
+REMOVE	scaffold_366
+REMOVE	scaffold_384
+REMOVE	scaffold_385
+REMOVE	scaffold_413
+REMOVE	scaffold_423
+REMOVE	scaffold_431
+REMOVE	scaffold_435
+REMOVE	scaffold_454
+REMOVE	scaffold_462
+REMOVE	scaffold_463
+REMOVE	scaffold_464
+REMOVE	scaffold_470
+REMOVE	scaffold_493
+REMOVE	scaffold_505
+REMOVE	scaffold_550
+REMOVE	scaffold_554
+REMOVE	scaffold_583
+REMOVE	scaffold_586
+REMOVE	scaffold_601
+REMOVE	scaffold_607
+REMOVE	scaffold_614
+REMOVE	scaffold_621
+REMOVE	scaffold_632
+REMOVE	scaffold_642
+REMOVE	scaffold_646
+REMOVE	scaffold_653
+REMOVE	scaffold_681
+REMOVE	scaffold_682
+REMOVE	scaffold_720
+REMOVE	scaffold_740
+REMOVE	scaffold_743
+REMOVE	scaffold_750
+REMOVE	scaffold_757
+REMOVE	scaffold_763
+REMOVE	scaffold_767
+REMOVE	scaffold_769
+REMOVE	scaffold_800
+REMOVE	scaffold_806
+REMOVE	scaffold_820
+REMOVE	scaffold_825
+REMOVE	scaffold_842
+REMOVE	scaffold_845
+REMOVE	scaffold_854
+REMOVE	scaffold_856
+REMOVE	scaffold_862
+REMOVE	scaffold_868
+REMOVE	scaffold_870
+REMOVE	scaffold_879
+REMOVE	scaffold_891
+REMOVE	scaffold_907
+REMOVE	scaffold_911
+REMOVE	scaffold_922
+REMOVE	scaffold_928
+REMOVE	scaffold_947
+REMOVE	scaffold_948
+REMOVE	scaffold_953
+REMOVE	scaffold_961
+REMOVE	scaffold_967
+REMOVE	scaffold_977
+REMOVE	scaffold_984
+REMOVE	scaffold_990
+REMOVE	scaffold_1022
+REMOVE	scaffold_1027
+REMOVE	scaffold_1039
+REMOVE	scaffold_1080
+REMOVE	scaffold_1091
+REMOVE	scaffold_1114
+REMOVE	scaffold_1202
+REMOVE	scaffold_1203
+REMOVE	scaffold_1215
+REMOVE	scaffold_1229
+REMOVE	scaffold_1253
+REMOVE	scaffold_1261
+REMOVE	scaffold_1262
+
+#Tenericutes
+REMOVE	scaffold_624
+REMOVE	scaffold_755
+REMOVE	scaffold_864
+REMOVE	scaffold_918
+REMOVE	scaffold_941
+REMOVE	scaffold_970
+REMOVE	scaffold_1011
+REMOVE	scaffold_1051
+REMOVE	scaffold_1070
+REMOVE	scaffold_1086
+REMOVE	scaffold_1088
+REMOVE	scaffold_1173
+REMOVE	scaffold_1177
+REMOVE	scaffold_1200
+
+#bacteria
+REMOVE	scaffold_1011
+REMOVE	scaffold_1070
+REMOVE	scaffold_1086
+REMOVE	scaffold_1088
+REMOVE	scaffold_1177
+REMOVE	scaffold_1200
+REMOVE	scaffold_624
+REMOVE	scaffold_755
+REMOVE	scaffold_918
+REMOVE	scaffold_941
+REMOVE	scaffold_970
+
+#Bacteroidota
+REMOVE	scaffold_1243
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_135	0	874402	3828,0.438
-scaffold_707	0	94251	359,0.381
-scaffold_338	0	304721	1044,0.343
-scaffold_1012	0	34018	116,0.341
-scaffold_846	0	63960	116,0.181
-scaffold_805	0	70919	116,0.164
-scaffold_802	0	70977	116,0.163
-scaffold_359	0	286248	464,0.162
-scaffold_790	0	72469	116,0.160
-scaffold_674	0	102393	116,0.113
-scaffold_568	0	150641	127,0.084
-scaffold_411	0	233614	116,0.050
-scaffold_163	0	742155	348,0.047
-scaffold_111	0	1028298	231,0.022
-scaffold_9	0	18181341	692,0.004
-scaffold_14	0	13080049	167,0.001
-scaffold_6	0	19108581	121,0.001
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_111	0	1028298	116,0.011
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_37	0	2024577	109,0.005
-scaffold_5	0	19876712	111,0.001
 ========== REFSEQ: viridiplantae ==========
+
+#Streptophyta
+REMOVE	scaffold_1234
+REMOVE	scaffold_1239
+REMOVE	scaffold_1242
+
 ========== TRIM Ns ==========
 
