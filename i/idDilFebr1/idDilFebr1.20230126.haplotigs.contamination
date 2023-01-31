@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	hap_ptg000879l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,26 +13,112 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002308l_1	0	12689	410,3.231
-atg001823l_1	0	16637	129,0.775
+
+#Spiroplasma
+REMOVE	atg000091l_1
+REMOVE	atg000172l_1
+REMOVE	atg000308l_1
+REMOVE	atg000344l_1
+REMOVE	atg000366l_1
+REMOVE	atg000406l_1
+REMOVE	atg000496l_1
+REMOVE	atg000530l_1
+REMOVE	atg000545l_1
+REMOVE	atg000593l_1
+REMOVE	atg000595l_1
+REMOVE	atg000599l_1
+REMOVE	atg000609l_1
+REMOVE	atg000614l_1
+REMOVE	atg000621l_1
+REMOVE	atg000622l_1
+REMOVE	atg000683l_1
+REMOVE	atg000731l_1
+REMOVE	atg000732l_1
+REMOVE	atg000758l_1
+REMOVE	atg000800l_1
+REMOVE	atg000813l_1
+REMOVE	atg000823l_1
+REMOVE	atg000838l_1
+REMOVE	atg000879l_1
+REMOVE	atg000883l_1
+REMOVE	atg000900l_1
+REMOVE	atg000951l_1
+REMOVE	atg000967l_1
+REMOVE	atg000982l_1
+REMOVE	atg000991l_1
+REMOVE	atg000998l_1
+REMOVE	atg001053l_1
+REMOVE	atg001065l_1
+REMOVE	atg001082l_1
+REMOVE	atg001094l_1
+REMOVE	atg001113l_1
+REMOVE	atg001140l_1
+REMOVE	atg001164l_1
+REMOVE	atg001167l_1
+REMOVE	atg001178l_1
+REMOVE	atg001225l_1
+REMOVE	atg001253l_1
+REMOVE	atg001259l_1
+REMOVE	atg001301l_1
+REMOVE	atg001336l_1
+REMOVE	atg001355l_1
+REMOVE	atg001357l_1
+REMOVE	atg001367l_1
+REMOVE	atg001369l_1
+REMOVE	atg001371l_1
+REMOVE	atg001375l_1
+REMOVE	atg001404l_1
+REMOVE	atg001437l_1
+REMOVE	atg001452l_1
+REMOVE	atg001473l_1
+REMOVE	atg001542l_1
+REMOVE	atg001584l_1
+REMOVE	atg001590l_1
+REMOVE	atg001591l_1
+REMOVE	atg001677l_1
+REMOVE	atg001689l_1
+REMOVE	atg001706l_1
+REMOVE	atg001714l_1
+REMOVE	atg001743l_1
+REMOVE	atg001770l_1
+REMOVE	atg001822l_1
+REMOVE	atg001823l_1
+REMOVE	atg001830l_1
+REMOVE	atg001848l_1
+REMOVE	atg001911l_1
+REMOVE	atg001920l_1
+REMOVE	atg001924l_1
+REMOVE	atg001948l_1
+REMOVE	atg002032l_1
+REMOVE	atg002047l_1
+REMOVE	atg002187l_1
+REMOVE	atg002211l_1
+REMOVE	atg002237l_1
+REMOVE	atg002246l_1
+REMOVE	atg002308l_1
+REMOVE	atg002334l_1
+REMOVE	atg002460l_1
+EMOVE  atg000091l_1
+REMOVE  atg001243l_1
+REMOVE  atg001448l_1
+REMOVE  atg001548l_1
+REMOVE  atg001621l_1
+REMOVE  atg001811l_1
+
+#Bacteria-undef
+REMOVE  atg001125l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001876l_1	0	14136	122,0.863
-atg001077l_1	0	17958	122,0.679
-atg002165l_1	0	19720	122,0.619
-hap_ptg000817c_1_1	0	72484	420,0.579
-hap_ptg000790l_1_1	0	67356	244,0.362
-hap_ptg000632l_1_1	0	87221	122,0.140
-hap_ptg000045l_1_1	0	278560	244,0.088
-hap_ptg000491l_1_1	0	185447	122,0.066
-hap_ptg000713l_1_1	0	290701	122,0.042
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000735c_1_1	0	15054	180,1.196
+
+#Zoopagomycota
+REMOVE  hap_ptg000735c_1_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000735c_1_1	0	15054	171,1.136
 ========== TRIM Ns ==========
 
