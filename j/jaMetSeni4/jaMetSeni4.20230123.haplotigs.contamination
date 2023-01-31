@@ -4,8 +4,8 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg006713l_1	0	13800	13800,100.000
-atg007386l_1	0	13293	13293,100.000
+REMOVE	atg006713l_1
+REMOVE	atg007386l_1
 
 ========== PLASTID SEQUENCE ==========
 
@@ -16,23 +16,19 @@ atg007386l_1	0	13293	13293,100.000
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000665l_1_1	0	19789	354,1.789
-hap_ptg000909l_1_1	0	20279	354,1.746
-atg004526l_1	0	15771	236,1.496
-atg001469l_1	0	81159	118,0.145
-========== REFSEQ: fungi ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg004526l_1	0	15771	252,1.598
-hap_ptg000665l_1_1	0	19789	252,1.273
-hap_ptg000909l_1_1	0	20279	252,1.243
-atg001469l_1	0	81159	126,0.155
-========== REFSEQ: other_eukaryota ==========
+
+#Cyanobacteria
+REMOVE  atg004640l_1
+
+========== REFSEQ: virus ==========
+
+#Nucleocytoviricota
+REMOVE  atg003566l_1
+
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000665l_1_1	0	19789	645,3.259
-hap_ptg000909l_1_1	0	20279	645,3.181
-atg004526l_1	0	15771	430,2.727
-atg001469l_1	0	81159	425,0.524
 ========== TRIM Ns ==========
 
