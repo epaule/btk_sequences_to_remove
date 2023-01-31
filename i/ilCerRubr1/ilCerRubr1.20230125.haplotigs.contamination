@@ -4,14 +4,9 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000074l_1	0	2981804	18139,0.608
-hap_ptg000140l_1_1	0	1755890	10268,0.585
-hap_ptg000032l_1_1	0	3703026	13040,0.352
-hap_ptg000053l_1_1	0	4774324	2218,0.046
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000434l_1	0	15877	661,4.163
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -20,12 +15,15 @@ atg000434l_1	0	15877	661,4.163
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000434l_1	0	15877	5147,32.418
+
+#g-proteobacteria
+REMOVE	atg000434l_1
+REMOVE	hap_ptg000234l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000434l_1	0	15877	285,1.795
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
