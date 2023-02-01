@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg003867l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,46 +13,20 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000267l_1	0	470331	925,0.197
-atg000268l_1	0	1189006	689,0.058
-hap_ptg000053l_1_1	0	2046992	1072,0.052
-atg000071l_1	0	1884581	918,0.049
-atg000006l_1	0	977286	125,0.013
-atg000074l_1	0	979918	117,0.012
-atg000102l_1	0	5660413	144,0.003
-========== REFSEQ: chordata ==========
+
+#Wolbachia
+REMOVE	atg000267l_1
+REMOVE	atg000268l_1
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg002097l_1	0	43954	359,0.817
-hap_ptg000838l_1_1	0	34749	232,0.668
-hap_ptg000736l_1_1	0	396450	2606,0.657
-atg000362l_1	0	18342	116,0.632
-hap_ptg000220l_1_1	0	589328	3557,0.604
-hap_ptg001484l_1_1	0	59630	348,0.584
-atg003550l_1	0	21449	116,0.541
-hap_ptg004262l_1_1	0	22650	116,0.512
-atg001030l_1	0	22908	116,0.506
-hap_ptg004082l_1_1	0	22940	116,0.506
-hap_ptg003729l_1_1	0	25792	116,0.450
-atg000977l_1	0	27647	116,0.420
-atg003273l_1	0	29332	116,0.395
-atg002132l_1	0	32394	116,0.358
-hap_ptg002713l_1_1	0	32651	116,0.355
-hap_ptg002312l_1_1	0	35418	116,0.328
-hap_ptg003083l_1_1	0	68250	116,0.170
-hap_ptg000053l_1_1	0	2046992	1773,0.087
-atg000268l_1	0	1189006	598,0.050
-atg000083l_1	0	1446990	370,0.026
-hap_ptg000022l_1_1	0	2459460	607,0.025
-atg000267l_1	0	470331	116,0.025
+
+#prokaryotic viruses
+REMOVE	hap_ptg001570l_1_1
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000927l_1	0	94020	109,0.116
-atg000336l_1	0	2291067	437,0.019
-atg000178l_1	0	747274	109,0.015
-atg000027l_1	0	797440	109,0.014
-atg000154l_1	0	3099162	327,0.011
-atg000351l_1	0	2051154	109,0.005
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

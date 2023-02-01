@@ -4,14 +4,10 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_163	0	170050	101597,59.745
-scaffold_30	0	9846892	9709,0.099
-scaffold_42	0	3474200	555,0.016
-scaffold_16	0	15387252	538,0.003
+REMOVE	scaffold_163
 
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_2713	0	12976	661,5.094
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -20,35 +16,31 @@ scaffold_2713	0	12976	661,5.094
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_2713	0	12976	5717,44.058
-scaffold_55	0	633000	2347,0.371
-scaffold_59	0	433920	356,0.082
-scaffold_57	0	528084	299,0.057
-scaffold_71	0	295818	132,0.045
-scaffold_41	0	3743829	356,0.010
-scaffold_34	0	7624298	505,0.007
-scaffold_30	0	9846892	144,0.001
-scaffold_12	0	17965933	252,0.001
-scaffold_6	0	19829492	116,0.001
-========== REFSEQ: chordata ==========
+
+#wolbachia
+REMOVE	scaffold_55
+REMOVE	scaffold_57
+
+#g-proteobacteria
+REMOVE	scaffold_2382
+REMOVE	scaffold_2473
+REMOVE	scaffold_2559
+REMOVE	scaffold_2579
+REMOVE	scaffold_2713
+REMOVE	scaffold_2715
+REMOVE	scaffold_2746
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_412	0	102419	961,0.938
-scaffold_2181	0	28897	232,0.803
-scaffold_2134	0	29738	238,0.800
-scaffold_2642	0	17578	116,0.660
-scaffold_2396	0	24646	116,0.471
-scaffold_193	0	158921	696,0.438
-scaffold_982	0	60281	232,0.385
-scaffold_41	0	3743829	2461,0.066
-scaffold_34	0	7624298	116,0.002
+
+#prokaryotic viruses
+REMOVE	scaffold_2195
+REMOVE	scaffold_396
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_2713	0	12976	285,2.196
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_25	0	12915774	546,0.004
-scaffold_16	0	15387252	327,0.002
-scaffold_39	0	5711450	109,0.002
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
