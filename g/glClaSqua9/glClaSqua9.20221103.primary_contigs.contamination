@@ -33,12 +33,28 @@ REMOVE	ptg000881l_1
 #Cytophagia
 REMOVE	ptg000060l_1
 
+#Humisphaera borealis
+REMOVE	ptg000150l_1
+
+#chlamydomonas
+REMOVE	ptg000643l_1
+
 ========== REFSEQ: other_metazoa ==========
 
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 #green algae
+REMOVE	ptg000137l_1
+REMOVE	ptg000265l_1
+REMOVE	ptg000273l_1
+REMOVE	ptg000320l_1
+REMOVE	ptg000397l_1
+REMOVE	ptg000576l_1
+REMOVE	ptg000599l_1
+REMOVE	ptg000656l_1
+REMOVE	ptg000694l_1
+REMOVE	ptg000710l_1
 REMOVE	ptg000004l_1
 REMOVE	ptg000031l_1
 REMOVE	ptg000042l_1

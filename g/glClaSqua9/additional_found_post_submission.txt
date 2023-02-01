@@ -1,0 +1,16 @@
+#green algae
+ptg000137l_1
+ptg000265l_1
+ptg000273l_1
+ptg000320l_1
+ptg000397l_1
+ptg000576l_1
+ptg000599l_1
+ptg000656l_1
+ptg000694l_1
+ptg000710l_1
+
+#bacteria / Humisphaera borealis
+ptg000150l_1
+# chlamydomonas
+ptg000643l_1
