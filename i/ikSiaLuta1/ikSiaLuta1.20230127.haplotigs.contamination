@@ -1,0 +1,48 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000184l_1_1	0	28685	28685,100.000
+hap_ptg000190l_1_1	0	26879	26879,100.000
+atg000178l_1	0	2006883	18186,0.906
+atg000045l_1	0	1686068	568,0.034
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000068c_1_1	0	1459252	258,0.018
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001174l_1	0	21295	408,1.916
+atg002052l_1	0	21437	408,1.903
+hap_ptg000189l_1_1	0	34910	612,1.753
+atg001676l_1	0	57860	816,1.410
+hap_ptg000148l_1_1	0	200338	2652,1.324
+atg000817l_1	0	360425	1009,0.280
+atg000929l_1	0	230538	231,0.100
+atg000603l_1	0	725968	120,0.017
+atg000114l_1	0	845284	116,0.014
+hap_ptg000079l_1_1	0	2175170	112,0.005
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000068c_1_1	0	1459252	111,0.008
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg001174l_1	0	21295	404,1.897
+atg002052l_1	0	21437	404,1.885
+hap_ptg000189l_1_1	0	34910	606,1.736
+atg001676l_1	0	57860	808,1.396
+hap_ptg000148l_1_1	0	200338	2626,1.311
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+hap_ptg000068c_1_1	0	1459252	113,0.008
+========== TRIM Ns ==========
+
