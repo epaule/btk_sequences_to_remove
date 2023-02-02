@@ -3,7 +3,7 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+EMOVE	atg000744l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,14 +13,22 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000143l_1_1	0	81137	348,0.429
-hap_ptg000200l_1_1	0	38280	116,0.303
-hap_ptg000048l_1_1	0	986371	116,0.012
 ========== REFSEQ: fungi ==========
+
+#budding yeasts
+REMOVE	atg000754l_1
+REMOVE	atg001237l_1
+REMOVE	hap_ptg000183l_1_1
+REMOVE	hap_ptg000187l_1_1
+REMOVE	hap_ptg000195l_1_1
+REMOVE	hap_ptg000228l_1_1
+REMOVE	hap_ptg000244l_1_1
+REMOVE	hap_ptg000253l_1_1
+REMOVE	hap_ptg000329l_1_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000228l_1	0	126975	110,0.087
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 

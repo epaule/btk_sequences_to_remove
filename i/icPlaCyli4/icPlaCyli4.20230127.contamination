@@ -10,17 +10,168 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#g-proteobacteria
+REMOVE	scaffold_156
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_177	0	4405	4405,100.000
-scaffold_21	0	210985	348,0.165
+
+#human
+REMOVE	scaffold_177
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_31	0	40153	921,2.294
+
+#budding yeasts
+REMOVE	scaffold_100
+REMOVE	scaffold_101
+REMOVE	scaffold_102
+REMOVE	scaffold_103
+REMOVE	scaffold_104
+REMOVE	scaffold_105
+REMOVE	scaffold_106
+REMOVE	scaffold_107
+REMOVE	scaffold_108
+REMOVE	scaffold_109
+REMOVE	scaffold_110
+REMOVE	scaffold_111
+REMOVE	scaffold_112
+REMOVE	scaffold_113
+REMOVE	scaffold_114
+REMOVE	scaffold_115
+REMOVE	scaffold_116
+REMOVE	scaffold_117
+REMOVE	scaffold_118
+REMOVE	scaffold_119
+REMOVE	scaffold_120
+REMOVE	scaffold_121
+REMOVE	scaffold_122
+REMOVE	scaffold_123
+REMOVE	scaffold_124
+REMOVE	scaffold_125
+REMOVE	scaffold_126
+REMOVE	scaffold_127
+REMOVE	scaffold_128
+REMOVE	scaffold_129
+REMOVE	scaffold_130
+REMOVE	scaffold_131
+REMOVE	scaffold_132
+REMOVE	scaffold_133
+REMOVE	scaffold_134
+REMOVE	scaffold_135
+REMOVE	scaffold_136
+REMOVE	scaffold_137
+REMOVE	scaffold_138
+REMOVE	scaffold_139
+REMOVE	scaffold_140
+REMOVE	scaffold_141
+REMOVE	scaffold_142
+REMOVE	scaffold_143
+REMOVE	scaffold_144
+REMOVE	scaffold_145
+REMOVE	scaffold_146
+REMOVE	scaffold_147
+REMOVE	scaffold_148
+REMOVE	scaffold_149
+REMOVE	scaffold_150
+REMOVE	scaffold_152
+REMOVE	scaffold_153
+REMOVE	scaffold_154
+REMOVE	scaffold_157
+REMOVE	scaffold_158
+REMOVE	scaffold_159
+REMOVE	scaffold_160
+REMOVE	scaffold_161
+REMOVE	scaffold_162
+REMOVE	scaffold_163
+REMOVE	scaffold_164
+REMOVE	scaffold_165
+REMOVE	scaffold_166
+REMOVE	scaffold_167
+REMOVE	scaffold_168
+REMOVE	scaffold_169
+REMOVE	scaffold_170
+REMOVE	scaffold_171
+REMOVE	scaffold_172
+REMOVE	scaffold_173
+REMOVE	scaffold_174
+REMOVE	scaffold_175
+REMOVE	scaffold_176
+REMOVE	scaffold_30
+REMOVE	scaffold_31
+REMOVE	scaffold_32
+REMOVE	scaffold_33
+REMOVE	scaffold_34
+REMOVE	scaffold_35
+REMOVE	scaffold_36
+REMOVE	scaffold_37
+REMOVE	scaffold_38
+REMOVE	scaffold_39
+REMOVE	scaffold_40
+REMOVE	scaffold_41
+REMOVE	scaffold_42
+REMOVE	scaffold_43
+REMOVE	scaffold_44
+REMOVE	scaffold_45
+REMOVE	scaffold_46
+REMOVE	scaffold_47
+REMOVE	scaffold_48
+REMOVE	scaffold_49
+REMOVE	scaffold_50
+REMOVE	scaffold_51
+REMOVE	scaffold_52
+REMOVE	scaffold_53
+REMOVE	scaffold_54
+REMOVE	scaffold_55
+REMOVE	scaffold_56
+REMOVE	scaffold_57
+REMOVE	scaffold_58
+REMOVE	scaffold_59
+REMOVE	scaffold_60
+REMOVE	scaffold_61
+REMOVE	scaffold_62
+REMOVE	scaffold_63
+REMOVE	scaffold_64
+REMOVE	scaffold_65
+REMOVE	scaffold_66
+REMOVE	scaffold_67
+REMOVE	scaffold_68
+REMOVE	scaffold_69
+REMOVE	scaffold_70
+REMOVE	scaffold_71
+REMOVE	scaffold_72
+REMOVE	scaffold_73
+REMOVE	scaffold_74
+REMOVE	scaffold_75
+REMOVE	scaffold_76
+REMOVE	scaffold_77
+REMOVE	scaffold_78
+REMOVE	scaffold_79
+REMOVE	scaffold_80
+REMOVE	scaffold_81
+REMOVE	scaffold_82
+REMOVE	scaffold_83
+REMOVE	scaffold_84
+REMOVE	scaffold_85
+REMOVE	scaffold_86
+REMOVE	scaffold_87
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_90
+REMOVE	scaffold_91
+REMOVE	scaffold_92
+REMOVE	scaffold_93
+REMOVE	scaffold_94
+REMOVE	scaffold_95
+REMOVE	scaffold_96
+REMOVE	scaffold_97
+REMOVE	scaffold_98
+REMOVE	scaffold_99
+
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_1	0	32076962	110,0.000
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
