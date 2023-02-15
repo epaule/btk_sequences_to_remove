@@ -3,7 +3,8 @@
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg000367l_1
+REMOVE	hap_ptg000308l_1_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -13,15 +14,30 @@
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000197l_1	0	20620	794,3.851
-hap_ptg000083l_1_1	0	311083	1588,0.510
-atg000110l_1	0	2257800	107,0.005
+
+#g-proteobacteria
+REMOVE	atg000197l_1
+REMOVE	atg000271l_1
+REMOVE	atg000399l_1
+REMOVE	atg000412l_1
+REMOVE	atg000445l_1
+REMOVE	atg000446l_1
+REMOVE	atg000466l_1
+REMOVE	atg000488l_1
+REMOVE	atg000521l_1
+REMOVE	atg000537l_1
+REMOVE	atg000553l_1
+REMOVE	atg000560l_1
+REMOVE	atg000582l_1
+REMOVE	atg000608l_1
+REMOVE	atg000647l_1
+REMOVE	hap_ptg000083l_1_1
+REMOVE	hap_ptg000159l_1_1
+REMOVE	hap_ptg000329l_1_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000089l_1	0	767817	109,0.014
-atg000056l_1	0	1898394	109,0.006
-atg000013l_1	0	4018246	109,0.003
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
