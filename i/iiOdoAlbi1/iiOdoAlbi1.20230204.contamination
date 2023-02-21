@@ -1,10 +1,9 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_263	0	62043	243,0.392
-
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	scaffold_1312
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,12 +14,48 @@ scaffold_263	0	62043	243,0.392
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_549	0	36235	1380,3.808
-scaffold_1085	0	24913	346,1.389
-scaffold_15	0	43594047	118,0.000
+
+#b-proteobacteria
+REMOVE	scaffold_1118
+REMOVE	scaffold_1248
+REMOVE	scaffold_1364
+REMOVE	scaffold_321
+REMOVE	scaffold_535
+REMOVE	scaffold_549
+
+#CFB group bacteria
+REMOVE	scaffold_586
+
+#g-proteobacteria
+REMOVE	scaffold_1085
+REMOVE	scaffold_283
+REMOVE	scaffold_369
+
+#Proteobacteria
+REMOVE  scaffold_254
+REMOVE  scaffold_289
+REMOVE  scaffold_325
+REMOVE  scaffold_361
+REMOVE  scaffold_366
+REMOVE  scaffold_379
+REMOVE  scaffold_454
+REMOVE  scaffold_492
+REMOVE  scaffold_733
+REMOVE  scaffold_735
+REMOVE  scaffold_872
+REMOVE  scaffold_913
+REMOVE  scaffold_1038
+REMOVE  scaffold_1207
+REMOVE  scaffold_1250
+
+#Bacteroidetes
+REMOVE  scaffold_1348
+REMOVE  scaffold_1358
+REMOVE  scaffold_1359
+
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-scaffold_12	0	44367077	112,0.000
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
