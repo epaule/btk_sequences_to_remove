@@ -11,9 +11,71 @@
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
-========== REFSEQ: fungi ==========
+
+#Arthropoda
+REMOVE  atg000002l_1
+REMOVE  atg000071l_1
+REMOVE  atg000074l_1
+REMOVE  atg000076l_1
+REMOVE  atg000086l_1
+REMOVE  atg000102l_1
+REMOVE  atg000124l_1
+REMOVE  atg000148l_1
+REMOVE  atg000177l_1
+REMOVE  atg000181l_1
+REMOVE  atg000221l_1
+REMOVE  atg000236l_1
+REMOVE  atg000242l_1
+REMOVE  atg000271l_1
+REMOVE  atg000310l_1
+REMOVE  atg000319l_1
+REMOVE  atg000339l_1
+REMOVE  atg000346l_1
+REMOVE  atg000365l_1
+REMOVE  atg000376l_1
+REMOVE  atg000387l_1
+REMOVE  atg000408l_1
+REMOVE  atg000449l_1
+REMOVE  atg000476l_1
+REMOVE  atg000481l_1
+REMOVE  atg000533l_1
+REMOVE  atg000543l_1
+REMOVE  atg000565l_1
+REMOVE  atg000607l_1
+REMOVE  atg000617l_1
+REMOVE  atg000697l_1
+REMOVE  atg000741l_1
+REMOVE  atg000743l_1
+REMOVE  atg000765l_1
+REMOVE  atg000817l_1
+REMOVE  hap_ptg000033l_1_1
+REMOVE  hap_ptg000169l_1_1
+REMOVE  hap_ptg000275l_1_1
+
+========== REFSEQ: bacteria ==========
+
+#g-proteobacteria
+REMOVE  atg000433l_1
+REMOVE  hap_ptg000493l_1_1
+REMOVE	atg000835l_1
+
+========== REFSEQ: metazoa ==========
+
+#Mollusca
+REMOVE  atg000048l_1
+REMOVE  atg000710l_1
+REMOVE  hap_ptg000329l_1_1
+
+#Cnidaria
+REMOVE  atg000072l_1
+REMOVE  atg000757l_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
+#Streptophyta
+REMOVE  atg000618l_1
+REMOVE  atg000631l_1
+REMOVE	hap_ptg000153l_1_1
 ========== TRIM Ns ==========
 
