@@ -4,84 +4,68 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002672_1_1	0	12097	11748,97.115
-hap_tig00002540_1_1	0	15377	14777,96.098
-hap_tig00002521_1_1	0	21626	19276,89.133
-hap_tig00002522_1_1	0	27202	23984,88.170
-hap_tig00002549_1_1	0	16341	14200,86.898
-hap_tig00002541_1_1	0	32992	25864,78.395
-hap_tig00001461_1_1	0	20913	16173,77.335
-hap_tig00002860_1_1	0	20188	14776,73.192
-hap_tig00002530_1_1	0	18566	12961,69.810
-hap_tig00002532_1_1	0	14786	9935,67.192
-hap_tig00001223_1_1	0	19458	12169,62.540
-hap_tig00002036_1_1	0	21997	13724,62.390
-hap_tig00001452_1_1	0	19245	11991,62.307
-hap_tig00002544_1_1	0	20777	11247,54.132
-hap_tig00001650_1_1	0	60719	23732,39.085
-hap_tig00001725_1_1	0	39805	15551,39.068
-hap_tig00001785_1_1	0	37688	14376,38.145
-hap_tig00001695_1_1	0	60633	23033,37.988
-hap_tig00001991_1_1	0	14342	4437,30.937
-hap_tig00001658_1_1	0	35864	10681,29.782
-hap_tig00002678_1_1	0	18164	4706,25.908
-hap_tig00002195_1_1	0	21957	4362,19.866
-hap_tig00001840_1_1	0	13851	2168,15.652
-hap_tig00002830_1_1	0	44659	6300,14.107
-hap_tig00001572_1_1	0	28901	3151,10.903
-hap_tig00001526_1_1	0	21182	1972,9.310
-hap_tig00002873_1_1	0	23689	1976,8.341
-hap_tig00002758_1_1	0	13874	1120,8.073
-hap_tig00001585_1_1	0	25737	1977,7.682
-hap_tig00002682_1_1	0	25741	1680,6.527
-hap_tig00002802_1_1	0	79443	4480,5.639
-hap_tig00002960_1_1	0	40010	2240,5.599
-
+REMOVE	hap_tig00001223_1_1
+REMOVE	hap_tig00001452_1_1
+REMOVE	hap_tig00001461_1_1
+REMOVE	hap_tig00002521_1_1
+REMOVE	hap_tig00002522_1_1
+REMOVE	hap_tig00002530_1_1
+REMOVE	hap_tig00002532_1_1
+REMOVE	hap_tig00002540_1_1
+REMOVE	hap_tig00002541_1_1
+REMOVE	hap_tig00002544_1_1
+REMOVE	hap_tig00002549_1_1
+REMOVE	hap_tig00002672_1_1
+REMOVE	hap_tig00002860_1_1
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00001650_1_1	0	60719	60719,100.000
-hap_tig00001658_1_1	0	35864	35864,100.000
-hap_tig00001785_1_1	0	37688	37688,100.000
-hap_tig00002036_1_1	0	21997	21997,100.000
-hap_tig00002195_1_1	0	21957	21957,100.000
-hap_tig00002678_1_1	0	18164	18164,100.000
-hap_tig00001695_1_1	0	60633	60533,99.835
-hap_tig00001725_1_1	0	39805	39705,99.749
-hap_tig00001991_1_1	0	14342	14242,99.303
-hap_tig00001840_1_1	0	13851	13751,99.278
-hap_tig00001223_1_1	0	19458	1106,5.684
-hap_tig00002540_1_1	0	15377	631,4.104
-hap_tig00001572_1_1	0	28901	1011,3.498
-hap_tig00002549_1_1	0	16341	547,3.347
-hap_tig00001461_1_1	0	20913	582,2.783
-hap_tig00001526_1_1	0	21182	477,2.252
-hap_tig00001115_1_1	0	26675	532,1.994
-
+REMOVE	hap_tig00001650_1_1
+REMOVE	hap_tig00001658_1_1
+REMOVE	hap_tig00001695_1_1
+REMOVE	hap_tig00001725_1_1
+REMOVE	hap_tig00001785_1_1
+REMOVE	hap_tig00001840_1_1
+REMOVE	hap_tig00001991_1_1
+REMOVE	hap_tig00002036_1_1
+REMOVE	hap_tig00002195_1_1
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+#insecta
+REMOVE	hap_tig00000065_1_1
+REMOVE	hap_tig00000499_1_1
+REMOVE	hap_tig00000504_1_1
+REMOVE	hap_tig00000510_1_1
+REMOVE	hap_tig00000546_1_1
+REMOVE	hap_tig00000588_1_1
+REMOVE	hap_tig00000744_1_1
+REMOVE	hap_tig00000978_1_1
+REMOVE	hap_tig00001035_1_1
+REMOVE	hap_tig00001132_1_1
+REMOVE	hap_tig00001765_1_1
+REMOVE	hap_tig00002098_1_1
+REMOVE	hap_tig00002218_1_1
+REMOVE	hap_tig00002228_1_1
+REMOVE	hap_tig00002246_1_1
+REMOVE	hap_tig00002287_1_1
+REMOVE	hap_tig00002467_1_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002678_1_1	0	18164	234,1.288
-hap_tig00001725_1_1	0	39805	132,0.332
-hap_tig00001650_1_1	0	60719	132,0.217
+
+#Actinobacteria
+REMOVE	hap_tig00000406_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002802_1_1	0	79443	1632,2.054
-hap_tig00002960_1_1	0	40010	816,2.039
-hap_tig00002682_1_1	0	25741	408,1.585
-hap_tig00002758_1_1	0	13874	204,1.470
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00001725_1_1	0	39805	301,0.756
-hap_tig00001650_1_1	0	60719	301,0.496
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00002970_1_1	0	27646	402,1.454
-hap_tig00002802_1_1	0	79443	206,0.259
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
