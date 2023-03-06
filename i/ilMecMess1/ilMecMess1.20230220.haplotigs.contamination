@@ -4,7 +4,6 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000183l_1	0	41422	513,1.238
 
 ========== PLASTID SEQUENCE ==========
 
@@ -15,7 +14,15 @@ atg000183l_1	0	41422	513,1.238
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
+
+#fungi
+REMOVE	atg000346l_1
+
+#Mucoromycetes
+REMOVE	hap_ptg000096l_1_1
+
 ========== REFSEQ: other_eukaryota ==========
 ========== REFSEQ: viridiplantae ==========
+
 ========== TRIM Ns ==========
 
