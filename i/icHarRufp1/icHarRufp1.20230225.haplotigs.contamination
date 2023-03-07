@@ -4,38 +4,29 @@
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001971l_1	0	33340	24491,73.458
-atg002005l_1	0	18589	10203,54.887
-
+REMOVE	atg001971l_1
+REMOVE	atg002005l_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: virus ==========
+
+#eukaryotic viruses
+REMOVE	atg002002l_1
+
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001608l_1	0	14292	153,1.071
-atg000108l_1	0	4124229	214,0.005
+
+#g-proteobacteria
+REMOVE	atg001375l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001527l_1	0	21406	243,1.135
-atg002050l_1	0	21934	243,1.108
-atg001782l_1	0	25500	243,0.953
-atg001940l_1	0	179816	1701,0.946
-atg001998l_1	0	90045	845,0.938
-atg002034l_1	0	30187	243,0.805
-atg002046l_1	0	36138	243,0.672
-atg000882l_1	0	38530	243,0.631
-atg002007l_1	0	133195	602,0.452
-atg000027l_1	0	2989660	116,0.004
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000192l_1	0	2905359	660,0.023
-atg000832l_1	0	508273	108,0.021
-atg000326l_1	0	3113210	220,0.007
-atg000146l_1	0	3643071	109,0.003
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
