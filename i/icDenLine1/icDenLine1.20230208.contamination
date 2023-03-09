@@ -17,6 +17,13 @@ REMOVE	scaffold_2839
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 #g-proteobacteria
+REMOVE	scaffold_1017
+REMOVE	scaffold_1146
+REMOVE	scaffold_1688
+REMOVE	scaffold_1877
+REMOVE	scaffold_2396
+REMOVE	scaffold_2895
+REMOVE	scaffold_3178
 REMOVE	scaffold_1041
 REMOVE	scaffold_1114
 REMOVE	scaffold_116
@@ -38,11 +45,22 @@ REMOVE	scaffold_84
 REMOVE	scaffold_907
 REMOVE	scaffold_95
 
-========== REFSEQ: chordata ==========
+========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Cyanobacteria
+REMOVE	scaffold_1658
+REMOVE	scaffold_378
+
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_metazoa ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: viridiplantae ==========
+
+#Magnoliopsida
+REMOVE	scaffold_175
+REMOVE	scaffold_2571
+REMOVE	scaffold_87
+
 ========== TRIM Ns ==========
 
