@@ -1,0 +1,50 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg005629l_1	0	83433	5121,6.138
+atg005684l_1	0	98835	5407,5.471
+atg005651l_1	0	194755	6394,3.283
+atg005604l_1	0	376127	5211,1.385
+atg005693l_1	0	91910	78,0.085
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg005629l_1	0	83433	3999,4.793
+atg005684l_1	0	98835	3999,4.046
+atg005651l_1	0	194755	4012,2.060
+atg005604l_1	0	376127	4012,1.067
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg005629l_1	0	83433	34944,41.883
+atg005651l_1	0	194755	74213,38.106
+atg005662l_1	0	245429	86682,35.319
+atg005684l_1	0	98835	34357,34.762
+atg005693l_1	0	91910	25028,27.231
+atg005604l_1	0	376127	99055,26.336
+atg005609l_1	0	20587	208,1.010
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg006148l_1	0	29862	232,0.777
+atg005271l_1	0	21869	116,0.530
+hap_ptg003007l_1_1	0	71088	236,0.332
+atg001113l_1	0	240669	228,0.095
+atg001717l_1	0	572536	116,0.020
+atg000911l_1	0	1197891	115,0.010
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg003164l_1	0	152008	109,0.072
+atg001449l_1	0	851128	109,0.013
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
