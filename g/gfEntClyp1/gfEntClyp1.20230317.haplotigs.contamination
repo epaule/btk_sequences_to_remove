@@ -10,30 +10,17 @@
 
 ========== BARCODES ==========
 
-========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+
+#g-proteobacteria
+REMOVE	hap_tig00002567_1
+
 ========== REFSEQ: chordata ==========
 ========== REFSEQ: fungi ==========
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00003444_1	0	12701	236,1.858
-hap_tig00003429_1	0	17907	231,1.290
-hap_tig00001131_1	0	20400	236,1.157
-hap_tig00003417_1	0	10714	118,1.101
-hap_tig00003411_1	0	23289	236,1.013
-hap_tig00003662_1	0	11681	118,1.010
-hap_tig00003666_1	0	11846	118,0.996
-hap_tig00003660_1	0	13116	118,0.900
-hap_tig00003409_1	0	27520	236,0.858
-hap_tig00003243_1	0	21194	118,0.557
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_tig00003409_1	0	27520	732,2.660
-hap_tig00001131_1	0	20400	488,2.392
-hap_tig00003417_1	0	10714	244,2.277
-hap_tig00003411_1	0	23289	485,2.083
-hap_tig00003429_1	0	17907	370,2.066
-hap_tig00003444_1	0	12701	254,2.000
-hap_tig00003243_1	0	21194	127,0.599
 ========== TRIM Ns ==========
 
