@@ -1,0 +1,113 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_296	0	24562	6751,27.486
+scaffold_345	0	16632	240,1.443
+scaffold_227	0	36018	160,0.444
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_286	0	25852	2231,8.630
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_296	0	24562	4007,16.314
+scaffold_202	0	47565	595,1.251
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_296	0	24562	3344,13.615
+scaffold_202	0	47565	979,2.058
+scaffold_195	0	49994	319,0.638
+scaffold_185	0	54143	124,0.229
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_225	0	37342	486,1.301
+scaffold_266	0	28663	370,1.291
+scaffold_245	0	31190	370,1.186
+scaffold_308	0	22665	243,1.072
+scaffold_307	0	22764	243,1.067
+scaffold_304	0	22959	243,1.058
+scaffold_118	0	130842	1342,1.026
+scaffold_155	0	73512	729,0.992
+scaffold_224	0	37455	370,0.988
+scaffold_196	0	49281	486,0.986
+scaffold_154	0	73981	729,0.985
+scaffold_289	0	25649	243,0.947
+scaffold_93	0	239107	2187,0.915
+scaffold_158	0	67193	613,0.912
+scaffold_83	0	353787	3149,0.890
+scaffold_132	0	109270	972,0.890
+scaffold_64	0	658430	5843,0.887
+scaffold_106	0	179463	1574,0.877
+scaffold_75	0	479587	4131,0.861
+scaffold_181	0	56821	486,0.855
+scaffold_268	0	28442	243,0.854
+scaffold_179	0	57167	486,0.850
+scaffold_114	0	146446	1215,0.830
+scaffold_125	0	119189	972,0.816
+scaffold_174	0	60087	486,0.809
+scaffold_251	0	30506	243,0.797
+scaffold_105	0	184172	1458,0.792
+scaffold_247	0	30973	243,0.785
+scaffold_246	0	31161	243,0.780
+scaffold_243	0	31455	243,0.773
+scaffold_111	0	157784	1215,0.770
+scaffold_74	0	510747	3888,0.761
+scaffold_242	0	31999	243,0.759
+scaffold_198	0	48845	370,0.757
+scaffold_199	0	48316	359,0.743
+scaffold_117	0	130933	972,0.742
+scaffold_138	0	99687	729,0.731
+scaffold_116	0	135519	972,0.717
+scaffold_234	0	34063	243,0.713
+scaffold_230	0	34736	243,0.700
+scaffold_84	0	331194	2314,0.699
+scaffold_143	0	88538	602,0.680
+scaffold_110	0	161258	1088,0.675
+scaffold_90	0	275441	1828,0.664
+scaffold_226	0	36972	243,0.657
+scaffold_223	0	37859	243,0.642
+scaffold_220	0	38083	241,0.633
+scaffold_126	0	116371	729,0.626
+scaffold_215	0	39896	243,0.609
+scaffold_135	0	101860	613,0.602
+scaffold_172	0	61675	359,0.582
+scaffold_119	0	127868	729,0.570
+scaffold_306	0	22804	127,0.557
+scaffold_91	0	247400	1342,0.542
+scaffold_76	0	450116	2430,0.540
+scaffold_96	0	227368	1215,0.534
+scaffold_100	0	205694	1099,0.534
+scaffold_206	0	45822	243,0.530
+scaffold_205	0	45989	243,0.528
+scaffold_156	0	70636	370,0.524
+scaffold_295	0	24670	116,0.470
+scaffold_191	0	51709	243,0.470
+scaffold_186	0	53805	243,0.452
+scaffold_259	0	29374	127,0.432
+scaffold_145	0	84547	359,0.425
+scaffold_166	0	62752	243,0.387
+scaffold_165	0	63113	243,0.385
+scaffold_163	0	63879	243,0.380
+scaffold_249	0	30648	116,0.378
+scaffold_159	0	65801	243,0.369
+scaffold_136	0	101740	370,0.364
+scaffold_229	0	35176	127,0.361
+scaffold_51	0	1374172	4950,0.360
+scaffold_212	0	40442	127,0.314
+scaffold_144	0	87415	243,0.278
+scaffold_6	0	26800376	8039,0.030
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+scaffold_286	0	25852	138,0.534
+========== REFSEQ: other_metazoa ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
