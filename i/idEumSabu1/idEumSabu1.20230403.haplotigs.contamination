@@ -1,11 +1,15 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000197l_1	0	20621	59,0.286
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
-
+REMOVE	atg005030l
+REMOVE	atg005126l
+REMOVE	atg005264l
+REMOVE	atg005718l
+REMOVE	hap_ptg000081c_1
+REMOVE	hap_ptg000301c_1
 ========== PLASTID SEQUENCE ==========
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
@@ -16,28 +20,24 @@ CONTAMINANT	atg005170l	1159	1175
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000197l_1	0	20621	471,2.284
-hap_ptg000161l_1	0	31045	260,0.837
-hap_ptg000142l_1	0	28030	139,0.496
-hap_ptg000212l_1	0	22844	100,0.438
-atg000613l	0	158699	203,0.128
-atg000936l	0	405770	135,0.033
+
+#Actinomycetia
+REMOVE	atg004218l
+
+#g-proteobacteria
+REMOVE	hap_ptg000142l_1
+REMOVE	hap_ptg000161l_1
+REMOVE	hap_ptg000197l_1
+REMOVE	hap_ptg000212l_1
+REMOVE	hap_ptg000246l_1
+REMOVE	hap_ptg000288l_1
+REMOVE	hap_ptg000302l_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg005087l	0	14812	140,0.945
-atg004850l	0	12425	110,0.885
-atg003822l	0	17091	140,0.819
-atg005474l	0	17332	110,0.635
-hap_ptg000077l_1	0	52511	124,0.236
-hap_ptg000094l_1	0	63224	140,0.221
-atg001435l	0	98693	110,0.111
-atg001012l	0	160580	119,0.074
-hap_ptg000118l_1	0	228679	110,0.048
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000227l_1	0	30076	152,0.505
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg001012l	0	160580	113,0.070
 ========== TRIM Ns ==========
 
