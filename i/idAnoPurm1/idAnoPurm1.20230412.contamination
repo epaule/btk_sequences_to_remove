@@ -22,6 +22,7 @@ REMOVE	scaffold_162
 
 #firmicutes
 REMOVE	scaffold_100
+REMOVE	scaffold_109
 REMOVE	scaffold_131
 REMOVE	scaffold_138
 REMOVE	scaffold_21
@@ -40,14 +41,19 @@ REMOVE	scaffold_94
 
 #g-proteobacteria
 REMOVE	scaffold_103
+REMOVE	scaffold_114
 REMOVE	scaffold_115
 REMOVE	scaffold_118
+REMOVE	scaffold_124
 REMOVE	scaffold_125
 REMOVE	scaffold_130
 REMOVE	scaffold_132
+REMOVE	scaffold_134
+REMOVE	scaffold_141
 REMOVE	scaffold_144
 REMOVE	scaffold_145
 REMOVE	scaffold_147
+REMOVE	scaffold_148
 REMOVE	scaffold_153
 REMOVE	scaffold_155
 REMOVE	scaffold_156
@@ -55,11 +61,13 @@ REMOVE	scaffold_157
 REMOVE	scaffold_159
 REMOVE	scaffold_160
 REMOVE	scaffold_172
+REMOVE	scaffold_174
 REMOVE	scaffold_176
 REMOVE	scaffold_179
 REMOVE	scaffold_180
 REMOVE	scaffold_181
 REMOVE	scaffold_182
+REMOVE	scaffold_184
 REMOVE	scaffold_185
 REMOVE	scaffold_80
 REMOVE	scaffold_88
@@ -67,8 +75,11 @@ REMOVE	scaffold_89
 REMOVE	scaffold_91
 REMOVE	scaffold_92
 
+========== REFSEQ: virus ==========
 
-========== REFSEQ: chordata ==========
+#Caudoviricetes
+REMOVE	scaffold_39
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
