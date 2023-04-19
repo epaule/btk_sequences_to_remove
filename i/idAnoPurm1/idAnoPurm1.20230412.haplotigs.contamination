@@ -1,0 +1,79 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#wolbachia
+REMOVE	atg001897l_1
+
+#firmicutes
+REMOVE	atg001010l_1
+REMOVE	atg001109l_1
+REMOVE	atg001262l_1
+REMOVE	atg001292l_1
+REMOVE	hap_ptg000692l_1_1
+
+#g-proteobacteria
+REMOVE	atg000691l_1
+REMOVE	atg001022l_1
+REMOVE	atg001307l_1
+REMOVE	atg001462l_1
+REMOVE	atg001557l_1
+REMOVE	atg001611l_1
+REMOVE	atg001828l_1
+REMOVE	atg001899l_1
+REMOVE	atg002014l_1
+REMOVE	atg002088l_1
+REMOVE	atg002234l_1
+REMOVE	atg002305l_1
+REMOVE	atg002498l_1
+REMOVE	atg002597l_1
+REMOVE	atg002736l_1
+REMOVE	atg002780l_1
+REMOVE	atg002928l_1
+REMOVE	atg002969l_1
+REMOVE	atg003045l_1
+REMOVE	atg003054l_1
+REMOVE	atg003065l_1
+REMOVE	atg003076l_1
+REMOVE	atg003105l_1
+REMOVE	atg003127l_1
+REMOVE	atg003154l_1
+REMOVE	atg003202l_1
+REMOVE	atg003222l_1
+REMOVE	atg003241l_1
+REMOVE	atg003245l_1
+REMOVE	atg003269l_1
+REMOVE	atg003289l_1
+REMOVE	atg003298l_1
+REMOVE	atg003335l_1
+REMOVE	atg003349l_1
+REMOVE	atg003362l_1
+REMOVE	atg003364l_1
+REMOVE	atg003378l_1
+REMOVE	atg003391l_1
+REMOVE	hap_ptg000504l_1_1
+REMOVE	hap_ptg000772l_1_1
+REMOVE	hap_ptg000836l_1_1
+REMOVE	hap_ptg000880l_1_1
+
+========== REFSEQ: chordata ==========
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+

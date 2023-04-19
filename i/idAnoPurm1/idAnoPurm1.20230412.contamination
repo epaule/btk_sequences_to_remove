@@ -1,0 +1,75 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#wolbachia
+REMOVE	scaffold_162
+
+#firmicutes
+REMOVE	scaffold_100
+REMOVE	scaffold_131
+REMOVE	scaffold_138
+REMOVE	scaffold_21
+REMOVE	scaffold_33
+REMOVE	scaffold_41
+REMOVE	scaffold_44
+REMOVE	scaffold_50
+REMOVE	scaffold_51
+REMOVE	scaffold_60
+REMOVE	scaffold_63
+REMOVE	scaffold_71
+REMOVE	scaffold_76
+REMOVE	scaffold_78
+REMOVE	scaffold_85
+REMOVE	scaffold_94
+
+#g-proteobacteria
+REMOVE	scaffold_103
+REMOVE	scaffold_115
+REMOVE	scaffold_118
+REMOVE	scaffold_125
+REMOVE	scaffold_130
+REMOVE	scaffold_132
+REMOVE	scaffold_144
+REMOVE	scaffold_145
+REMOVE	scaffold_147
+REMOVE	scaffold_153
+REMOVE	scaffold_155
+REMOVE	scaffold_156
+REMOVE	scaffold_157
+REMOVE	scaffold_159
+REMOVE	scaffold_160
+REMOVE	scaffold_172
+REMOVE	scaffold_176
+REMOVE	scaffold_179
+REMOVE	scaffold_180
+REMOVE	scaffold_181
+REMOVE	scaffold_182
+REMOVE	scaffold_185
+REMOVE	scaffold_80
+REMOVE	scaffold_88
+REMOVE	scaffold_89
+REMOVE	scaffold_91
+REMOVE	scaffold_92
+
+
+========== REFSEQ: chordata ==========
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+
