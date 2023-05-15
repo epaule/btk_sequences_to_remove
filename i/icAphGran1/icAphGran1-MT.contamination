@@ -1,0 +1,16 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+REMOVE	SCAFFOLD_614
+REMOVE	SCAFFOLD_710
+REMOVE	SCAFFOLD_745
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== TRIM Ns ==========
+
