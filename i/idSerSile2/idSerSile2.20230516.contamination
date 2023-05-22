@@ -16,13 +16,50 @@ REMOVE	SCAFFOLD_262
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Wolbachia
+REMOVE	SCAFFOLD_141
+REMOVE	SCAFFOLD_243
+
+#firmicutes
+REMOVE	SCAFFOLD_16
+REMOVE	SCAFFOLD_165
+REMOVE	SCAFFOLD_166
+REMOVE	SCAFFOLD_212
+REMOVE	SCAFFOLD_240
+REMOVE	SCAFFOLD_254
+REMOVE	SCAFFOLD_44
+REMOVE	SCAFFOLD_85
+
+#g-proteobacteria
+REMOVE	SCAFFOLD_205
+REMOVE	SCAFFOLD_258
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-========== REFSEQ: other_eukaryota ==========
+
+#budding yeast
+REMOVE	SCAFFOLD_196
+
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#Negativicutes
+REMOVE	SCAFFOLD_156
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#algae
+REMOVE	SCAFFOLD_132
+REMOVE	SCAFFOLD_269
+
+#plants
+REMOVE	SCAFFOLD_204
+REMOVE	SCAFFOLD_261
+REMOVE	SCAFFOLD_247
+
 ========== TRIM Ns ==========
 
