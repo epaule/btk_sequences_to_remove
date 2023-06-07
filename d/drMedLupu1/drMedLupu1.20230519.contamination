@@ -1,0 +1,101 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  SCAFFOLD_104
+REMOVE  SCAFFOLD_116
+REMOVE  SCAFFOLD_130
+REMOVE  SCAFFOLD_159
+REMOVE  SCAFFOLD_175
+REMOVE  SCAFFOLD_178
+REMOVE  SCAFFOLD_204
+REMOVE  SCAFFOLD_64
+REMOVE  SCAFFOLD_71
+REMOVE  SCAFFOLD_73
+REMOVE  SCAFFOLD_75
+REMOVE  SCAFFOLD_79
+REMOVE  SCAFFOLD_85
+REMOVE  SCAFFOLD_89
+REMOVE  SCAFFOLD_90
+REMOVE  SCAFFOLD_94
+REMOVE  SCAFFOLD_99
+REMOVE  SCAFFOLD_101
+REMOVE  SCAFFOLD_83
+REMOVE  SCAFFOLD_39
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  SCAFFOLD_113
+REMOVE  SCAFFOLD_118
+REMOVE  SCAFFOLD_153
+REMOVE  SCAFFOLD_192
+REMOVE  SCAFFOLD_198
+REMOVE  SCAFFOLD_43
+REMOVE  SCAFFOLD_60
+REMOVE  SCAFFOLD_66
+REMOVE  SCAFFOLD_77
+REMOVE  SCAFFOLD_78
+REMOVE  SCAFFOLD_91
+REMOVE  SCAFFOLD_93
+REMOVE  SCAFFOLD_209
+REMOVE  SCAFFOLD_124
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#CFB group bacteria
+REMOVE	SCAFFOLD_111
+REMOVE	SCAFFOLD_181
+
+#a-proteobacteria
+REMOVE	SCAFFOLD_214
+
+#b-proteobacteria
+REMOVE	SCAFFOLD_222
+
+#high GC Gram+
+REMOVE	SCAFFOLD_212
+REMOVE	SCAFFOLD_221
+REMOVE	SCAFFOLD_223
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#ascomycetes
+REMOVE	SCAFFOLD_155
+REMOVE	SCAFFOLD_169
+REMOVE	SCAFFOLD_173
+REMOVE	SCAFFOLD_185
+REMOVE	SCAFFOLD_217
+REMOVE	SCAFFOLD_218
+REMOVE	SCAFFOLD_219
+REMOVE	SCAFFOLD_220
+REMOVE	SCAFFOLD_224
+REMOVE	SCAFFOLD_225
+REMOVE	SCAFFOLD_226
+REMOVE	SCAFFOLD_227
+REMOVE	SCAFFOLD_49
+REMOVE	SCAFFOLD_52
+REMOVE	SCAFFOLD_57
+REMOVE	SCAFFOLD_59
+REMOVE	SCAFFOLD_76
+REMOVE	SCAFFOLD_82
+
+#basidiomycetes
+REMOVE	SCAFFOLD_58
+
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+

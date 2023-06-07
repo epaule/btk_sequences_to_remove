@@ -6,24 +6,12 @@
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 ========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
 ========== BARCODES ==========
-========== REFSEQ: arthropoda ==========
-========== REFSEQ: chordata ==========
-#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 
-#fishes
-REMOVE SCAFFOLD_103
-REMOVE SCAFFOLD_108
-REMOVE SCAFFOLD_112
-REMOVE SCAFFOLD_118
-REMOVE SCAFFOLD_92
-
-========== REFSEQ: fungi ==========
-========== REFSEQ: other_eukaryota ==========
-========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
 
