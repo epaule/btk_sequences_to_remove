@@ -1,66 +1,34 @@
 ========== COMMON CONTAMINANTS IN EUKARYOTES ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000713l_1_1	0	5576	210,3.766
 
 ========== COMMON CONTAMINANTS IN PROKARYOTES ==========
 
 ========== MITOCHONDRIAL SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001794l_1_1	0	31058	31058,100.000
-hap_ptg001814l_1_1	0	19665	19665,100.000
-hap_ptg001979l_1_1	0	32187	32187,100.000
-hap_ptg001614l_1_1	0	41294	40119,97.155
-hap_ptg001064l_1_1	0	42694	41413,97.000
-hap_ptg000876l_1_1	0	37022	35658,96.316
-hap_ptg001988l_1_1	0	36324	34968,96.267
-hap_ptg002062l_1_1	0	30702	28841,93.939
-hap_ptg001609l_1_1	0	37536	34558,92.066
-hap_ptg001378l_1_1	0	36873	32285,87.557
-hap_ptg000627l_1_1	0	37171	31879,85.763
-hap_ptg001502l_1_1	0	36453	30820,84.547
-hap_ptg000702l_1_1	0	45753	37065,81.011
-hap_ptg001816l_1_1	0	28872	22604,78.290
-hap_ptg000522l_1_1	0	45869	35809,78.068
-atg000506l_1	0	30623	21281,69.494
-hap_ptg000313l_1_1	0	66673	28207,42.306
-hap_ptg000361l_1_1	0	52055	19820,38.075
-hap_ptg001049l_1_1	0	32330	11555,35.741
-hap_ptg000589l_1_1	0	54358	18348,33.754
-hap_ptg000577l_1_1	0	44428	14758,33.218
-hap_ptg000467l_1_1	0	57095	18704,32.759
-hap_ptg001932l_1_1	0	5770	1842,31.924
-atg000343l_1	0	29324	3687,12.573
-atg000373l_1	0	15814	1808,11.433
-atg000509l_1	0	24257	1745,7.194
-atg000093l_1	0	20904	1120,5.358
-atg000542l_1	0	21866	1120,5.122
-atg000759l_1	0	35968	1781,4.952
-atg000117l_1	0	34178	1680,4.915
-hap_ptg000434l_1_1	0	133107	6160,4.628
-atg000370l_1	0	14720	560,3.804
-atg000525l_1	0	15897	560,3.523
-atg000573l_1	0	16630	560,3.367
-atg000539l_1	0	16657	560,3.362
-atg000111l_1	0	32872	758,2.306
-
+REMOVE atg000506l_1
+REMOVE hap_ptg000522l_1_1
+REMOVE hap_ptg000627l_1_1
+REMOVE hap_ptg000702l_1_1
+REMOVE hap_ptg000876l_1_1
+REMOVE hap_ptg001064l_1_1
+REMOVE hap_ptg001378l_1_1
+REMOVE hap_ptg001502l_1_1
+REMOVE hap_ptg001609l_1_1
+REMOVE hap_ptg001614l_1_1
+REMOVE hap_ptg001794l_1_1
+REMOVE hap_ptg001814l_1_1
+REMOVE hap_ptg001816l_1_1
+REMOVE hap_ptg001979l_1_1
+REMOVE hap_ptg001988l_1_1
+REMOVE hap_ptg002062l_1_1
 ========== PLASTID SEQUENCE ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000313l_1_1	0	66673	66673,100.000
-hap_ptg001049l_1_1	0	32330	32330,100.000
-hap_ptg000361l_1_1	0	52055	51794,99.499
-hap_ptg000467l_1_1	0	57095	56785,99.457
-hap_ptg000589l_1_1	0	54358	54047,99.428
-hap_ptg000577l_1_1	0	44428	44117,99.300
-hap_ptg001979l_1_1	0	32187	1731,5.378
-hap_ptg000702l_1_1	0	45753	1738,3.799
-hap_ptg001794l_1_1	0	31058	1124,3.619
-atg000506l_1	0	30623	936,3.057
-atg000111l_1	0	32872	761,2.315
-hap_ptg000522l_1_1	0	45869	931,2.030
-hap_ptg001614l_1_1	0	41294	771,1.867
-hap_ptg001502l_1_1	0	36453	582,1.597
-hap_ptg001988l_1_1	0	36324	570,1.569
-atg000051l_1	0	56620	506,0.894
+REMOVE hap_ptg000313l_1_1
+REMOVE hap_ptg000361l_1_1
+REMOVE hap_ptg000467l_1_1
+REMOVE hap_ptg000577l_1_1
+REMOVE hap_ptg000589l_1_1
+REMOVE hap_ptg001049l_1_1
 
 ========== EUKARYOTE ADAPTOR SCREEN ==========
 
@@ -69,38 +37,31 @@ atg000051l_1	0	56620	506,0.894
 ========== REFSEQ: arthropoda ==========
 ========== REFSEQ: bacteria ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg000713l_1_1	0	5576	1946,34.900
-hap_ptg000577l_1_1	0	44428	113,0.254
-hap_ptg000361l_1_1	0	52055	113,0.217
-hap_ptg000589l_1_1	0	54358	113,0.208
+
+#a-proteobacteria
+REMOVE	hap_ptg000713l_1_1
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000370l_1	0	14720	408,2.772
-atg000525l_1	0	15897	408,2.567
-atg000093l_1	0	20904	408,1.952
-atg000542l_1	0	21866	408,1.866
-atg000117l_1	0	34178	612,1.791
-hap_ptg000434l_1_1	0	133107	1836,1.379
-atg000573l_1	0	16630	204,1.227
-atg000539l_1	0	16657	204,1.225
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-hap_ptg001932l_1_1	0	5770	584,10.121
-atg000793l_1	0	9340	131,1.403
-hap_ptg000734l_1_1	0	19311	262,1.357
-atg000343l_1	0	29324	356,1.214
-atg000256l_1	0	14036	126,0.898
-atg000373l_1	0	15814	113,0.715
-atg000509l_1	0	24257	159,0.655
-atg000759l_1	0	35968	159,0.442
+
+#ascomycetes
+REMOVE atg000256l_1
+REMOVE atg000343l_1
+REMOVE atg000373l_1
+REMOVE atg000509l_1
+REMOVE atg000759l_1
+REMOVE atg000865l_1
+REMOVE hap_ptg000734l_1_1
+REMOVE hap_ptg000982c_1_1
+REMOVE hap_ptg001932l_1_1
+
+#basidiomycetes
+REMOVE	atg000793l_1
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
-atg000793l_1	0	9340	276,2.955
-hap_ptg000734l_1_1	0	19311	236,1.222
-hap_ptg000577l_1_1	0	44428	113,0.254
-hap_ptg000361l_1_1	0	52055	113,0.217
-hap_ptg000589l_1_1	0	54358	113,0.208
-hap_ptg000467l_1_1	0	57095	113,0.198
 ========== REFSEQ: other_metazoa ==========
 ========== REFSEQ: viridiplantae ==========
 ========== TRIM Ns ==========
