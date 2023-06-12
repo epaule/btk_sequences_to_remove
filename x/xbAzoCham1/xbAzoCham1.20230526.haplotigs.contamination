@@ -17,6 +17,7 @@ REMOVE	atg006173l_1
 
 #g-proteobacteria
 REMOVE	atg001199l_1
+REMOVE	hap_ptg001962l_1_1
 
 #high GC Gram+
 REMOVE	hap_ptg002258l_1_1

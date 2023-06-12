@@ -18,6 +18,7 @@ REMOVE	SCAFFOLD_232
 
 #g-proteobacteria
 REMOVE	SCAFFOLD_170
+REMOVE	SCAFFOLD_187
 REMOVE	SCAFFOLD_210
 REMOVE	SCAFFOLD_213
 REMOVE	SCAFFOLD_216
@@ -32,9 +33,14 @@ REMOVE	SCAFFOLD_144
 REMOVE	SCAFFOLD_200
 REMOVE	SCAFFOLD_238
 REMOVE	SCAFFOLD_239
+REMOVE	SCAFFOLD_247
 
-========== REFSEQ: chordata ==========
+========== REFSEQ: virus ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#caudovirales
+REMOVE	SCAFFOLD_153
+
 ========== REFSEQ: fungi ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_eukaryota ==========
