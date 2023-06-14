@@ -1,0 +1,64 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  atg000399l_1
+REMOVE  atg000532l_1
+REMOVE  atg000703l_1
+REMOVE  atg001231l_1
+REMOVE  atg001285l_1
+REMOVE  atg001286l_1
+REMOVE  atg001292l_1
+REMOVE  atg001325l_1
+REMOVE  atg001330l_1
+REMOVE  atg001338l_1
+REMOVE  atg001341l_1
+REMOVE  atg001374l_1
+REMOVE  atg001377l_1
+REMOVE  atg001393l_1
+REMOVE  hap_ptg001627l_1_1
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE  atg000890l_1
+REMOVE  atg001059l_1
+REMOVE  atg001115l_1
+REMOVE  atg001402l_1
+REMOVE  hap_ptg000124l_1_1
+REMOVE  hap_ptg000367l_1_1
+REMOVE  hap_ptg000624l_1_1
+REMOVE  hap_ptg000639l_1_1
+REMOVE  hap_ptg000647l_1_1
+REMOVE  hap_ptg000693l_1_1
+REMOVE  hap_ptg000749l_1_1
+REMOVE  hap_ptg000814l_1_1
+REMOVE  hap_ptg000903l_1_1
+REMOVE  hap_ptg000987l_1_1
+REMOVE  hap_ptg001021l_1_1
+REMOVE  hap_ptg001043l_1_1
+REMOVE  hap_ptg001115l_1_1
+REMOVE  hap_ptg001151l_1_1
+REMOVE  hap_ptg001152l_1_1
+REMOVE  hap_ptg001244l_1_1
+REMOVE  hap_ptg001605l_1_1
+REMOVE  atg000286l_1
+REMOVE	hap_ptg001361l_1_1
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+========== TRIM Ns ==========
+
