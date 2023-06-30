@@ -627,7 +627,6 @@ REMOVE	SCAFFOLD_994
 ========== REFSEQ: fungi ==========
 
 #ascomycetes
-REMOVE	SCAFFOLD_836
 
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
