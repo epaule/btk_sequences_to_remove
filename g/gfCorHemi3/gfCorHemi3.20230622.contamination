@@ -614,12 +614,43 @@ REMOVE	SCAFFOLD_773
 ========== BARCODES ==========
 
 ========== REFSEQ: arthropoda ==========
+
+#insects
+REMOVE	SCAFFOLD_1000
+REMOVE	SCAFFOLD_1014
+REMOVE	SCAFFOLD_1040
+REMOVE	SCAFFOLD_972
+REMOVE	SCAFFOLD_994
+
 ========== REFSEQ: chordata ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: fungi ==========
+
+#ascomycetes
+REMOVE	SCAFFOLD_836
+
 ========== REFSEQ: other_eukaryota ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== REFSEQ: other_metazoa ==========
+
+#nematoda
+REMOVE	SCAFFOLD_1031
+REMOVE	SCAFFOLD_1032
+REMOVE	SCAFFOLD_1037
+REMOVE	SCAFFOLD_1039
+REMOVE	SCAFFOLD_1042
+REMOVE	SCAFFOLD_1324
+REMOVE	SCAFFOLD_1349
+REMOVE	SCAFFOLD_341
+REMOVE	SCAFFOLD_646
+REMOVE	SCAFFOLD_687
+REMOVE	SCAFFOLD_764
+REMOVE	SCAFFOLD_845
+REMOVE	SCAFFOLD_903
+REMOVE	SCAFFOLD_913
+REMOVE	SCAFFOLD_926
+
+
 ========== REFSEQ: viridiplantae ==========
 #query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
 ========== TRIM Ns ==========
