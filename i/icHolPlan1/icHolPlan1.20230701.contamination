@@ -1,0 +1,77 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+REMOVE	SCAFFOLD_115
+========== PLASTID SEQUENCE ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: bacteria ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+
+#high GC Gram+
+REMOVE	SCAFFOLD_101
+REMOVE	SCAFFOLD_103
+REMOVE	SCAFFOLD_114
+REMOVE	SCAFFOLD_135
+REMOVE	SCAFFOLD_162
+REMOVE	SCAFFOLD_172
+REMOVE	SCAFFOLD_174
+REMOVE	SCAFFOLD_199
+REMOVE	SCAFFOLD_247
+REMOVE	SCAFFOLD_25
+REMOVE	SCAFFOLD_262
+REMOVE	SCAFFOLD_27
+REMOVE	SCAFFOLD_28
+REMOVE	SCAFFOLD_29
+REMOVE	SCAFFOLD_294
+REMOVE	SCAFFOLD_30
+REMOVE	SCAFFOLD_33
+REMOVE	SCAFFOLD_36
+REMOVE	SCAFFOLD_40
+REMOVE	SCAFFOLD_416
+REMOVE	SCAFFOLD_417
+REMOVE	SCAFFOLD_43
+REMOVE	SCAFFOLD_44
+REMOVE	SCAFFOLD_47
+REMOVE	SCAFFOLD_49
+REMOVE	SCAFFOLD_491
+REMOVE	SCAFFOLD_53
+REMOVE	SCAFFOLD_56
+REMOVE	SCAFFOLD_588
+REMOVE	SCAFFOLD_64
+REMOVE	SCAFFOLD_65
+REMOVE	SCAFFOLD_66
+REMOVE	SCAFFOLD_664
+REMOVE	SCAFFOLD_69
+REMOVE	SCAFFOLD_70
+REMOVE	SCAFFOLD_76
+REMOVE	SCAFFOLD_805
+REMOVE	SCAFFOLD_83
+REMOVE	SCAFFOLD_84
+REMOVE	SCAFFOLD_856
+
+
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: fungi ==========
+
+#ascomycetes
+REMOVE	SCAFFOLD_513
+REMOVE	SCAFFOLD_80
+
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+========== TRIM Ns ==========
+

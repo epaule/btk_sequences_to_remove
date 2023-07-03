@@ -1,0 +1,53 @@
+========== COMMON CONTAMINANTS IN EUKARYOTES ==========
+
+========== COMMON CONTAMINANTS IN PROKARYOTES ==========
+
+========== MITOCHONDRIAL SEQUENCE ==========
+
+========== PLASTID SEQUENCE ==========
+
+========== EUKARYOTE ADAPTOR SCREEN ==========
+
+========== BARCODES ==========
+
+========== REFSEQ: arthropoda ==========
+========== REFSEQ: chordata ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000092l_1	0	31351	992,3.164
+atg000703l_1	0	13946	248,1.778
+atg000732l_1	0	25253	364,1.441
+atg001479l_1	0	12342	116,0.940
+atg001826l_1	0	15320	116,0.757
+atg000956l_1	0	15776	116,0.735
+atg001475l_1	0	17433	116,0.665
+atg000697l_1	0	17895	116,0.648
+atg001373l_1	0	17981	116,0.645
+atg001462l_1	0	22632	116,0.513
+atg001836l_1	0	23425	116,0.495
+hap_ptg000240l_1_1	0	231193	1044,0.452
+atg002132l_1	0	25885	116,0.448
+atg001714l_1	0	26055	116,0.445
+hap_ptg000455l_1_1	0	27796	116,0.417
+atg000384l_1	0	32626	116,0.356
+hap_ptg000622l_1_1	0	33282	116,0.349
+hap_ptg000180l_1_1	0	68564	232,0.338
+atg000639l_1	0	35085	116,0.331
+hap_ptg000131l_1_1	0	117840	348,0.295
+========== REFSEQ: other_eukaryota ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000092l_1	0	31351	800,2.552
+atg000703l_1	0	13946	200,1.434
+atg000732l_1	0	25253	200,0.792
+========== REFSEQ: other_metazoa ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000092l_1	0	31351	452,1.442
+atg000703l_1	0	13946	113,0.810
+atg000732l_1	0	25253	113,0.447
+atg000164l_1	0	416577	110,0.026
+========== REFSEQ: viridiplantae ==========
+#query acc.ver	subject acc.ver	% id	length	msmatch	gaps	q start	q end	s start 	s end   	evalue  	score	subject description
+atg000092l_1	0	31351	464,1.480
+atg000703l_1	0	13946	116,0.832
+atg000732l_1	0	25253	116,0.459
+========== TRIM Ns ==========
+
